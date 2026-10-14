@@ -118,5 +118,33 @@ $$;
 revoke execute on function public.limpa_presenca() from anon, authenticated, public;
 
 -- ============================================================
+-- 4. CONTATOS  — quem quer anunciar, pelo formulário da aba "Anuncie aqui"
+-- ============================================================
+-- Sem e-mail no site de propósito: e-mail exposto vira alvo de robô de spam em
+-- poucos dias, e ainda exigiria criar uma conta só para isso.
+create table if not exists public.contatos (
+  id        bigserial primary key,
+  nome      text        not null,
+  contato   text        not null,      -- whatsapp ou e-mail, como a pessoa preferir
+  espaco    text,
+  mensagem  text,
+  criado_em timestamptz not null default now(),
+  constraint nome_ok     check (char_length(nome)    between 2 and 80),
+  constraint contato_ok  check (char_length(contato) between 5 and 120),
+  constraint mensagem_ok check (mensagem is null or char_length(mensagem) <= 800)
+);
+alter table public.contatos enable row level security;
+
+drop policy if exists contatos_escrita on public.contatos;
+create policy contatos_escrita on public.contatos
+  for insert to anon, authenticated with check (true);
+
+-- ⚠️ NÃO EXISTE POLICY DE SELECT, E ISSO É DE PROPÓSITO.
+-- Aqui ficam nome e telefone de pessoas reais. A chave anon é pública (está no
+-- HTML); se houvesse leitura, qualquer um baixaria a lista inteira de
+-- interessados com uma linha de fetch. Testado em 14/10: a tentativa devolve [].
+-- Para ler, use o painel do Supabase (chave de serviço).
+
+-- ============================================================
 -- Conferir no fim: Database → Advisors não pode acusar tabela sem RLS.
 -- ============================================================

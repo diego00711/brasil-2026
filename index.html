@@ -373,16 +373,30 @@ footer a{color:var(--verde-claro)}
       <div class="anuncio"><b>LATERAL DO MAPA</b><span>Banner 300×600</span><span>fica junto do conteúdo mais visto</span></div>
     </div>
     <div class="painel" style="margin-top:20px">
-      <h3 style="margin-bottom:8px">Quer anunciar?</h3>
-      <p style="color:var(--texto-fraco);margin-top:0">
-        Escreva pra <a href="mailto:SEU-EMAIL-AQUI" style="color:var(--verde-claro)">SEU-EMAIL-AQUI</a>
-        com o espaço que te interessa. A gente responde com números de audiência e valores.
+      <h3 style="margin-bottom:4px">Fale com a gente</h3>
+      <p style="color:var(--texto-fraco);margin-top:0;font-size:.92rem">
+        Preencha aqui que a gente retorna com audiência e valores. Sem e-mail,
+        sem cadastro.
       </p>
-      <p style="color:var(--texto-fraco);font-size:.85rem">
-        ⚠️ Troque este e-mail antes de publicar, e confira as regras do TSE sobre
-        propaganda eleitoral paga na internet antes de aceitar anúncio de campanha
-        ou candidato — as regras para anúncio político são diferentes das de
-        anúncio comum.
+      <form id="formAnuncio" style="display:grid;gap:10px;max-width:520px;margin-top:14px">
+        <input type="text" id="anNome" placeholder="Seu nome ou da empresa" required maxlength="80">
+        <input type="text" id="anContato" placeholder="WhatsApp ou e-mail para retorno" required maxlength="120">
+        <select id="anEspaco" style="width:100%;background:var(--fundo);border:1px solid var(--borda);
+                color:var(--texto);border-radius:8px;padding:9px 11px;font:400 .95rem 'Source Sans 3',sans-serif">
+          <option value="">Qual espaço te interessa?</option>
+          <option>Topo da home — 970×250</option>
+          <option>Entre as notícias — 300×250</option>
+          <option>Lateral do mapa — 300×600</option>
+          <option>Ainda não sei, me explique</option>
+        </select>
+        <textarea id="anMensagem" placeholder="Quer contar algo? (opcional)" maxlength="800"></textarea>
+        <button class="btn" type="submit" style="justify-self:start">Enviar mensagem</button>
+        <p id="anAviso" style="margin:0;font-size:.9rem"></p>
+      </form>
+      <p style="color:var(--texto-fraco);font-size:.82rem;margin-top:18px;border-top:1px solid var(--borda);padding-top:12px">
+        ⚠️ Anúncio de <b>candidato ou campanha</b> segue regra própria do TSE sobre
+        propaganda eleitoral paga na internet, diferente da de anúncio comum. A
+        responsabilidade é de quem publica.
       </p>
     </div>
   </section>
@@ -726,6 +740,44 @@ async function abreComentarios(id, titulo){
       : "<p style='color:var(--texto-fraco)'>Ninguém comentou ainda. Seja o primeiro.</p>";
   }catch{ lista.innerHTML = "<p style='color:var(--texto-fraco)'>não consegui carregar</p>"; }
 }
+
+/* ---------- formulário "quero anunciar" ----------
+   Grava direto na tabela `contatos`. Sem e-mail no meio: e-mail no site vira
+   alvo de robô de spam em questão de dias, e ainda exigiria criar uma conta.
+   ⚠️ A tabela aceita escrita e NÃO tem leitura pelo site — são nome e telefone
+   de gente real, e com a chave pública qualquer um baixaria a lista. */
+document.getElementById("formAnuncio").onsubmit = async (ev) => {
+  ev.preventDefault();
+  const aviso = document.getElementById("anAviso");
+  const nome = document.getElementById("anNome").value.trim();
+  const contato = document.getElementById("anContato").value.trim();
+  if (!TEM_BACKEND){
+    aviso.style.color = "var(--amarelo)";
+    aviso.textContent = "O formulário entra no ar junto com o site publicado.";
+    return;
+  }
+  aviso.style.color = "var(--texto-fraco)";
+  aviso.textContent = "enviando…";
+  try{
+    const r = await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/contatos`, {
+      method:"POST",
+      headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY,
+               "Content-Type":"application/json", Prefer:"return=minimal"},
+      body: JSON.stringify({
+        nome, contato,
+        espaco: document.getElementById("anEspaco").value || null,
+        mensagem: document.getElementById("anMensagem").value.trim() || null,
+      })
+    });
+    if (!r.ok) throw new Error(r.status);
+    ev.target.reset();
+    aviso.style.color = "var(--verde-claro)";
+    aviso.textContent = "Recebido! A gente retorna no contato que você deixou.";
+  }catch{
+    aviso.style.color = "#FF8A8A";
+    aviso.textContent = "Não consegui enviar agora. Tente de novo em instantes.";
+  }
+};
 
 document.getElementById("cmtEnviar").onclick = async () => {
   const nome = document.getElementById("cmtNome").value.trim() || "Anônimo";
