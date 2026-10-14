@@ -1,0 +1,47 @@
+# Roda o bot de hora em hora e comita os JSON atualizados.
+#
+# Por que GitHub Actions e não o Render: o Render do Inksa é plano pago e cada
+# serviço novo custa. O Actions é grátis até 2.000 minutos/mês e esta rotina usa
+# uns 30 segundos por execução — 24 execuções por dia dão ~6 min/dia, ~180/mês.
+# Cabe folgado no gratuito.
+#
+# A Vercel republica sozinha a cada commit, então o site se atualiza sem ninguém
+# apertar nada.
+
+name: Atualiza notícias e eleição
+
+on:
+  schedule:
+    - cron: "5 * * * *"      # todo início de hora (minuto 5), horário UTC
+  workflow_dispatch:          # botão manual, para testar sem esperar a hora
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Buscar notícias
+        run: python bot.py
+
+      # O TSE só muda quando há apuração. Fora de dia de eleição isso é
+      # praticamente estático, mas roda junto porque custa um segundo e garante
+      # que o 2º turno apareça atualizado no dia 25 sem ninguém mexer.
+      - name: Buscar resultados do TSE
+        run: python tse.py
+        continue-on-error: true    # se o TSE cair, o site segue com o dado anterior
+
+      - name: Comitar se algo mudou
+        run: |
+          git config user.name  "bot-noticias"
+          git config user.email "bot@users.noreply.github.com"
+          git add dados/
+          git diff --staged --quiet || git commit -m "dados: atualização automática $(date -u +'%d/%m %H:%M UTC')"
+          git push

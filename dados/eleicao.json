@@ -1,0 +1,4998 @@
+{
+ "gerado_em": "2026-10-14T16:09:08.750443-03:00",
+ "fonte": "TSE — resultados.tse.jus.br",
+ "presidente_br": {
+  "uf": "BR",
+  "apurado": "100,00",
+  "atualizado_tse": "05/10/2026 12:51:47",
+  "votos_validos": "119300788",
+  "candidatos": [
+   {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 56104503,
+    "percentual": "47,03",
+    "eleito": true,
+    "campo": "direita"
+   },
+   {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 53879538,
+    "percentual": "45,16",
+    "eleito": true,
+    "campo": "esquerda"
+   },
+   {
+    "nome": "ESCRITOR AUGUSTO CURY",
+    "numero": "70",
+    "partido": "AVANTE",
+    "coligacao": "AGIR / AVANTE",
+    "votos": 3448569,
+    "percentual": "2,89",
+    "eleito": false,
+    "campo": "direita"
+   },
+   {
+    "nome": "RENAN SANTOS",
+    "numero": "14",
+    "partido": "MISSÃO",
+    "coligacao": "MISSÃO",
+    "votos": 2675887,
+    "percentual": "2,24",
+    "eleito": false,
+    "campo": "indefinido"
+   },
+   {
+    "nome": "RONALDO CAIADO",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "PSD",
+    "votos": 2605148,
+    "percentual": "2,18",
+    "eleito": false,
+    "campo": "direita"
+   },
+   {
+    "nome": "ZEMA",
+    "numero": "30",
+    "partido": "NOVO",
+    "coligacao": "NOVO",
+    "votos": 326488,
+    "percentual": "0,27",
+    "eleito": false,
+    "campo": "direita"
+   },
+   {
+    "nome": "SAMARA",
+    "numero": "80",
+    "partido": "UP",
+    "coligacao": "UP",
+    "votos": 122911,
+    "percentual": "0,10",
+    "eleito": false,
+    "campo": "esquerda"
+   },
+   {
+    "nome": "HERTZ DIAS",
+    "numero": "16",
+    "partido": "PSTU",
+    "coligacao": "PSTU",
+    "votos": 43103,
+    "percentual": "0,04",
+    "eleito": false,
+    "campo": "esquerda"
+   }
+  ],
+  "vencedor": {
+   "nome": "FLAVIO BOLSONARO",
+   "numero": "22",
+   "partido": "PL",
+   "coligacao": "PL",
+   "votos": 56104503,
+   "percentual": "47,03",
+   "eleito": true,
+   "campo": "direita"
+  }
+ },
+ "presidente_uf": {
+  "AC": {
+   "uf": "AC",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:40",
+   "votos_validos": "469066",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 302807,
+     "percentual": "64,56",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 134770,
+     "percentual": "28,73",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 13523,
+     "percentual": "2,88",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 8594,
+     "percentual": "1,83",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 7980,
+     "percentual": "1,70",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 573,
+     "percentual": "0,12",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 314,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 215,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 302807,
+    "percentual": "64,56",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "AL": {
+   "uf": "AL",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:41",
+   "votos_validos": "1818856",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 995459,
+     "percentual": "54,73",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 735718,
+     "percentual": "40,45",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 42427,
+     "percentual": "2,33",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 26851,
+     "percentual": "1,48",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 14198,
+     "percentual": "0,78",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1345,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1168,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 636,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 995459,
+    "percentual": "54,73",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "AM": {
+   "uf": "AM",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:41",
+   "votos_validos": "2170763",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1046996,
+     "percentual": "48,23",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 976764,
+     "percentual": "45,00",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 77531,
+     "percentual": "3,57",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 35411,
+     "percentual": "1,63",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 28310,
+     "percentual": "1,30",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1867,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1781,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 929,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 1046996,
+    "percentual": "48,23",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "AP": {
+   "uf": "AP",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:40",
+   "votos_validos": "464858",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 212503,
+     "percentual": "45,71",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 212278,
+     "percentual": "45,67",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 19057,
+     "percentual": "4,10",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 11342,
+     "percentual": "2,44",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 8304,
+     "percentual": "1,79",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 508,
+     "percentual": "0,11",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 341,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 229,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 212503,
+    "percentual": "45,71",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "BA": {
+   "uf": "BA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:55",
+   "votos_validos": "8560291",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 5664771,
+     "percentual": "66,17",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 2442585,
+     "percentual": "28,53",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 195451,
+     "percentual": "2,28",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 122705,
+     "percentual": "1,43",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 117518,
+     "percentual": "1,37",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 6497,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 4649,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1791,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 5664771,
+    "percentual": "66,17",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "CE": {
+   "uf": "CE",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:44",
+   "votos_validos": "5617814",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 3555263,
+     "percentual": "63,29",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 1756850,
+     "percentual": "31,27",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 140524,
+     "percentual": "2,50",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 107587,
+     "percentual": "1,92",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 45604,
+     "percentual": "0,81",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 4310,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 3352,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1491,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 3555263,
+    "percentual": "63,29",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "DF": {
+   "uf": "DF",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:40",
+   "votos_validos": "1772808",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 909616,
+     "percentual": "51,31",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 675627,
+     "percentual": "38,11",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 85076,
+     "percentual": "4,80",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 46714,
+     "percentual": "2,64",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 45979,
+     "percentual": "2,59",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 4915,
+     "percentual": "0,28",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 2297,
+     "percentual": "0,13",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 828,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 909616,
+    "percentual": "51,31",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "ES": {
+   "uf": "ES",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:41",
+   "votos_validos": "2251078",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 1233194,
+     "percentual": "54,78",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 850028,
+     "percentual": "37,76",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 65121,
+     "percentual": "2,89",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 53236,
+     "percentual": "2,36",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 39097,
+     "percentual": "1,74",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 5873,
+     "percentual": "0,26",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1973,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 974,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 1233194,
+    "percentual": "54,78",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "GO": {
+   "uf": "GO",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:44",
+   "votos_validos": "3827823",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 2051888,
+     "percentual": "53,60",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1188880,
+     "percentual": "31,06",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 472041,
+     "percentual": "12,33",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 54105,
+     "percentual": "1,41",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 53849,
+     "percentual": "1,41",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 2672,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 2087,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 668,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 2051888,
+    "percentual": "53,60",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MA": {
+   "uf": "MA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:45",
+   "votos_validos": "4010439",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 2566301,
+     "percentual": "63,99",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 1239040,
+     "percentual": "30,90",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 84830,
+     "percentual": "2,12",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 60387,
+     "percentual": "1,51",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 50155,
+     "percentual": "1,25",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 4584,
+     "percentual": "0,11",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1795,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1459,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 2566301,
+    "percentual": "63,99",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "MG": {
+   "uf": "MG",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:52:05",
+   "votos_validos": "11976235",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 5777548,
+     "percentual": "48,24",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 5188936,
+     "percentual": "43,33",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 409737,
+     "percentual": "3,42",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 247209,
+     "percentual": "2,06",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 230423,
+     "percentual": "1,92",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 98407,
+     "percentual": "0,82",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 11026,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 4085,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 5777548,
+    "percentual": "48,24",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MS": {
+   "uf": "MS",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:41",
+   "votos_validos": "1490278",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 873351,
+     "percentual": "58,60",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 516855,
+     "percentual": "34,68",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 39148,
+     "percentual": "2,63",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 31847,
+     "percentual": "2,14",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 23291,
+     "percentual": "1,56",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 2792,
+     "percentual": "0,19",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1291,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 626,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 873351,
+    "percentual": "58,60",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MT": {
+   "uf": "MT",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:42",
+   "votos_validos": "1993288",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 1298581,
+     "percentual": "65,15",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 581681,
+     "percentual": "29,18",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 40019,
+     "percentual": "2,01",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 33170,
+     "percentual": "1,66",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 33079,
+     "percentual": "1,66",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 2424,
+     "percentual": "0,12",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 1869,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1584,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 1298581,
+    "percentual": "65,15",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "PA": {
+   "uf": "PA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:45",
+   "votos_validos": "4863172",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 2427237,
+     "percentual": "49,91",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 2163957,
+     "percentual": "44,50",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 125172,
+     "percentual": "2,57",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 84165,
+     "percentual": "1,73",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 51991,
+     "percentual": "1,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 3824,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 3064,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 1293,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 2427237,
+    "percentual": "49,91",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "PB": {
+   "uf": "PB",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:44",
+   "votos_validos": "2513747",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1541127,
+     "percentual": "61,31",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 831377,
+     "percentual": "33,07",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 73831,
+     "percentual": "2,94",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 42247,
+     "percentual": "1,68",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 19511,
+     "percentual": "0,78",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1988,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1593,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 627,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 1541127,
+    "percentual": "61,31",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "PE": {
+   "uf": "PE",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:44",
+   "votos_validos": "5601017",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 3553971,
+     "percentual": "63,45",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 1738043,
+     "percentual": "31,03",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 137960,
+     "percentual": "2,46",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 85865,
+     "percentual": "1,53",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 73176,
+     "percentual": "1,31",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 6060,
+     "percentual": "0,11",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 2387,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1114,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 3553971,
+    "percentual": "63,45",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "PI": {
+   "uf": "PI",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:46",
+   "votos_validos": "2146394",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1523710,
+     "percentual": "70,99",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 517028,
+     "percentual": "24,09",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 47692,
+     "percentual": "2,22",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 32274,
+     "percentual": "1,50",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 21629,
+     "percentual": "1,01",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1357,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1099,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 504,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 1523710,
+    "percentual": "70,99",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "PR": {
+   "uf": "PR",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:50",
+   "votos_validos": "6585243",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 3945345,
+     "percentual": "59,91",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 2054597,
+     "percentual": "31,20",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 205095,
+     "percentual": "3,11",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 177434,
+     "percentual": "2,69",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 171294,
+     "percentual": "2,60",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 17172,
+     "percentual": "0,26",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 6731,
+     "percentual": "0,10",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 2445,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 3945345,
+    "percentual": "59,91",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RJ": {
+   "uf": "RJ",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:43",
+   "votos_validos": "9369700",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 4966844,
+     "percentual": "53,01",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 3693021,
+     "percentual": "39,41",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 247397,
+     "percentual": "2,64",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 211843,
+     "percentual": "2,26",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 199844,
+     "percentual": "2,13",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 21907,
+     "percentual": "0,23",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 14186,
+     "percentual": "0,15",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 4082,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 4966844,
+    "percentual": "53,01",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RN": {
+   "uf": "RN",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:43",
+   "votos_validos": "2071898",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1237963,
+     "percentual": "59,75",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 720493,
+     "percentual": "34,77",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 57367,
+     "percentual": "2,77",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 35261,
+     "percentual": "1,70",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 16407,
+     "percentual": "0,79",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1525,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1228,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 572,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 1237963,
+    "percentual": "59,75",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "RO": {
+   "uf": "RO",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:40",
+   "votos_validos": "968059",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 652988,
+     "percentual": "67,45",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 250667,
+     "percentual": "25,89",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 25280,
+     "percentual": "2,61",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 19187,
+     "percentual": "1,98",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 16929,
+     "percentual": "1,75",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1318,
+     "percentual": "0,14",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 843,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 356,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 652988,
+    "percentual": "67,45",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RR": {
+   "uf": "RR",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:40",
+   "votos_validos": "325545",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 231322,
+     "percentual": "71,06",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 74420,
+     "percentual": "22,86",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 8579,
+     "percentual": "2,64",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 6623,
+     "percentual": "2,03",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 3639,
+     "percentual": "1,12",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 337,
+     "percentual": "0,10",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 280,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 168,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 231322,
+    "percentual": "71,06",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RS": {
+   "uf": "RS",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:50",
+   "votos_validos": "6423046",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 3573783,
+     "percentual": "55,64",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 2294759,
+     "percentual": "35,73",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 195296,
+     "percentual": "3,04",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 167558,
+     "percentual": "2,61",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 158821,
+     "percentual": "2,47",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 18988,
+     "percentual": "0,30",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 6632,
+     "percentual": "0,10",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 2146,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 3573783,
+    "percentual": "55,64",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "SC": {
+   "uf": "SC",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:45",
+   "votos_validos": "4500897",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 3000020,
+     "percentual": "66,65",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1127168,
+     "percentual": "25,04",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 134273,
+     "percentual": "2,98",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 132795,
+     "percentual": "2,95",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 79911,
+     "percentual": "1,78",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 16718,
+     "percentual": "0,37",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 5049,
+     "percentual": "0,11",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1503,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 3000020,
+    "percentual": "66,65",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "SE": {
+   "uf": "SE",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:41",
+   "votos_validos": "1364196",
+   "candidatos": [
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 856019,
+     "percentual": "62,75",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 417839,
+     "percentual": "30,63",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 38895,
+     "percentual": "2,85",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 26651,
+     "percentual": "1,95",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 21405,
+     "percentual": "1,57",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 1158,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 991,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 457,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "LULA",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+    "votos": 856019,
+    "percentual": "62,75",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "SP": {
+   "uf": "SP",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:59",
+   "votos_validos": "24882948",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 12922023,
+     "percentual": "51,93",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 9505413,
+     "percentual": "38,20",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 892368,
+     "percentual": "3,59",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 804310,
+     "percentual": "3,23",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 579571,
+     "percentual": "2,33",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 94635,
+     "percentual": "0,38",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 42532,
+     "percentual": "0,17",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "HERTZ DIAS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 15815,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 12922023,
+    "percentual": "51,93",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "TO": {
+   "uf": "TO",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 12:51:42",
+   "votos_validos": "930447",
+   "candidatos": [
+    {
+     "nome": "FLAVIO BOLSONARO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 469321,
+     "percentual": "50,44",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 404009,
+     "percentual": "43,42",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ESCRITOR AUGUSTO CURY",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "AGIR / AVANTE",
+     "votos": 22434,
+     "percentual": "2,41",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RONALDO CAIADO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD",
+     "votos": 20189,
+     "percentual": "2,17",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN SANTOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 12983,
+     "percentual": "1,40",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ZEMA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 595,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMARA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 395,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CLARIANA BARAO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 171,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FLAVIO BOLSONARO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL",
+    "votos": 469321,
+    "percentual": "50,44",
+    "eleito": true,
+    "campo": "direita"
+   }
+  }
+ },
+ "governador_uf": {
+  "AC": {
+   "uf": "AC",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:08:18",
+   "votos_validos": "439647",
+   "candidatos": [
+    {
+     "nome": "MAILZA ASSIS",
+     "numero": "11",
+     "partido": "PP",
+     "coligacao": "PDT / MDB / PL / DEMOCRATA / PP / UNIÃO",
+     "votos": 218760,
+     "percentual": "49,76",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ALAN RICK",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / NOVO / PSD / AVANTE",
+     "votos": 141859,
+     "percentual": "32,27",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "TIÃO BOCALOM",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "PRD / SOLIDARIEDADE / CIDADANIA / PSDB",
+     "votos": 44946,
+     "percentual": "10,22",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "THOR DANTAS",
+     "numero": "40",
+     "partido": "PSB",
+     "coligacao": "PODE / PSB / PCDOB / PT / PV",
+     "votos": 32963,
+     "percentual": "7,50",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "EUDO RAFFAEL",
+     "numero": "21",
+     "partido": "PCB",
+     "coligacao": "PCB",
+     "votos": 715,
+     "percentual": "0,16",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DR.LUISINHO",
+     "numero": "36",
+     "partido": "AGIR",
+     "coligacao": "AGIR",
+     "votos": 404,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "MAILZA ASSIS",
+    "numero": "11",
+    "partido": "PP",
+    "coligacao": "PDT / MDB / PL / DEMOCRATA / PP / UNIÃO",
+    "votos": 218760,
+    "percentual": "49,76",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "AL": {
+   "uf": "AL",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 22:54:50",
+   "votos_validos": "1709614",
+   "candidatos": [
+    {
+     "nome": "JHC",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "PDT / PL / DC / CIDADANIA / PSDB / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 892484,
+     "percentual": "52,20",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "RENAN FILHO",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "MDB / PODE / AGIR / PSB / PSD / AVANTE / PCDOB / PT / PV",
+     "votos": 809796,
+     "percentual": "47,37",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "LENILDA LUNA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 6454,
+     "percentual": "0,38",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "MÁRCIO JAMBO",
+     "numero": "35",
+     "partido": "DEMOCRATA",
+     "coligacao": "DEMOCRATA",
+     "votos": 880,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "indefinido"
+    }
+   ],
+   "vencedor": {
+    "nome": "JHC",
+    "numero": "45",
+    "partido": "PSDB",
+    "coligacao": "PDT / PL / DC / CIDADANIA / PSDB / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 892484,
+    "percentual": "52,20",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "AM": {
+   "uf": "AM",
+   "apurado": "100,00",
+   "atualizado_tse": "10/10/2026 10:14:53",
+   "votos_validos": "2071985",
+   "candidatos": [
+    {
+     "nome": "OMAR AZIZ",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "REPUBLICANOS / MDB / PSD / PCDOB / PT / PV",
+     "votos": 841846,
+     "percentual": "40,63",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "PROFESSORA MARIA DO CARMO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL / NOVO",
+     "votos": 507335,
+     "percentual": "24,49",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ROBERTO CIDADE",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "PSB / PP / UNIÃO / PODE",
+     "votos": 453896,
+     "percentual": "21,91",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "DAVID ALMEIDA",
+     "numero": "70",
+     "partido": "AVANTE",
+     "coligacao": "PDT / DC / AGIR / AVANTE / PRD / SOLIDARIEDADE",
+     "votos": 218490,
+     "percentual": "10,54",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CABO DACIOLO",
+     "numero": "33",
+     "partido": "MOBILIZA",
+     "coligacao": "MOBILIZA",
+     "votos": 36176,
+     "percentual": "1,75",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ISAEL MUNDURUKU",
+     "numero": "18",
+     "partido": "REDE",
+     "coligacao": "PSOL / REDE",
+     "votos": 11459,
+     "percentual": "0,55",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GILBERTO VASCONCELOS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 2783,
+     "percentual": "0,13",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "OMAR AZIZ",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "REPUBLICANOS / MDB / PSD / PCDOB / PT / PV",
+    "votos": 841846,
+    "percentual": "40,63",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "AP": {
+   "uf": "AP",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:04:28",
+   "votos_validos": "448747",
+   "candidatos": [
+    {
+     "nome": "DR. FURLAN",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "NOVO / PSD / PODE / PL",
+     "votos": 281595,
+     "percentual": "62,75",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLÉCIO",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "REPUBLICANOS / PDT / AGIR / PP / UNIÃO / CIDADANIA / PSDB / PCDOB / PT / PV / PRD / SOLIDARIEDADE",
+     "votos": 165900,
+     "percentual": "36,97",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CARLOS CLEY",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 561,
+     "percentual": "0,13",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DELEGADO MARCOS",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 376,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "JAIRO PALHETA",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 315,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "DR. FURLAN",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "NOVO / PSD / PODE / PL",
+    "votos": 281595,
+    "percentual": "62,75",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "BA": {
+   "uf": "BA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 11:41:49",
+   "votos_validos": "8291090",
+   "candidatos": [
+    {
+     "nome": "JERÔNIMO RODRIGUES",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / MDB / PSB / PSD / AVANTE / PCDOB / PT / PV",
+     "votos": 4626509,
+     "percentual": "55,80",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ACM NETO",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "REPUBLICANOS / PODE / PL / CIDADANIA / PSDB / PRD / SOLIDARIEDADE / PP / UNIÃO / NOVO",
+     "votos": 3625227,
+     "percentual": "43,72",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RONALDO MANSUR",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 27243,
+     "percentual": "0,33",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "AROLDO FELIX",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 5238,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "MARIA BONA",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 4028,
+     "percentual": "0,05",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ARIEL CAPISTRANO",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 2845,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "JERÔNIMO RODRIGUES",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PDT / MDB / PSB / PSD / AVANTE / PCDOB / PT / PV",
+    "votos": 4626509,
+    "percentual": "55,80",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "CE": {
+   "uf": "CE",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 23:11:32",
+   "votos_validos": "5406095",
+   "candidatos": [
+    {
+     "nome": "ELMANO DE FREITAS",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PDT / PODE / MOBILIZA / PCDOB / PT / PV / REPUBLICANOS / PSD / MDB / PRD / SOLIDARIEDADE / PSOL / REDE",
+     "votos": 2875573,
+     "percentual": "53,19",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CIRO GOMES",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "PL / CIDADANIA / PSDB / PP / UNIÃO / DC / AVANTE",
+     "votos": 2498891,
+     "percentual": "46,22",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "DELEGADO HUGGO",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 17219,
+     "percentual": "0,32",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "VERA LÚCIA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 5701,
+     "percentual": "0,11",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SERLEY LEAL",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 4344,
+     "percentual": "0,08",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ZÉ BATISTA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 2161,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DANILO SOARES",
+     "numero": "35",
+     "partido": "DEMOCRATA",
+     "coligacao": "DEMOCRATA",
+     "votos": 1743,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "IERI BRAGA",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 463,
+     "percentual": "0,01",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "ELMANO DE FREITAS",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "PSB / PDT / PODE / MOBILIZA / PCDOB / PT / PV / REPUBLICANOS / PSD / MDB / PRD / SOLIDARIEDADE / PSOL / REDE",
+    "votos": 2875573,
+    "percentual": "53,19",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "DF": {
+   "uf": "DF",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 20:23:38",
+   "votos_validos": "1653237",
+   "candidatos": [
+    {
+     "nome": "CELINA LEÃO",
+     "numero": "11",
+     "partido": "PP",
+     "coligacao": "REPUBLICANOS / MDB / PODE / PL / DC / MOBILIZA / DEMOCRATA / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 825530,
+     "percentual": "49,93",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LEANDRO GRASS",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 569930,
+     "percentual": "34,47",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "PAULA BELMONTE",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "CIDADANIA / PSDB",
+     "votos": 140765,
+     "percentual": "8,51",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "KIKO CAPUTO",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 72148,
+     "percentual": "4,36",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CAPPELLI",
+     "numero": "40",
+     "partido": "PSB",
+     "coligacao": "PSB",
+     "votos": 36828,
+     "percentual": "2,23",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "PROFESSORA SAMARA MINEIRO",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 3958,
+     "percentual": "0,24",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "PROFESSOR ROBSON",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1640,
+     "percentual": "0,10",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ELISSON",
+     "numero": "36",
+     "partido": "AGIR",
+     "coligacao": "AGIR",
+     "votos": 1172,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "CELINA LEÃO",
+    "numero": "11",
+    "partido": "PP",
+    "coligacao": "REPUBLICANOS / MDB / PODE / PL / DC / MOBILIZA / DEMOCRATA / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 825530,
+    "percentual": "49,93",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "ES": {
+   "uf": "ES",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 20:57:08",
+   "votos_validos": "2112171",
+   "candidatos": [
+    {
+     "nome": "LORENZO PAZOLINI",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / PL / DEMOCRATA",
+     "votos": 1048633,
+     "percentual": "49,65",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "RICARDO FERRAÇO",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "PODE / MDB / AGIR / PSB / PDT / CIDADANIA / PSDB / PP / UNIÃO",
+     "votos": 719397,
+     "percentual": "34,06",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "HELDER SALOMÃO",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PCDOB / PT / PV",
+     "votos": 323483,
+     "percentual": "15,32",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "BRENO BARCELOS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 17988,
+     "percentual": "0,85",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "RAFAEL DEMUNER",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 2670,
+     "percentual": "0,13",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LORENZO PAZOLINI",
+    "numero": "10",
+    "partido": "REPUBLICANOS",
+    "coligacao": "REPUBLICANOS / PL / DEMOCRATA",
+    "votos": 1048633,
+    "percentual": "49,65",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "GO": {
+   "uf": "GO",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 22:39:20",
+   "votos_validos": "3630576",
+   "candidatos": [
+    {
+     "nome": "DANIEL VILELA",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "REPUBLICANOS / MDB / PODE / MOBILIZA / DEMOCRATA / AGIR / PSD / AVANTE / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 2148218,
+     "percentual": "59,17",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "WILDER MORAIS",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL / NOVO",
+     "votos": 797141,
+     "percentual": "21,96",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "LUIS CESAR BUENO",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / PSB / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 356692,
+     "percentual": "9,82",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "MARCONI PERILLO",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "DC / CIDADANIA / PSDB",
+     "votos": 315676,
+     "percentual": "8,69",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "LUCIANA AMORIM",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 11632,
+     "percentual": "0,32",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DANILO DA SILVA",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 1217,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "DANIEL VILELA",
+    "numero": "15",
+    "partido": "MDB",
+    "coligacao": "REPUBLICANOS / MDB / PODE / MOBILIZA / DEMOCRATA / AGIR / PSD / AVANTE / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 2148218,
+    "percentual": "59,17",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MA": {
+   "uf": "MA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 02:01:55",
+   "votos_validos": "3895080",
+   "candidatos": [
+    {
+     "nome": "EDUARDO BRAIDE",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "NOVO / PSD",
+     "votos": 2104122,
+     "percentual": "54,02",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ORLEANS BRANDÃO",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "MDB / PDT / REPUBLICANOS / PODE / PRD / SOLIDARIEDADE",
+     "votos": 1354044,
+     "percentual": "34,76",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "FELIPE CAMARÃO",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PCDOB / PT / PV / PSB / PSOL / REDE",
+     "votos": 374039,
+     "percentual": "9,60",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ROBERTO ROCHA",
+     "numero": "28",
+     "partido": "PRTB",
+     "coligacao": "PRTB",
+     "votos": 48924,
+     "percentual": "1,26",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ANDRÉ LUIS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 7905,
+     "percentual": "0,20",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "SAULO ARCANGELI",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 4693,
+     "percentual": "0,12",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "REGINALDO LIMA",
+     "numero": "21",
+     "partido": "PCB",
+     "coligacao": "PCB",
+     "votos": 1096,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DIMAS CASSIMIRO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 257,
+     "percentual": "0,01",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "EDUARDO BRAIDE",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "NOVO / PSD",
+    "votos": 2104122,
+    "percentual": "54,02",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MG": {
+   "uf": "MG",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 11:45:42",
+   "votos_validos": "11411835",
+   "candidatos": [
+    {
+     "nome": "CLEITINHO AZEVEDO",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / PODE",
+     "votos": 6321590,
+     "percentual": "55,40",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "PATRUS ANANIAS",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PSB / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 3006088,
+     "percentual": "26,34",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FLÁVIO ROSCOE",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 795193,
+     "percentual": "6,97",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "MATEUS SIMÕES",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD / PP / UNIÃO / NOVO / AVANTE / PRD / SOLIDARIEDADE / MOBILIZA / DC / AGIR",
+     "votos": 530292,
+     "percentual": "4,65",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ALEXANDRE KALIL",
+     "numero": "12",
+     "partido": "PDT",
+     "coligacao": "PDT / CIDADANIA / PSDB",
+     "votos": 403466,
+     "percentual": "3,54",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GABRIEL",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "MDB",
+     "votos": 237051,
+     "percentual": "2,08",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "BEN MENDES",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 80308,
+     "percentual": "0,70",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "INDIRA XAVIER",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 20662,
+     "percentual": "0,18",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "CLEITINHO AZEVEDO",
+    "numero": "10",
+    "partido": "REPUBLICANOS",
+    "coligacao": "REPUBLICANOS / PODE",
+    "votos": 6321590,
+    "percentual": "55,40",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MS": {
+   "uf": "MS",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:06:39",
+   "votos_validos": "1363298",
+   "candidatos": [
+    {
+     "nome": "EDUARDO RIEDEL",
+     "numero": "11",
+     "partido": "PP",
+     "coligacao": "PP / UNIÃO / PL / CIDADANIA / PSDB / PODE / AVANTE / REPUBLICANOS / PSD / MDB",
+     "votos": 914323,
+     "percentual": "67,07",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "FÁBIO TRAD",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / PSB / PCDOB / PT / PV",
+     "votos": 322807,
+     "percentual": "23,68",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "JOÃO HENRIQUE CATAN",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 98677,
+     "percentual": "7,24",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "DELCIDIO AMARAL",
+     "numero": "25",
+     "partido": "PRD",
+     "coligacao": "PRD / SOLIDARIEDADE",
+     "votos": 14431,
+     "percentual": "1,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ECONOMISTA RENATO GOMES",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 5589,
+     "percentual": "0,41",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "LUCIEN REZENDE",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 4444,
+     "percentual": "0,33",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DANIEL LEMES",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 2115,
+     "percentual": "0,16",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "JEFERSON BEZERRA",
+     "numero": "36",
+     "partido": "AGIR",
+     "coligacao": "AGIR",
+     "votos": 912,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "EDUARDO RIEDEL",
+    "numero": "11",
+    "partido": "PP",
+    "coligacao": "PP / UNIÃO / PL / CIDADANIA / PSDB / PODE / AVANTE / REPUBLICANOS / PSD / MDB",
+    "votos": 914323,
+    "percentual": "67,07",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "MT": {
+   "uf": "MT",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:32:09",
+   "votos_validos": "1856293",
+   "candidatos": [
+    {
+     "nome": "OTAVIANO PIVETTA",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "CIDADANIA / PSDB / REPUBLICANOS / PP / UNIÃO / PODE",
+     "votos": 1128099,
+     "percentual": "60,77",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "WELLINGTON FAGUNDES",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "MDB / PL / NOVO / PRD / SOLIDARIEDADE",
+     "votos": 430442,
+     "percentual": "23,19",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "DOUTORA NATASHA",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PDT / PSB / PSD / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 281548,
+     "percentual": "15,17",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RAFAELL MILAS",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 10300,
+     "percentual": "0,55",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "SARGENTO LAUDICÉRIO",
+     "numero": "36",
+     "partido": "AGIR",
+     "coligacao": "AGIR",
+     "votos": 3210,
+     "percentual": "0,17",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "MAURICIO COELHO",
+     "numero": "33",
+     "partido": "MOBILIZA",
+     "coligacao": "MOBILIZA",
+     "votos": 2694,
+     "percentual": "0,15",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "OTAVIANO PIVETTA",
+    "numero": "10",
+    "partido": "REPUBLICANOS",
+    "coligacao": "CIDADANIA / PSDB / REPUBLICANOS / PP / UNIÃO / PODE",
+    "votos": 1128099,
+    "percentual": "60,77",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "PA": {
+   "uf": "PA",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 11:42:28",
+   "votos_validos": "4566828",
+   "candidatos": [
+    {
+     "nome": "DR. DANIEL",
+     "numero": "20",
+     "partido": "PODE",
+     "coligacao": "PODE / PL / DC / NOVO / PRD / SOLIDARIEDADE",
+     "votos": 2345721,
+     "percentual": "51,36",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "HANA GHASSAN",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "REPUBLICANOS / MDB / PSB / PSD / AVANTE / CIDADANIA / PSDB / PCDOB / PT / PV / PP / UNIÃO",
+     "votos": 2125084,
+     "percentual": "46,53",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ARACELI",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 85857,
+     "percentual": "1,88",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GAL LEITE",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 5503,
+     "percentual": "0,12",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "WELL MACEDO",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 2676,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "RUTH REIS",
+     "numero": "35",
+     "partido": "DEMOCRATA",
+     "coligacao": "DEMOCRATA",
+     "votos": 1987,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "indefinido"
+    }
+   ],
+   "vencedor": {
+    "nome": "DR. DANIEL",
+    "numero": "20",
+    "partido": "PODE",
+    "coligacao": "PODE / PL / DC / NOVO / PRD / SOLIDARIEDADE",
+    "votos": 2345721,
+    "percentual": "51,36",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "PB": {
+   "uf": "PB",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 23:23:01",
+   "votos_validos": "2286622",
+   "candidatos": [
+    {
+     "nome": "LUCAS RIBEIRO",
+     "numero": "11",
+     "partido": "PP",
+     "coligacao": "PODE / MOBILIZA / PCDOB / PT / PV / AGIR / PRD / SOLIDARIEDADE / PP / UNIÃO / REPUBLICANOS / PSB",
+     "votos": 1470252,
+     "percentual": "64,30",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "EFRAIM FILHO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL",
+     "votos": 552836,
+     "percentual": "24,18",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CÍCERO LUCENA",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "MDB / DEMOCRATA / PSD / CIDADANIA / PSDB / PDT",
+     "votos": 252884,
+     "percentual": "11,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "YURI EZEQUIEL",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 8272,
+     "percentual": "0,36",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CAMILO DUARTE",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 2378,
+     "percentual": "0,10",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "LUCAS RIBEIRO",
+    "numero": "11",
+    "partido": "PP",
+    "coligacao": "PODE / MOBILIZA / PCDOB / PT / PV / AGIR / PRD / SOLIDARIEDADE / PP / UNIÃO / REPUBLICANOS / PSB",
+    "votos": 1470252,
+    "percentual": "64,30",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "PE": {
+   "uf": "PE",
+   "apurado": "100,00",
+   "atualizado_tse": "06/10/2026 16:59:15",
+   "votos_validos": "5266852",
+   "candidatos": [
+    {
+     "nome": "RAQUEL LYRA",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PODE / PSD / AVANTE / CIDADANIA** / PSDB** / PP / UNIÃO",
+     "votos": 2805438,
+     "percentual": "53,27",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "JOÃO CAMPOS",
+     "numero": "40",
+     "partido": "PSB",
+     "coligacao": "REPUBLICANOS / PDT / MDB / PSB / PCDOB / PT / PV / PRD / SOLIDARIEDADE / DC",
+     "votos": 2360469,
+     "percentual": "44,82",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "IVAN MORAES",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PCB / PSOL / REDE",
+     "votos": 77699,
+     "percentual": "1,48",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "RENAN",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 18340,
+     "percentual": "0,35",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "PROFESSORA CAMILA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 3495,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GUILHERME FONSECA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 987,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "VICTOR ASSIS",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 424,
+     "percentual": "0,01",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "RAQUEL LYRA",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "PODE / PSD / AVANTE / CIDADANIA** / PSDB** / PP / UNIÃO",
+    "votos": 2805438,
+    "percentual": "53,27",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "PI": {
+   "uf": "PI",
+   "apurado": "100,00",
+   "atualizado_tse": "14/10/2026 09:52:13",
+   "votos_validos": "2026275",
+   "candidatos": [
+    {
+     "nome": "RAFAEL FONTELES",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "REPUBLICANOS / PDT / MDB / PSD / PCDOB / PT / PV",
+     "votos": 1436697,
+     "percentual": "70,90",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "JOEL RODRIGUES",
+     "numero": "11",
+     "partido": "PP",
+     "coligacao": "PODE / PP / UNIÃO / PL",
+     "votos": 557972,
+     "percentual": "27,54",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "PROFESSOR GISVALDO",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 10002,
+     "percentual": "0,49",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DRA. LÚCIA SANTOS",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "CIDADANIA / PSDB",
+     "votos": 9611,
+     "percentual": "0,47",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ELIZEU AGUIAR",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO / AVANTE",
+     "votos": 5141,
+     "percentual": "0,25",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "GERALDO CARVALHO",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1858,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "SANTIAGO BELIZÁRIO",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1777,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "LOURDES MELO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 1296,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "RAFAEL FONTELES",
+    "numero": "13",
+    "partido": "PT",
+    "coligacao": "REPUBLICANOS / PDT / MDB / PSD / PCDOB / PT / PV",
+    "votos": 1436697,
+    "percentual": "70,90",
+    "eleito": true,
+    "campo": "esquerda"
+   }
+  },
+  "PR": {
+   "uf": "PR",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 11:46:40",
+   "votos_validos": "6243799",
+   "candidatos": [
+    {
+     "nome": "SERGIO MORO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PODE / PL / NOVO",
+     "votos": 3127911,
+     "percentual": "50,10",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "SANDRO ALEX",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "REPUBLICANOS / MDB / DEMOCRATA / PSD / AVANTE / CIDADANIA / PSDB / PP / UNIÃO",
+     "votos": 1583764,
+     "percentual": "25,37",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "REQUIÃO FILHO",
+     "numero": "12",
+     "partido": "PDT",
+     "coligacao": "PDT / PCDOB / PT / PV / PSOL / REDE / PRD / SOLIDARIEDADE",
+     "votos": 1465601,
+     "percentual": "23,47",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "LUIZ FRANÇA",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 44581,
+     "percentual": "0,71",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "TAYNÁ MIESSA",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 14193,
+     "percentual": "0,23",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DOUTOR ALEXANDRE SALOMÃO",
+     "numero": "33",
+     "partido": "MOBILIZA",
+     "coligacao": "MOBILIZA",
+     "votos": 4144,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMUEL DE MATTOS",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 2080,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ADRIANO FUNILEIRO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 1525,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "SERGIO MORO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PODE / PL / NOVO",
+    "votos": 3127911,
+    "percentual": "50,10",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RJ": {
+   "uf": "RJ",
+   "apurado": "100,00",
+   "atualizado_tse": "10/10/2026 15:09:50",
+   "votos_validos": "8394627",
+   "candidatos": [
+    {
+     "nome": "DOUGLAS RUAS",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL / MOBILIZA / AGIR / AVANTE",
+     "votos": 4271199,
+     "percentual": "50,88",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "EDUARDO PAES",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PDT / MDB / DC / PSB / PSD / CIDADANIA / PSDB / PCDOB / PT / PV / PRD / SOLIDARIEDADE",
+     "votos": 3706984,
+     "percentual": "44,16",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "WILLIAM SIRI",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 235347,
+     "percentual": "2,80",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CORONEL BUSNELLO",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 84889,
+     "percentual": "1,01",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "ANDRÉ MARINHO",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 45359,
+     "percentual": "0,54",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "JULIETE",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 33430,
+     "percentual": "0,40",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CYRO GARCIA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 14642,
+     "percentual": "0,17",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "LUAN MONTEIRO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 2777,
+     "percentual": "0,03",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "DOUGLAS RUAS",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL / MOBILIZA / AGIR / AVANTE",
+    "votos": 4271199,
+    "percentual": "50,88",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RN": {
+   "uf": "RN",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 23:02:10",
+   "votos_validos": "1986668",
+   "candidatos": [
+    {
+     "nome": "ALLYSON",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "REPUBLICANOS / MDB / PSD / AVANTE / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 733809,
+     "percentual": "36,94",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "CADU DE LULA",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / PSB / PCDOB / PT / PV",
+     "votos": 718300,
+     "percentual": "36,16",
+     "eleito": true,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "ÁLVARO DIAS",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PODE / PL / NOVO / CIDADANIA / PSDB / MOBILIZA",
+     "votos": 530580,
+     "percentual": "26,71",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ARINALDA DO MLB",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 1466,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DÁRIO BARBOSA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 1388,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GODEIRO LINHARESS",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 464,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "RODRIGO DE BOLSONARO",
+     "numero": "36",
+     "partido": "AGIR",
+     "coligacao": "AGIR",
+     "votos": 434,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "HENRIQUE LYRA",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 227,
+     "percentual": "0,01",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "ALLYSON",
+    "numero": "44",
+    "partido": "UNIÃO",
+    "coligacao": "REPUBLICANOS / MDB / PSD / AVANTE / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 733809,
+    "percentual": "36,94",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RO": {
+   "uf": "RO",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 20:51:22",
+   "votos_validos": "945058",
+   "candidatos": [
+    {
+     "nome": "MARCOS ROGÉRIO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PODE / PL / DC / NOVO / MOBILIZA",
+     "votos": 537370,
+     "percentual": "56,86",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "ADAILTON FURIA",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSD / AVANTE / PRD / SOLIDARIEDADE",
+     "votos": 189547,
+     "percentual": "20,06",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "HILDON CHAVES",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "REPUBLICANOS / PP / UNIÃO",
+     "votos": 134355,
+     "percentual": "14,22",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "EXPEDITO NETTO",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PCDOB / PT / PV / PSOL / REDE",
+     "votos": 72851,
+     "percentual": "7,71",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "PEDRO ABIB",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "PDT / MDB",
+     "votos": 6591,
+     "percentual": "0,70",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "SAMUEL COSTA",
+     "numero": "40",
+     "partido": "PSB",
+     "coligacao": "PSB",
+     "votos": 4344,
+     "percentual": "0,46",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "MARCOS ROGÉRIO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PODE / PL / DC / NOVO / MOBILIZA",
+    "votos": 537370,
+    "percentual": "56,86",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RR": {
+   "uf": "RR",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:09:58",
+   "votos_validos": "319413",
+   "candidatos": [
+    {
+     "nome": "ARTHUR HENRIQUE",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "PL / NOVO",
+     "votos": 220809,
+     "percentual": "69,13",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "SOLDADO SAMPAIO",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / PODE / AGIR / PSD / PP / UNIÃO",
+     "votos": 93434,
+     "percentual": "29,25",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ROSI AIRES",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PCDOB / PT / PV / PSOL / REDE",
+     "votos": 4880,
+     "percentual": "1,53",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "FARAH MESQUITA",
+     "numero": "77",
+     "partido": "SOLIDARIEDADE",
+     "coligacao": "PRD / SOLIDARIEDADE",
+     "votos": 213,
+     "percentual": "0,07",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "CLÉBIO GENUÍNO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 77,
+     "percentual": "0,02",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "ARTHUR HENRIQUE",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "PL / NOVO",
+    "votos": 220809,
+    "percentual": "69,13",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "RS": {
+   "uf": "RS",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:12:40",
+   "votos_validos": "6057443",
+   "candidatos": [
+    {
+     "nome": "ZUCCO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "REPUBLICANOS / PODE / PL / DC / NOVO / PP / UNIÃO",
+     "votos": 3516048,
+     "percentual": "58,05",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "JULIANA BRIZOLA",
+     "numero": "12",
+     "partido": "PDT",
+     "coligacao": "PDT / PSB / AVANTE / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 1917374,
+     "percentual": "31,65",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "GABRIEL SOUZA",
+     "numero": "15",
+     "partido": "MDB",
+     "coligacao": "MDB / PSD / PRD / SOLIDARIEDADE",
+     "votos": 510698,
+     "percentual": "8,43",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "MARCELO MARANATA",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "CIDADANIA / PSDB",
+     "votos": 101978,
+     "percentual": "1,68",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "PRISCILA VOIGT",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 5716,
+     "percentual": "0,09",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "REJANE DE OLIVEIRA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 3492,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CESAR PONTES",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 2137,
+     "percentual": "0,04",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "ZUCCO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "REPUBLICANOS / PODE / PL / DC / NOVO / PP / UNIÃO",
+    "votos": 3516048,
+    "percentual": "58,05",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "SC": {
+   "uf": "SC",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:56:30",
+   "votos_validos": "4265641",
+   "candidatos": [
+    {
+     "nome": "JORGINHO MELLO",
+     "numero": "22",
+     "partido": "PL",
+     "coligacao": "AVANTE / AGIR / DC / CIDADANIA / PSDB / NOVO / REPUBLICANOS / PODE / PL",
+     "votos": 2942386,
+     "percentual": "68,98",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "GELSON MERÍSIO",
+     "numero": "40",
+     "partido": "PSB",
+     "coligacao": "PDT / PSB / PSOL / REDE / PCDOB / PT / PV",
+     "votos": 668021,
+     "percentual": "15,66",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "JOÃO RODRIGUES",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "MDB / PSD / PP / UNIÃO",
+     "votos": 569263,
+     "percentual": "13,35",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "MARCELO BRIGADEIRO",
+     "numero": "14",
+     "partido": "MISSÃO",
+     "coligacao": "MISSÃO",
+     "votos": 46624,
+     "percentual": "1,09",
+     "eleito": false,
+     "campo": "indefinido"
+    },
+    {
+     "nome": "LAÍS CHAUD",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 21252,
+     "percentual": "0,50",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "RALF ZIMMER",
+     "numero": "25",
+     "partido": "PRD",
+     "coligacao": "PRD / SOLIDARIEDADE",
+     "votos": 9000,
+     "percentual": "0,21",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "PROFESSOR MARCUS SODRÉ",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 6682,
+     "percentual": "0,16",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "BRUNO PEDREIRO DO PCO",
+     "numero": "29",
+     "partido": "PCO",
+     "coligacao": "PCO",
+     "votos": 2413,
+     "percentual": "0,06",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "JORGINHO MELLO",
+    "numero": "22",
+    "partido": "PL",
+    "coligacao": "AVANTE / AGIR / DC / CIDADANIA / PSDB / NOVO / REPUBLICANOS / PODE / PL",
+    "votos": 2942386,
+    "percentual": "68,98",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "SE": {
+   "uf": "SE",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 22:08:19",
+   "votos_validos": "1227008",
+   "candidatos": [
+    {
+     "nome": "FÁBIO",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PSB / PSD / PP / UNIÃO / PCDOB / PT / PV",
+     "votos": 727291,
+     "percentual": "59,27",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "VALMIR DE FRANCISQUINHO",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / AVANTE",
+     "votos": 459908,
+     "percentual": "37,48",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "DR. HELTON",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 37081,
+     "percentual": "3,02",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "TATY  CRISTINA DE JESUS",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 2728,
+     "percentual": "0,22",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "FÁBIO",
+    "numero": "55",
+    "partido": "PSD",
+    "coligacao": "PSB / PSD / PP / UNIÃO / PCDOB / PT / PV",
+    "votos": 727291,
+    "percentual": "59,27",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "SP": {
+   "uf": "SP",
+   "apurado": "100,00",
+   "atualizado_tse": "05/10/2026 11:44:29",
+   "votos_validos": "23130513",
+   "candidatos": [
+    {
+     "nome": "TARCÍSIO",
+     "numero": "10",
+     "partido": "REPUBLICANOS",
+     "coligacao": "REPUBLICANOS / PL / MDB / DEMOCRATA / AVANTE / PSD / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 14491874,
+     "percentual": "62,65",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "FERNANDO HADDAD",
+     "numero": "13",
+     "partido": "PT",
+     "coligacao": "PDT / PSB / PCDOB / PT / PV / PSOL / REDE",
+     "votos": 8423656,
+     "percentual": "36,42",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "VIVIAN MENDES",
+     "numero": "80",
+     "partido": "UP",
+     "coligacao": "UP",
+     "votos": 80480,
+     "percentual": "0,35",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "VERA LÚCIA",
+     "numero": "16",
+     "partido": "PSTU",
+     "coligacao": "PSTU",
+     "votos": 75641,
+     "percentual": "0,33",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "CARLOS MACHADO",
+     "numero": "21",
+     "partido": "PCB",
+     "coligacao": "PCB",
+     "votos": 58862,
+     "percentual": "0,25",
+     "eleito": false,
+     "campo": "esquerda"
+    }
+   ],
+   "vencedor": {
+    "nome": "TARCÍSIO",
+    "numero": "10",
+    "partido": "REPUBLICANOS",
+    "coligacao": "REPUBLICANOS / PL / MDB / DEMOCRATA / AVANTE / PSD / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 14491874,
+    "percentual": "62,65",
+    "eleito": true,
+    "campo": "direita"
+   }
+  },
+  "TO": {
+   "uf": "TO",
+   "apurado": "100,00",
+   "atualizado_tse": "04/10/2026 21:18:59",
+   "votos_validos": "848629",
+   "candidatos": [
+    {
+     "nome": "PROFESSORA DORINHA",
+     "numero": "44",
+     "partido": "UNIÃO",
+     "coligacao": "REPUBLICANOS / PODE / AVANTE / PL / PRD / SOLIDARIEDADE / PP / UNIÃO",
+     "votos": 386260,
+     "percentual": "45,52",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "VICENTINHO JÚNIOR",
+     "numero": "45",
+     "partido": "PSDB",
+     "coligacao": "MDB / CIDADANIA / PSDB",
+     "votos": 372848,
+     "percentual": "43,94",
+     "eleito": true,
+     "campo": "direita"
+    },
+    {
+     "nome": "LAUREZ MOREIRA",
+     "numero": "55",
+     "partido": "PSD",
+     "coligacao": "PDT / PSB / PSD / PCDOB / PT / PV",
+     "votos": 69967,
+     "percentual": "8,24",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "ATAIDES DE OLIVEIRA",
+     "numero": "30",
+     "partido": "NOVO",
+     "coligacao": "NOVO",
+     "votos": 13173,
+     "percentual": "1,55",
+     "eleito": false,
+     "campo": "direita"
+    },
+    {
+     "nome": "PROF WITER NAVES",
+     "numero": "50",
+     "partido": "PSOL",
+     "coligacao": "PSOL / REDE",
+     "votos": 5109,
+     "percentual": "0,60",
+     "eleito": false,
+     "campo": "esquerda"
+    },
+    {
+     "nome": "DU PEREIRA",
+     "numero": "27",
+     "partido": "DC",
+     "coligacao": "DC",
+     "votos": 1272,
+     "percentual": "0,15",
+     "eleito": false,
+     "campo": "direita"
+    }
+   ],
+   "vencedor": {
+    "nome": "PROFESSORA DORINHA",
+    "numero": "44",
+    "partido": "UNIÃO",
+    "coligacao": "REPUBLICANOS / PODE / AVANTE / PL / PRD / SOLIDARIEDADE / PP / UNIÃO",
+    "votos": 386260,
+    "percentual": "45,52",
+    "eleito": true,
+    "campo": "direita"
+   }
+  }
+ }
+}

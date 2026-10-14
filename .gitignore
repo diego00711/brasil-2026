@@ -1,0 +1,19 @@
+# Scripts descartáveis que usei pra descobrir quais feeds e quais endpoints do
+# TSE funcionavam. Serviram, mas não fazem parte do site.
+testa_feeds.py
+testa2.py
+testa_tse.py
+testa_ibge.py
+baixa_svg.py
+tse_indice.py
+tse_2026.py
+tse_res.py
+tse_est.py
+tse_cand.py
+
+# Config do servidor local, não interessa à Vercel
+.claude/
+
+__pycache__/
+*.pyc
+.DS_Store

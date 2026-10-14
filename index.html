@@ -1,0 +1,749 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brasil 2026 — Notícias e Eleição</title>
+<meta name="description" content="Agregador de notícias de política e os resultados oficiais da eleição de 2026, direto do TSE.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* ---------------------------------------------------------------
+   Paleta da bandeira. Verde e amarelo são os protagonistas, como o
+   Diego pediu; o azul entra só como contraponto no mapa, porque se
+   tudo for verde-amarelo o mapa não comunica nada.
+   O fundo é um quase-preto puxado pro verde — preto puro deixaria o
+   verde da bandeira parecendo néon.
+   --------------------------------------------------------------- */
+:root{
+  --verde:#009739; --verde-claro:#00C04B; --amarelo:#FFDF00; --azul:#002776;
+  --fundo:#0A1220; --painel:#101B2B; --borda:#1E2D42;
+  --texto:#EDF2F7; --texto-fraco:#9FB0C4;
+  --largura:1180px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; background:var(--fundo); color:var(--texto);
+  font-family:"Source Sans 3",system-ui,-apple-system,Segoe UI,sans-serif;
+  font-size:17px; line-height:1.6;
+}
+h1,h2,h3,.display{font-family:Archivo,system-ui,sans-serif; text-wrap:balance; margin:0}
+a{color:inherit}
+.env{max-width:var(--largura); margin:0 auto; padding:0 16px}
+
+/* ---------------- topo + contador ---------------- */
+/* A bandeira desenhada em SVG (verde, losango, círculo) entra como imagem de
+   fundo do cabeçalho. Vai com opacidade baixa e um véu escuro por cima: foto de
+   bandeira atrás de texto deixa tudo ilegível, e o contador é a coisa mais
+   importante da página. */
+header{
+  position:relative; isolation:isolate;
+  border-bottom:1px solid var(--borda);
+  padding:26px 0 22px;
+  background:var(--fundo);
+}
+header::before{
+  content:""; position:absolute; inset:0; z-index:-2;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 700'%3E%3Crect width='1000' height='700' fill='%23009739'/%3E%3Cpath d='M500 62 938 350 500 638 62 350z' fill='%23FFDF00'/%3E%3Ccircle cx='500' cy='350' r='178' fill='%23002776'/%3E%3C/svg%3E");
+  background-size:cover; background-position:center;
+  opacity:.22;
+}
+header::after{
+  content:""; position:absolute; inset:0; z-index:-1;
+  background:linear-gradient(180deg, rgba(10,18,32,.55) 0%, rgba(10,18,32,.86) 62%, var(--fundo) 100%);
+}
+.marca{display:flex; align-items:center; gap:12px; margin-bottom:22px}
+.losango{width:34px;height:34px;background:var(--amarelo);transform:rotate(45deg);
+  display:grid;place-items:center;flex:none}
+.losango i{display:block;width:15px;height:15px;border-radius:50%;background:var(--azul)}
+.marca b{font-family:Archivo;font-weight:900;font-size:1.35rem;letter-spacing:-.02em}
+.marca span{color:var(--texto-fraco);font-size:.85rem}
+
+.olho{
+  display:inline-block; font-family:Archivo; font-weight:700; font-size:.82rem;
+  letter-spacing:.22em; text-transform:uppercase; color:var(--amarelo);
+  border:1px solid rgba(255,223,0,.35); border-radius:999px; padding:5px 15px;
+  margin-bottom:14px;
+}
+.contagem-titulo{
+  font-family:Archivo;font-weight:900;letter-spacing:-.03em;
+  font-size:clamp(2.2rem,8vw,5rem); line-height:.95; margin-bottom:8px;
+  text-shadow:0 2px 24px rgba(0,0,0,.5);
+}
+.contagem-sub{color:var(--texto-fraco);font-size:1rem;margin-bottom:26px}
+.relogio{display:flex;gap:clamp(8px,1.6vw,16px);flex-wrap:nowrap}
+.casa{
+  background:rgba(16,27,43,.72); backdrop-filter:blur(3px);
+  border:1px solid var(--borda); border-top:3px solid var(--verde);
+  border-radius:12px; padding:clamp(10px,2vw,20px) 4px;
+  flex:1 1 0; min-width:0; text-align:center;
+}
+.casa b{
+  display:block; font-family:Archivo; font-weight:900;
+  font-size:clamp(2.4rem,11vw,6rem); line-height:.9;
+  color:var(--verde-claro);                 /* números em verde, como pedido */
+  font-variant-numeric:tabular-nums; letter-spacing:-.04em;
+  text-shadow:0 0 34px rgba(0,192,75,.35);
+}
+.casa span{display:block;font-size:clamp(.6rem,1.5vw,.78rem);text-transform:uppercase;
+  letter-spacing:.12em;color:var(--texto-fraco);margin-top:clamp(6px,1.2vw,12px)}
+
+/* ---- faixa do gancho: números reais da apuração ----
+   O que prende este público não é frase de efeito, é o placar. E placar a
+   gente tem, apurado e oficial — então a chamada é o próprio dado. */
+.gancho{
+  margin-top:26px; display:flex; gap:14px; flex-wrap:wrap; align-items:center;
+  background:linear-gradient(90deg, rgba(0,151,57,.22), rgba(0,151,57,.04));
+  border:1px solid rgba(0,192,75,.3); border-left:5px solid var(--verde-claro);
+  border-radius:12px; padding:16px 18px;
+}
+.gancho .num{display:flex;align-items:baseline;gap:9px}
+.gancho .num b{font-family:Archivo;font-weight:900;font-size:clamp(1.9rem,5vw,2.8rem);
+  line-height:1;color:var(--amarelo);font-variant-numeric:tabular-nums}
+.gancho .num span{font-size:.9rem;color:var(--texto);max-width:190px;line-height:1.25}
+.gancho .risco{width:1px;align-self:stretch;background:var(--borda)}
+.gancho .cta{
+  margin-left:auto; background:var(--verde); color:#fff; border:0; border-radius:10px;
+  padding:13px 22px; cursor:pointer; font:700 1rem Archivo,sans-serif;
+  display:inline-flex; align-items:center; gap:9px; white-space:nowrap;
+}
+.gancho .cta:hover{background:var(--verde-claro)}
+.gancho .fonte-tse{flex-basis:100%;font-size:.76rem;color:var(--texto-fraco);margin:0}
+/* igual ao selo de online: sem isto o display:flex vence o atributo [hidden] */
+.gancho[hidden]{display:none}
+@media(max-width:640px){
+  .gancho .cta{margin-left:0;width:100%;justify-content:center}
+  .gancho .risco{display:none}
+}
+
+/* ---------------- botão do joia ---------------- */
+.apoio{
+  margin-top:22px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;
+  background:var(--painel); border:1px solid var(--borda); border-left:4px solid var(--amarelo);
+  border-radius:12px; padding:14px 16px;
+}
+.apoio p{margin:0;font-size:.95rem}
+#joia{
+  font:600 1rem "Source Sans 3",sans-serif; cursor:pointer;
+  background:var(--verde); color:#fff; border:0; border-radius:10px;
+  padding:11px 20px; display:inline-flex; align-items:center; gap:9px;
+  transition:transform .12s ease, background .2s ease;
+}
+#joia:hover{background:var(--verde-claro)}
+#joia:active{transform:scale(.96)}
+#joia:disabled{background:var(--borda);color:var(--texto-fraco);cursor:default}
+#joia svg{width:19px;height:19px;fill:currentColor}
+#placar{font-family:Archivo;font-weight:900;color:var(--amarelo);font-variant-numeric:tabular-nums}
+.apoio small{display:block;color:var(--texto-fraco);font-size:.78rem}
+#agora{display:inline-flex;align-items:center;gap:7px;font-size:.85rem;color:var(--texto-fraco);
+  background:var(--fundo);border:1px solid var(--borda);border-radius:999px;padding:6px 13px}
+/* sem isto o display acima vence o atributo [hidden] e o selo aparece vazio */
+#agora[hidden]{display:none}
+#agora b{color:var(--verde-claro);font-family:Archivo;font-weight:900;font-variant-numeric:tabular-nums}
+.pulso{width:8px;height:8px;border-radius:50%;background:var(--verde-claro);flex:none;
+  box-shadow:0 0 0 0 rgba(0,192,75,.6); animation:bate 2s infinite}
+@keyframes bate{70%{box-shadow:0 0 0 7px rgba(0,192,75,0)}100%{box-shadow:0 0 0 0 rgba(0,192,75,0)}}
+@media(prefers-reduced-motion:reduce){.pulso{animation:none}}
+
+/* ---------------- abas ---------------- */
+nav.abas{position:sticky;top:0;z-index:20;background:rgba(10,18,32,.95);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--borda)}
+nav.abas .env{display:flex;gap:4px;overflow-x:auto}
+nav.abas button{
+  background:none;border:0;color:var(--texto-fraco);cursor:pointer;white-space:nowrap;
+  font:700 .95rem Archivo,sans-serif; padding:14px 16px; border-bottom:3px solid transparent;
+}
+nav.abas button[aria-selected="true"]{color:var(--texto);border-bottom-color:var(--verde-claro)}
+
+main{padding:28px 0 60px}
+section[hidden]{display:none}
+.secao-topo{display:flex;justify-content:space-between;align-items:baseline;gap:16px;
+  flex-wrap:wrap;margin-bottom:18px}
+.secao-topo h2{font-size:1.5rem;font-weight:900;letter-spacing:-.02em}
+.secao-topo em{color:var(--texto-fraco);font-size:.85rem;font-style:normal}
+
+/* ---------------- notícias ---------------- */
+.grade{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(290px,1fr))}
+article.noticia{
+  background:var(--painel);border:1px solid var(--borda);border-radius:12px;
+  overflow:hidden;display:flex;flex-direction:column;
+}
+article.noticia .capa{aspect-ratio:16/9;background:#0D1726 center/cover no-repeat;flex:none}
+article.noticia .corpo{padding:14px 15px 15px;display:flex;flex-direction:column;gap:8px;flex:1}
+.fonte{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--amarelo);font-weight:600}
+article.noticia h3{font-size:1.02rem;font-weight:700;line-height:1.35}
+article.noticia h3 a{text-decoration:none}
+article.noticia h3 a:hover{text-decoration:underline}
+article.noticia p{margin:0;font-size:.88rem;color:var(--texto-fraco)}
+.rodape-card{margin-top:auto;padding-top:10px;display:flex;justify-content:space-between;
+  align-items:center;gap:10px;border-top:1px solid var(--borda);font-size:.8rem}
+.rodape-card time{color:var(--texto-fraco)}
+.btn-coment{background:none;border:1px solid var(--borda);color:var(--texto-fraco);
+  border-radius:8px;padding:5px 11px;cursor:pointer;font:600 .78rem "Source Sans 3",sans-serif}
+.btn-coment:hover{border-color:var(--verde);color:var(--texto)}
+
+/* ---------------- anúncio ---------------- */
+.anuncio{
+  border:2px dashed var(--borda); border-radius:12px; padding:26px 18px; text-align:center;
+  display:flex;flex-direction:column;justify-content:center;gap:6px;min-height:200px;
+}
+.anuncio b{font-family:Archivo;font-weight:900;color:var(--amarelo);font-size:1.05rem}
+.anuncio span{color:var(--texto-fraco);font-size:.85rem}
+.anuncio a{color:var(--verde-claro);font-weight:600}
+.faixa-anuncio{
+  margin:26px 0; border:2px dashed var(--borda); border-radius:12px;
+  padding:20px; text-align:center;
+}
+
+/* ---------------- mapa ---------------- */
+.painel{background:var(--painel);border:1px solid var(--borda);border-radius:14px;padding:20px}
+.mapa-topo{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.mapa-topo button{
+  background:var(--fundo);border:1px solid var(--borda);color:var(--texto-fraco);
+  border-radius:999px;padding:7px 15px;cursor:pointer;font:600 .85rem "Source Sans 3",sans-serif}
+.mapa-topo button[aria-pressed="true"]{background:var(--verde);border-color:var(--verde);color:#fff}
+.mapa-caixa{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:24px;align-items:start}
+@media(max-width:800px){.mapa-caixa{grid-template-columns:1fr}}
+#mapa svg{width:100%;height:auto;max-height:66vh;display:block}
+#mapa path{stroke:var(--fundo);stroke-width:900;cursor:pointer;transition:opacity .15s}
+#mapa path:hover{opacity:.75}
+.legenda{display:flex;gap:16px;flex-wrap:wrap;margin-top:12px;font-size:.84rem}
+.legenda i{width:13px;height:13px;border-radius:3px;display:inline-block;margin-right:6px;
+  vertical-align:-2px}
+.placar-uf{max-height:66vh;overflow:auto}
+.linha-uf{display:flex;align-items:center;gap:10px;padding:8px 2px;border-bottom:1px solid var(--borda);
+  font-size:.88rem}
+.linha-uf b{width:30px;font-family:Archivo;font-weight:900}
+.linha-uf .nome{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.linha-uf .pct{font-variant-numeric:tabular-nums;color:var(--texto-fraco)}
+.pastilha{width:9px;height:9px;border-radius:50%;flex:none}
+.resumo-num{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin-bottom:18px}
+.resumo-num div{background:var(--fundo);border:1px solid var(--borda);border-radius:10px;padding:12px}
+.resumo-num b{display:block;font-family:Archivo;font-weight:900;font-size:1.7rem;color:var(--verde-claro);
+  font-variant-numeric:tabular-nums}
+.resumo-num span{font-size:.78rem;color:var(--texto-fraco)}
+
+.aviso{border-left:3px solid var(--amarelo);background:rgba(255,223,0,.06);
+  padding:12px 14px;border-radius:0 8px 8px 0;font-size:.86rem;color:var(--texto-fraco);margin-top:16px}
+.aviso b{color:var(--texto)}
+
+/* ---------------- comentários ---------------- */
+dialog{background:var(--painel);color:var(--texto);border:1px solid var(--borda);
+  border-radius:14px;max-width:560px;width:calc(100% - 32px);padding:0}
+dialog::backdrop{background:rgba(0,0,0,.65)}
+.dlg-topo{padding:16px 18px;border-bottom:1px solid var(--borda)}
+.dlg-topo h3{font-size:1.05rem}
+.dlg-corpo{padding:16px 18px;max-height:50vh;overflow:auto}
+.dlg-pe{padding:14px 18px;border-top:1px solid var(--borda);display:flex;gap:8px;flex-wrap:wrap}
+textarea,input[type=text]{width:100%;background:var(--fundo);border:1px solid var(--borda);
+  color:var(--texto);border-radius:8px;padding:9px 11px;font:400 .95rem "Source Sans 3",sans-serif}
+textarea{min-height:76px;resize:vertical}
+.btn{background:var(--verde);color:#fff;border:0;border-radius:8px;padding:9px 16px;cursor:pointer;
+  font:600 .9rem "Source Sans 3",sans-serif}
+.btn.sec{background:none;border:1px solid var(--borda);color:var(--texto-fraco)}
+.comentario{border-bottom:1px solid var(--borda);padding:10px 0}
+.comentario b{font-size:.85rem;color:var(--amarelo)}
+.comentario p{margin:3px 0 0;font-size:.92rem}
+
+footer{border-top:1px solid var(--borda);padding:26px 0;color:var(--texto-fraco);font-size:.85rem}
+footer a{color:var(--verde-claro)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="env">
+    <div class="marca">
+      <div class="losango"><i></i></div>
+      <div>
+        <b>BRASIL 2026</b><br>
+        <span>Notícias de política e resultados oficiais</span>
+      </div>
+    </div>
+
+    <span class="olho">Contagem regressiva</span>
+    <h1 class="contagem-titulo" id="tituloContagem">Dias para mudar o Brasil</h1>
+    <p class="contagem-sub">2º turno — domingo, 25 de outubro de 2026</p>
+    <div class="relogio" id="relogio">
+      <div class="casa"><b id="cDias">--</b><span>dias</span></div>
+      <div class="casa"><b id="cHoras">--</b><span>horas</span></div>
+      <div class="casa"><b id="cMin">--</b><span>minutos</span></div>
+      <div class="casa"><b id="cSeg">--</b><span>segundos</span></div>
+    </div>
+
+    <!-- O gancho é o placar real, preenchido por JS a partir do dados/eleicao.json.
+         Se o dado não carregar, a faixa não aparece — melhor faixa nenhuma do
+         que faixa com número inventado. -->
+    <div class="gancho" id="gancho" hidden>
+      <div class="num"><b id="gGov">—</b><span>dos 27 governos estaduais já são da direita</span></div>
+      <div class="risco"></div>
+      <div class="num"><b id="gEst">—</b><span>estados venceu no 1º turno para presidente</span></div>
+      <button class="cta" data-ir="eleicao">Ver o mapa completo →</button>
+      <p class="fonte-tse">Apuração oficial do TSE, 100% das urnas. Nenhum número aqui é estimativa.</p>
+    </div>
+
+    <div class="apoio">
+      <span id="agora" hidden><i class="pulso"></i><b id="agoraNum">—</b> online agora</span>
+      <button id="joia" type="button">
+        <svg viewBox="0 0 24 24"><path d="M2 20h2.5V9H2v11Zm19.3-9.4c0-.9-.7-1.6-1.6-1.6h-5l.8-3.7v-.3c0-.4-.1-.7-.4-.9L14.2 3 8.6 8.6c-.3.3-.5.7-.5 1.2v8.6c0 .9.7 1.6 1.6 1.6h7.2c.7 0 1.3-.4 1.5-1l2.4-5.7c.1-.2.1-.4.1-.6v-1.5l.4-.6Z"/></svg>
+        Eu acredito na virada
+      </button>
+      <p>
+        <span id="placar">—</span> <span id="placarTexto">patriotas já nos apoiam</span>
+        <small id="placarNota">Contagem real, compartilhada entre todos os visitantes.</small>
+      </p>
+    </div>
+  </div>
+</header>
+
+<nav class="abas">
+  <div class="env" role="tablist">
+    <button role="tab" aria-selected="true"  data-aba="noticias">Notícias</button>
+    <button role="tab" aria-selected="false" data-aba="eleicao">Onde a direita venceu</button>
+    <button role="tab" aria-selected="false" data-aba="anuncie">Anuncie aqui</button>
+  </div>
+</nav>
+
+<main class="env">
+
+  <!-- ============ NOTÍCIAS ============ -->
+  <section id="aba-noticias">
+    <div class="secao-topo">
+      <h2>Últimas de política</h2>
+      <em id="statusNoticias">carregando…</em>
+    </div>
+    <div class="grade" id="grade"></div>
+    <div class="faixa-anuncio">
+      <b style="font-family:Archivo;color:var(--amarelo)">ANUNCIE AQUI</b><br>
+      <span style="color:var(--texto-fraco);font-size:.88rem">
+        Espaço de banner — fale com a gente: <a href="#aba-anuncie" data-ir="anuncie">quero anunciar</a>
+      </span>
+    </div>
+  </section>
+
+  <!-- ============ ELEIÇÃO ============ -->
+  <section id="aba-eleicao" hidden>
+    <div class="secao-topo">
+      <h2>Mapa da eleição de 4 de outubro</h2>
+      <em id="statusEleicao">carregando…</em>
+    </div>
+
+    <div class="resumo-num" id="resumoNum"></div>
+
+    <div class="painel">
+      <div class="mapa-topo">
+        <button data-mapa="presidente" aria-pressed="true">Presidente — 1º turno</button>
+        <button data-mapa="governador" aria-pressed="false">Governador</button>
+      </div>
+      <div class="mapa-caixa">
+        <div>
+          <div id="mapa">carregando mapa…</div>
+          <div class="legenda">
+            <span><i style="background:var(--verde)"></i>Direita / centro-direita</span>
+            <span><i style="background:#CE1126"></i>Esquerda</span>
+            <span><i style="background:var(--amarelo)"></i>Decisão no 2º turno</span>
+          </div>
+        </div>
+        <div class="placar-uf" id="placarUf"></div>
+      </div>
+
+      <div class="aviso">
+        <b>De onde vem cada coisa.</b> Nome, partido, votos e percentual vêm do
+        <a href="https://resultados.tse.jus.br" target="_blank" rel="noopener">TSE</a>,
+        com 100% das urnas apuradas. Já a divisão entre <em>direita</em> e <em>esquerda</em>
+        é classificação nossa, não do TSE — o tribunal informa partido, não campo
+        político. A lista de quem entra em cada grupo está aberta no arquivo
+        <code>tse.py</code> do projeto, pra você conferir e discordar se quiser.
+        <br><br>
+        <b>Amazonas e Rio Grande do Norte aparecem em amarelo</b> porque lá o
+        governo não foi decidido em 4 de outubro: vai pro 2º turno em 25/10.
+        Quem lidera não é quem venceu, e o mapa não vai dizer que é.
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ANUNCIE ============ -->
+  <section id="aba-anuncie" hidden>
+    <div class="secao-topo"><h2>Anuncie aqui</h2></div>
+    <div class="grade">
+      <div class="anuncio"><b>TOPO DA HOME</b><span>Banner 970×250</span><span>maior visibilidade</span></div>
+      <div class="anuncio"><b>ENTRE AS NOTÍCIAS</b><span>Card 300×250</span><span>aparece no meio da leitura</span></div>
+      <div class="anuncio"><b>LATERAL DO MAPA</b><span>Banner 300×600</span><span>fica junto do conteúdo mais visto</span></div>
+    </div>
+    <div class="painel" style="margin-top:20px">
+      <h3 style="margin-bottom:8px">Quer anunciar?</h3>
+      <p style="color:var(--texto-fraco);margin-top:0">
+        Escreva pra <a href="mailto:SEU-EMAIL-AQUI" style="color:var(--verde-claro)">SEU-EMAIL-AQUI</a>
+        com o espaço que te interessa. A gente responde com números de audiência e valores.
+      </p>
+      <p style="color:var(--texto-fraco);font-size:.85rem">
+        ⚠️ Troque este e-mail antes de publicar, e confira as regras do TSE sobre
+        propaganda eleitoral paga na internet antes de aceitar anúncio de campanha
+        ou candidato — as regras para anúncio político são diferentes das de
+        anúncio comum.
+      </p>
+    </div>
+  </section>
+
+</main>
+
+<dialog id="dlgComentarios">
+  <div class="dlg-topo"><h3 id="dlgTitulo">Comentários</h3></div>
+  <div class="dlg-corpo" id="dlgLista"></div>
+  <div class="dlg-pe">
+    <input type="text" id="cmtNome" placeholder="Seu nome" maxlength="40" style="flex:1 1 150px">
+    <textarea id="cmtTexto" placeholder="Escreva seu comentário" maxlength="600" style="flex:1 1 100%"></textarea>
+    <button class="btn" id="cmtEnviar">Publicar</button>
+    <button class="btn sec" id="cmtFechar">Fechar</button>
+  </div>
+</dialog>
+
+<footer class="env">
+  <p>
+    Este site é um <b>agregador</b>: mostra manchete, resumo curto e link para o
+    veículo de origem. O texto das matérias é de quem publicou, e o clique leva
+    para lá. Resultados eleitorais: TSE.
+  </p>
+  <p id="rodapeAtualizacao"></p>
+</footer>
+
+<script>
+/* ============================================================
+   CONFIGURAÇÃO
+   O contador de joias e os comentários precisam de um backend,
+   porque são dados COMPARTILHADOS entre visitantes. Enquanto
+   isso não estiver preenchido, o botão continua funcionando mas
+   o site NÃO mostra número nenhum — nunca um número inventado.
+   ============================================================ */
+// Projeto "brasil-2026-site" (sa-east-1) — SEPARADO do Inksa de propósito.
+// A chave abaixo é a publicável (anon): ela é feita para ficar no código do
+// navegador. Quem segura o acesso é o RLS do banco, não o sigilo da chave.
+const CONFIG = {
+  SUPABASE_URL: "https://fubgtakvchrojpvmmygt.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1Ymd0YWt2Y2hyb2pwdm1teWd0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIwMDQ4ODMsImV4cCI6MjEwNzU4MDg4M30.wpvcOSWcra2oC_puIJV1cylDcJ64VSMrh1yEeYSt6XE",
+};
+const TEM_BACKEND = !!(CONFIG.SUPABASE_URL && CONFIG.SUPABASE_ANON_KEY);
+
+/* ---------- contador regressivo ---------- */
+const ALVO = new Date("2026-10-25T08:00:00-03:00");  // abertura das urnas
+function tique(){
+  const falta = ALVO - new Date();
+  const d = document;
+  if (falta <= 0){
+    d.getElementById("tituloContagem").textContent = "É hoje. O Brasil decide.";
+    ["cDias","cHoras","cMin","cSeg"].forEach(i => d.getElementById(i).textContent = "0");
+    return;
+  }
+  const s = Math.floor(falta/1000);
+  d.getElementById("cDias").textContent  = Math.floor(s/86400);
+  d.getElementById("cHoras").textContent = String(Math.floor(s%86400/3600)).padStart(2,"0");
+  d.getElementById("cMin").textContent   = String(Math.floor(s%3600/60)).padStart(2,"0");
+  d.getElementById("cSeg").textContent   = String(s%60).padStart(2,"0");
+}
+tique(); setInterval(tique, 1000);
+
+/* ---------- abas ---------- */
+const abas = document.querySelectorAll('nav.abas button');
+function mostra(nome){
+  abas.forEach(b => b.setAttribute("aria-selected", String(b.dataset.aba === nome)));
+  ["noticias","eleicao","anuncie"].forEach(n =>
+    document.getElementById("aba-"+n).hidden = (n !== nome));
+  if (nome === "eleicao") carregaEleicao();
+}
+abas.forEach(b => b.onclick = () => mostra(b.dataset.aba));
+document.querySelectorAll('[data-ir]').forEach(a =>
+  a.onclick = e => { e.preventDefault(); mostra(a.dataset.ir); });
+
+/* ---------- botão do joia ----------
+   Uma pessoa, um voto: o navegador guarda que já clicou. Não é
+   infalível (quem limpar o site clica de novo), mas é honesto —
+   o número cresce por clique real, não por temporizador. */
+const JA_CLICOU = "joia_brasil_2026";
+const btnJoia = document.getElementById("joia");
+const placar  = document.getElementById("placar");
+
+function jaApoiou(){ try { return localStorage.getItem(JA_CLICOU) === "1"; } catch { return false; } }
+function marcaApoiou(){ try { localStorage.setItem(JA_CLICOU,"1"); } catch {} }
+
+function pintaBotao(){
+  if (jaApoiou()){
+    btnJoia.disabled = true;
+    btnJoia.lastChild.textContent = " Obrigado pelo seu apoio";
+  }
+}
+
+async function leApoios(){
+  if (!TEM_BACKEND){
+    // Sem backend não existe número verdadeiro. Então não inventa um.
+    placar.textContent = "";
+    document.getElementById("placarTexto").textContent = "Seja o primeiro a apoiar";
+    document.getElementById("placarNota").textContent =
+      "O contador entra no ar junto com o site publicado.";
+    return;
+  }
+  try{
+    const r = await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/apoios?select=total&id=eq.1`,
+      {headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY}});
+    const j = await r.json();
+    placar.textContent = (j?.[0]?.total ?? 0).toLocaleString("pt-BR");
+  }catch{ placar.textContent = "—"; }
+}
+
+btnJoia.onclick = async () => {
+  if (jaApoiou()) return;
+  marcaApoiou(); pintaBotao();
+  if (!TEM_BACKEND) return;
+  try{
+    await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/rpc/soma_apoio`, {
+      method:"POST",
+      headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY,
+               "Content-Type":"application/json"},
+      body:"{}"
+    });
+  }catch{}
+  leApoios();
+};
+pintaBotao(); leApoios();
+
+/* ---------- quantas pessoas online ----------
+   Contagem por batimento, não por adivinhação: cada aba aberta tem um
+   identificador e avisa o servidor a cada 30s que ainda está aqui. O número
+   mostrado é quantas abas avisaram nos últimos 60 segundos.
+
+   ⚠️ Enquanto não houver backend, o selo fica ESCONDIDO. Site que inventa
+   "29 pessoas online" com Math.random() é marcador de golpe — a gente achou
+   isso no edificareprosperar e não vai repetir aqui. Sem dado real, sem selo. */
+const selo = document.getElementById("agora");
+const SESSAO_CHAVE = "sessao_brasil_2026";
+let sessao;
+try{
+  sessao = sessionStorage.getItem(SESSAO_CHAVE);
+  if (!sessao){ sessao = crypto.randomUUID(); sessionStorage.setItem(SESSAO_CHAVE, sessao); }
+}catch{ sessao = crypto.randomUUID(); }
+
+async function batePresenca(){
+  if (!TEM_BACKEND) return;
+  const cab = {apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY,
+               "Content-Type":"application/json"};
+  try{
+    // avisa que esta aba está viva
+    await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/presenca?on_conflict=sessao`, {
+      method:"POST",
+      headers:{...cab, Prefer:"resolution=merge-duplicates,return=minimal"},
+      body: JSON.stringify({sessao, visto_em: new Date().toISOString()})
+    });
+    // conta quem avisou nos últimos 60s
+    const desde = new Date(Date.now() - 60_000).toISOString();
+    const r = await fetch(
+      `${CONFIG.SUPABASE_URL}/rest/v1/presenca?select=sessao&visto_em=gte.${desde}`,
+      {headers:{...cab, Prefer:"count=exact", Range:"0-0"}});
+    const faixa = r.headers.get("content-range") || "";
+    const total = Number(faixa.split("/")[1]);
+    if (Number.isFinite(total) && total > 0){
+      document.getElementById("agoraNum").textContent = total.toLocaleString("pt-BR");
+      selo.hidden = false;
+    }
+  }catch{ /* sem número é melhor que número errado: o selo simplesmente não aparece */ }
+}
+batePresenca(); setInterval(batePresenca, 30_000);
+
+/* ---------- notícias ---------- */
+const ehData = iso => {
+  const d = new Date(iso), ag = new Date(), min = Math.floor((ag-d)/60000);
+  if (min < 60) return `há ${Math.max(min,1)} min`;
+  if (min < 1440) return `há ${Math.floor(min/60)} h`;
+  return d.toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit"});
+};
+
+async function carregaNoticias(){
+  const grade = document.getElementById("grade");
+  try{
+    const j = await (await fetch("dados/noticias.json?t="+Date.now())).json();
+    document.getElementById("statusNoticias").textContent =
+      `${j.total} notícias · atualizado ${new Date(j.atualizado).toLocaleString("pt-BR",{hour:"2-digit",minute:"2-digit"})}`;
+    document.getElementById("rodapeAtualizacao").textContent =
+      "Notícias atualizadas automaticamente a cada hora. Última: " +
+      new Date(j.atualizado).toLocaleString("pt-BR");
+
+    grade.innerHTML = "";
+    j.noticias.forEach((n, i) => {
+      const art = document.createElement("article");
+      art.className = "noticia";
+      art.innerHTML = `
+        ${n.imagem ? `<div class="capa" style="background-image:url('${n.imagem}')"></div>` : ""}
+        <div class="corpo">
+          <span class="fonte">${n.fonte}</span>
+          <h3><a href="${n.link}" target="_blank" rel="noopener">${n.titulo}</a></h3>
+          <p>${n.resumo || ""}</p>
+          <div class="rodape-card">
+            <time>${ehData(n.data)}</time>
+            <button class="btn-coment" data-id="${n.id}" data-titulo="${n.titulo.replace(/"/g,"&quot;")}">
+              💬 Comentar
+            </button>
+          </div>
+        </div>`;
+      grade.appendChild(art);
+
+      // Um bloco de anúncio a cada 6 notícias, para não virar mural de banner.
+      if ((i+1) % 6 === 0){
+        const ad = document.createElement("div");
+        ad.className = "anuncio";
+        ad.innerHTML = `<b>ANUNCIE AQUI</b><span>Seu anúncio nesta posição</span>
+                        <span><a href="#" data-ir="anuncie">quero anunciar</a></span>`;
+        grade.appendChild(ad);
+        ad.querySelector("[data-ir]").onclick = e => { e.preventDefault(); mostra("anuncie"); };
+      }
+    });
+    grade.querySelectorAll(".btn-coment").forEach(b =>
+      b.onclick = () => abreComentarios(b.dataset.id, b.dataset.titulo));
+  }catch(e){
+    document.getElementById("statusNoticias").textContent = "não consegui carregar";
+    grade.innerHTML = `<p style="color:var(--texto-fraco)">
+      Rode <code>python bot.py</code> para gerar <code>dados/noticias.json</code>.</p>`;
+  }
+}
+carregaNoticias();
+
+/* ---------- eleição + mapa ---------- */
+const COD_UF = {11:"RO",12:"AC",13:"AM",14:"RR",15:"PA",16:"AP",17:"TO",21:"MA",22:"PI",
+  23:"CE",24:"RN",25:"PB",26:"PE",27:"AL",28:"SE",29:"BA",31:"MG",32:"ES",33:"RJ",35:"SP",
+  41:"PR",42:"SC",43:"RS",50:"MS",51:"MT",52:"GO",53:"DF"};
+const COR = {direita:"#009739", esquerda:"#CE1126", indefinido:"#5A6B80", segundoturno:"#FFDF00"};
+let ELEICAO = null, MAPA_ATUAL = "presidente", svgCarregado = false;
+
+/* O gancho do topo é contado do mesmo arquivo que alimenta o mapa, para não
+   existir a chance de a manchete dizer um número e o mapa mostrar outro. */
+async function preencheGancho(){
+  try{
+    if (!ELEICAO) ELEICAO = await (await fetch("dados/eleicao.json?t="+Date.now())).json();
+    const gov = ELEICAO.governador_uf || {};
+    // AM e RN vão a 2º turno: não contam como governo conquistado.
+    const govDireita = Object.keys(gov).filter(uf =>
+      !["AM","RN"].includes(uf) && gov[uf]?.vencedor?.campo === "direita").length;
+    const pres = ELEICAO.presidente_uf || {};
+    const estDireita = Object.values(pres).filter(r => r?.vencedor?.campo === "direita").length;
+    if (!govDireita && !estDireita) return;      // sem dado, sem faixa
+    document.getElementById("gGov").textContent = govDireita;
+    document.getElementById("gEst").textContent = estDireita;
+    document.getElementById("gancho").hidden = false;
+  }catch{ /* silêncio: a faixa simplesmente não aparece */ }
+}
+preencheGancho();
+
+async function carregaEleicao(){
+  if (ELEICAO && svgCarregado) return pintaMapa();
+  try{
+    if (!ELEICAO) ELEICAO = await (await fetch("dados/eleicao.json?t="+Date.now())).json();
+    if (!svgCarregado){
+      const svg = await (await fetch("brasil_ibge.svg")).text();
+      document.getElementById("mapa").innerHTML = svg;
+      svgCarregado = true;
+    }
+    document.getElementById("statusEleicao").textContent =
+      "fonte: TSE · " + (ELEICAO.presidente_br?.apurado || "") + "% apurado";
+    pintaMapa();
+  }catch(e){
+    document.getElementById("statusEleicao").textContent = "não consegui carregar";
+    document.getElementById("mapa").innerHTML =
+      `<p style="color:var(--texto-fraco)">Rode <code>python tse.py</code> para gerar os dados.</p>`;
+  }
+}
+
+function campoDaUf(uf){
+  const bloco = MAPA_ATUAL === "presidente" ? ELEICAO.presidente_uf : ELEICAO.governador_uf;
+  const r = bloco?.[uf]; if (!r?.vencedor) return null;
+  // Governador em AM e RN foi para 2º turno: ninguém venceu em 04/10.
+  const segundoTurno = (MAPA_ATUAL === "governador" && ["AM","RN"].includes(uf));
+  return {...r.vencedor, segundoTurno};
+}
+
+function pintaMapa(){
+  const svg = document.querySelector("#mapa svg"); if (!svg || !ELEICAO) return;
+  let dir = 0, esq = 0, st = 0;
+
+  svg.querySelectorAll("path").forEach(p => {
+    const uf = COD_UF[Number(p.id)]; if (!uf) return;
+    const v = campoDaUf(uf);
+    if (!v){ p.setAttribute("fill", COR.indefinido); return; }
+    if (v.segundoTurno){ p.setAttribute("fill", COR.segundoturno); st++; }
+    else {
+      p.setAttribute("fill", COR[v.campo] || COR.indefinido);
+      if (v.campo === "direita") dir++; else if (v.campo === "esquerda") esq++;
+    }
+    p.innerHTML = `<title>${uf} — ${v.nome} (${v.partido}) ${v.percentual}%${v.segundoTurno?" · vai a 2º turno":""}</title>`;
+  });
+
+  const rotulo = MAPA_ATUAL === "presidente" ? "estados" : "governos";
+  document.getElementById("resumoNum").innerHTML = `
+    <div><b>${dir}</b><span>${rotulo} com a direita</span></div>
+    <div><b>${esq}</b><span>${rotulo} com a esquerda</span></div>
+    ${st ? `<div><b>${st}</b><span>em 2º turno</span></div>` : ""}`;
+
+  const bloco = MAPA_ATUAL === "presidente" ? ELEICAO.presidente_uf : ELEICAO.governador_uf;
+  document.getElementById("placarUf").innerHTML = Object.keys(bloco).sort().map(uf => {
+    const v = campoDaUf(uf); if (!v) return "";
+    const cor = v.segundoTurno ? COR.segundoturno : (COR[v.campo] || COR.indefinido);
+    return `<div class="linha-uf">
+      <span class="pastilha" style="background:${cor}"></span>
+      <b>${uf}</b>
+      <span class="nome">${v.nome} <span style="color:var(--texto-fraco)">(${v.partido})</span></span>
+      <span class="pct">${v.percentual}%</span></div>`;
+  }).join("");
+}
+
+document.querySelectorAll(".mapa-topo button").forEach(b => b.onclick = () => {
+  MAPA_ATUAL = b.dataset.mapa;
+  document.querySelectorAll(".mapa-topo button").forEach(o =>
+    o.setAttribute("aria-pressed", String(o === b)));
+  pintaMapa();
+});
+
+/* ---------- comentários ---------- */
+const dlg = document.getElementById("dlgComentarios");
+let noticiaAberta = null;
+document.getElementById("cmtFechar").onclick = () => dlg.close();
+
+async function abreComentarios(id, titulo){
+  noticiaAberta = id;
+  document.getElementById("dlgTitulo").textContent = titulo;
+  const lista = document.getElementById("dlgLista");
+  lista.innerHTML = "<p style='color:var(--texto-fraco)'>carregando…</p>";
+  dlg.showModal();
+  if (!TEM_BACKEND){
+    lista.innerHTML = `<p style="color:var(--texto-fraco)">
+      Os comentários entram no ar junto com o site publicado — eles precisam de
+      banco de dados para serem vistos por todo mundo.</p>`;
+    return;
+  }
+  try{
+    const r = await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/comentarios?select=nome,texto,criado_em&noticia_id=eq.${id}&aprovado=eq.true&order=criado_em.desc`,
+      {headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY}});
+    const j = await r.json();
+    lista.innerHTML = j.length ? j.map(c =>
+      `<div class="comentario"><b>${c.nome}</b><p>${c.texto}</p></div>`).join("")
+      : "<p style='color:var(--texto-fraco)'>Ninguém comentou ainda. Seja o primeiro.</p>";
+  }catch{ lista.innerHTML = "<p style='color:var(--texto-fraco)'>não consegui carregar</p>"; }
+}
+
+document.getElementById("cmtEnviar").onclick = async () => {
+  const nome = document.getElementById("cmtNome").value.trim() || "Anônimo";
+  const texto = document.getElementById("cmtTexto").value.trim();
+  if (!texto) return;
+  if (!TEM_BACKEND){ alert("Os comentários entram no ar junto com o site publicado."); return; }
+  try{
+    await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/comentarios`, {
+      method:"POST",
+      headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY,
+               "Content-Type":"application/json", Prefer:"return=minimal"},
+      body: JSON.stringify({noticia_id:noticiaAberta, nome, texto})
+    });
+    document.getElementById("cmtTexto").value = "";
+    document.getElementById("dlgLista").innerHTML =
+      "<p style='color:var(--verde-claro)'>Comentário enviado. Ele aparece depois de passar pela moderação.</p>";
+  }catch{ alert("Não consegui enviar agora."); }
+};
+</script>
+</body>
+</html>
