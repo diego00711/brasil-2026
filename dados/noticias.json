@@ -1,8 +1,134 @@
 {
- "atualizado": "2026-10-15T01:27:41.638813-03:00",
+ "atualizado": "2026-10-15T06:48:35.481181-03:00",
  "total": 75,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "88eefb74af31",
+   "titulo": "Saiba quais ações estão na pauta do Congresso nesta 5ª feira",
+   "resumo": "Senado analisa PEC da Segurança Pública; Câmara delibera sobre violência política de gênero e exames particulares no SUS",
+   "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-5a-feira/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T06:15:59-03:00"
+  },
+  {
+   "id": "56010ec62967",
+   "titulo": "Plenário do STF: saiba quais ações estão na pauta desta 5ª feira",
+   "resumo": "Corte julga ação sobre contribuição previdenciária de empregadores rurais; sessão começa às 14h",
+   "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-5a-feira-8/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T06:15:57-03:00"
+  },
+  {
+   "id": "3c85576fa763",
+   "titulo": "Saiba o que Lula e Flávio farão nesta 5ª feira",
+   "resumo": "Presidente dá entrevista à \"TV Globo\"; senador faz live no YouTube e participa de evento em Minas Gerais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-o-que-lula-e-flavio-farao-nesta-5a-feira/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T06:15:47-03:00"
+  },
+  {
+   "id": "4549e6e2d5e3",
+   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
+   "resumo": "Padilha visita hospitais no Rio, Wellington Dias acompanha entrega de alimentos e Wolney Queiroz dá entrevista ao \"Poder360\"",
+   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-12/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T06:15:35-03:00"
+  },
+  {
+   "id": "6d2dd7f77721",
+   "titulo": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira",
+   "resumo": "Levantamento nacional do Datafolha, além de pesquisa estadual no Tocantins medem cenário eleitoral",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-pesquisas-eleitorais-podem-sair-nesta-5a-feira-12/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/estudos-eleitorais-14-out-2026-scaled.png",
+   "data": "2026-10-15T06:15:31-03:00"
+  },
+  {
+   "id": "9ff0987159b3",
+   "titulo": "Começa na China a 140ª Canton Fair, maior feira multissetorial do mundo",
+   "resumo": "Evento abre nesta 5ª feira (15.out) e quer movimentar US$ 26 bi; empresa que leva brasileiros diz que feira é \"porta de entrada\" para negociar no país",
+   "link": "https://www.poder360.com.br/poder-china/comeca-na-china-a-140a-canton-fair-maior-feira-multissetorial-do-mundo/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/canton-fair-14-out-2026.jpg",
+   "data": "2026-10-15T06:00:37-03:00"
+  },
+  {
+   "id": "557b3e63404e",
+   "titulo": "Saiba como estão Lula e Flávio nas pesquisas a 10 dias do 2º turno",
+   "resumo": "Senador aparece numericamente à frente em 9 dos 10 estudos mais recentes compilados pelo Poder360; Lula tem vantagem numérica em 1",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-10-dias-do-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-lista-jpg-scaled.jpg",
+   "data": "2026-10-15T06:00:22-03:00"
+  },
+  {
+   "id": "55c9ca0f783b",
+   "titulo": "Saiba quais indicadores e balanços saem nesta 5ª feira",
+   "resumo": "Saem indicadores de comércio, agricultura e garantias da União; França, EUA e outros países divulgam dados econômicos",
+   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-5a-feira-10/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/indicadores-internacionais-1aedicao2026-14out2026-scaled.png",
+   "data": "2026-10-15T06:00:11-03:00"
+  },
+  {
+   "id": "5272620b3ed5",
+   "titulo": "O que faz um fiscal de urna",
+   "resumo": "PL lançou site para cadastrar interessados em atuar como fiscais de urna no 2º turno; PT incentiva seus apoiadores a fazer o mesmo, mas não explica como se inscrever",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/o-que-faz-um-fiscal-de-urna/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/TropaFlavio-Fiscais-13out2026.png",
+   "data": "2026-10-15T06:00:05-03:00"
+  },
+  {
+   "id": "7e3cc2a96e18",
+   "titulo": "Canal “Exército do Lula” volta ao ar após decisão de Nunes Marques",
+   "resumo": "Presidente do TSE dispensou prazo de 48 horas para reativação; canal de Janones havia sido suspenso na 3ª feira (13.out)",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/canal-exercito-do-lula-volta-ao-ar-apos-decisao-de-nunes-marques/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T05:28:33-03:00"
+  },
+  {
+   "id": "509c4aa0b9d8",
+   "titulo": "Eleições 2026: posso votar no segundo turno se faltei no primeiro?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/eleicoes-2026-posso-votar-no-segundo-turno-se-faltei-no-primeiro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/j40L8Fziu5GZP6xwGPinKw344kA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/2/b/xoCCHBQs6nMXBL0hA9rg/whatsapp-image-2020-04-22-at-09.36.55.jpeg",
+   "data": "2026-10-15T04:00:00-03:00"
+  },
+  {
+   "id": "b84766daa96f",
+   "titulo": "Regra de transição e dois dias de folga: entenda como ficou a proposta que acaba com a escala 6x1",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/regra-de-transicao-e-dois-dias-de-folga-entenda-como-ficou-a-proposta-que-acaba-com-a-escala-6x1.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tbHM40DIE9F1uU7X_R7ITOROy90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/b/92v6B3QnquY6MmEWFq1A/55589016257-bf1cd3ae7e-o.jpg",
+   "data": "2026-10-15T02:00:00-03:00"
+  },
+  {
+   "id": "619e2081bdc6",
+   "titulo": "Após cobrar debate, oposição só participa da última de cinco sessões de discussão da PEC do fim da escala 6x1",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/apos-cobrar-debate-oposicao-so-participa-da-ultima-de-cinco-sessoes-de-discussao-da-pec-do-fim-da-escala-6x1.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/qpYSnCemGQNleG7giFwRSLPcdQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/CY5u8WRXCuCJA1VYIRMA/2026-10-15t011454z-1944213838-rc2c3oan1klk-rtrmadp-3-brazil-politics-labor.jpg",
+   "data": "2026-10-15T02:00:00-03:00"
+  },
+  {
+   "id": "9dfc14c8c931",
+   "titulo": "Plenário do Senado deve votar nesta quinta PEC da Segurança Pública",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/plenario-do-senado-deve-votar-nesta-quinta-pec-da-seguranca-publica.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/-JBudXTTiwp5esSSXR_fPC3McCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/f0au3hR0y9pwemeTQV9w/55577655903-968e7d21a5-k.jpg",
+   "data": "2026-10-15T02:00:00-03:00"
+  },
   {
    "id": "b74cd139e5f3",
    "titulo": "O fim da escala 6x1 aprovado no Congresso - O Assunto #1825",
@@ -11,33 +137,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/Vnr62p0KtjxT80FT58fF2T8C6RU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/jcfX9IT7SJtPcgbkeKZQ/55576054800-ec32895396-k-1-.jpg",
    "data": "2026-10-15T00:30:00-03:00"
-  },
-  {
-   "id": "1c8ba38349f0",
-   "titulo": "Saiba como votou cada senador sobre o fim da escala 6 X 1",
-   "resumo": "Texto que reduz jornada de trabalho teve 75 votos a favor, 1 contra e 5 abstenções no 1º turno e no 2º turno",
-   "link": "https://www.poder360.com.br/poder-congresso/saiba-como-votou-cada-senador-sobre-o-fim-da-escala-6-x-1/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/como-votou-6x1-camara-1-2-turno-15-out-2026-2-scaled.png",
-   "data": "2026-10-15T00:24:28-03:00"
-  },
-  {
-   "id": "dd991cff5d51",
-   "titulo": "Governistas festejam 6 X 1 e chamam proposta de Flávio de escravidão",
-   "resumo": "Reginaldo Lopes chama contratação por hora de “escravidão moderna”; Renan Filho cobra explicações sobre mudança de posição do candidato",
-   "link": "https://www.poder360.com.br/poder-congresso/governistas-festejam-6-x-1-e-chamam-proposta-de-flavio-de-escravidao/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/H0PYcOGLRZs/hqdefault.jpg",
-   "data": "2026-10-15T00:08:36-03:00"
-  },
-  {
-   "id": "7cd9ed2fa2bc",
-   "titulo": "“Flávio usa trabalhadores para se eleger”, diz Erika Hilton",
-   "resumo": "Deputada diz que candidato do PL apoia 6 X 1 por interesse eleitoral e critica ausência no plenário durante votação",
-   "link": "https://www.poder360.com.br/poder-congresso/flavio-usa-trabalhadores-para-se-eleger-diz-erika-hilton/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/i49vw4iD5rQ/hqdefault.jpg",
-   "data": "2026-10-15T00:04:52-03:00"
   },
   {
    "id": "ffd75a03b72f",
@@ -112,15 +211,6 @@
    "data": "2026-10-15T00:00:01-03:00"
   },
   {
-   "id": "b27c246df68b",
-   "titulo": "Entrevista de Lula na Globo: veja quando e onde assistir",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-lula-na-globo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/sirJVvZpc0Yba-GPMA5dSqYgWnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/ZdaBwHSvC5fCoSjloJ8Q/whatsapp-image-2026-08-27-at-21.10.51.jpeg",
-   "data": "2026-10-15T00:00:00-03:00"
-  },
-  {
    "id": "d38672693bcd",
    "titulo": "Nunes Marques autoriza reativação imediata do canal “Exército do Lula” no WhatsApp",
    "resumo": "Nunes Marques dispensou quarentena de 48h para reativação e liberou o funcionamento do canal \"Exército do Lula\".",
@@ -157,15 +247,6 @@
    "data": "2026-10-14T23:25:56-03:00"
   },
   {
-   "id": "d87f75b4055c",
-   "titulo": "Fiesp critica fim da escala 6 X 1 aprovada pelo Senado",
-   "resumo": "Federação alerta para \"aumento da informalidade\" e custos para empresas e famílias brasileiras com a medida",
-   "link": "https://www.poder360.com.br/poder-economia/fiesp-critica-fim-da-escala-6-x-1-aprovada-pelo-senado/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T23:16:45-03:00"
-  },
-  {
    "id": "b4b7d9cc9904",
    "titulo": "Nunes Marques restabelece ‘Exército do Lula’ no WhatsApp",
    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, retirou nesta quarta-feira, 14, o prazo de 48 horas que havia estabelecido para o restabelecimento do canal \"Exército do Lula\" no WhatsApp. Administrado pelo …",
@@ -184,24 +265,6 @@
    "data": "2026-10-14T23:07:00-03:00"
   },
   {
-   "id": "0d1045df37c7",
-   "titulo": "Lula comemora fim da escala 6 X 1: “Sorte do povo brasileiro”",
-   "resumo": "Texto teve 75 votos a 1 em cada turno e seguirá para promulgação; redução da jornada será gradual",
-   "link": "https://www.poder360.com.br/poder-governo/lula-comemora-fim-da-escala-6-x-1-sorte-do-povo-brasileiro/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/_y-VxfYiqjA/hqdefault.jpg",
-   "data": "2026-10-14T23:04:48-03:00"
-  },
-  {
-   "id": "0e6e7c1aadad",
-   "titulo": "Com Flávio presidente, Moraes estará fora do STF, diz Eduardo",
-   "resumo": "Ex-deputado vê vitória de irmão como possibilidade de conseguir anistia para voltar ao Brasil",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-flavio-presidente-moraes-estara-fora-do-stf-diz-eduardo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T23:02:14-03:00"
-  },
-  {
    "id": "2d3b5ba398ab",
    "titulo": "Como votou cada senador na PEC do fim da escala 6×1",
    "resumo": "Veja como votou cada senador na aprovação em dois turnos da PEC que acaba com a escala de trabalho 6x1. Leia na Gazeta do Povo.",
@@ -209,24 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/14222149/como-votou-escala-6x1-1-960x540.jpg",
    "data": "2026-10-14T23:01:39-03:00"
-  },
-  {
-   "id": "d8af76aba86a",
-   "titulo": "MPF apura retirada de posts e perfis pelo X e pela Meta",
-   "resumo": "Procuradoria pede explicações às plataformas depois de receber mais de 1.000 relatos de restrições no período eleitoral",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpf-apura-retirada-de-posts-e-perfis-pelo-x-e-pela-meta/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T22:49:13-03:00"
-  },
-  {
-   "id": "a727e1ad745c",
-   "titulo": "Fim da escala 6 X 1 pode beneficiar 14,8 milhões de trabalhadores",
-   "resumo": "Estimativa é do Ministério do Trabalho e Emprego; parecer do relator da PEC, Omar Aziz, cita mais de 31 milhões de vínculos com jornada de 44 horas",
-   "link": "https://www.poder360.com.br/poder-economia/fim-da-escala-6-x-1-pode-beneficiar-148-milhoes-de-trabalhadores/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T22:45:44-03:00"
   },
   {
    "id": "88366bc8259f",
@@ -247,33 +292,6 @@
    "data": "2026-10-14T22:41:00-03:00"
   },
   {
-   "id": "60ec27c73737",
-   "titulo": "Milei chama Lula de ditador e diz que Flávio vencerá “em poucos dias”",
-   "resumo": "Presidente argentino mencionou Flávio, Eduardo e Jair durante discurso em evento sobre lideranças latinas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/milei-chama-lula-de-ditador-e-diz-que-flavio-vencera-em-poucos-dias/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T22:37:31-03:00"
-  },
-  {
-   "id": "8573ec4d5bbd",
-   "titulo": "Após aprovação do fim da escala 6x1, Alcolumbre diz a líder do PT: 'Eu não falei que ia dar certo?'",
-   "resumo": "Alcolumbre sobre aprovação do fim da escala 6x1: 'Não falei que ia dar certo?' Após a aprovação da Proposta de Emenda à Constituição (PEC) que acaba com a escala 6x1 e reduz a jornada de trabalho de 44 para 40 horas semanais, o líder do PT …",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/14/camilo-santana-lider-do-pt-no-senado-agradece-a-alcolumbre-pela-aprovacao-do-fim-da-escala-6x1-voce-e-o-grande-responsavel-por-isso-aqui.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-10-14T22:32:01-03:00"
-  },
-  {
-   "id": "e438503b234c",
-   "titulo": "STF dispensa bancos de pagar correção extra em depósitos judiciais",
-   "resumo": "Por 7 votos a 2, Corte afasta compensação de perdas inflacionárias dos antigos planos econômicos",
-   "link": "https://www.poder360.com.br/poder-justica/stf-dispensa-bancos-de-pagar-correcao-extra-em-depositos-judiciais/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-14T22:29:13-03:00"
-  },
-  {
    "id": "f8bdca93b9d9",
    "titulo": "Lula reforça compromisso com evangélicos; Flávio recebe apoio no RS",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-reforca-compromisso-com-evangelicos-flavio-recebe-apoio-no-rs\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -281,15 +299,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-14T22:27:00-03:00"
-  },
-  {
-   "id": "d429bcaf3131",
-   "titulo": "Senado aprova PEC que prevê o fim da escala 6x1; texto segue para promulgação",
-   "resumo": "",
-   "link": "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/b3JJg-Tq5NW0Rqy1PPLl0NoSigU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/K/AgJx9UT02X1tSGBZ3nuA/captura-de-tela-2026-10-14-215443.png",
-   "data": "2026-10-14T22:26:58-03:00"
   },
   {
    "id": "d8a92b1084d2",
@@ -308,15 +317,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio_debate.jpeg",
    "data": "2026-10-14T22:07:12-03:00"
-  },
-  {
-   "id": "5dfe775d96b4",
-   "titulo": "Lula comemora aprovação da PEC do fim da escala 6x1: 'vitória dos trabalhadores'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/14/lula-comemora-aprovacao-da-pec-do-fim-da-escala-6x1.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/y8dIGf-kQKIUZVuXCSd_1UdRqCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/T/UoF45bRruIHTnnOmKnCQ/55532115488-5bd4a36479-k.jpg",
-   "data": "2026-10-14T22:07:06-03:00"
   },
   {
    "id": "c651343ec052",
