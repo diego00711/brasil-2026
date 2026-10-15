@@ -1,34 +1,358 @@
 {
- "atualizado": "2026-10-15T11:55:03.552114-03:00",
- "total": 73,
+ "atualizado": "2026-10-15T16:04:33.417735-03:00",
+ "total": 63,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "c5c1f420376b",
-   "titulo": "PF investiga suspeita de desvios na Educação em município do Pará",
-   "resumo": "A Polícia Federal (PF) deflagrou nesta quinta-feira, 15, a Operação Desvio Escolar. A ação investiga suspeitas de fraudes em licitações e desvios de recursos federais da Educação em Brejo Grande do Araguaia, no sudeste do Pará. Os agentes c…",
-   "link": "https://revistaoeste.com/politica/pf-investiga-suspeita-de-desvios-na-educacao-em-municipio-do-para/",
+   "id": "fd1a7a12ef2e",
+   "titulo": "Michel Temer sinaliza apoio a Flávio Bolsonaro e gera especulações de acordos",
+   "resumo": "Entenda por que o apoio de Michel Temer a Flávio Bolsonaro em 2026 gerou especulações sobre possíveis negociações políticas com o Supremo Tribunal Federal.",
+   "link": "https://www.gazetadopovo.com.br/republica/michel-temer-sinaliza-apoio-a-flavio-bolsonaro-e-gera-especulacoes-de-acordos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15154509/moraes-8-1-960x540.jpg",
+   "data": "2026-10-15T15:45:05-03:00"
+  },
+  {
+   "id": "23712ae111b2",
+   "titulo": "'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso",
+   "resumo": "A Câmara dos Deputados aprovou nesta quinta-feira (15) a proposta que estabelece novas diretrizes para a aplicação do Exame Nacional de Avaliação da Formação Médica (Enamed). Entre as novas regras, estão a exigência de uma nota mínima e a a…",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-15T15:34:04-03:00"
+  },
+  {
+   "id": "eeb1a88a0384",
+   "titulo": "TSE derruba prazo de 48 horas para uso de canais digitais de campanha",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu, por unanimidade, nesta quinta-feira, 15, derrubar o prazo de 48 horas estabelecido pela própria Corte para a utilização de canais eletrônicos registrados tardiamente pelas campanhas eleitorais. A…",
+   "link": "https://oantagonista.com.br/brasil/tse-derruba-prazo-de-48-horas-para-uso-de-canais-digitais-de-campanha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55299493993_595d17cfa0_c-1-e1780946266538.jpg",
+   "data": "2026-10-15T15:27:41-03:00"
+  },
+  {
+   "id": "b7c6de052f5c",
+   "titulo": "Meta esclarece a Nunes Marques funcionamento de IA sobre Lula e Flávio Bolsonaro",
+   "resumo": "Empresa diz que trabalha para ajustar filtros eleitorais da Meta AI após relatos de tratamento diferente entre candidatos no WhatsApp. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/meta-esclarece-nunes-marques-funcionamento-ia-lula-flavio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15152510/kassio-nunes-marques-foto-gustavo-moreno-stf-3-960x540.jpg",
+   "data": "2026-10-15T15:25:26-03:00"
+  },
+  {
+   "id": "fbe16f4592a1",
+   "titulo": "PF classifica Canella como ‘patrono político’ de organização ligada ao CV",
+   "resumo": "A Polícia Federal (PF) classificou o deputado estadual eleito Márcio Canella (União), preso nesta quinta-feira, 15, como “patrono político” e “articulador de alto escalão” de uma organização criminosa ligada ao Comando Vermelho (CV). Canell…",
+   "link": "https://oantagonista.com.br/brasil/pf-classifica-canella-como-patrono-politico-de-organizacao-ligada-ao-cv/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-tela-2026-10-15-145930-1.png",
+   "data": "2026-10-15T15:13:36-03:00"
+  },
+  {
+   "id": "a04ae4afec6f",
+   "titulo": "Diretor demitido da Globo tratou de reportagens com Vorcaro",
+   "resumo": "Conversas revelam que Kachar tratava com o ex-controlador do Master sobre reportagens, repercussão de notícias e críticas à linha editorial.",
+   "link": "https://www.gazetadopovo.com.br/republica/diretor-demitido-da-globo-tratou-de-reportagens-com-vorcaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/14111901/ASPA-GRANDE-2026-09-14T111912.306-960x540.jpg",
+   "data": "2026-10-15T15:09:46-03:00"
+  },
+  {
+   "id": "28492530d888",
+   "titulo": "Marinho acusa cúpula da AGU de favorecer Lula na campanha eleitoral",
+   "resumo": "O senador Rogério Marinho (PL-RN), coordenador da campanha presidencial de Flávio Bolsonaro (PL), acusou nesta quinta-feira, 15, integrantes da cúpula da Advocacia-Geral da União (AGU) de atuar em favor do presidente Lula (PT) durante a dis…",
+   "link": "https://oantagonista.com.br/brasil/marinho-acusa-cupula-da-agu-de-favorecer-lula-na-campanha-eleitoral/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/55325333939_76dcdfdf7a_o-scaled.jpg",
+   "data": "2026-10-15T15:09:08-03:00"
+  },
+  {
+   "id": "1b46685b304b",
+   "titulo": "Moro inicia transição de governo com Ratinho Junior no Paraná",
+   "resumo": "O governador eleito do Paraná, Sergio Moro (PL), iniciou nesta quinta-feira, 15, as tratativas para a transição de governo em reunião com o atual governador, Ratinho Junior (PSD), no Palácio Iguaçu, em Curitiba. O encontro, que também conto…",
+   "link": "https://revistaoeste.com/politica/moro-inicia-transicao-de-governo-com-ratinho-junior-no-parana/",
    "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/operaco-para.jpg",
-   "data": "2026-10-15T11:49:21-03:00"
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/moro-1.jpg",
+   "data": "2026-10-15T15:05:51-03:00"
+  },
+  {
+   "id": "9defab2c708f",
+   "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT, nesta quinta (15)",
+   "resumo": "",
+   "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Sur0z-vL2F6kJJ6jIqYeHAdYmvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/JFF23sREOHb0i7UBM9tg/globo-canal-4-20261014-2000-frame-24351.jpeg",
+   "data": "2026-10-15T15:00:02-03:00"
+  },
+  {
+   "id": "8fdc5129f245",
+   "titulo": "Redução da maioridade penal entra na discussão da PEC da Segurança; Brasil já previu punição de crianças a partir dos 7 anos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/reducao-da-maioridade-penal-entra-na-discussao-da-pec-da-seguranca.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/I5JSTQfQJN4wqjwoZTHmTrldx2E=/s.glbimg.com/jo/g1/f/original/2015/06/22/maioridade.jpg",
+   "data": "2026-10-15T14:34:29-03:00"
+  },
+  {
+   "id": "c8329d0436aa",
+   "titulo": "No horário eleitoral, Lula questiona posição de Flávio sobre fim da escala 6x1; candidato do PL aborda Ministério da Prosperidade",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg",
+   "data": "2026-10-15T14:30:39-03:00"
+  },
+  {
+   "id": "7b60847bf497",
+   "titulo": "Alckmin inclui redução da maioridade penal no discurso eleitoral",
+   "resumo": "O vice-presidente Geraldo Alckmin (PSB) defendeu, nesta quinta-feira, 15, a redução da maioridade penal de 18 para 16 anos em casos de crimes graves, como homicídio e latrocínio. A declaração foi feita em Salvador, durante uma agenda eleito…",
+   "link": "https://revistaoeste.com/politica/alckmin-defende-reducao-da-maioridade-penal-para-crimes-graves/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/alckmin-1.jpg",
+   "data": "2026-10-15T14:22:20-03:00"
+  },
+  {
+   "id": "3e58a6132dfe",
+   "titulo": "TCU condiciona análise de contas do BC à conclusão da análise de liquidação do Banco Master",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/15/tcu-condiciona-analise-de-contas-do-bc-a-conclusao-da-analise-de-liquidacao-do-banco-master.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/IEa7QT4G8zFmO5yJBjhlPARl5Vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/BhLa2hTqe356nh6kOqCg/banco-master-1.jpeg",
+   "data": "2026-10-15T14:19:31-03:00"
+  },
+  {
+   "id": "89ae7369b869",
+   "titulo": "Alckmin defende maioridade penal de 16 anos para crimes graves",
+   "resumo": "Vice-presidente ressuscita guinada de 2015 horas antes da votação da PEC da Segurança Pública. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/alckmin-defende-maioridade-penal-de-16-anos-para-crimes-graves/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15141753/ASPA-GRANDE-2026-10-15T141743.138-960x540.jpg",
+   "data": "2026-10-15T14:19:03-03:00"
+  },
+  {
+   "id": "fc6bbece415c",
+   "titulo": "Plenário do Senado discute PEC da Segurança Pública; votação pode ser ainda hoje",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/-JBudXTTiwp5esSSXR_fPC3McCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/f0au3hR0y9pwemeTQV9w/55577655903-968e7d21a5-k.jpg",
+   "data": "2026-10-15T14:06:55-03:00"
+  },
+  {
+   "id": "06c23ba6875c",
+   "titulo": "FAB nega sigilo sobre passageiros de jato de Vorcaro",
+   "resumo": "A Força Aérea Brasileira (FAB) afirmou nesta quinta-feira, 15, que não possui listas nominais de passageiros do jato ligado a Daniel Vorcaro e negou ter imposto sigilo sobre essas informações. Em nota, a corporação disse que os planos de vo…",
+   "link": "https://oantagonista.com.br/brasil/fab-nega-sigilo-sobre-passageiros-de-jato-de-vorcaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/Captura-de-Tela-2026-03-16-as-17.06.37-e1773691904808.png",
+   "data": "2026-10-15T13:53:29-03:00"
+  },
+  {
+   "id": "94ff0a0f2488",
+   "titulo": "Quem é Marcus Amim, ex-chefe da Polícia Civil do Rio preso pela PF",
+   "resumo": "A Polícia Federal (PF) prendeu nesta quinta-feira, 15, o delegado Marcus Vinícius Amim Fernandes, ex-chefe da Polícia Civil do Rio , e o ex-prefeito de Belford Roxo e deputado estadual eleito Márcio Canella (União). Outros quatro policiais …",
+   "link": "https://revistaoeste.com/politica/quem-e-marcus-amim-ex-chefe-da-policia-civil-do-rio-preso-pela-pf/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/delegado-amin.jpg",
+   "data": "2026-10-15T13:52:06-03:00"
+  },
+  {
+   "id": "1bacb349fb76",
+   "titulo": "Mensagens ligam Vorcaro a esquema que deu prejuízo de R$ 1,7 bilhão ao FGC",
+   "resumo": "Mensagens do WhatsApp expõem o contato frequente entre o ex-banqueiro Daniel Vorcaro e Henrique Peretto. Os diálogos do aplicativo mostram a relação da dupla desde 2019. Segundo reportagem do jornal Valor Econômico , as conversas revelam en…",
+   "link": "https://revistaoeste.com/politica/mensagens-ligam-vorcaro-a-esquema-que-deu-prejuizo-de-r-17-bilhao-ao-fgc/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro_esfera-2.jpg",
+   "data": "2026-10-15T13:44:42-03:00"
+  },
+  {
+   "id": "0f2f34272d74",
+   "titulo": "A explicação de Moro para não votar pelo fim da escala 6×1",
+   "resumo": "O senador Sergio Moro (PL-PR) afirmou nesta quinta-feira, 15, que optou por não votar a Proposta de Emenda à Constituição (PEC) que prevê o fim da escala de trabalho 6×1 no Senado. Segundo Moro, a mudança na jornada de trabalho deveria ser …",
+   "link": "https://oantagonista.com.br/brasil/a-explicacao-de-moro-para-nao-votar-pelo-fim-da-escala-6x1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/55152977298_bc0a850ac0_o-scaled-1.jpg",
+   "data": "2026-10-15T13:37:26-03:00"
+  },
+  {
+   "id": "7368a719d2eb",
+   "titulo": "Fim da 6×1: Moro não vota PEC e critica debate em período eleitoral",
+   "resumo": "O senador Sergio Moro (União-PR) afirmou nesta quinta-feira, 15, que optou por não votar a Proposta de Emenda à Constituição (PEC) que acaba com a escala 6×1 por considerar inadequada a discussão de uma mudança na jornada de trabalho durant…",
+   "link": "https://oantagonista.com.br/brasil/fim-da-6x1-moro-nao-vota-pec-e-critica-debate-em-periodo-eleitoral/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55502619386_3b09859865_o-e1788610067366.jpg",
+   "data": "2026-10-15T13:33:12-03:00"
+  },
+  {
+   "id": "c35b1c745ff0",
+   "titulo": "Sigilo de 100 anos: Viana pede a Mendonça dados de voos do jato de Vorcaro",
+   "resumo": "O senador Carlos Viana (PSD-MG) disse nesta quinta-feira, 15, que pediu ao ministro André Mendonça, do Supremo Tribunal Federal (STF), que requisite os planos de voo e a lista de passageiros do jato Falcon 7X, aeronave pertencente à Viking …",
+   "link": "https://oantagonista.com.br/brasil/sigilo-de-100-anos-viana-pede-a-mendonca-dados-de-voos-do-jato-de-vorcaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/ChatGPT-Image-1-de-set.-de-2026-14_14_15.png",
+   "data": "2026-10-15T13:23:44-03:00"
+  },
+  {
+   "id": "5ca2c05db686",
+   "titulo": "A jogada de Davi Alcolumbre para tentar se manter no comando do Senado",
+   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), articula uma aliança com partidos do centrão e da base do governo Lula para tentar garantir sua recondução ao cargo por mais dois anos. A estratégia de Alcolumbre é convencer integrantes d…",
+   "link": "https://oantagonista.com.br/brasil/a-jogada-de-davi-alcolumbre-para-tentar-se-manter-no-comando-do-senado/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/c637f06e-5182-4026-89fa-59bc4f13862c.jpg",
+   "data": "2026-10-15T13:21:24-03:00"
+  },
+  {
+   "id": "78033c46dce3",
+   "titulo": "Mendonça interrompe julgamento sobre vídeo de Lula após TSE formar maioria contra remoção",
+   "resumo": "Placar de 4 a 3 para derrubar liminar do ministro é zerado e caso vai a plenário físico. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-interrompe-julgamento-sobre-video-de-lula-apos-tse-formar-maioria-contra-remocao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15131945/ASPA-GRANDE-2026-10-15T131938.245-960x540.jpg",
+   "data": "2026-10-15T13:21:12-03:00"
+  },
+  {
+   "id": "5d207e14cf8f",
+   "titulo": "Milei critica Lula, apoia Flávio Bolsonaro e faz discurso polêmico em Washington",
+   "resumo": "Este episódio do Podcast 15 Minutos analisa as recentes articulações geopolíticas na América Latina, destacando os posicionamentos do presidente argentino Javier Milei",
+   "link": "https://www.gazetadopovo.com.br/republica/milei-critica-lula-apoia-flavio-bolsonaro-e-faz-discurso-polemico-em-washington/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
+   "data": "2026-10-15T13:18:42-03:00"
+  },
+  {
+   "id": "553282035354",
+   "titulo": "Centrão atua para acabar com puxadores de votos na Câmara",
+   "resumo": "Dez partidos do Centrão articulam uma mudança no sistema eleitoral para tentar alterar a forma como as cadeiras da Câmara dos Deputados são distribuídas. A intenção é votar uma proposta na primeira semana de novembro, em meio às discussões …",
+   "link": "https://oantagonista.com.br/brasil/centrao-quer-acabar-com-puxadores-de-votos-na-camara/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/nikolas-ferreiras-minas-gerais.jpg",
+   "data": "2026-10-15T13:17:56-03:00"
+  },
+  {
+   "id": "d5aca23e1f06",
+   "titulo": "Senado deve votar hoje a PEC da Segurança Pública",
+   "resumo": "O Senado pode votar nesta quinta-feira, 15, a PEC da Segurança Pública, com possibilidade de analisar os dois turnos no mesmo dia. A tramitação foi acelerada por um calendário especial aprovado na quarta-feira 14. Entre os pontos levados ao…",
+   "link": "https://revistaoeste.com/politica/senado-deve-votar-hoje-a-pec-da-seguranca-publica/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55590421235_3dac5c8466_o.jpg",
+   "data": "2026-10-15T13:17:45-03:00"
+  },
+  {
+   "id": "7abad4516698",
+   "titulo": "PF aponta elo entre Márcio Canella e o Comando Vermelho",
+   "resumo": "A Polícia Federal (PF) aponta uma possível ligação entre a gestão do deputado estadual eleito Márcio Canella (União Brasil), ex-prefeito de Belford Roxo (RJ), na Baixada Fluminense, e a cúpula do Comando Vermelho (CV). Canella foi preso nes…",
+   "link": "https://revistaoeste.com/politica/pf-aponta-elo-entre-marcio-canella-e-o-comando-vermelho/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/marcio-canella.jpg",
+   "data": "2026-10-15T13:12:18-03:00"
+  },
+  {
+   "id": "05bfaa2caf9e",
+   "titulo": "Sergio Moro e Ratinho Junior iniciam transição de governo após embates na campanha eleitoral",
+   "resumo": "Primeiro encontro após a eleição ocorre em meio ao histórico de atritos entre os dois durante a campanha. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/sergio-moro-e-ratinho-junior-iniciam-transicao-apos-embates-na-campanha-eleitoral/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15130333/moro-e-ratinho-960x540.jpg",
+   "data": "2026-10-15T13:08:30-03:00"
+  },
+  {
+   "id": "8fb76526cbe1",
+   "titulo": "Vorcaro depõe à PF sobre compra do Master pelo BRB",
+   "resumo": "O ex-banqueiro Daniel Vorcaro prestará depoimento à Polícia Federal (PF), às 14h desta quarta-feira, 15, na Papudinha, em Brasília. Ele será questionado sobre a tentativa de compra do Banco Master pelo BRB e a negociação de carteiras supost…",
+   "link": "https://oantagonista.com.br/brasil/vorcaro-depoe-a-pf-sobre-compra-do-master-pelo-brb/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/image-1-1-1.jpg",
+   "data": "2026-10-15T13:07:20-03:00"
+  },
+  {
+   "id": "bfaab9920df7",
+   "titulo": "Globo demite executivo após reportagem de O Antagonista",
+   "resumo": "Frederic Kachar não é mais executivo da Globo. Menos de 24 horas depois do relacionamento promíscuo do CEO de veículos impressos e das rádios da empresa com o banqueiro Daniel Vorcaro ter sido revelado em primeira mão pelo TV Pop, em parcer…",
+   "link": "https://oantagonista.com.br/brasil/globo-demite-executivo-apos-reportagem-de-o-antagonista/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/frederic-kachar-foto-divulgacao-tv-globo-tvpop.jpeg",
+   "data": "2026-10-15T13:04:35-03:00"
+  },
+  {
+   "id": "e4c4ef549093",
+   "titulo": "Flávio faz nova visita a Bolsonaro",
+   "resumo": "O senador e candidato à Presidência , Flávio Bolsonaro, visitou o pai, Jair Bolsonaro, nesta quinta-feira, 15, em Brasília. O ex-presidente cumpre prisão domiciliar por suposta tentativa de golpe de Estado. O encontro ocorreu pouco antes da…",
+   "link": "https://revistaoeste.com/politica/flavio-faz-nova-visita-a-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-6.jpg",
+   "data": "2026-10-15T13:03:55-03:00"
+  },
+  {
+   "id": "9684f8433be8",
+   "titulo": "'OAB da Medicina': Comissão do Congresso aprova MP que prevê obrigatoriedade de prova para médicos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-comissao-do-congresso-aprova-obrigatoriedade-de-prova-para-medicos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/8gABqARhtAYs1bsWL_fbt-lD348=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/O/7wurKNSm2hKegV8eH0hw/medicina-unoeste-2.jpg",
+   "data": "2026-10-15T12:58:57-03:00"
+  },
+  {
+   "id": "abecec7145f1",
+   "titulo": "Conversas revelam festas e cobranças entre Vorcaro e diretor da Globo",
+   "resumo": "Mensagens extraídas do celular de Daniel Vorcaro, ex-controlador do Banco Master, revelam a proximidade entre o empresário e Frederic Kachar, diretor-geral da Editora Globo e do Sistema Globo de Rádio. Os diálogos incluem convites para fest…",
+   "link": "https://revistaoeste.com/politica/conversas-revelam-festas-e-cobrancas-entre-vorcaro-e-diretor-da-globo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/feira-livre-87.jpg",
+   "data": "2026-10-15T12:56:33-03:00"
+  },
+  {
+   "id": "dd5499caed0a",
+   "titulo": "Luciano Hang declara voto em Flávio Bolsonaro contra Lula",
+   "resumo": "O empresário Luciano Hang , fundador e dono da Havan , uma das maiores redes de lojas de departamento do país, declarou publicamente nesta quinta-feira, 15, seu voto em Flávio Bolsonaro (PL) no segundo turno das eleições presidenciais. O se…",
+   "link": "https://revistaoeste.com/politica/luciano-hang-declara-voto-em-flavio-bolsonaro-contra-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-15-at-12.19.50.jpeg",
+   "data": "2026-10-15T12:51:14-03:00"
+  },
+  {
+   "id": "faf4bac8986a",
+   "titulo": "‘Não é o momento adequado para esse debate’, diz Moro sobre fim da escala 6×1",
+   "resumo": "O senador Sergio Moro (PL), governador eleito do Paraná , afirmou nesta quinta-feira, 15, que o período pré-eleitoral “não é o momento adequado” para o debate sobre o fim da escala de trabalho 6x1. A Proposta de Emenda à Constituição (PEC) …",
+   "link": "https://revistaoeste.com/politica/nao-e-o-momento-adequado-para-esse-debate-diz-moro-sobre-fim-da-escala-6x1/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/Serio-Moro-scaled.jpg",
+   "data": "2026-10-15T12:22:01-03:00"
+  },
+  {
+   "id": "4cf8a1538df9",
+   "titulo": "Eduardo diz que não cumprirá pena por se considerar inocente",
+   "resumo": "O ex-deputado federal Eduardo Bolsonaro (PL) afirmou que não pretende voltar ao Brasil para cumprir a pena de quatro anos e dois meses de prisão imposta pelo Supremo Tribunal Federal (STF). “Eu não vou puxar uma cadeia sendo inocente, não”,…",
+   "link": "https://oantagonista.com.br/brasil/eduardo-diz-que-nao-cumprira-pena-por-se-considerar-inocente/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/capa-noticia-2133x1200-5.jpg",
+   "data": "2026-10-15T12:13:28-03:00"
+  },
+  {
+   "id": "d19ada95a2bd",
+   "titulo": "Para proteger menores, governo pede fiscalização de seis jogos com riscos semelhantes aos das bets",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/15/para-proteger-menores-governo-pede-fiscalizacao-de-seis-jogos-com-riscos-semelhantes-aos-das-bets.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/S_ammuvQGYFqnEnz5K17JE7_pME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/KtHeBKRgOLtcEpbkk9XQ/captura-de-tela-2026-10-14-100236.png",
+   "data": "2026-10-15T12:00:45-03:00"
+  },
+  {
+   "id": "9c13e9f8ae61",
+   "titulo": "Redução da maioridade penal: líder do PT defende 16 anos para crimes hediondos; oposição quer 14 anos para crimes graves",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/15/reducao-da-maioridade-penal-lider-do-pt-sugere-16-anos-para-crimes-hediondos-oposicao-quer-14-anos-para-crimes-graves.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tbHM40DIE9F1uU7X_R7ITOROy90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/b/92v6B3QnquY6MmEWFq1A/55589016257-bf1cd3ae7e-o.jpg",
+   "data": "2026-10-15T11:51:53-03:00"
   },
   {
    "id": "80a99e3dbf81",
-   "titulo": "Jornais exibem entrevistas com candidatos ao governo no 2º turno; saiba como assistir",
-   "resumo": "Os candidatos ao 2º turno serão sabatinados nos jornais da TV Globo e afiliadas. A conversa faz parte da cobertura do segundo turno das Eleições 2026. Veja abaixo como assistir no seu Estado. Entrevista de Lula na Globo acontece nesta quint…",
+   "titulo": "Globo e afiliadas realizam entrevistas com candidatos ao governo do DF, AM, ES, RN e TO",
+   "resumo": "Os candidatos ao 2º turno serão sabatinados nos jornais da TV Globo e afiliadas. A conversa faz parte da cobertura do segundo turno das Eleições 2026. Veja abaixo como assistir no g1. Entrevista de Lula na Globo acontece nesta quinta (15); …",
    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/jornais-entrevistas-com-candidatos-ao-governo-no-2o-turno-como-assistir.ghtml",
    "fonte": "G1 Política",
    "imagem": "",
    "data": "2026-10-15T11:46:47-03:00"
-  },
-  {
-   "id": "c55169dfdd2d",
-   "titulo": "Leia a decisão de Moraes que autorizou a prisão de Márcio Canella",
-   "resumo": "Operação da Polícia Federal mira esquema de lavagem de dinheiro que usava rede de postos de combustíveis no Rio de Janeiro",
-   "link": "https://www.poder360.com.br/poder-flash/leia-a-decisao-de-moraes-que-autorizou-a-prisao-de-marcio-canella/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:46:30-03:00"
   },
   {
    "id": "0182877ea9b5",
@@ -38,42 +362,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/23160629/moraes-8-1-960x540.jpg",
    "data": "2026-10-15T11:44:13-03:00"
-  },
-  {
-   "id": "5855e18a5d50",
-   "titulo": "União paga R$ 244 milhões em dívidas de Estados e municípios em setembro",
-   "resumo": "Rio Grande do Sul concentrou R$ 237,71 milhões dos pagamentos no mês; valor total honrado chega a R$ 3,38 bilhões em 2026",
-   "link": "https://www.poder360.com.br/poder-economia/uniao-paga-r-244-milhoes-em-dividas-de-estados-e-municipios-em-setembro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:42:01-03:00"
-  },
-  {
-   "id": "53445d07645e",
-   "titulo": "Carlos Bolsonaro rebate críticas após vitória em Santa Catarina",
-   "resumo": "O senador eleito Carlos Bolsonaro (PL-SC) afirmou que sua vitória em Santa Catarina representou uma reação às tentativas de enfraquecer o bolsonarismo. Em publicação no X nesta quinta-feira, 15, o filho do ex-presidente Jair Bolsonaro pediu…",
-   "link": "https://oantagonista.com.br/brasil/carlos-bolsonaro-rebate-criticas-apos-vitoria-em-santa-catarina/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Carlos-Bolsonaro.png",
-   "data": "2026-10-15T11:41:49-03:00"
-  },
-  {
-   "id": "b75dd59760e9",
-   "titulo": "Rede de postos era usada para lavar dinheiro no Rio, diz PF",
-   "resumo": "Segundo investigação da Polícia Federal, o deputado estadual eleito Márcio Canella atuava como articulador do grupo criminoso e recebia repasses",
-   "link": "https://www.poder360.com.br/poder-justica/rede-de-postos-era-usada-para-lavar-dinheiro-no-rio-diz-pf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:36:02-03:00"
-  },
-  {
-   "id": "52909156a752",
-   "titulo": "Mendonça leva ao plenário do TSE caso de vídeo de Lula contra Flávio",
-   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE) , interrompeu nesta quinta-feira, 15, o julgamento virtual que analisa a retirada de um vídeo da campanha do presidente Luiz Inácio Lula da Silva. A peça critica as propostas e…",
-   "link": "https://revistaoeste.com/politica/mendonca-leva-ao-plenario-do-tse-caso-de-video-de-lula-contra-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/andre-mendonca-2.jpg",
-   "data": "2026-10-15T11:35:53-03:00"
   },
   {
    "id": "04d28842f322",
@@ -94,15 +382,6 @@
    "data": "2026-10-15T11:27:33-03:00"
   },
   {
-   "id": "8d13e7058a74",
-   "titulo": "Caixa Asset lidera ranking de precisão fiscal do Prisma de outubro",
-   "resumo": "Podium da Fazenda classifica bancos, gestoras e consultorias por precisão nas projeções",
-   "link": "https://www.poder360.com.br/poder-economia/caixa-asset-lidera-ranking-de-precisao-fiscal-do-prisma-de-outubro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:25:35-03:00"
-  },
-  {
    "id": "85d19dcc39f7",
    "titulo": "CUT elogia fim da “massacrante” 6x1; CNI quer revisar PEC aprovada",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cut-elogia-fim-da-massacrante-6x1-cni-quer-revisar-pec-aprovada\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
@@ -110,33 +389,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T11:25:00-03:00"
-  },
-  {
-   "id": "aaa6b923b80f",
-   "titulo": "União Brasil tem 2 presidentes de diretórios presos em 1 mês",
-   "resumo": "Com a prisão do deputado estadual eleito Márcio Canella (RJ) nesta quinta-feira, 15, no âmbito da Operação Unha e Carne, por suspeita de lavagem de dinheiro, o União Brasil agora soma dois presidentes de diretórios detidos em um período de …",
-   "link": "https://revistaoeste.com/politica/uniao-brasil-tem-2-presidentes-de-diretorios-presos-em-1-mes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/uniao-brasil.jpg",
-   "data": "2026-10-15T11:24:50-03:00"
-  },
-  {
-   "id": "8f73eada6821",
-   "titulo": "Canella exercia “função estratégica” em esquema de R$ 7,6 bi, diz PF",
-   "resumo": "Segundo investigação da Polícia Federal, político atuava como articulador do grupo criminoso e recebia repasses de recursos ilícitos",
-   "link": "https://www.poder360.com.br/poder-justica/canella-exercia-funcao-estrategica-em-esquema-de-r-76-bi-diz-pf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:15:28-03:00"
-  },
-  {
-   "id": "94279dfc4419",
-   "titulo": "Lula: “Não vou comprar um celular; não tenho dinheiro”",
-   "resumo": "O presidente Lula afirmou, em vídeo gravado pelo deputado federal André Janones (Rede-MG), que “não tem dinheiro” para comprar um simples aparelho celular, embora tenha declarado ao Tribunal Superior Eleitoral (TSE) um patrimônio de 4,7 mil…",
-   "link": "https://oantagonista.com.br/brasil/lula-nao-vou-comprar-um-celular-nao-tenho-dinheiro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-1.jpg",
-   "data": "2026-10-15T11:14:07-03:00"
   },
   {
    "id": "374d36520e33",
@@ -157,33 +409,6 @@
    "data": "2026-10-15T11:08:01-03:00"
   },
   {
-   "id": "7d62e268281d",
-   "titulo": "Mercado eleva projeção de deficit primário de 2026 a R$ 53,05 bi",
-   "resumo": "Mediana subiu de R$ 52,27 bi; dívida bruta de 2026 vai a 83,4% do PIB, ante 83,2% na pesquisa Prisma Fiscal de setembro",
-   "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-deficit-primario-de-2026-a-r-5305-bi/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T11:06:21-03:00"
-  },
-  {
-   "id": "3fe1f5310061",
-   "titulo": "PF acha dinheiro dentro de adega de policial preso em operação que prendeu deputado e ex-chefe da Polícia Civil do RJ",
-   "resumo": "",
-   "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/pf-acha-dinheiro-dentro-de-adega-de-policial-preso-em-operacao-que-prendeu-deputado-e-ex-chefe-da-policia-civil-do-rj.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/woxmfSJjbeiK3dj-kwBFBSLQfY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/gmXHEhQy2WNZiN6prqQA/adega-de-jose-carlos-alves-de-souza-junior.jpg",
-   "data": "2026-10-15T11:00:10-03:00"
-  },
-  {
-   "id": "cb7ab45fc856",
-   "titulo": "Indexa: Flávio Bolsonaro 44% x Lula 42% no segundo turno",
-   "resumo": "A primeira pesquisa nacional Indexa/Broadcast após o primeiro turno das eleições presidenciais de 2026 mostra Flávio Bolsonaro (PL) com 44% das intenções de voto, contra 42% do presidente Lula (PT). Considerando apenas os votos válidos, Flá…",
-   "link": "https://oantagonista.com.br/brasil/indexa-flavio-bolsonaro-44-x-lula-42-no-segundo-turno/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Lula-e-Flavio-ilustracao-jpeg.jpg",
-   "data": "2026-10-15T10:58:01-03:00"
-  },
-  {
    "id": "695da46eba6d",
    "titulo": "A ofensiva de Lula sobre eleitores de direita contra Flávio no 2º turno",
    "resumo": "Campanha petista tenta descolar Flávio Bolsonaro da direita pragmática para angariar votos no segundo turno. Leia na Gazeta do Povo.",
@@ -202,60 +427,6 @@
    "data": "2026-10-15T10:57:01-03:00"
   },
   {
-   "id": "0b27e1bbf5de",
-   "titulo": "'Tesouraço de Flávio': Mendonça paralisa julgamento após TSE formar maioria para derrubar sua decisão contra vídeo de Lula",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/tesouraco-de-flavio-mendonca-paralisa-julgamento-apos-tse-formar-maioria-para-derrubar-sua-decisao-contra-video-de-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/qrHttzhcAXN1RIeqnCZZUJ7N4_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/a/vLrGcISnSoxJyQ8xvFBg/55574114509-aab923515e-k.jpg",
-   "data": "2026-10-15T10:56:25-03:00"
-  },
-  {
-   "id": "67b20d5b08d8",
-   "titulo": "Líder do PT defende reduzir maioridade penal para 16 anos em caso de crime hediondo",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/lider-do-pt-defende-reduzir-maioridade-penal-para-16-anos-em-caso-de-crime-hediondo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/iwVCnYTNhumClWKWyuCg4C7_db4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/R/UBBHQoQmWilroNBKKKqw/55178641445-9ecac2b82a-k.jpg",
-   "data": "2026-10-15T10:50:39-03:00"
-  },
-  {
-   "id": "4eecffc3efe9",
-   "titulo": "Delegados da PF questionam mudança na PEC da Segurança sobre poderes das polícias do Congresso",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/delegados-da-pf-questionam-mudanca-na-pec-da-seguranca-sobre-poderes-das-policias-do-congresso.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/FFAUoFqZzrkobWIA1TXtLHlXN4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/B/oegAO6SJi3HdhUUBG1Lw/55589182804-94647460bb-o.jpg",
-   "data": "2026-10-15T10:44:16-03:00"
-  },
-  {
-   "id": "0a137f34d684",
-   "titulo": "Justiça prorroga prisão de Milton Leite por mais 30 dias",
-   "resumo": "A Justiça de São Paulo prorrogou por mais 30 dias a prisão temporária do ex-presidente da Câmara Municipal Milton Leite e de outros investigados na Operação Vectura Corrupta. De acordo com o portal Metrópoles, fontes da Polícia Civil confir…",
-   "link": "https://revistaoeste.com/politica/justica-prorroga-prisao-de-milton-leite-por-mais-30-dias/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/milton-leite.jpg",
-   "data": "2026-10-15T10:42:22-03:00"
-  },
-  {
-   "id": "a793bbcf9010",
-   "titulo": "Lula encena humildade e diz não ter dinheiro para celular",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) encenou falta de dinheiro para adquirir um celular em vídeo divulgado nesta quinta-feira, 15. A gravação, ao lado do deputado federal André Janones (Rede-MG), busca impulsionar as inscrições no ca…",
-   "link": "https://revistaoeste.com/politica/lula-encena-humildade-e-diz-nao-ter-dinheiro-para-celular/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/lula-ataca-eua.jpeg",
-   "data": "2026-10-15T10:37:16-03:00"
-  },
-  {
-   "id": "cedfafe52d98",
-   "titulo": "Renan Santos dispensa apoio a Lula e vê risco maior com Flávio",
-   "resumo": "Em entrevista ao \"UOL\", ex-candidato diz que não pretende votar no 2º turno e defende projeto político independente",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-dispensa-apoio-a-lula-e-ve-risco-maior-com-flavio/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T10:30:00-03:00"
-  },
-  {
    "id": "20cfd7cd51f0",
    "titulo": "Pavanato é condenado a pagar R$ 20 mil por vídeo “Como travar uma feminista”",
    "resumo": "Justiça viu abuso em edição ao focar em falta de resposta durante abordagem a mulher na paulista. Leia na Gazeta do Povo.",
@@ -263,42 +434,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15102734/ASPA-GRANDE-2026-10-15T102728.094-960x540.jpg",
    "data": "2026-10-15T10:28:58-03:00"
-  },
-  {
-   "id": "230f86c181e7",
-   "titulo": "Mega-Sena acumula para R$ 170 milhões; confira os números sorteados",
-   "resumo": "Dezenas sorteadas são: 19 - 27 - 29 - 43 - 54 - 60; próximo concurso acontece domingo (18.out)",
-   "link": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-para-r-170-milhoes-confira-os-numeros-sorteados/",
-   "fonte": "Poder360",
-   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1705381&o=node",
-   "data": "2026-10-15T10:28:29-03:00"
-  },
-  {
-   "id": "55faa7f8b2fa",
-   "titulo": "Lulistas do Senado defendem redução da maioridade penal para esvaziar Flávio",
-   "resumo": "De olho no segundo turno das eleições de outubro, a base do presidente Lula no Senado pretende apoiar uma emenda à Proposta de Emenda Constitucional (PEC) da Segurança Pública para reduzir a maioridade penal de 18 para 16 anos. A PEC que es…",
-   "link": "https://oantagonista.com.br/brasil/lulistas-do-senado-defendem-reducao-da-maioridade-penal-para-esvaziar-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55575935513_4e654bb529_k.jpg",
-   "data": "2026-10-15T10:20:44-03:00"
-  },
-  {
-   "id": "1287705b759c",
-   "titulo": "100 anos de sigilo até para a lista de passageiros do jato de Vorcaro",
-   "resumo": "A Força Aérea Brasileira (FAB) impôs sigilo de até 100 anos sobre a lista de passageiros do jato Falcon 7X, prefixo PS-FST, aeronave pertencente à Viking Participações Ltda., empresa ligada a Daniel Vorcaro, ex-dono do Banco Master, publico…",
-   "link": "https://oantagonista.com.br/brasil/100-anos-de-sigilo-ate-para-a-lista-de-passageiros-do-jato-de-vorcaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Daniel-Vorcaro-2.jpg",
-   "data": "2026-10-15T10:19:40-03:00"
-  },
-  {
-   "id": "d5c940039a48",
-   "titulo": "Barcelona lança coleção de roupas com Tyler, the Creator",
-   "resumo": "Parceria com artista norte-americano, resultado do contrato de patrocínio com o Spotify, inclui camisa especial para o El Clásico",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/barcelona-lanca-colecao-de-roupas-com-tyler-the-creator/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Barcelona-Golf-1.png",
-   "data": "2026-10-15T10:16:31-03:00"
   },
   {
    "id": "2ad084955f9a",
@@ -310,60 +445,6 @@
    "data": "2026-10-15T10:09:03-03:00"
   },
   {
-   "id": "83402f830ce0",
-   "titulo": "Fim da escala 6x1: aprovação é trunfo de Lula, mas terá efeito forte apenas se mobilização nas ruas for mantida",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/15/fim-da-escala-6x1-aprovacao-e-trunfo-de-lula-mas-tera-efeito-forte-apenas-se-mobilizacao-nas-ruas-for-mantida.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/n7Ond8lBjYhljQ7WyR9abrX2SN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/1/vn6reBTDuSbjuoXQejEw/captura-de-tela-2026-10-14-220125.png",
-   "data": "2026-10-15T10:02:23-03:00"
-  },
-  {
-   "id": "ad6e7fd9c3f9",
-   "titulo": "Ao vivo: Poder360 entrevista Wolney Queiroz, ministro da Previdência",
-   "resumo": "Ele deve falar de uma eventual reforma da Previdência, da situação do INSS e dos rumos do governo Lula",
-   "link": "https://www.poder360.com.br/poder-governo/ao-vivo-poder360-entrevista-wolney-queiroz-ministro-da-previdencia/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/CJDKVBteFAY/hqdefault.jpg",
-   "data": "2026-10-15T10:01:39-03:00"
-  },
-  {
-   "id": "69f962b272e7",
-   "titulo": "Com 2 anos de atraso, Lula regulamenta marco legal dos games",
-   "resumo": "O presidente Luiz Inácio Lula da Silva assinou, nesta quarta-feira, 14, o decreto que regulamenta o Marco Legal da Indústria de Jogos Eletrônicos, sancionado em maio de 2024. A medida chega cerca de dois anos depois da aprovação da lei e es…",
-   "link": "https://revistaoeste.com/politica/com-2-anos-de-atraso-lula-regulamenta-marco-legal-dos-games/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/lula_meta_shopee.jpeg",
-   "data": "2026-10-15T09:56:50-03:00"
-  },
-  {
-   "id": "be6a9210cb0a",
-   "titulo": "PCDF investiga cartazes que associam Flávio ao nazismo",
-   "resumo": "A Polícia Civil do Distrito Federal (PCDF) realiza uma operação para identificar e prender os responsáveis pela produção e pela distribuição de cartazes que associam o senador e candidato à Presidência Flávio Bolsonaro (PL) ao nazismo. O ma…",
-   "link": "https://revistaoeste.com/politica/pcdf-investiga-cartazes-que-associam-flavio-ao-nazismo/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/cartazes-contra-flavio.jpeg",
-   "data": "2026-10-15T09:52:49-03:00"
-  },
-  {
-   "id": "6c86f001be48",
-   "titulo": "Presidente do TSE se reúne com Meta para tratar de IA que cria imagem 'Flávio 22', mas se recusa a fazer o mesmo com 'Lula 13'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/15/presidente-do-tse-se-reune-com-meta-para-tratar-de-ia-que-cria-imagem-flavio-22-mas-se-recusa-a-fazer-o-mesmo-com-lula-13.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/UvGvrE0pMw7Pv9FIw9EnCk3wmAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/7Y2HKiQK2B8o4noIhWGA/fotojet-20-.jpg",
-   "data": "2026-10-15T09:51:01-03:00"
-  },
-  {
-   "id": "870885466d91",
-   "titulo": "PEC da Segurança: oposição tenta incluir redução da maioridade penal na votação desta quinta no Senado",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/pec-da-seguranca-oposicao-tenta-incluir-reducao-da-maioridade-penal-na-votacao-desta-quinta-no-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/02p_OF8810XtqXbk0SN7NCy9-Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/yPDrWCRMOuo3KZv0zBxQ/edicao-imagens-g1-2026-10-15t071017.344.png",
-   "data": "2026-10-15T09:49:05-03:00"
-  },
-  {
    "id": "5606eba55ef1",
    "titulo": "Wilson Grassi Júnior anuncia apoio a Flávio Bolsonaro e cobra propostas para causa animal",
    "resumo": "Ex-candidato à Presidência envia carta a Flávio Bolsonaro com cinco compromissos para a causa animal. Leia na Gazeta do Povo.",
@@ -371,78 +452,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15093327/Gemini_Generated_Image_gsbag0gsbag0gsba-960x540.jpg",
    "data": "2026-10-15T09:42:55-03:00"
-  },
-  {
-   "id": "319a7ebc8551",
-   "titulo": "Lula apela a evangélicos em carta para tentar frear Flávio",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) recorreu a um novo manifesto às famílias evangélicas nesta quarta-feira, 14. O aceno ao eleitorado religioso tenta conter a ampla vantagem de Flávio Bolsonaro (PL) no segmento a menos de duas sema…",
-   "link": "https://revistaoeste.com/politica/lula-apela-a-evangelicos-em-carta-para-tentar-frear-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/lula-desenrola3.jpeg",
-   "data": "2026-10-15T09:41:57-03:00"
-  },
-  {
-   "id": "d0f46df5a1cb",
-   "titulo": "Crusoé: Aliados de Flávio convocam pastores para “clamor pelo Brasil”",
-   "resumo": "Aliados de Flávio Bolsonaro (PL) junto aos evangélicos estão convocando pastores para um “clamor pelo Brasil” no próximo domingo, 18. A convocação, compartilhada nas redes sociais por, entre outras pessoas, Silas Malafaia, pastor da Assembl…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-aliados-de-flavio-convocam-pastores-para-clamor-pelo-brasil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Sostenes-Cavalcante-Flavio-Bolsonaro-e-Silas-Malafaia.jpg",
-   "data": "2026-10-15T09:35:04-03:00"
-  },
-  {
-   "id": "937f9991a6f2",
-   "titulo": "Justiça nega pedido de Flávio por retratação de Janones e Lindbergh",
-   "resumo": "A Justiça do Distrito Federal negou, nesta quarta-feira, 14, um pedido de tutela de urgência do senador Flávio Bolsonaro (PL) para que os deputados federais André Janones (Rede-MG) e Lindbergh Farias (PT-RJ) se retratassem publicamente por …",
-   "link": "https://revistaoeste.com/politica/justica-nega-pedido-de-flavio-por-retratacao-de-janones-e-lindbergh/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-7.jpg",
-   "data": "2026-10-15T09:28:04-03:00"
-  },
-  {
-   "id": "537c4fe51fd1",
-   "titulo": "6x1, 5x2, 4x3 e 12x36: entenda como funcionam as escalas de trabalho",
-   "resumo": "",
-   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/entenda-como-funcionam-as-escalas-de-trabalho.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/GXZDN7fnSnrE6RV4V0cLPb8YlEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Q/9ZG0DNSFK7CYd4qzEUHQ/09-07-2020-teletrabalho-3.jpg",
-   "data": "2026-10-15T09:18:57-03:00"
-  },
-  {
-   "id": "c633c8c98cd3",
-   "titulo": "Mourão é o único senador a votar contra o fim da escala 6×1",
-   "resumo": "O senador Hamilton Mourão (Republicanos-RS) foi o único a votar contra a Proposta de Emenda à Constituição (PEC) que encerra a escala de trabalho 6×1. O Senado aprovou o texto nesta quarta-feira, 14, com 75 votos favoráveis e 1 contrário em…",
-   "link": "https://revistaoeste.com/politica/mourao-e-o-unico-senador-a-votar-contra-o-fim-da-escala-6x1/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/03/54397551783_58f6166f6c_o-scaled.jpg",
-   "data": "2026-10-15T09:12:56-03:00"
-  },
-  {
-   "id": "79a0b30c4525",
-   "titulo": "Quando o fim da escala 6×1 e a jornada de 40 horas semanais entram em vigor?",
-   "resumo": "Empresas devem acabar com escala 6x1 em até 60 dias após a promulgação da PEC. Redução da jornada de 44 para 40 horas levará mais um ano",
-   "link": "https://www.gazetadopovo.com.br/economia/quando-muda-fim-da-escala-6x1-5x2/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15010623/quando-fim-escala-6x1-carteira-trabalho-960x540.jpg",
-   "data": "2026-10-15T08:58:24-03:00"
-  },
-  {
-   "id": "75e714873d66",
-   "titulo": "Crusoé: Presidente da Frente de Prefeitos chama fim da 6×1 de “demagogia eleitoral”",
-   "resumo": "O prefeito de Porto Alegre e presidente da Frente Nacional de Prefeitas e Prefeitos (FNP), Sebastião Melo, reclamou da aprovação no Senado da Proposta de Emenda à Constituição (PEC) que põe fim à escala de trabalho 6×1. Segundo o prefeito, …",
-   "link": "https://oantagonista.com.br/brasil/crusoe-presidente-da-frente-de-prefeitos-chama-fim-da-6x1-de-demagogia-eleitoral/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Senado-PEC-6x1-1.jpg",
-   "data": "2026-10-15T08:56:02-03:00"
-  },
-  {
-   "id": "b6330011bd8d",
-   "titulo": "Clima de “salve-se quem puder”, diz advogada sobre STF",
-   "resumo": "No programa Última Análise desta quarta-feira (14), os convidados falam de articulação do STF contra impeachment e debate presidencial.",
-   "link": "https://www.gazetadopovo.com.br/republica/clima-de-salve-se-quem-puder-diz-advogada-sobre-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14015415/todos-ministros-investigados-master-stf-constituicao-1-960x540.jpg",
-   "data": "2026-10-15T08:49:36-03:00"
   },
   {
    "id": "95250df9037e",
@@ -461,60 +470,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T08:23:00-03:00"
-  },
-  {
-   "id": "39e62b7b0c74",
-   "titulo": "Milei se encontra com Eduardo nos EUA e chama Lula de ditador comunista",
-   "resumo": "Milei foi o convidado de honra da Festa de Gala da Herança Hispânica, evento realizado em Washington, e fez comentários sobre Lula",
-   "link": "https://www.gazetadopovo.com.br/mundo/milei-se-encontra-eduardo-eua-chama-lula-ditador-comunista/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15081731/milei.lula_.ditador-960x540.jpg",
-   "data": "2026-10-15T08:18:32-03:00"
-  },
-  {
-   "id": "d2eed1c77595",
-   "titulo": "Fim da escala 6x1 também afeta quem trabalha de segunda a sexta; veja o que muda",
-   "resumo": "",
-   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/fim-da-escala-6x1-tambem-afeta-quem-trabalha-de-segunda-a-sexta-veja-o-que-muda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/J_sldLVRisaRehk4afxxC_QaycM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/h/EfzThiRJyyeuHRSgOBDg/trabalhador-de-vista-lateral-digitando-no-laptop.jpg",
-   "data": "2026-10-15T08:08:23-03:00"
-  },
-  {
-   "id": "01a440cc295a",
-   "titulo": "PF prende Márcio Canella, 2º deputado estadual mais votado no RJ",
-   "resumo": "A Polícia Federal prendeu nesta quinta-feira, 15, o deputado estadual eleito pelo União Brasil e ex-prefeito de Belford Roxo Márcio Canella (foto). Ele é alvo da oitava fase da Operação Unha e Carne, deflagrada para desarticular organização…",
-   "link": "https://oantagonista.com.br/brasil/pf-prende-marcio-canella-2o-deputado-estadual-mais-votado-no-rj/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-4.jpg",
-   "data": "2026-10-15T08:08:11-03:00"
-  },
-  {
-   "id": "d56d2eff180a",
-   "titulo": "Quem foi o único senador a votar contra o fim da escala 6×1?",
-   "resumo": "O senador Hamilton Mourão (Republicanos-RS) foi o único a votar contra a PEC que põe fim à escala de trabalho 6×1, aprovada na quarta-feira, 14, no Senado. Foram 75 votos a favor do texto em primeiro turno e segundo turno e apenas um voto c…",
-   "link": "https://oantagonista.com.br/brasil/quem-foi-o-unico-senador-a-votar-contra-o-fim-da-escala-6x1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55590514759_8b6b4b6dcb_o.jpg",
-   "data": "2026-10-15T07:58:08-03:00"
-  },
-  {
-   "id": "592449ee5e97",
-   "titulo": "Netanyahu chama Lula de faraó e projeta ir à posse de Flávio no “pequeno país” Brasil",
-   "resumo": "Netanyahu alfinetou Lula durante recepção em Israel para celebrar a abertura da Embaixada da Colômbia em Jerusalém",
-   "link": "https://www.gazetadopovo.com.br/mundo/netanyahu-chama-lula-farao-projeta-ir-posse-flavio-pequeno-pais-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15073620/netanyahu.farao_-960x540.jpg",
-   "data": "2026-10-15T07:37:15-03:00"
-  },
-  {
-   "id": "e9e7f0631bb7",
-   "titulo": "“Não falei que ia dar certo?”",
-   "resumo": "Sem perceber que seu microfone estava aberto, o presidente do Senado, Davi Alcolumbre (União-AP, foto), celebrou a aprovação da Proposta de Emenda à Constituição (PEC) que põe fim à escala de trabalho 6×1 com o senador petista Camilo Santan…",
-   "link": "https://oantagonista.com.br/brasil/nao-falei-que-ia-dar-certo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55590269964_4e072a32ba_o-scaled.jpg",
-   "data": "2026-10-15T07:27:42-03:00"
   },
   {
    "id": "d38672693bcd",
@@ -580,24 +535,6 @@
    "data": "2026-10-14T22:02:00-03:00"
   },
   {
-   "id": "1ef9dd9bdb4e",
-   "titulo": "Nunes Marques reconsidera própria decisão sobre “Exército de Lula”",
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, reconsiderou a própria decisão que estabelecia um prazo de 48 horas para o retorno do canal “Exército do Lula” no WhatsApp. A Meta, dona do WhatsApp, será responsável …",
-   "link": "https://oantagonista.com.br/brasil/nunes-marques-reconsidera-propria-decisao-sobre-exercito-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Nunes-Marques-1.jpg",
-   "data": "2026-10-14T21:59:14-03:00"
-  },
-  {
-   "id": "70c14ba5e609",
-   "titulo": "Senado aprova fim da escala 6×1 e dá trunfo eleitoral para Lula",
-   "resumo": "O Senado aprovou o fim da escala de trabalho 6×1, uma Proposta de Emenda Constitucional (PEC) capitaneada pelo governo Lula e que será utilizada, agora, como trunfo eleitoral para o petista. Agora o texto segue para a promulgação do Congres…",
-   "link": "https://oantagonista.com.br/brasil/senado-aprova-em-1-turno-fim-da-escala-6x1-e-da-trunfo-eleitoral-para-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/c637f06e-5182-4026-89fa-59bc4f13862c.jpg",
-   "data": "2026-10-14T21:50:17-03:00"
-  },
-  {
    "id": "79bc15b52fc4",
    "titulo": "Esquerda ataca mulheres da direita eleitas com tese impossível de comprovar",
    "resumo": "Parlamentares atribui vitória de mulheres conservadoras ao voto masculino, mas dados oficiais do TSE não permitem comprovar a tese.",
@@ -632,33 +569,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/14194104/eduardo-paes-rj-960x540.jpg",
    "data": "2026-10-14T19:43:55-03:00"
-  },
-  {
-   "id": "7bc3d711689e",
-   "titulo": "Quaest divulga pesquisa para governador do Tocantins no 2º turno",
-   "resumo": "Pesquisa divulgada pela Quaest mostra como está o cenário eleitoral no Tocantins para o 2º turno das eleições 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-tocantins-outubro-2026-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/13093218/senados_estados-272-960x540.png",
-   "data": "2026-10-14T19:27:52-03:00"
-  },
-  {
-   "id": "29a578b34316",
-   "titulo": "Quaest divulga pesquisa de 2º turno para governador do Espírito Santo",
-   "resumo": "Nova pesquisa da Quaest mostra como está a disputa para governador do Espírito Santo nas eleições de 2026. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-espirito-santo-outubro-2026-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/13155530/senados_estados-8-1-960x540.png",
-   "data": "2026-10-14T19:13:11-03:00"
-  },
-  {
-   "id": "3d39ed59b6ae",
-   "titulo": "O que mostra a nova pesquisa Quaest para presidente no 2º turno",
-   "resumo": "Nova pesquisa da Quaest mostra como está a disputa para presidente no segundo turno das eleições de 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-presidente-outubro-2026-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/13144915/pesquisa-presidente-7-960x540.jpg",
-   "data": "2026-10-14T18:11:44-03:00"
   }
  ]
 }
