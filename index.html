@@ -521,6 +521,35 @@ btnJoia.onclick = async () => {
 };
 pintaBotao(); leApoios();
 
+/* ---------- de onde veio a visita ----------
+   Registra UMA vez por sessão: o ?de= do link e o site que encaminhou.
+   Isto existe por causa do Inksa: lá a gente só descobriu meses depois que não
+   dava pra saber qual canal trazia gente. Aqui a medição nasce junto com o site.
+
+   Use links separados por canal, assim:
+     viradabrasil.vercel.app/?de=yt-canalfulano
+   e depois dá pra ver exatamente qual trouxe quanta gente. */
+(async function registraVisita(){
+  if (!TEM_BACKEND) return;
+  try{
+    if (sessionStorage.getItem("visita_contada")) return;
+    sessionStorage.setItem("visita_contada","1");
+  }catch{ /* sem sessionStorage, conta mesmo assim */ }
+  const origem = new URLSearchParams(location.search).get("de");
+  try{
+    await fetch(`${CONFIG.SUPABASE_URL}/rest/v1/visitas`, {
+      method:"POST",
+      headers:{apikey:CONFIG.SUPABASE_ANON_KEY, Authorization:"Bearer "+CONFIG.SUPABASE_ANON_KEY,
+               "Content-Type":"application/json", Prefer:"return=minimal"},
+      body: JSON.stringify({
+        origem: origem || null,
+        referer: (document.referrer || "").slice(0,300) || null,
+        caminho: location.pathname,
+      })
+    });
+  }catch{}
+})();
+
 /* ---------- quantas pessoas online ----------
    Contagem por batimento, não por adivinhação: cada aba aberta tem um
    identificador e avisa o servidor a cada 30s que ainda está aqui. O número
