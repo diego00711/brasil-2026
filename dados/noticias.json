@@ -1,8 +1,296 @@
 {
- "atualizado": "2026-10-15T22:14:28.112878-03:00",
- "total": 76,
+ "atualizado": "2026-10-16T04:04:26.486991-03:00",
+ "total": 74,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "fba47cc8c717",
+   "titulo": "“CNN”, “Axios” e “FT” entram em programa de IA do Google",
+   "resumo": "Empresas de comunicação farão parte do programa de licenciamento de conteúdos jornalísticos",
+   "link": "https://www.poder360.com.br/poder-midia/cnn-axios-e-ft-entram-em-programa-de-ia-do-google/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T03:43:01-03:00"
+  },
+  {
+   "id": "605fa6dc182a",
+   "titulo": "Polícia Federal enfrenta atrasos para encerrar investigação sobre o Banco Master",
+   "resumo": "A Polícia Federal sofre com adiamentos em série de depoimentos e a investigação do Banco Master deve se estender até 2027 devido ao calendário eleitoral.",
+   "link": "https://www.gazetadopovo.com.br/republica/policia-federal-enfrenta-atrasos-para-encerrar-investigacao-sobre-o-banco-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16013101/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
+   "data": "2026-10-16T01:30:58-03:00"
+  },
+  {
+   "id": "deed56ff5377",
+   "titulo": "PF e PGR avaliam se abrem investigação sobre suposto financiamento de filme",
+   "resumo": "PF e PGR avaliam autenticidade de áudios sobre suposto repasse de R$ 30 milhões para filme de Lula. Entenda por que inquérito ainda não é obrigatório.",
+   "link": "https://www.gazetadopovo.com.br/republica/pf-e-pgr-avaliam-se-abrem-investigacao-sobre-suposto-financiamento-de-filme/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16010349/55445050325_e425df3563_3k-1-960x540.jpg",
+   "data": "2026-10-16T01:03:39-03:00"
+  },
+  {
+   "id": "1877431792c0",
+   "titulo": "O caso Meta e a disputa no TSE em torno das redes sociais - O Assunto #1826",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/16/o-caso-meta-e-a-disputa-no-tse-em-torno-das-redes-sociais-o-assunto-1826.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/1jpwfEr04dq91rYscGbj5TU4MFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/8/0LlJxAQMAX7w0MGU1qyA/imagem-destaque-g1-2-.png",
+   "data": "2026-10-16T00:30:01-03:00"
+  },
+  {
+   "id": "470ae4a5d300",
+   "titulo": "Cleitinho passa mal após discurso no Senado e cancela ato com Flávio Bolsonaro",
+   "resumo": "Antes de passar mal, Cleitinho fez um pronunciamento no plenário do Senado em que criticou o governador de Minas Gerais, Mateus Simões (PSD)",
+   "link": "https://www.gazetadopovo.com.br/republica/cleitinho-passa-mal-apos-discurso-no-senado-e-cancela-ato-com-flavio-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/07/29092056/55393044972_ef81b84a6d_o-960x540.jpg",
+   "data": "2026-10-16T00:10:13-03:00"
+  },
+  {
+   "id": "e449e95d9d15",
+   "titulo": "Lula muda discurso e defende redução da maioridade penal para 16 anos",
+   "resumo": "Lula defende redução da maioridade penal para 16 anos em caso de crime hediondo, contrariando posicionamento histórico do PT.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-muda-discurso-e-defende-reducao-da-maioridade-penal-para-16-anos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15230116/lula-maioridade-penal-960x540.jpg",
+   "data": "2026-10-16T00:01:35-03:00"
+  },
+  {
+   "id": "ec2562ace1cf",
+   "titulo": "Entrevista de Flávio Bolsonaro na Globo: veja quando e onde assistir",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/entrevista-flavio-bolsonaro-na-globo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/zalC3oOH0y53DbYFDNsUl2FN5Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/aPsewbRdmmqz8aH3KXjA/whatsapp-image-2026-08-28-at-21.27.43.jpeg",
+   "data": "2026-10-16T00:00:01-03:00"
+  },
+  {
+   "id": "eb04cd2158aa",
+   "titulo": "Primeira Turma do STF começa a julgar nesta sexta denúncia e pode tornar réu blogueiro aliado de Bolsonaro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/16/primeira-turma-do-stf-comeca-a-julgar-nesta-sexta-denuncia-e-pode-tornar-reu-blogueiro-aliado-de-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/P-HoiYlWgYe5w_hrAW3BSe8N3sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/g/S/wNP8hlTe2ky9su7lBPzA/9029741.jpg",
+   "data": "2026-10-16T00:00:00-03:00"
+  },
+  {
+   "id": "8b9cc4164b82",
+   "titulo": "Datafolha e Quaest mostram empate técnico entre Flávio Bolsonaro e Lula no 2º turno",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-e-quaest-2o-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg",
+   "data": "2026-10-16T00:00:00-03:00"
+  },
+  {
+   "id": "f93f3b02f286",
+   "titulo": "Quando será o segundo turno das eleições 2026? Veja a data",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/quando-sera-o-segundo-turno-das-eleicoes-2026-veja-a-data.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/NJ968yYo6MDbifOyq5ZYgmoluUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/y/c/TYXIfOQ7Wmy6jFtrRWvw/51360205924-81a4870a02-k.jpg",
+   "data": "2026-10-16T00:00:00-03:00"
+  },
+  {
+   "id": "bb56d30eaef2",
+   "titulo": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/16/salario-minimo-veja-o-que-ja-defenderam-as-campanhas-dos-candidatos-a-presidente.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/U8QGH7zGVPObBoF5DeWfWh5C0rg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/z/9EKZqsR8S2TLH87oArtA/jornal-do-almoco-limpo-mais-ge-2401-frame-52934.jpg",
+   "data": "2026-10-16T00:00:00-03:00"
+  },
+  {
+   "id": "894d288fa83d",
+   "titulo": "Candidatos ao governo do DF, AM, ES, RN e TO participam de entrevistas da Globo e afiliadas",
+   "resumo": "A Globo e suas afiliadas realizam entrevistas com candidatos ao governo do Distrito Federal, Amazonas, Espírito Santo, Rio Grande do Norte e Tocantins no segundo turno das Eleições 2026. A rodada começou na quinta-feira (15) e termina nesta…",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/candidatos-ao-governo-do-df-am-es-rn-e-to-participam-de-entrevistas-da-globo-e-afiliadas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-16T00:00:00-03:00"
+  },
+  {
+   "id": "4b347f6e7932",
+   "titulo": "Flávio ironiza guinada da campanha de Lula sobre redução da maioridade penal",
+   "resumo": "Flávio Bolsonaro ironiza mudança no discurso da campanha de Lula sobre a redução da maioridade penal. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-ironiza-guinada-da-campanha-de-lula-sobre-reducao-da-maioridade-penal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15234105/flavio-1-960x540.jpg",
+   "data": "2026-10-15T23:58:32-03:00"
+  },
+  {
+   "id": "f3e7a1013da7",
+   "titulo": "Vorcaro editava reportagens do site Metrópoles, diz PF",
+   "resumo": "O empresário Daniel Vorcaro , dono do Banco Master, interferia diretamente em reportagens do site Metrópoles antes da publicação, segundo mensagens extraídas pela Polícia Federal (PF) de seu celular. A direção do veículo enviava textos ao b…",
+   "link": "https://revistaoeste.com/politica/vorcaro-editava-reportagens-do-site-metropoles-diz-pf/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/vorcaro_esfera.jpeg",
+   "data": "2026-10-15T23:50:48-03:00"
+  },
+  {
+   "id": "3ed00a94757b",
+   "titulo": "Lula defende redução da maioridade penal para crimes hediondos",
+   "resumo": "<p><strong>Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a redução da maioridade penal de 18 para 16 anos em casos de …",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-defende-reducao-da-maioridade-penal-para-crimes-hediondos",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-15T23:44:00-03:00"
+  },
+  {
+   "id": "7878e8236449",
+   "titulo": "Estudantes argentinos protestam contra cortes de Milei na educação",
+   "resumo": "Multidão pede cumprimento de lei que garante repasses orçamentários para a educação universitária; também houve protestos contra a flexibilização na venda de terras a estrangeiros",
+   "link": "https://www.poder360.com.br/poder-internacional/estudantes-argentinos-protestam-contra-cortes-de-milei-na-educacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:35:39-03:00"
+  },
+  {
+   "id": "bd5d343e6037",
+   "titulo": "Campanha de Lula reclama da Meta a observadores internacionais",
+   "resumo": "Coordenação política do presidente entrega 8 ocorrências à União Europeia, à OEA e a outros 4 grupos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-reclama-da-meta-a-observadores-internacionais/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:26:42-03:00"
+  },
+  {
+   "id": "20368b9620b2",
+   "titulo": "Lula busca se mostrar isento dos próprios erros e renovado pela promessa de reparações",
+   "resumo": "Lula tenta se mostrar isento dos próprios erros e renovado pela promessa de novos rumos. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/vozes/silvio-ribas/lula-tenta-se-mostrar-isento-dos-proprios-erros-e-renovado-pela-promessa-de-novos-rumos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/11165401/lula-5-960x540.jpg",
+   "data": "2026-10-15T23:21:56-03:00"
+  },
+  {
+   "id": "fbd6f3568a73",
+   "titulo": "Nikolas divulga vídeo de IA com Flávio bebendo e disparando míssil",
+   "resumo": "As cenas são acompanhadas pela música Free Bird, da banda norte-americana Lynyrd Skynyrd",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-divulga-video-de-ia-com-flavio-bebendo-e-disparando-missil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:20:13-03:00"
+  },
+  {
+   "id": "635aab7785ad",
+   "titulo": "Lula liga Flávio a Canella, preso pela PF, durante sabatina na “Globo”",
+   "resumo": "Petista explora ação da Polícia Federal e lembra que Rogéria Bolsonaro seria suplente do ex-prefeito no Senado",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-liga-flavio-a-canella-preso-pela-pf-durante-sabatina-na-globo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:17:40-03:00"
+  },
+  {
+   "id": "a4c2eb187ddc",
+   "titulo": "A 10 dias da eleição, Lula defende propostas de Flávio",
+   "resumo": "O presidente Luiz Inácio Lula da Silva, candidato à reeleição, defendeu nesta quinta-feira, 15, em entrevista à TV Globo, medidas que aparecem no plano de governo de seu adversário no segundo turno, Flávio Bolsonaro. Entre elas estão a redu…",
+   "link": "https://revistaoeste.com/politica/a-10-dias-da-eleicao-lula-defende-propostas-de-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-globo.jpeg",
+   "data": "2026-10-15T23:15:18-03:00"
+  },
+  {
+   "id": "442680797be6",
+   "titulo": "Lula diz ser a favor de reduzir maioridade penal para crimes hediondos",
+   "resumo": "Presidente disse que apoia a redução para 16 anos em crimes específicos; tema foi alvo de discussão no Congresso nesta 5ª feira (15.out)",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/lula-diz-ser-a-favor-de-reduzir-maioridade-penal-para-crimes-hediondos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:12:41-03:00"
+  },
+  {
+   "id": "762c1f6b55c3",
+   "titulo": "Lula defende crescimento contra dívida e descarta corte de gastos",
+   "resumo": "Em entrevista, presidente defendeu estímulo à economia contra a dívida e descartou ajustes que afetem os pobres",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-crescimento-contra-divida-e-descarta-corte-de-gastos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:08:03-03:00"
+  },
+  {
+   "id": "db51adad3a45",
+   "titulo": "TSE manda Meta tratar Lula e Flávio igualmente sob multa de R$ 500 mil",
+   "resumo": "Decisão de Marco Aurélio Bellizze foi motivada por reclamação da campanha petista sobre restrições nas redes sociais e na geração de imagens por inteligência artificial",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-meta-tratar-lula-e-flavio-igualmente-sob-multa-de-r-500-mil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:06:23-03:00"
+  },
+  {
+   "id": "9defab2c708f",
+   "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; VEJA ÍNTEGRA",
+   "resumo": "",
+   "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Sur0z-vL2F6kJJ6jIqYeHAdYmvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/JFF23sREOHb0i7UBM9tg/globo-canal-4-20261014-2000-frame-24351.jpeg",
+   "data": "2026-10-15T23:02:10-03:00"
+  },
+  {
+   "id": "a002330a3308",
+   "titulo": "Lula diz que Vorcaro alegou perseguição política em reunião",
+   "resumo": "Presidente afirmou que “todos que estão com problema” o procuram; encontro com fundador do Master foi em dezembro de 2024",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-vorcaro-alegou-perseguicao-politica-em-reuniao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T23:01:46-03:00"
+  },
+  {
+   "id": "ae6418b88f62",
+   "titulo": "Lula diz que não sabia que Bolsa Família passou quase 4 anos sem reajuste",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/lula-reajuste-bolsa-familia-entrevista-globo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/es8ZS6WuvIf24GXceAIQsZpJrs8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/o/P9qBB7TuaP0BA5pJl8tQ/whatsapp-image-2026-10-15-at-21.43.16.jpeg",
+   "data": "2026-10-15T22:56:09-03:00"
+  },
+  {
+   "id": "60f2b83f2132",
+   "titulo": "“PCC e CV são terroristas para a comunidade brasileira”, diz Lula",
+   "resumo": "Presidente afirmou que facções \"querem dinheiro\" e diferenciou sua atuação da classificação dos EUA",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pcc-e-cv-sao-terroristas-para-a-comunidade-brasileira-diz-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-15T22:53:27-03:00"
+  },
+  {
+   "id": "8e3994451d02",
+   "titulo": "CNBB critica redução da maioridade penal em meio a debate no Senado",
+   "resumo": "CNBB afirma que redução da maioridade penal não combate causas da violência e alerta para risco de ampliar criminalidade entre jovens.",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/cnbb-critica-reducao-da-maioridade-penal-em-meio-a-debate-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15224301/cnbb-sede-960x540.jpg",
+   "data": "2026-10-15T22:44:38-03:00"
+  },
+  {
+   "id": "2c294d0020cd",
+   "titulo": "Lula diz que aumento da dívida pública preocupa e que solução para problema fiscal é fazer economia crescer",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/lula-entrevista-globo-economia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
+   "data": "2026-10-15T22:43:47-03:00"
+  },
+  {
+   "id": "cb5ffa6631ec",
+   "titulo": "Lula tenta se desvincular de Moraes e minimiza relações de aliados com Vorcaro",
+   "resumo": "Em sabatina na Rede Globo, Lula tenta se distanciar de Alexandre de Moraes e minimizar vínculos com Vorcaro. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-tenta-desvincular-moraes-minimizar-relacoes-de-aliados-com-vorcaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15224137/Lula-7-960x540.jpg",
+   "data": "2026-10-15T22:40:36-03:00"
+  },
+  {
+   "id": "9112d3e12682",
+   "titulo": "Lula diz que repreendeu diretor da PF por viagem patrocinada pelo Master",
+   "resumo": "O presidente Lula (PT) afirmou nesta quinta-feira, 15, que chamou a atenção do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, por sua participação em um evento em Londres, em abril de 2024, patrocinado pelo Banco Master, de Daniel…",
+   "link": "https://oantagonista.com.br/brasil/lula-diz-que-repreendeu-diretor-da-pf-por-viagem-patrocinada-pelo-master/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/08/54750401296_d715a9420d_k.jpg",
+   "data": "2026-10-15T22:23:41-03:00"
+  },
   {
    "id": "25bf5066d78d",
    "titulo": "Presidente do TST vê avanço social na aprovação do fim da escala 6×1",
@@ -11,15 +299,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15220148/presidente-do-tse-mello-960x540.jpg",
    "data": "2026-10-15T22:03:05-03:00"
-  },
-  {
-   "id": "eb873290fcc4",
-   "titulo": "Brasil deve voltar a ser a 8ª maior economia do mundo em 2027, diz FMI",
-   "resumo": "Fundo Monetário Internacional projeta PIB de US$ 2,8 trilhões para o país, que deve superar Itália e Rússia no ranking mundial",
-   "link": "https://www.poder360.com.br/poder-economia/brasil-deve-voltar-a-ser-a-8a-maior-economia-do-mundo-em-2027-diz-fmi/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T21:58:11-03:00"
   },
   {
    "id": "a2a43ab989be",
@@ -47,15 +326,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-15-as-21.21.13-1.png",
    "data": "2026-10-15T21:48:43-03:00"
-  },
-  {
-   "id": "b6ed1e7f406d",
-   "titulo": "Ex-chefe de polícia recebeu R$ 1,8 mi de empresa investigada pela PF",
-   "resumo": "Marcus Amim e outros 5 alvos foram presos na operação, incluindo o deputado estadual Márcio Canella",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/ex-chefe-de-policia-recebeu-r-18-mi-de-empresa-investigada-pela-pf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T21:48:13-03:00"
   },
   {
    "id": "075899db7001",
@@ -112,15 +382,6 @@
    "data": "2026-10-15T21:27:49-03:00"
   },
   {
-   "id": "9e4b78c5aafb",
-   "titulo": "Fim da 6 X 1 pode elevar mensalidades escolares em até 23%",
-   "resumo": "Confenen pede urgência ao governo para regulamentar o descanso semanal remunerado dos professores ainda em 2026",
-   "link": "https://www.poder360.com.br/poder-educacao/fim-da-6-x-1-pode-elevar-mensalidades-escolares-em-ate-23/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T21:18:36-03:00"
-  },
-  {
    "id": "b2b15e282a7b",
    "titulo": "Lula defende redução da maioridade penal para crimes hediondos, pede investigação de ministros do STF e diz ser responsável por dificuldades do governo",
    "resumo": "",
@@ -137,15 +398,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T21:09:00-03:00"
-  },
-  {
-   "id": "98661ce9791a",
-   "titulo": "Ministério quer leiloar 4 concessões ferroviárias em 2027",
-   "resumo": "Carteira ficará com presidente eleito; atual governo não realizou certames ferroviários desde que assumiu, em 2023",
-   "link": "https://www.poder360.com.br/poder-infra/ministerio-quer-leiloar-4-concessoes-ferroviarias-em-2027/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T21:04:58-03:00"
   },
   {
    "id": "e53fdb913241",
@@ -166,24 +418,6 @@
    "data": "2026-10-15T21:02:31-03:00"
   },
   {
-   "id": "539a151a7961",
-   "titulo": "Governo avança para retomar exportação de pescado à UE",
-   "resumo": "Auditoria realizada em junho reconheceu avanços no controle sanitário e indica possível reabertura do mercado",
-   "link": "https://www.poder360.com.br/poder-governo/governo-avanca-para-retomar-exportacao-de-pescado-a-ue/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T21:01:05-03:00"
-  },
-  {
-   "id": "e53e4935b9e9",
-   "titulo": "PF e PGR cogitam não abrir inquérito sobre filme de Lula com dinheiro de Vorcaro",
-   "resumo": "Denúncia sobre Vorcaro e o documentário de Lula pode não ser alvo de inquérito da PGR e PF. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pgr-pf-nao-sao-obrigadas-abrir-inquerito-filme-lula-supostamente-financiado-vorcaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14150129/55445050325_e425df3563_3k-960x540.jpg",
-   "data": "2026-10-15T21:00:00-03:00"
-  },
-  {
    "id": "1af2e4f3a3ec",
    "titulo": "Flávio defende pena mínima de oito anos para roubo de celulares",
    "resumo": "O candidato do PL à Presidência, Flávio Bolsonaro, defendeu nesta quinta-feira, 15, a proposta de estabelecer pena mínima de oito anos de prisão para quem roubar ou revender celulares irregulares. “Ladrão de celular vai ficar preso no nosso…",
@@ -200,15 +434,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/07/2025-01-14_Cerimonia_de_Posse_do_Senhor_Sidonio_Palmeira_como_Ministro_da_Secom_006-copiar.jpg",
    "data": "2026-10-15T20:55:11-03:00"
-  },
-  {
-   "id": "643ecb1527a8",
-   "titulo": "Campanha de Flávio está com “rei na barriga”, diz Renan Santos",
-   "resumo": "Presidente do Missão afirma que entorno do candidato age como se vitória já estivesse definida, apesar de empate técnico em pesquisas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-esta-com-rei-na-barriga-diz-renan-santos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T20:39:27-03:00"
   },
   {
    "id": "3d49cd9c6289",
@@ -229,33 +454,6 @@
    "data": "2026-10-15T20:32:44-03:00"
   },
   {
-   "id": "21dd89b36c3d",
-   "titulo": "Desentendimento no PT ajudou a adiar votação da PEC da Segurança, diz José Guimarães",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/desentendimento-no-pt-ajudou-a-adiar-votacao-da-pec-da-seguranca-diz-jose-guimaraes.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/tIps-lZkiXOWveam-ZVTlQKQto8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/O/BUATPiRlA9WZUyeCWemA/deputado-jose-guimaraes-10.jpg",
-   "data": "2026-10-15T20:30:48-03:00"
-  },
-  {
-   "id": "f1ce6be818c8",
-   "titulo": "CNBB critica redução da maioridade penal, defendida por Flávio",
-   "resumo": "Conferência Nacional dos Bispos do Brasil defende medidas socioeducativas e mais investimentos em educação e proteção social",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/cnbb-critica-reducao-da-maioridade-penal-defendida-por-flavio/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T20:26:46-03:00"
-  },
-  {
-   "id": "9defab2c708f",
-   "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT",
-   "resumo": "",
-   "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Sur0z-vL2F6kJJ6jIqYeHAdYmvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/JFF23sREOHb0i7UBM9tg/globo-canal-4-20261014-2000-frame-24351.jpeg",
-   "data": "2026-10-15T20:25:35-03:00"
-  },
-  {
    "id": "9e8a631c68d4",
    "titulo": "‘Devia ter eleição toda semana’, diz Flávio sobre guinada do PT pela redução da maioridade penal",
    "resumo": "O senador Flávio Bolsonaro, candidato à Presidência da República, ironizou nesta quinta-feira, 15, a mudança de posição de integrantes do PT sobre a redução da maioridade penal. Durante uma transmissão ao vivo, o parlamentar ironizou a inic…",
@@ -265,24 +463,6 @@
    "data": "2026-10-15T20:25:16-03:00"
   },
   {
-   "id": "66f9a3994a1e",
-   "titulo": "Alcolumbre retira PEC da Segurança da pauta: “Fiz o que queria fazer”",
-   "resumo": "Falta de acordo do governo sobre maioridade penal trava votação do texto no Senado",
-   "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-retira-pec-da-seguranca-publica-da-pauta/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T20:13:18-03:00"
-  },
-  {
-   "id": "f38ca862c1c0",
-   "titulo": "TSE manda retirar postagem de Flávio sobre possível mesada a Lulinha",
-   "resumo": "Tribunal deu 24 horas para remoção de publicações que associam Lula a suspeitas envolvendo o filho, investigado no caso do INSS",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-retirar-postagem-de-flavio-sobre-possivel-mesada-a-lulinha/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T20:12:24-03:00"
-  },
-  {
    "id": "bea947d05eaf",
    "titulo": "Alcolumbre vai promulgar fim da escala 6x1 nesta sexta",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as…",
@@ -290,15 +470,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T20:10:00-03:00"
-  },
-  {
-   "id": "8481e98bdbd5",
-   "titulo": "Alcolumbre protege Lula ao tirar PEC da Segurança da pauta, diz Marinho",
-   "resumo": "Senador afirma que presidente do Senado agiu para evitar desgaste do PT com discussão sobre redução da maioridade penal",
-   "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-protege-lula-ao-tirar-pec-da-seguranca-da-pauta-diz-marinho/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T20:08:09-03:00"
   },
   {
    "id": "eaf4f6566436",
@@ -337,42 +508,6 @@
    "data": "2026-10-15T19:35:53-03:00"
   },
   {
-   "id": "031408a6dd51",
-   "titulo": "CNBB reafirma oposição à redução da maioridade penal",
-   "resumo": "O Conselho Permanente da Conferência Nacional dos Bispos do Brasil (CNBB) divulgou nota nesta quinta-feira, 15, em que rejeita as propostas de redução da maioridade penal. O texto repete o conteúdo de uma carta enviada a deputados e senador…",
-   "link": "https://oantagonista.com.br/brasil/cnbb-reafirma-oposicao-a-reducao-da-maioridade-penal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Presidencia-2023-2019-1.jpg",
-   "data": "2026-10-15T19:32:20-03:00"
-  },
-  {
-   "id": "80983dc16158",
-   "titulo": "'OAB da Medicina': Congresso aprova lei que prevê obrigatoriedade de prova para médicos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-congresso-aprova-lei-que-preve-obrigatoriedade-de-prova-para-medicos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Ellzg4b55M158S6FtIycvwJDewk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/5/aB4SXeSVahJvxovuH7ew/acidente-pp-3-.png",
-   "data": "2026-10-15T19:29:19-03:00"
-  },
-  {
-   "id": "285a48f2222e",
-   "titulo": "Flávio Bolsonaro promete pena de 8 anos para quem rouba celular e pede votos de quem não votou no 1º turno",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/live-flavio-bolsonaro-datafolha-empate-tecnico-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/JLzGLG23xH_kcf4S1yfza_uHOi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/O/zGPPk4R1WSnwtxlBXxwA/flavio-bolsoanro-live-15-derrite-nikolas.jpg",
-   "data": "2026-10-15T19:20:21-03:00"
-  },
-  {
-   "id": "d8b817a6c5aa",
-   "titulo": "TSE atende a Lula e determina que Meta não interfira em distribuição de conteúdo político-eleitoral",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/tse-determina-que-meta-nao-interfira-em-distribuicao-de-conteudo-politico-eleitoral-sobre-qualquer-candidato.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/r4EWrZnESA0gDM0hXMrn4YRdYFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/O/c4G71pSPun6me3w9GAWA/montagens-home.png",
-   "data": "2026-10-15T19:18:39-03:00"
-  },
-  {
    "id": "67455da7a39f",
    "titulo": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado",
    "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), retirou da pauta desta quinta-feira, 15, a PEC da Segurança Pública. A decisão ocorreu depois de um impasse entre governo e oposição em torno de emendas que tratam da redução da maioridade…",
@@ -382,15 +517,6 @@
    "data": "2026-10-15T19:15:56-03:00"
   },
   {
-   "id": "40b3d35559c8",
-   "titulo": "Senado aprova com urgência perdão de dívidas do MEI e aumento do teto",
-   "resumo": "Projetos elevam limite de faturamento anual de MEIs para R$ 140 mil, permitem contratar até dois funcionários e preveem perdão de débitos.",
-   "link": "https://www.gazetadopovo.com.br/economia/senado-aprova-urgencia-perdao-dividas-meis-aumento-teto/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15184944/senado-960x540.jpg",
-   "data": "2026-10-15T19:14:26-03:00"
-  },
-  {
    "id": "c9677d937bb7",
    "titulo": "GSI e Polícia Federal desacataram ordem judicial para favorecer ato de Lula em SP, diz PM",
    "resumo": "Agentes do Gabinete de Segurança Institucional (GSI) da Presidência da República e da Polícia Federal (PF) teriam desacatado uma ordem da Justiça Eleitoral durante um ato de campanha do presidente Lula , realizado em 3 de outubro, na Avenid…",
@@ -398,51 +524,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/screenshot-2026-10-16-000047.png",
    "data": "2026-10-15T19:13:58-03:00"
-  },
-  {
-   "id": "072bd4ede42f",
-   "titulo": "Grupo Globo demite Frederic Kachar após mensagens revelarem relação com banqueiro",
-   "resumo": "Descubra por que a Globo demitiu Frederic Kachar após mensagens com Daniel Vorcaro revelarem interferência em reportagens e festas privadas sem celular.",
-   "link": "https://www.gazetadopovo.com.br/republica/grupo-globo-demite-frederic-kachar-apos-mensagens-revelarem-relacao-com-banqueiro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15191015/ASPA-GRANDE-2026-09-22T071138.195-1-960x540.jpg",
-   "data": "2026-10-15T19:10:12-03:00"
-  },
-  {
-   "id": "430741afc8f5",
-   "titulo": "Como votou cada senador na aprovação do perdão de dívidas do MEI",
-   "resumo": "Veja os senadores que participaram da aprovação do perdão de dívidas e aumento do teto para MEIs. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/economia/como-votou-cada-senador-na-aprovacao-do-perdao-de-dividas-do-mei/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15190853/como-votou-senador-mei-960x540.jpg",
-   "data": "2026-10-15T19:09:29-03:00"
-  },
-  {
-   "id": "efe897b22476",
-   "titulo": "Datafolha: Violência, saúde e economia lideram preocupações dos eleitores",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-violencia-saude-economia-preocupacao-eleitores.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/YKRJqXeVk9sJe7n9fT071zgNDfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/0LhY5rQcqYZ1w59CWk5g/meow-meow-meow-meow-71-.png",
-   "data": "2026-10-15T19:05:17-03:00"
-  },
-  {
-   "id": "068f40be5b0c",
-   "titulo": "Alcolumbre retira PEC da Segurança da pauta do Senado após impasse no governo Lula",
-   "resumo": "Davi Alcolumbre (União Brasil-AP) retira a PEC da Segurança da pauta do Senado após divergências no governo Lula.",
-   "link": "https://www.gazetadopovo.com.br/republica/apos-impasse-no-governo-lula-alcolumbre-retira-pec-da-seguranca-da-pauta-do-senado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15184702/Design-sem-nome-20-960x540.jpg",
-   "data": "2026-10-15T19:04:58-03:00"
-  },
-  {
-   "id": "66d1642bc84c",
-   "titulo": "Datafolha: Lula é rejeitado por 46%, e Flávio Bolsonaro, por 44%",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-rejeicao-15-outubro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/NPjMtiUipE4Cun658c2irNKR3nM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/NRxdX9RCa0tVMHvkAozw/261015-grafico-rejeicao-dos-candidatos-a-presidencia-no-2-turno.jpg",
-   "data": "2026-10-15T19:02:03-03:00"
   },
   {
    "id": "804cdf097092",
@@ -463,24 +544,6 @@
    "data": "2026-10-15T18:59:02-03:00"
   },
   {
-   "id": "5ab46c2bf0fa",
-   "titulo": "Datafolha: 50% desaprovam Lula, e 48% aprovam",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-lula-aprovacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/IBgai5oB4IeBSNiFTT7xXqsdIaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/G/HhzG5JRFurUezmNAHemg/2026-10-13t162847z-6358936-rc2d2oa22qzi-rtrmadp-3-brazil-election-lula.jpg",
-   "data": "2026-10-15T18:51:09-03:00"
-  },
-  {
-   "id": "54126434b004",
-   "titulo": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/YQIG_xmanlNrGpZEfSyLi-qgSEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/P/6bjURKSDOaIs3OpYTRMA/globo-canal-4-20260521-2000-frame-89307.jpeg",
-   "data": "2026-10-15T18:51:06-03:00"
-  },
-  {
    "id": "c0e85c15c398",
    "titulo": "Datafolha: Flávio tem 51% dos votos válidos; Lula soma 49%",
    "resumo": "Levantamento divulgado pelo instituto Datafolha no início da noite desta quinta-feira, 15, mostra o senador Flávio Bolsonaro (PL) numericamente à frente do presidente Luiz Inácio Lula da Silva (PT). O liberal aparece com 51% dos votos válid…",
@@ -488,15 +551,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-x-vorcaro.jpg",
    "data": "2026-10-15T18:39:57-03:00"
-  },
-  {
-   "id": "fc6bbece415c",
-   "titulo": "Senado tira da pauta discussão de PEC da Segurança Pública",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/3jv2rvzX4c-lXnKvz9STUPIP_Sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/j/0JeAj8TviyAgO2oxpRcg/captura-de-tela-2026-10-15-140745.png",
-   "data": "2026-10-15T18:39:55-03:00"
   },
   {
    "id": "776a45a73956",
@@ -517,15 +571,6 @@
    "data": "2026-10-15T18:24:00-03:00"
   },
   {
-   "id": "1ed6640b6457",
-   "titulo": "Lula quer transporte público ‘gratuito’ aos fins de semana em todo o Brasil",
-   "resumo": "O presidente Luiz Inácio Lula da Silva anunciou, nesta quinta-feira, 15, que enviará ao Congresso Nacional uma Proposta de Emenda à Constituição (PEC) para garantir transporte público gratuito nos fins de semana em todas as cidades brasilei…",
-   "link": "https://revistaoeste.com/politica/lula-quer-transporte-publico-gratuito-aos-fins-de-semana-em-todo-o-brasil/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/lula-primeiro-turno.jpg",
-   "data": "2026-10-15T18:20:45-03:00"
-  },
-  {
    "id": "04fe40c17f4c",
    "titulo": "Quem é o sobrinho-neto de Dilma Rousseff que estreia em Brasília em 2027",
    "resumo": "Pedro Rousseff ganhou projeção política em Belo Horizonte com atuação com jovens e embates com Nikolas Ferreira. Leia na Gazeta do Povo.",
@@ -535,15 +580,6 @@
    "data": "2026-10-15T17:55:14-03:00"
   },
   {
-   "id": "b7113dc14faf",
-   "titulo": "Aposta de Lula na PEC 6×1 esbarra na rejeição ao governo e na resistência da Classe C",
-   "resumo": "PEC 6x1 não será capaz, por si só, de promover virada de Lula durante o segundo turno das Eleições 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/aposta-de-lula-na-pec-6x1-esbarra-na-rejeicao-ao-governo-e-na-resistencia-da-classe-c/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/09230058/8023790887001-1-1-960x540.jpg",
-   "data": "2026-10-15T17:45:57-03:00"
-  },
-  {
    "id": "b7c6de052f5c",
    "titulo": "Meta esclarece a Nunes Marques funcionamento de IA sobre Lula e Flávio Bolsonaro",
    "resumo": "Empresa diz que trabalha para ajustar filtros eleitorais da Meta AI após relatos de tratamento diferente entre candidatos no WhatsApp. Leia na Gazeta do Povo.",
@@ -551,24 +587,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15152510/kassio-nunes-marques-foto-gustavo-moreno-stf-3-960x540.jpg",
    "data": "2026-10-15T17:33:54-03:00"
-  },
-  {
-   "id": "d606ab848d7f",
-   "titulo": "Fim da escala 6×1 terá impacto bilionário nos municípios, estima CNM",
-   "resumo": "O fim da escala de trabalho 6x1 poderá gerar um custo adicional de R$ 6,6 bilhões por ano às prefeituras brasileiras , segundo estimativa divulgada nesta quinta-feira, 15, pela Confederação Nacional de Municípios (CNM). O cálculo considera …",
-   "link": "https://revistaoeste.com/politica/fim-da-escala-6x1-tera-impacto-bilionario-nos-municipios-estima-cnm/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/sao-paulo-a-cidade-mais-populosa-do-brasil.jpeg",
-   "data": "2026-10-15T17:27:47-03:00"
-  },
-  {
-   "id": "e31b817598f8",
-   "titulo": "Governo pede fiscalização de seis jogos eletrônicos por semelhança com bets",
-   "resumo": "Ministério da Justiça solicita à ANPD apuração sobre caixas de recompensa em games como Counter-Strike 2 e Call of Duty. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/governo-fiscalizacao-seis-jogos-eletronicos-semelhanca-bets/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15164934/ministerio-da-justica-foto-rafa-neddermeyer-agencia-brasil-960x540.jpg",
-   "data": "2026-10-15T16:49:53-03:00"
   },
   {
    "id": "78033c46dce3",
@@ -616,33 +634,6 @@
    "data": "2026-10-15T11:25:00-03:00"
   },
   {
-   "id": "695da46eba6d",
-   "titulo": "A ofensiva de Lula sobre eleitores de direita contra Flávio no 2º turno",
-   "resumo": "Campanha petista tenta descolar Flávio Bolsonaro da direita pragmática para angariar votos no segundo turno. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/ofensiva-de-lula-sobre-eleitores-de-direita-contra-flavio-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14165541/lula-pr-960x540.jpg",
-   "data": "2026-10-15T10:57:15-03:00"
-  },
-  {
-   "id": "2ad084955f9a",
-   "titulo": "Os números da pesquisa Indexa/Broadcast para presidente no 2º turno",
-   "resumo": "Pesquisa Indexa/Broadcast mostra intenção de voto para presidente da República no segundo turno em 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/indexa-broadcast-presidente-outubro-2026-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14064310/pesquisa-presidente2-960x540.jpg",
-   "data": "2026-10-15T10:09:03-03:00"
-  },
-  {
-   "id": "5606eba55ef1",
-   "titulo": "Wilson Grassi Júnior anuncia apoio a Flávio Bolsonaro e cobra propostas para causa animal",
-   "resumo": "Ex-candidato à Presidência envia carta a Flávio Bolsonaro com cinco compromissos para a causa animal. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/wilson-grassi-junior-anuncia-apoio-a-flavio-bolsonaro-e-cobra-propostas-para-causa-animal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15093327/Gemini_Generated_Image_gsbag0gsbag0gsba-960x540.jpg",
-   "data": "2026-10-15T09:42:55-03:00"
-  },
-  {
    "id": "95250df9037e",
    "titulo": "Conheça detalhes da regulamentação dos jogos eletrônicos no Brasil",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-detalhes-da-regulamentacao-dos-jogos-eletronicos-no-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -677,15 +668,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-14T22:43:00-03:00"
-  },
-  {
-   "id": "a6ce79657ff6",
-   "titulo": "Senadores aprovam pedido para acelerar votação da PEC da Segurança",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senadores-aprovam-pedido-para-acelerar-votacao-da-pec-da-seguranca\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senadores-aprovam-pedido-para-acelerar-votacao-da-pec-da-seguranca",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-14T22:41:00-03:00"
   }
  ]
 }
