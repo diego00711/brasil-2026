@@ -1,34 +1,430 @@
 {
- "atualizado": "2026-10-16T14:21:34.703882-03:00",
- "total": 75,
+ "atualizado": "2026-10-16T17:59:37.117787-03:00",
+ "total": 74,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "b6b20fded4d9",
-   "titulo": "Ao vivo: Lula participa de ato em Juiz de Fora (MG)",
-   "resumo": "Presidente cumpre agenda de campanha em Minas Gerais a 9 dias do 2º turno da eleição presidencial",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-participa-de-ato-em-juiz-de-fora-mg/",
+   "id": "b21b416f0a19",
+   "titulo": "Ao vivo: Lula participa de ato em Ipatinga (MG) nesta 6ª feira",
+   "resumo": "Petista teve 588 mil votos a menos que Flávio Bolsonaro no Estado no 1º turno das eleições presidenciais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-participa-de-ato-em-ipatinga-mg-nesta-6a-feira/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/bTgWk0YrqYE/hqdefault.jpg",
-   "data": "2026-10-16T14:18:43-03:00"
+   "imagem": "https://i.ytimg.com/vi/v4Sfxrb8l7E/hqdefault.jpg",
+   "data": "2026-10-16T17:51:33-03:00"
   },
   {
-   "id": "278017baccac",
-   "titulo": "Moraes autoriza Bolsonaro a receber convidados em aniversário da filha",
-   "resumo": "Ministro determinou que permanência na casa seja só durante o período necessário para o almoço; ex-presidente cumpre prisão domiciliar",
-   "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-bolsonaro-a-receber-convidados-em-aniversario-da-filha/",
+   "id": "0f92e2ac463c",
+   "titulo": "Mensagens indicam festa de Vorcaro para Nunes Marques com garotas de programa",
+   "resumo": "O banqueiro Daniel Vorcaro promoveu uma festa com chefe de cozinha e garotas de programa para o ministro do Supremo Tribunal Federal (STF) Kassio Nunes Marques, presidente do Tribunal Superior Eleitoral (TSE). As informações foram divulgada…",
+   "link": "https://oantagonista.com.br/brasil/mensagens-indicam-festa-de-vorcaro-para-nunes-marques-com-garotas-de-programa/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Nunes-Marques-novo.jpg",
+   "data": "2026-10-16T17:44:18-03:00"
+  },
+  {
+   "id": "df80c1b704ca",
+   "titulo": "TSE rejeita pedido de Flávio para restringir atuação pró-Lula de sindicatos",
+   "resumo": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, rejeitou, na quinta-feira, 15, pedidos do candidato à Presidência Flávio Bolsonaro (PL) para impor restrições genéricas à atuação de sindicatos e entidades estudan…",
+   "link": "https://oantagonista.com.br/brasil/tse-rejeita-pedido-de-flavio-para-restringir-atuacao-pro-lula-de-sindicatos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Cueva.png",
+   "data": "2026-10-16T17:41:59-03:00"
+  },
+  {
+   "id": "71d9ccab13bc",
+   "titulo": "Justiça barra entrega de título de cidadão a Flávio Bolsonaro em Salvador",
+   "resumo": "A Justiça da Bahia determinou nesta sexta-feira, 16, a suspensão da cerimônia de entrega do título de cidadão de Salvador ao candidato à Presidência Flávio Bolsonaro (PL), prevista para sábado, 17, no Farol da Barra. A juíza Carla Graziela …",
+   "link": "https://oantagonista.com.br/brasil/justica-barra-entrega-de-titulo-de-cidadao-a-flavio-bolsonaro-em-salvador/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55588375394_1e8f4c738e_5k-scaled-e1792005027916.jpg",
+   "data": "2026-10-16T17:30:20-03:00"
+  },
+  {
+   "id": "4699395caa95",
+   "titulo": "Cotado para presidir o Senado, Marinho confronta Alcolumbre sobre PEC da Segurança",
+   "resumo": "Alcolumbre disse adiado votação por decisão própria e trocou farpas com Marinho, cotado para disputar o comando do Senado em 2027.",
+   "link": "https://www.gazetadopovo.com.br/republica/cotado-para-presidir-o-senado-marinho-confronta-alcolumbre-sobre-pec-da-seguranca/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16172522/rogerio-marinho-alcolumbre-960x540.jpg",
+   "data": "2026-10-16T17:27:15-03:00"
+  },
+  {
+   "id": "a2d63f4bb42d",
+   "titulo": "Durigan diz que mercado erra ao apostar em Flávio Bolsonaro",
+   "resumo": "Ministro da Fazenda afirma que programa econômico do candidato não é crível e aponta contradições nas promessas fiscais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/durigan-diz-que-mercado-erra-ao-apostar-em-flavio-bolsonaro/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-16T14:14:00-03:00"
+   "data": "2026-10-16T17:26:34-03:00"
   },
   {
-   "id": "12b0b4945138",
-   "titulo": "Moraes autoriza Bolsonaro a receber 10 convidados para aniversário da filha",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta sexta-feira, 16, a entrada de dez convidados na residência do ex-presidente Jair Bolsonaro (PL), para um almoço em comemoração ao aniversário de sua filha, L…",
-   "link": "https://oantagonista.com.br/brasil/moraes-autoriza-bolsonaro-a-receber-10-convidados-para-aniversario-da-filha/",
+   "id": "a81b2646740a",
+   "titulo": "Erika Hilton diz que Flávio não quer só mudar 6 X 1, mas enterrá-la",
+   "resumo": "A deputada disse que Flávio defende a PEC do Trabalho Flexível, que estabelece a negociação da jornada de trabalho",
+   "link": "https://www.poder360.com.br/poder-congresso/erika-hilton-diz-que-flavio-nao-quer-so-mudar-6-x-1-mas-enterra-la/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T17:23:09-03:00"
+  },
+  {
+   "id": "0da84ead2c5f",
+   "titulo": "Meta admite erro em conta de anúncios de Lula e nega interferência eleitoral",
+   "resumo": "A Meta, controladora do Instagram, Facebook e WhatsApp, admitiu nesta sexta-feira, 16, que desativou por engano a conta de anúncios da campanha do presidente Lula (PT) em setembro, mas negou qualquer interferência na eleição presidencial ou…",
+   "link": "https://oantagonista.com.br/brasil/meta-admite-erro-em-conta-de-anuncios-de-lula-e-nega-interferencia-eleitoral/",
    "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/09/ae1dd665-91ce-46c5-a485-599940d7b6fd.jpg",
-   "data": "2026-10-16T14:08:35-03:00"
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/ae067fa3-022f-42e6-8f78-7f018b2b041a-1.jpg",
+   "data": "2026-10-16T17:21:28-03:00"
+  },
+  {
+   "id": "763381305aa2",
+   "titulo": "Lula faz uso eleitoral de PEC da Segurança construída pela oposição",
+   "resumo": "Lula se apropriou da PEC da Segurança Pública como mais uma bandeira de campanha para virar votos às vésperas do segundo turno.",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/lula-uso-eleitoral-pec-seguranca-oposicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/11165401/lula-5-960x540.jpg",
+   "data": "2026-10-16T17:12:34-03:00"
+  },
+  {
+   "id": "67ba78287fab",
+   "titulo": "Reinaldo Azevedo recebeu R$ 100 mil mensais do Banco Master",
+   "resumo": "O jornalista Reinaldo Azevedo recebeu pagamentos de R$ 100 mil por mês do Banco Master , instituição financeira controlada pelo banqueiro Daniel Vorcaro, segundo informações atribuídas a mensagens encontradas no telefone do empresário. O jo…",
+   "link": "https://revistaoeste.com/politica/reinaldo-azevedo-recebeu-daniel-vorcaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/images-4.jpg",
+   "data": "2026-10-16T17:11:50-03:00"
+  },
+  {
+   "id": "e4d5010189f9",
+   "titulo": "Prefeito de Itaquaquecetuba (SP) se mobiliza em prol de Flávio",
+   "resumo": "O prefeito de Itaquaquecetuba (SP), Eduardo Boigues (PL), está engajado na campanha de Flávio Bolsonaro (PL) à Presidência da República . Ele acredita que a eleição do senador ajudará a cidade a deixar de ser \"subfinanciada\" pela União. \"Pr…",
+   "link": "https://revistaoeste.com/politica/prefeito-de-itaquaquecetuba-sp-se-mobiliza-em-prol-de-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/andre-do-prado-flavio-bolsonaro-eduardo-boigues-ricardo-nunes.jpg",
+   "data": "2026-10-16T17:10:59-03:00"
+  },
+  {
+   "id": "c4485d722ccf",
+   "titulo": "Assista a vídeos em que Lula dizia ser contra reduzir maioridade penal",
+   "resumo": "Petista e PT sempre foram contra essa medida, mas agora, na reta final da eleição de 2026, mudaram de opinião e dizem defender responsabilizar que tem 16 anos ou mais por crimes hediondos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/assista-a-videos-em-que-lula-dizia-ser-contra-reduzir-maioridade-penal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T17:02:56-03:00"
+  },
+  {
+   "id": "167f3528bbeb",
+   "titulo": "Damares pede a líderes religiosos que “não deixem o povo ser enganado”",
+   "resumo": "A senadora Damares Alves (Republicanos-DF) pediu a líderes evangélicos, católicos e de outras religiões que combatam o que classificou como desinformação sobre as propostas de Flávio Bolsonaro (PL) para a Previdência e os programas sociais.…",
+   "link": "https://oantagonista.com.br/brasil/damares-pede-lideres-religiosos-nao-deixem-povo-ser-enganado/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55351235493_1ca348b769_k.jpg",
+   "data": "2026-10-16T17:01:31-03:00"
+  },
+  {
+   "id": "d2028fa8cd49",
+   "titulo": "Em aceno a Cleitinho, Lula diz que reconstruirá Minas Gerais",
+   "resumo": "Presidente afirma que ex-governador Zema “estragou” Estado e que ele é “única chance” que o governador eleito tem para reconstruir Minas",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-aceno-a-cleitinho-lula-diz-que-reconstruira-minas-gerais/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T16:59:07-03:00"
+  },
+  {
+   "id": "9350aab1607b",
+   "titulo": "Fim da escala 6x1 é oficializado no Diário Oficial; quando entra em vigor? Veja datas",
+   "resumo": "",
+   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/fim-da-escala-6x1-diario.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/eN1sii6QDbapfY77ZY8rcihO7mo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/y/ZRwtTaS1ACN2RNc3tL5w/globo-canal-4-20261015-2000-frame-101492.jpeg",
+   "data": "2026-10-16T16:55:16-03:00"
+  },
+  {
+   "id": "c92dcf986c4b",
+   "titulo": "Redução da jornada elevará custos de 30% das empresas, diz Durigan",
+   "resumo": "Ministro afirma que 70% dos contratos já adotam escala de 5 dias e que governo estuda crédito para empresários",
+   "link": "https://www.poder360.com.br/poder-economia/reducao-da-jornada-elevara-custos-de-30-das-empresas-diz-durigan/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T16:54:27-03:00"
+  },
+  {
+   "id": "c8b1b293f764",
+   "titulo": "Lula ataca Flávio após promulgação do fim da escala 6×1 em ato em MG",
+   "resumo": "Presidente usa redução da jornada de trabalho como trunfo eleitoral e afirma que oposição pode reverter a mudança. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-ataca-flavio-promulgacao-fim-escala-6x1-ato-em-mg/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16164317/lula-ato-juiz-de-fora-16-10-2026-foto-andre-coelho-efe-960x540.jpg",
+   "data": "2026-10-16T16:48:32-03:00"
+  },
+  {
+   "id": "094606d01c2a",
+   "titulo": "Janones celebra volta do ‘Exército do Lula’: “Está praticamente reeleito”",
+   "resumo": "O deputado federal André Janones (Rede-MG) celebrou nesta sexta, 16, a reativação do canal de WhatsApp “Exército do Lula”, após o caso ser contestado no Tribunal Superior Eleitoral (TSE). Em vídeo divulgado nas redes sociais, o parlamentar …",
+   "link": "https://oantagonista.com.br/brasil/janones-celebra-volta-do-exercito-do-lula-esta-praticamente-reeleito/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/image-2026-08-14T112419.827-1-1-e1786717592775.jpg",
+   "data": "2026-10-16T16:48:08-03:00"
+  },
+  {
+   "id": "f4798f2501c5",
+   "titulo": "Com PEC promulgada, Câmara diz que vai aplicar fim da escala 6x1 já na próxima semana",
+   "resumo": "Com PEC promulgada, Câmara diz que vai aplicar fim da escala 6x1 na próxima semana O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), anunciou nesta sexta-feira (16) em uma rede social que a Casa vai implementar o fim da es…",
+   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/com-pec-promulgada-camara-diz-que-vai-aplicar-fim-da-escala-6x1-ja-a-partir-da-proxima-semana.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-16T16:48:07-03:00"
+  },
+  {
+   "id": "6f5a70190395",
+   "titulo": "Leia e assista ao discurso de Alcolumbre na promulgação do fim da 6 X 1",
+   "resumo": "Presidente do Senado afirmou que o Congresso enfrentou um tema complexo ao aprovar mudanças na jornada de trabalho",
+   "link": "https://www.poder360.com.br/poder-congresso/leia-e-assista-ao-discurso-de-alcolumbre-na-promulgacao-do-fim-da-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/7drRzGwz1gE/hqdefault.jpg",
+   "data": "2026-10-16T16:45:23-03:00"
+  },
+  {
+   "id": "7947774ab32f",
+   "titulo": "Michelle Bolsonaro tinha razão sobre Ciro Gomes?",
+   "resumo": "A aliança entre Ciro Gomes (PSDB) e o PL no Ceará, que provocou uma crise entre Michelle Bolsonaro e integrantes da família Bolsonaro, voltou ao debate nesta sexta-feira, 16. Enquanto o tucano não se posiciona na disputa presidencial, seu c…",
+   "link": "https://oantagonista.com.br/brasil/michelle-bolsonaro-tinha-razao-sobre-ciro-gomes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-95.png",
+   "data": "2026-10-16T16:44:02-03:00"
+  },
+  {
+   "id": "09150e2a3f12",
+   "titulo": "Meta nega interferência política nas eleições do Brasil e cita 'incidentes técnicos' em redes de Lula",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/16/meta-nega-interferencia-politica-nas-eleicoes-do-brasil-e-cita-incidentes-tecnicos-em-redes-de-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/2SYIJTJmLBg1EAc85LerrFygDjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/W/GV56DqRUG9RHGgPdAvcQ/55587732255-e9be366127-k.jpg",
+   "data": "2026-10-16T16:39:24-03:00"
+  },
+  {
+   "id": "63db9823babe",
+   "titulo": "Ex-presidente do BRB assumiria comando do Master depois de compra, diz Vorcaro à PF",
+   "resumo": "O ex-banqueiro Daniel Vorcaro afirmou à Polícia Federal (PF) que Paulo Henrique Costa, ex-presidente do Banco de Brasília (BRB), assumiria o cargo de CEO do Banco Master depois da compra da instituição pelo banco estatal. Segundo Vorcaro, C…",
+   "link": "https://revistaoeste.com/politica/ex-presidente-do-brb-assumiria-comando-do-master-depois-de-compra-diz-vorcaro-a-pf/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/BRB-Costa.jpeg",
+   "data": "2026-10-16T16:37:44-03:00"
+  },
+  {
+   "id": "c8b38a5a885d",
+   "titulo": "TSE define critérios para vincular canais de WhatsApp às campanhas eleitorais",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) aprovou nesta sexta, 16, por unanimidade, uma mudança na resolução sobre propaganda eleitoral para definir critérios para o funcionamento de canais de WhatsApp vinculados às campanhas. As regras foram fix…",
+   "link": "https://oantagonista.com.br/brasil/tse-define-criterios-para-vincular-canais-de-whatsapp-as-campanhas-eleitorais/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Kassio-Nunes-e-Dias-Toffoli.jpg",
+   "data": "2026-10-16T16:29:45-03:00"
+  },
+  {
+   "id": "4f92df418967",
+   "titulo": "Câmara vai antecipar fim da escala 6×1 para terceirizados, diz Motta",
+   "resumo": "O presidente da Câmara, Hugo Motta (Republicanos-PB), anunciou nesta sexta-feira, 16, que a Casa vai antecipar a aplicação do fim da escala 6×1 para cerca de 1,7 mil trabalhadores terceirizados. Segundo ele, os ajustes nos contratos serão i…",
+   "link": "https://oantagonista.com.br/brasil/camara-vai-antecipar-fim-da-escala-6x1-para-terceirizados-diz-motta/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/img_4437.jpg-1.jpg",
+   "data": "2026-10-16T16:27:59-03:00"
+  },
+  {
+   "id": "ad07c6e5c39d",
+   "titulo": "Assessora de imprensa da Casa Branca deixa cargo após 5 dias, diz jornal",
+   "resumo": "Kate Zacharia recebeu críticas depois de se apresentar como advogada mesmo sem passar na prova da Ordem",
+   "link": "https://www.poder360.com.br/poder-internacional/assessora-de-imprensa-da-casa-branca-deixa-cargo-apos-5-dias-diz-jornal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T16:26:45-03:00"
+  },
+  {
+   "id": "96c9542f78f9",
+   "titulo": "Lei seca no 2º turno: entenda as regras para venda e consumo de bebidas nas eleições 2026",
+   "resumo": "Lei seca no 2º turno varia entre os estados. Veja as regras sobre venda e consumo de bebidas alcoólicas nas eleições.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lei-seca-no-2-turno-veja-regras-nas-eleicoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16105743/Oliver-Matos_Pexels-960x540.jpg",
+   "data": "2026-10-16T16:18:45-03:00"
+  },
+  {
+   "id": "17d8988db4ac",
+   "titulo": "1/4 dos alunos cobra que novos governadores priorizem educação",
+   "resumo": "Pesquisa ouviu 5.296 estudantes de 12 a 21 anos; 25% dos alunos do ensino médio dizem que melhorar ensino e aprendizagem deve ser prioridade",
+   "link": "https://www.poder360.com.br/poder-pesquisas/1-4-dos-alunos-cobra-que-novos-governadores-priorizem-educacao/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/uilzqKtpJ9w/hqdefault.jpg",
+   "data": "2026-10-16T16:18:28-03:00"
+  },
+  {
+   "id": "43f0646cfe44",
+   "titulo": "Lula acena a empresários: “Ninguém vai ter prejuízo com fim da 6 X 1”",
+   "resumo": "Petista também fez críticas ao clã Bolsonaro ao dizer que eles “não representam os interesses do povo trabalhador”",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-acena-a-empresarios-ninguem-vai-ter-prejuizo-com-fim-da-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T16:16:59-03:00"
+  },
+  {
+   "id": "86f6cb08f5c7",
+   "titulo": "Mensagens mostram festa de Vorcaro para Kassio Nunes Marques com garotas de programa, diz revista",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/16/mensagens-mostram-festa-de-vorcaro-para-kassio-nunes-marques-com-garotas-de-programa-diz-revista.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/x4fG-nKFhv1loGDQYlyL7moquuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/Zk2iEbRcARDETSJoSn2w/rayanna-1.png",
+   "data": "2026-10-16T16:16:33-03:00"
+  },
+  {
+   "id": "8130d4734a0b",
+   "titulo": "TSE aprova por unanimidade restrições a canais de WhatsApp das campanhas",
+   "resumo": "Canais que recebam dinheiro, suporte técnico ou orientações de candidatos terão de ser registrados na Justiça Eleitoral. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-aprova-unanimidade-restricoes-canais-whatsapp-campanhas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16161417/tse-fachada-foto-jose-cruz-agencia-brasil-960x540.jpg",
+   "data": "2026-10-16T16:14:46-03:00"
+  },
+  {
+   "id": "0381f3fa83f2",
+   "titulo": "Lula manda recado a Cleitinho: “Só tem que ficar quietinho”",
+   "resumo": "O presidente Lula (PT) afirmou nesta sexta-feira, 16, que a reeleição à Presidência é a única chance de o governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), “recuperar o estado que o Zema estragou”. Segundo Lula, caso Fláv…",
+   "link": "https://oantagonista.com.br/brasil/lula-manda-recado-a-cleitinho-so-tem-que-ficar-quietinho/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593624353_f54712ac78_k.jpg",
+   "data": "2026-10-16T16:09:34-03:00"
+  },
+  {
+   "id": "2cb79d96a9ab",
+   "titulo": "Fachin aplica critérios distintos para liberar acesso a provas sigilosas no STF",
+   "resumo": "Entenda as decisões divergentes de Fachin sobre o acesso a provas sigilosas envolvendo Luiz Fux e aliados do governo no STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-aplica-criterios-distintos-para-liberar-acesso-a-provas-sigilosas-no-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16155829/fachin-1-960x540.jpg",
+   "data": "2026-10-16T15:58:26-03:00"
+  },
+  {
+   "id": "82fce00a7729",
+   "titulo": "Aliados querem que Lula cobre Flávio sobre 6×1 e salário mínimo no debate",
+   "resumo": "Aliados do presidente Lula (PT) defenderam, em declarações a O Antagonista nesta sexta-feira, 16, que o petista aproveite o debate de domingo, 18, para questionar Flávio Bolsonaro (PL) sobre o fim da escala 6×1, o aumento real do salário mí…",
+   "link": "https://oantagonista.com.br/brasil/aliados-querem-que-lula-cobre-flavio-sobre-6x1-e-salario-minimo-no-debate/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Flavio-Bolsonaro-e-Lula.jpg",
+   "data": "2026-10-16T15:50:27-03:00"
+  },
+  {
+   "id": "9ea83af5d77f",
+   "titulo": "Alcolumbre homenageia Paim no fim da 6x1; entenda motivo",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-16T15:44:00-03:00"
+  },
+  {
+   "id": "90c1cc1b2618",
+   "titulo": "Vice de Ciro Gomes no Ceará declara apoio a Flávio Bolsonaro",
+   "resumo": "O candidato a vice-governador na chapa de Ciro Gomes (PSDB) no Ceará, Roberto Cláudio (União Brasil), declarou apoio a Flávio Bolsonaro (PL) na disputa presidencial. O ex-prefeito de Fortaleza anunciou a decisão nesta sexta-feira, 16, e def…",
+   "link": "https://oantagonista.com.br/brasil/vice-de-ciro-gomes-no-ceara-declara-apoio-a-flavio-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-93.png",
+   "data": "2026-10-16T15:38:44-03:00"
+  },
+  {
+   "id": "279aa6525c51",
+   "titulo": "Irmã de Vorcaro diz que ex-banqueiro está ‘em pânico’ na prisão",
+   "resumo": "A advogada Natália Vorcaro Zettel, irmã do ex-banqueiro Daniel Vorcaro , afirmou que o ex-dono do Banco Master está em pânico na prisão e teme ser transferido novamente para um presídio de segurança máxima. Em áudio obtido pela revista Veja…",
+   "link": "https://revistaoeste.com/politica/irma-de-vorcaro-diz-que-ex-banqueiro-esta-em-panico-na-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro_esfera-2.jpg",
+   "data": "2026-10-16T15:35:22-03:00"
+  },
+  {
+   "id": "0c0e59597775",
+   "titulo": "Pacote eleitoreiro de Lula já custa quase R$ 300 bi, aponta IFI",
+   "resumo": "Benefícios, subsídios e linhas de crédito pressionam contas públicas e IFI alerta para avanço da dívida. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/pacote-eleitoreiro-lula-custa-quase-300-bi-aponta-ifi/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16153430/lula-foto-andre-borges-efe-29-1-960x540.jpg",
+   "data": "2026-10-16T15:34:49-03:00"
+  },
+  {
+   "id": "4648d573dce6",
+   "titulo": "Na TV, Flávio Bolsonaro dedica propaganda às mulheres; Lula compara adversário a Milei e critica 'tesouraço'",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg",
+   "data": "2026-10-16T15:31:36-03:00"
+  },
+  {
+   "id": "26840a4132da",
+   "titulo": "Deputada dos EUA chama Lula e Sánchez de corruptos e fala em “liberdade” pós-eleições",
+   "resumo": "María Elvira Salazar, que já havia manifestado torcida contra Lula, voltou a se pronunciar sobre a eleição brasileira",
+   "link": "https://www.gazetadopovo.com.br/mundo/deputada-eua-chama-lula-sanchez-corruptos-fala-liberdade-pos-eleicoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16150737/salazar.sanchez.lula_-960x540.jpg",
+   "data": "2026-10-16T15:08:27-03:00"
+  },
+  {
+   "id": "081e8819c042",
+   "titulo": "Janones convoca militância para postar fotos de verde e amarelo e “tirar identidade” da direita",
+   "resumo": "Deputado quer postagens simultâneas com cores da bandeira e símbolo de \"L\" para atrair repercussão. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/janones-convoca-militancia-para-postar-fotos-de-verde-e-amarelo-e-tirar-identidade-da-direita/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16145735/ASPA-GRANDE-2026-10-16T145724.945-960x540.jpg",
+   "data": "2026-10-16T15:00:39-03:00"
+  },
+  {
+   "id": "400b19f0cb45",
+   "titulo": "Moraes autoriza Bolsonaro a receber familiares para aniversário da filha",
+   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes autorizou, nesta sexta-feira, 16, o ex-presidente Jair Bolsonaro a receber familiares para comemorar o aniversário de Laura Bolsonaro, sua filha mais nova. A demanda foi proto…",
+   "link": "https://revistaoeste.com/politica/moraes-autoriza-bolsonaro-a-receber-familiares-para-aniversario-da-filha/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/Aniversario-Laura-filha-Jair-e-Michelle-Bolsonaro.jpg",
+   "data": "2026-10-16T14:49:41-03:00"
+  },
+  {
+   "id": "33767b9b795d",
+   "titulo": "Governo quer votar PEC da Segurança sem redução da maioridade penal",
+   "resumo": "O ministro das Relações Institucionais, José Guimarães, afirmou que o governo pretende votar a PEC da Segurança Pública na próxima semana e discutir, mas sem incluir a redução da maioridade penal. A estratégia busca destravar a análise depo…",
+   "link": "https://revistaoeste.com/politica/governo-quer-votar-pec-da-seguranca-sem-reducao-da-maioridade-penal/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/01/03A_ed251.jpg",
+   "data": "2026-10-16T14:43:58-03:00"
+  },
+  {
+   "id": "cc46b81972af",
+   "titulo": "Vorcaro nega fraude de R$ 12 bi no BRB e chama Compliance Zero de “açodada”",
+   "resumo": "Ex-banqueiro afirma que negócios do Master com o BRB não geraram prejuízos e pediu arquivamento do inquérito. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/vorcaro-nega-fraude-12-bi-brb-chama-compliance-zero-acodada/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16013101/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
+   "data": "2026-10-16T14:41:07-03:00"
+  },
+  {
+   "id": "06e0fce492bd",
+   "titulo": "TSE aprova novas regras para vincular canais de WhatsApp a campanhas eleitorais",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tse-nova-regras-para-vincular-canais-de-whatsapp-a-campanhas-eleitorais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/CVCBhAuSXxDlc0ASkxuHVWGe1cE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/y/hJYtWEScKsCZrT287Zhg/55573953496-4fac274ebb-k.jpg",
+   "data": "2026-10-16T14:36:20-03:00"
+  },
+  {
+   "id": "fd1cde741912",
+   "titulo": "Moraes vota para tornar Oswaldo Eustáquio réu pelo 8/1",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , votou nesta sexta-feira, 16, para tornar réu o jornalista Oswaldo Eustáquio pelo suposto crime de associação criminosa nos atos do 8 de janeiro de 2023. A denúncia foi ofer…",
+   "link": "https://revistaoeste.com/politica/moraes-vota-para-tornar-oswaldo-eustaquio-reu-pelo-8-1/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/transparencia-internacional_moraes.jpeg",
+   "data": "2026-10-16T14:23:37-03:00"
+  },
+  {
+   "id": "93fa2b935b26",
+   "titulo": "Moraes autoriza Bolsonaro a receber convidados em aniversário da filha",
+   "resumo": "Ministro passou a liberar visitas após término de restrições, mas manteve vedação a encontros políticos. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-bolsonaro-a-receber-convidados-em-aniversario-da-filha/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16141343/ASPA-GRANDE-2026-10-16T141340.153-960x540.jpg",
+   "data": "2026-10-16T14:14:37-03:00"
   },
   {
    "id": "1ff781dc56b3",
@@ -40,15 +436,6 @@
    "data": "2026-10-16T14:07:43-03:00"
   },
   {
-   "id": "634287d3c8ee",
-   "titulo": "Edinho comenta empate de votos do PoderData e diz que Lula “já virou”",
-   "resumo": "Presidente do PT afirma que campanha petista está em trajetória de crescimento; pesquisa mostra empate com Flávio Bolsonaro a 9 dias do 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/edinho-comenta-empate-de-votos-do-poderdata-e-diz-que-lula-ja-virou/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T14:07:15-03:00"
-  },
-  {
    "id": "6631ac70c549",
    "titulo": "PF ouve Augusto Lima, ex-sócio de Vorcaro, sobre negócios entre Master e BRB",
    "resumo": "",
@@ -56,33 +443,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/RG2OjhXgac9bFfBs7N9datAOrew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/r/9QEE2KTeAnb0AEsakmbg/augusto-lima-foto-vanner-casaes-agencia-alba.jpg",
    "data": "2026-10-16T14:06:16-03:00"
-  },
-  {
-   "id": "786d4ffe01de",
-   "titulo": "Justiça mantém prisões de Canella e ex-chefe da Polícia Civil",
-   "resumo": "A Justiça manteve nesta sexta, 16, nas audiências de custódia, as prisões do ex-prefeito de Belford Roxo e deputado estadual eleito Márcio Canella (União Brasil) e do ex-secretário de Polícia Civil Marcus Amim. Eles foram presos na quinta, …",
-   "link": "https://oantagonista.com.br/brasil/justica-mantem-prisoes-de-canella-e-ex-chefe-da-policia-civil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/Marcelo_Canella_Flavio_full.jpg",
-   "data": "2026-10-16T14:05:41-03:00"
-  },
-  {
-   "id": "0a32b2ec1011",
-   "titulo": "Flávio e oposição não vão a promulgação do fim da 6 X 1",
-   "resumo": "Mesmo após apoiar o texto no Senado, senadores esvaziam solenidade que reuniu Lula, Davi Alcolumbre e Hugo Motta",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-oposicao-nao-vao-a-promulgacao-do-fim-da-6-x-1/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T14:02:41-03:00"
-  },
-  {
-   "id": "5e7f7c9bc4d1",
-   "titulo": "Indústria depende mais de bancos para obter crédito",
-   "resumo": "Participação dos bancos tradicionais no financiamento de curto e médio prazo subiu de 61% para 65,3% em 1 ano",
-   "link": "https://www.poder360.com.br/poder-economia/industria-depende-mais-de-bancos-para-obter-credito/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T14:00:28-03:00"
   },
   {
    "id": "9ac7e377da07",
@@ -95,7 +455,7 @@
   },
   {
    "id": "7441e6ee3199",
-   "titulo": "FAB decreta sigilo a voo de Vorcaro e dificulta esclarecimento sobre viagem antes de prisão",
+   "titulo": "FAB decreta sigilo sobre voo de Vorcaro e dificulta esclarecimento de viagem antes da prisão",
    "resumo": "A decisão, divulgada nesta quinta-feira pelo veículo, impede que sejam conhecidos publicamente os registros que poderiam ajudar a reconstruir os deslocamentos da aeronave e esclarecer a cronologia da viagem",
    "link": "https://www.gazetadopovo.com.br/republica/fab-decreta-sigilo-a-voo-de-vorcaro-e-dificulta-esclarecimento-sobre-viagem-antes-de-prisao/",
    "fonte": "Gazeta do Povo",
@@ -112,33 +472,6 @@
    "data": "2026-10-16T13:50:27-03:00"
   },
   {
-   "id": "849e402fd9a5",
-   "titulo": "Flávio quer desconfigurar debate sobre segurança, diz Edinho Silva",
-   "resumo": "Líder da oposição no Senado propôs uma emenda à PEC da Segurança Pública para a redução da maioridade penal",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-quer-desconfigurar-debate-sobre-seguranca-diz-edinho-silva/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T13:46:49-03:00"
-  },
-  {
-   "id": "0f534f518901",
-   "titulo": "Crusoé: CNT/MDA aponta disputa acirrada entre Lula e Flávio",
-   "resumo": "Pesquisa CNT/MDA, divulgada nesta sexta-feira, 16, aponta uma disputa acirrada entre Lula (PT) e Flávio Bolsonaro (PL) no segundo turno. Flávio aparece numericamente à frente, com 46,8% das intenções de voto, enquanto Lula tem 45,9%. Branco…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-cnt-mda-aponta-disputa-acirrada-entre-lula-e-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-e-Lula.jpg",
-   "data": "2026-10-16T13:42:54-03:00"
-  },
-  {
-   "id": "38f969060bec",
-   "titulo": "Crusoé: “Que tipo de seres humanos somos?”, diz Lula sobre escala 6×1",
-   "resumo": "O presidente Lula (PT) celebrou a aprovação do fim da escala 6×1 e afirmou que o país deve “garantir o direito do ser humano descansar”. O petista participou de uma sessão nesta sexta-feira, 16, na Câmara dos Deputados, com a presença dos p…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-que-tipo-de-seres-humanos-somos-diz-lula-sobre-escala-6x1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593292876_6962311187_3k.jpg",
-   "data": "2026-10-16T13:40:38-03:00"
-  },
-  {
    "id": "e8535e9a41ea",
    "titulo": "Damares aciona PGR contra propaganda de Lula com ataque simulado em escola",
    "resumo": "A senadora Damares Alves (Republicanos-DF) acionou a Procuradoria-Geral da República (PGR) nesta quinta-feira, 15, para pedir a apuração de possíveis irregularidades em uma propaganda da campanha do presidente Luiz Inácio Lula da Silva que …",
@@ -148,15 +481,6 @@
    "data": "2026-10-16T13:36:57-03:00"
   },
   {
-   "id": "66bc9cd099da",
-   "titulo": "“Discussão fica para depois do 2º turno”, diz PT sobre reeleição de Motta",
-   "resumo": "PT e PL deixam disputa pela Câmara em segundo plano durante a campanha presidencial; 7 partidos já apoiam Motta",
-   "link": "https://www.poder360.com.br/poder-congresso/discussao-fica-para-depois-do-2o-turno-diz-pt-sobre-reeleicao-de-motta/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T13:33:49-03:00"
-  },
-  {
    "id": "f20b78f325ce",
    "titulo": "Congresso promulga emenda de aposentadoria especial de agente de saúde",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-de-aposentadoria-especial-de-agente-de-saude\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
@@ -164,15 +488,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-16T13:31:00-03:00"
-  },
-  {
-   "id": "68a1a4f20da1",
-   "titulo": "“Posição de subalterno”, diz general sobre foto de Flávio e Trump",
-   "resumo": "Ex-ministro de Jair Bolsonaro, Santos Cruz diz que busca de interferência dos EUA na política brasileira é “traição”",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/posicao-de-subalterno-diz-general-sobre-foto-de-flavio-e-trump/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/FjiuXevhBtM/hqdefault.jpg",
-   "data": "2026-10-16T13:28:16-03:00"
   },
   {
    "id": "b1de50f45af1",
@@ -193,15 +508,6 @@
    "data": "2026-10-16T13:16:15-03:00"
   },
   {
-   "id": "6f5dc1753eae",
-   "titulo": "Deputado quer convocar ministro de Lula para explicar supostas relações com Vorcaro",
-   "resumo": "O deputado federal Carlos Jordy (PL-RJ) apresentou requerimento para convocar o ministro da Saúde, Alexandre Padilha, a prestar esclarecimentos no plenário da Câmara sobre sua suposta participação em articulações envolvendo fundos de pensão…",
-   "link": "https://oantagonista.com.br/brasil/deputado-quer-convocar-ministro-de-lula-para-explicar-relacoes-com-vorcaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Alexandre-Padilha.jpg",
-   "data": "2026-10-16T13:14:54-03:00"
-  },
-  {
    "id": "fe080f4510ea",
    "titulo": "Lula e Flávio Bolsonaro se enfrentam no domingo: veja como será o debate da Band",
    "resumo": "Encontro no domingo (18) terá 2 horas de duração, circulação livre dos candidatos e perguntas de jornalistas. Saiba mais na Gazeta do Povo.",
@@ -220,33 +526,6 @@
    "data": "2026-10-16T13:07:00-03:00"
   },
   {
-   "id": "5eae58c006c4",
-   "titulo": "Congresso promulga aposentadoria especial para agentes de saúde",
-   "resumo": "Texto determina regras de transição por idades mínimas progressivas e sistema de pontos; governo estima impacto em R$ 27 bilhões",
-   "link": "https://www.poder360.com.br/poder-congresso/congresso-promulga-aposentadoria-especial-para-agentes-de-saude/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T13:05:40-03:00"
-  },
-  {
-   "id": "3a46582a0cf2",
-   "titulo": "Futura: Flávio tem 50,8% e Lula, 49,2% dos votos válidos",
-   "resumo": "O senador Flávio Bolsonaro (PL) tem 50,8% das intenções de votos válidos no segundo turno da eleição presidencial, contra 49,2% do presidente Luiz Inácio Lula da Silva, segundo pesquisa Futura /100% Cidades divulgada nesta sexta-feira, 16. …",
-   "link": "https://revistaoeste.com/politica/futura-flavio-tem-508-e-lula-492-dos-votos-validos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/lula.png",
-   "data": "2026-10-16T13:05:39-03:00"
-  },
-  {
-   "id": "b79a2a6b16c1",
-   "titulo": "“Tarifa zero de Lula é a nova versão da picanha de 2022”",
-   "resumo": "Líderes parlamentares ouvidos por O Antagonista rejeitaram a ideia do presidente Lula de usar as emendas para bancar a gratuidade no sistema de transporte público aos finais de semana, anunciada pelo petista. Apesar disso, não há uma preocu…",
-   "link": "https://oantagonista.com.br/brasil/tarifa-zero-de-lula-e-a-nova-versao-da-picanha-de-2022/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55555300944_9222f2f5f4_k.jpg",
-   "data": "2026-10-16T13:02:33-03:00"
-  },
-  {
    "id": "d765080db086",
    "titulo": "Descanso de trabalhador não quebra empresas, diz Lula após fim da 6x1",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/descanso-de-trabalhador-nao-quebra-empresas-diz-lula-apos-fim-da-6x1\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
@@ -254,15 +533,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-16T12:59:00-03:00"
-  },
-  {
-   "id": "3a8654222b21",
-   "titulo": "Governo quer votar PEC da Segurança na próxima semana e maioridade depois",
-   "resumo": "Emenda de Camilo Santana para reduzir a maioridade penal de 18 para 16 anos expõe divergência dentro PT",
-   "link": "https://www.poder360.com.br/poder-congresso/governo-quer-votar-pec-da-seguranca-na-proxima-semana-e-maioridade-depois/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-16T12:56:40-03:00"
   },
   {
    "id": "a584030ad516",
@@ -283,114 +553,6 @@
    "data": "2026-10-16T12:44:16-03:00"
   },
   {
-   "id": "ba619d6a13a2",
-   "titulo": "Nikolas reage à queima de boneco de Flávio: ‘Você quer estar ao lado desses?’",
-   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) reagiu à queima de um boneco com a imagem do senador Flávio Bolsonaro (PL-RJ), candidato à Presidência , durante uma manifestação no Crato, no Ceará. Em publicação no X nesta quinta-feira, 15, o p…",
-   "link": "https://revistaoeste.com/politica/nikolas-reage-a-queima-de-boneco-de-flavio-voce-quer-estar-ao-lado-desses/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/feira-livre-89.jpg",
-   "data": "2026-10-16T12:44:04-03:00"
-  },
-  {
-   "id": "fd69331f4389",
-   "titulo": "Ao lado de Lula, Alcolumbre usa fim da escala 6×1 para enaltecer atuação do Congresso",
-   "resumo": "O presidente do Congresso, Davi Alcolumbre (União-AP), usou a cerimônia de promulgação do fim da escala 6x1 para enaltecer a atuação de deputados e senadores na aprovação da mudança trabalhista. Ao lado do presidente Luiz Inácio Lula da Sil…",
-   "link": "https://revistaoeste.com/politica/ao-lado-de-lula-alcolumbre-usa-fim-da-escala-6x1-para-enaltecer-atuacao-do-congresso/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55592121887_7e152e9827_o.jpg",
-   "data": "2026-10-16T12:32:51-03:00"
-  },
-  {
-   "id": "7a550156a25d",
-   "titulo": "Lula: ‘As pessoas te ofendem, mas você também tem o direito de ofender’",
-   "resumo": "O presidente Luiz Inácio Lula da Silva afirmou nesta sexta-feira, 16, que a democracia inclui o direito de ofender, ao discursar na cerimônia de promulgação do fim da escala 6x1 , no Congresso Nacional. Ao lado do presidente do Congresso, s…",
-   "link": "https://revistaoeste.com/politica/lula-as-pessoas-te-ofendem-mas-voce-tambem-tem-o-direito-de-ofender/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55593269713_ba5da2dfed_o.jpg",
-   "data": "2026-10-16T12:23:45-03:00"
-  },
-  {
-   "id": "dbc110e9a7e4",
-   "titulo": "CNT/MDA mostra Flávio com 50,5% contra 49,5% de Lula no 2° turno",
-   "resumo": "Pesquisa da CNT/MDA divulgada nesta sexta-feira, 16, mostra o senador Flávio Bolsonaro (PL) numericamente à frente do presidente Luiz Inácio Lula da Silva (PT) no segundo turno da corrida pelo Palácio do Planalto. Segundo o levantamento, Fl…",
-   "link": "https://revistaoeste.com/politica/cnt-mda-mostra-flavio-com-505-contra-495-de-lula-no-2-turno/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-futura-100-cidades.jpg",
-   "data": "2026-10-16T12:10:45-03:00"
-  },
-  {
-   "id": "cadc0eedf25f",
-   "titulo": "Motta chama Lula de ‘grande brasileiro’ e diz que Deus cruzou seus destinos",
-   "resumo": "O presidente da Câmara, Hugo Motta (Republicanos-PB), chamou o presidente Luiz Inácio Lula da Silva de “grande brasileiro” e afirmou que Deus cruzou seus destinos com o do petista e o do presidente do Senado, Davi Alcolumbre (União Brasil-A…",
-   "link": "https://revistaoeste.com/politica/motta-elogia-lula-deus-cruzou-destinos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/08/Lula-e-os-presidentes-do-Senado-e-da-Camara.jpg",
-   "data": "2026-10-16T12:03:51-03:00"
-  },
-  {
-   "id": "1bb90b9dbbb3",
-   "titulo": "Fachin abre provas do Master a aliados de Lula, mas nega acesso de Fux ao inquérito das fake news",
-   "resumo": "Fachin restringe acesso de Fux ao Inquérito das Fake News, mas libera provas no caso Vorcaro para ministros aliados de Lula.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-abre-provas-master-aliados-lula-nega-acesso-fux-inquerito-fake-news/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/09185210/fachin-960x540.jpg",
-   "data": "2026-10-16T11:57:32-03:00"
-  },
-  {
-   "id": "853a89e55ca9",
-   "titulo": "‘Outro dia parecia que eu e você éramos inimigos’, diz Lula a Alcolumbre",
-   "resumo": "O presidente Luiz Inácio Lula da Silva alfinetou o presidente do Senado, Davi Alcolumbre (União-AP), nesta sexta-feira, 16, durante seu discurso na cerimônia de promulgação da emenda constitucional que acaba com a escala de trabalho 6x1 no …",
-   "link": "https://revistaoeste.com/politica/outro-dia-parecia-que-eu-e-voce-eramos-inimigos-diz-lula-a-alcolumbre/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55592043297_ed67760d2d_o.jpg",
-   "data": "2026-10-16T11:53:28-03:00"
-  },
-  {
-   "id": "f51782898684",
-   "titulo": "Congresso promulga fim da escala 6×1 em ato com Lula",
-   "resumo": "Proposta aprovada por ampla maioria pelo Senado reduz jornada de trabalho e é usada como bandeira de campanha de Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/congresso-promulga-fim-escala-6x1-ato-com-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16113636/davi-alcolumbre-promulgacao-pec-fim-6x1-foto-edilson-rodrigues-agencia-senado-960x540.jpg",
-   "data": "2026-10-16T11:36:55-03:00"
-  },
-  {
-   "id": "987d20bf4360",
-   "titulo": "Crusoé: Deputado do PL quer barrar criação de benefícios em ano eleitoral",
-   "resumo": "O deputado federal Ubiratan Sanderson (PL-RS), senador eleito pelo Rio Grande do Sul, apresentou nesta sexta-feira, 16, um projeto de lei complementar que amplia as restrições à criação e à concessão de benefícios governamentais em anos ele…",
-   "link": "https://oantagonista.com.br/brasil/deputado-do-pl-quer-barrar-criacao-de-beneficios-em-ano-eleitoral/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/sanderson-1.jpg",
-   "data": "2026-10-16T11:34:09-03:00"
-  },
-  {
-   "id": "e0c3a5e20565",
-   "titulo": "Lula volta a associar trabalho doméstico às mulheres na promulgação da 5×2",
-   "resumo": "O presidente Lula voltou a associar o trabalho doméstico às mulheres ao afirmar que os homens ainda precisam aprender a ir para a cozinha e compartilhar as tarefas de casa. A declaração foi feita nesta sexta-feira, 16, durante a promulgação…",
-   "link": "https://oantagonista.com.br/brasil/lula-volta-a-associar-trabalho-domestico-as-mulheres-na-promulgacao-da-5-2/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55575371238_fecc69b8de_k.jpg",
-   "data": "2026-10-16T11:31:45-03:00"
-  },
-  {
-   "id": "8268f9a70d31",
-   "titulo": "Lula critica setor produtivo por ser contra fim da escala 6×1",
-   "resumo": "Presidente chamou de \"mentiras\" declarações do setor produtivo de que redução da jornada pode levar a uma crise na economia. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-critica-setor-produtivo-contra-fim-escala-6x1/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16112238/lula-com-alcolumbre-e-motta-foto-edilson-rodrigues-agencia-senado-960x540.jpg",
-   "data": "2026-10-16T11:23:23-03:00"
-  },
-  {
-   "id": "20a36ca12f2e",
-   "titulo": "Estudo aponta que ‘tarifa zero’ proposta por Lula perdeu ritmo em 2026",
-   "resumo": "Apresentado pelo presidente Lula como uma espécie de ‘bala de prata’ nesse segundo turno, a tarifa zero se tornou um problema para alguns municípios brasileiros. Estudo da Associação Nacional das Empresas de Transportes Urbanos (NTU) aponta…",
-   "link": "https://oantagonista.com.br/brasil/estudo-aponta-que-tarifa-zero-proposta-por-lula-perdeu-ritmo-em-2026/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591191052_a1e3fd79e4_4k-scaled-e1792149259104.jpg",
-   "data": "2026-10-16T11:18:15-03:00"
-  },
-  {
    "id": "ee0f1944bb09",
    "titulo": "Apesar de votos a favor, nenhum senador da oposição comparece à promulgação da PEC que acaba com a escala 6x1",
    "resumo": "",
@@ -398,15 +560,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/BiBJ7nPRVVHqNHOsFg4c70CZDfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/y/MmHRrFTj6Q1sJk23YCCg/saulo-cruz-agencia-senado.jpg",
    "data": "2026-10-16T11:16:09-03:00"
-  },
-  {
-   "id": "64c70b6aefe6",
-   "titulo": "Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira, 16, pelo recebimento da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o blogueiro Oswaldo Eustáquio pelo crime de associaçã…",
-   "link": "https://oantagonista.com.br/brasil/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/03092025-pzzb0618-1-e1789989229952.jpg",
-   "data": "2026-10-16T11:15:09-03:00"
   },
   {
    "id": "57adb8e966a0",
@@ -418,15 +571,6 @@
    "data": "2026-10-16T11:14:44-03:00"
   },
   {
-   "id": "2b7816e3182c",
-   "titulo": "Mendonça barra propaganda de Lula que diz que Flávio é contra fim da 6×1",
-   "resumo": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), determinou na quinta-feira, 15, a suspensão imediata de uma propaganda eleitoral do presidente Lula (PT) que afirma que o candidato do PL a presidente, senador Flávio Bolsonar…",
-   "link": "https://oantagonista.com.br/brasil/mendonca-barra-propaganda-de-lula-que-diz-que-flavio-e-contra-fim-da-6x1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Lula-e-Flavio-Bolsonaro-1.jpg",
-   "data": "2026-10-16T11:09:46-03:00"
-  },
-  {
    "id": "6f9ecca0a9c6",
    "titulo": "Em modo “franco-atirador”, PT sugere gratuidade total no transporte público para vencer eleições",
    "resumo": "A 10 dias da eleição, Lula promete ônibus grátis e abre caminho para tarifa zero irrestrita. A conta pode chegar a R$ 16 bilhões ao ano.",
@@ -434,33 +578,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/16110257/8023806804001-960x540.jpg",
    "data": "2026-10-16T11:09:30-03:00"
-  },
-  {
-   "id": "429e9deaa894",
-   "titulo": "“Oportunismo e irresponsabilidade”, diz advogada sobre perdão a MEI",
-   "resumo": "No programa Última Análise desta quinta-feira (15), convidados falam a respeito de pesquisas presidenciais e de perdão a MEI por Lula.",
-   "link": "https://www.gazetadopovo.com.br/republica/irresponsabilidade-de-lula-diz-advogada-sobre-perdao-a-mei/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15184702/Design-sem-nome-20-960x540.jpg",
-   "data": "2026-10-16T11:05:55-03:00"
-  },
-  {
-   "id": "9bde9e1e361a",
-   "titulo": "Esquema de influência de Daniel Vorcaro na mídia é exposto por novas mensagens",
-   "resumo": "Este episódio do Podcast 15 Minutos analisa os desdobramentos das investigações sobre a rede de influência associada ao ex-banqueiro Daniel Vorcaro",
-   "link": "https://www.gazetadopovo.com.br/republica/esquema-de-influencia-de-daniel-vorcaro-na-midia-e-exposto-por-novas-mensagens/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
-   "data": "2026-10-16T10:58:02-03:00"
-  },
-  {
-   "id": "800347f27e88",
-   "titulo": "Crusoé: O Flávio “real”, segundo Nikolas",
-   "resumo": "Com 23,4 milhões de seguidores no Instagram, Nikolas Ferreira (PL-MG) foi escolhido pelo PL para apresentar o Flávio Bolsonaro “real”. “Você já deve ter visto alguém dizendo que o Flávio ia cortar isso, aquilo e aquilo outro. Disseram até q…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-o-flavio-real-segundo-nikolas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-5.jpg",
-   "data": "2026-10-16T10:55:26-03:00"
   },
   {
    "id": "61250a092629",
@@ -481,42 +598,6 @@
    "data": "2026-10-16T10:39:00-03:00"
   },
   {
-   "id": "fe59694f1a56",
-   "titulo": "Fim da escala 6x1 é promulgado e prazos começam a contar; entenda como será a transição",
-   "resumo": "",
-   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/qpYSnCemGQNleG7giFwRSLPcdQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/CY5u8WRXCuCJA1VYIRMA/2026-10-15t011454z-1944213838-rc2c3oan1klk-rtrmadp-3-brazil-politics-labor.jpg",
-   "data": "2026-10-16T10:24:22-03:00"
-  },
-  {
-   "id": "e28afa202bab",
-   "titulo": "'Disputa acirrada na reta final': imprensa mundial repercute empate técnico de Flávio Bolsonaro e Lula nas pesquisas",
-   "resumo": "",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/r4EWrZnESA0gDM0hXMrn4YRdYFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/O/c4G71pSPun6me3w9GAWA/montagens-home.png",
-   "data": "2026-10-16T10:20:59-03:00"
-  },
-  {
-   "id": "11163a78e66d",
-   "titulo": "Gilmar derruba nova decisão da Justiça do Trabalho sobre folga dominical de mulheres",
-   "resumo": "Ministro consolidou embate com tribunais trabalhistas ao longo dos anos e defende negociações. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/gilmar-derruba-nova-decisao-da-justica-do-trabalho-sobre-folga-dominical-de-mulheres/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16100552/ASPA-GRANDE-2026-10-16T100549.240-960x540.jpg",
-   "data": "2026-10-16T10:06:36-03:00"
-  },
-  {
-   "id": "e898b3d6d2fa",
-   "titulo": "Congresso promulga fim da escala 6x1 em primeira mudança da jornada de trabalho desde 1988",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/16/6x1-promulgacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/JJcp5a5TOnXSyOsEU635f-5Q168=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/G/x0L8GtS2i0zgBUm03WLA/55593434219-e54140a027-o-1-.jpg",
-   "data": "2026-10-16T09:58:57-03:00"
-  },
-  {
    "id": "44de7000b359",
    "titulo": "Janja diz que campanha de Lula está “lutando contra a Meta”",
    "resumo": "Primeira-dama critica Instagram, Facebook e WhatsApp, admite que campanha petista subestimou a disputa no primeiro turno. Leia na Gazeta do Povo.",
@@ -533,24 +614,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/14171154/pesquisa-Senado-960x540.jpg",
    "data": "2026-10-16T09:40:34-03:00"
-  },
-  {
-   "id": "88dd93a4def2",
-   "titulo": "Lula defende pela primeira vez redução da maioridade penal para crimes hediondos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/16/lula-defende-reduzir-maioridade-penal-para-16-anos-em-casos-de-crimes-hediondos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/zg0Tx3Ndj8Vcugxbb1OluI9aIys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/5/AkBXdVRpKbdHsyMzdmwA/globo-canal-4-20261015-2000-frame-99981.jpeg",
-   "data": "2026-10-16T09:22:41-03:00"
-  },
-  {
-   "id": "b2a41d5fc838",
-   "titulo": "No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/-MfYkEv6IAAMvOf3eLAXYXVo57E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/s79asRQdWB7KkTyZBB6A/globo-canal-4-20260610-2000-frame-99321.jpeg",
-   "data": "2026-10-16T09:02:49-03:00"
   },
   {
    "id": "fbf00663b802",
@@ -571,60 +634,6 @@
    "data": "2026-10-16T08:42:00-03:00"
   },
   {
-   "id": "f9a55ca023ec",
-   "titulo": "Justiça eleitoral manda PF investigar Ana Elisa por fake news contra Flávio",
-   "resumo": "Juiz eleitoral acolheu parecer do Ministério Público e viu indícios suficientes para investigar postagens. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/justica-manda-pf-investigar-ana-elisa-por-fake-news-contra-flavio/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16081228/ASPA-GRANDE-2026-10-16T081219.226-960x540.jpg",
-   "data": "2026-10-16T08:16:45-03:00"
-  },
-  {
-   "id": "ca23b3b3b4ca",
-   "titulo": "Moraes autoriza Augusto Heleno a deixar prisão domiciliar para consulta médica em Brasília",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/16/moraes-autoriza-augusto-heleno-a-deixar-prisao-domiciliar-para-consulta-medica-em-brasilia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/QB8KJDihgzXg2oIzrBKQ869LQYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/U/lvHUF6T1mzkjLoiJpLMg/54580120469-9480c0ec67-o.jpg",
-   "data": "2026-10-16T08:01:13-03:00"
-  },
-  {
-   "id": "28386ad652ba",
-   "titulo": "O que mostra a pesquisa PoderData/Aya para presidente a 9 dias do segundo turno",
-   "resumo": "Nova pesquisa PoderData mostra o cenário eleitoral para presidente no segundo turno entre Flávio Bolsonaro e Lula. Veja na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-4/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14073230/pesquisa-presidente2-1-960x540.jpg",
-   "data": "2026-10-16T07:34:08-03:00"
-  },
-  {
-   "id": "022aa594e7de",
-   "titulo": "TSE confirma ordem de Mendonça que obriga Secom a detalhar gastos com publicidade",
-   "resumo": "PL aponta que governo violou teto de despesas com publicidade previsto na legislação eleitoral. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-confirma-ordem-de-mendonca-que-obriga-secom-a-detalhar-gastos-com-publicidade/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16071424/ASPA-GRANDE-2026-10-16T071421.197-960x540.jpg",
-   "data": "2026-10-16T07:14:54-03:00"
-  },
-  {
-   "id": "e449e95d9d15",
-   "titulo": "Lula muda discurso e defende redução da maioridade penal para 16 anos",
-   "resumo": "Lula defende redução da maioridade penal para 16 anos em caso de crime hediondo, contrariando posicionamento histórico do PT.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-muda-discurso-e-defende-reducao-da-maioridade-penal-para-16-anos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15230116/lula-maioridade-penal-960x540.jpg",
-   "data": "2026-10-16T00:01:35-03:00"
-  },
-  {
-   "id": "4b347f6e7932",
-   "titulo": "Flávio ironiza guinada da campanha de Lula sobre redução da maioridade penal",
-   "resumo": "Flávio Bolsonaro ironiza mudança no discurso da campanha de Lula sobre a redução da maioridade penal. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-ironiza-guinada-da-campanha-de-lula-sobre-reducao-da-maioridade-penal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15234105/flavio-1-960x540.jpg",
-   "data": "2026-10-15T23:58:32-03:00"
-  },
-  {
    "id": "3ed00a94757b",
    "titulo": "Lula defende redução da maioridade penal para crimes hediondos",
    "resumo": "<p><strong>Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a redução da maioridade penal de 18 para 16 anos em casos de …",
@@ -632,15 +641,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T23:44:00-03:00"
-  },
-  {
-   "id": "cb5ffa6631ec",
-   "titulo": "Lula tenta se desvincular de Moraes e minimiza relações de aliados com Vorcaro",
-   "resumo": "Em sabatina na Rede Globo, Lula tenta se distanciar de Alexandre de Moraes e minimizar vínculos com Vorcaro. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-tenta-desvincular-moraes-minimizar-relacoes-de-aliados-com-vorcaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15224137/Lula-7-960x540.jpg",
-   "data": "2026-10-15T22:40:36-03:00"
   },
   {
    "id": "b7fadf00a8e4",
@@ -668,15 +668,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T19:52:00-03:00"
-  },
-  {
-   "id": "e7cb6e4c6859",
-   "titulo": "TRE-RJ decide pedir apoio de tropas federais para o segundo turno",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-rj-decide-pedir-apoio-de-tropas-federais-para-o-segundo-turno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-rj-decide-pedir-apoio-de-tropas-federais-para-o-segundo-turno",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-15T18:24:00-03:00"
   }
  ]
 }
