@@ -1,16 +1,295 @@
 {
- "atualizado": "2026-10-16T04:04:26.486991-03:00",
- "total": 74,
+ "atualizado": "2026-10-16T09:22:29.050127-03:00",
+ "total": 73,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "fba47cc8c717",
-   "titulo": "“CNN”, “Axios” e “FT” entram em programa de IA do Google",
-   "resumo": "Empresas de comunicação farão parte do programa de licenciamento de conteúdos jornalísticos",
-   "link": "https://www.poder360.com.br/poder-midia/cnn-axios-e-ft-entram-em-programa-de-ia-do-google/",
+   "id": "d982feb6774a",
+   "titulo": "PF identifica R$ 80 milhões em emendas para Belford Roxo na gestão Canella",
+   "resumo": "A Polícia Federal (PF) identificou R$ 80 milhões em emendas de comissão destinadas a Belford Roxo (RJ) durante a gestão do ex-prefeito Márcio Canella, preso nesta quinta-feira, 16, no âmbito da oitava fase da Operação Unha e Carne . Segundo…",
+   "link": "https://revistaoeste.com/politica/pf-identifica-r-80-milhoes-em-emendas-para-belford-roxo-na-gestao-canella/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/image-2026-07-07-075244.jpg",
+   "data": "2026-10-16T09:18:48-03:00"
+  },
+  {
+   "id": "ff6efd97584a",
+   "titulo": "Rueda e ACM Neto abriram as portas dos estados para o Master, indicam mensagens",
+   "resumo": "Mensagens encontradas pela Polícia Federal no celular de Daniel Vorcaro indicam que o presidente do União Brasil, Antônio Rueda, e o vice, ACM Neto, atuaram ativamente na captação de recursos de institutos de previdência de servidores estad…",
+   "link": "https://oantagonista.com.br/brasil/rueda-e-acm-neto-abriram-as-portas-dos-estados-para-o-master-indicam-mensagens/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Rueda-e-ACM-maior.jpg",
+   "data": "2026-10-16T09:10:38-03:00"
+  },
+  {
+   "id": "d4d12af556f8",
+   "titulo": "Anvisa proíbe bebida de soja infantil por irregularidades",
+   "resumo": "Produto da G.W. não tem registro e apresenta falhas de rotulagem e aditivos não autorizados",
+   "link": "https://www.poder360.com.br/poder-saude/anvisa-proibe-bebida-de-soja-infantil-por-irregularidades/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-16T03:43:01-03:00"
+   "data": "2026-10-16T09:10:34-03:00"
+  },
+  {
+   "id": "095fa27cd0b5",
+   "titulo": "Canella poderá receber diploma de deputado estadual na prisão",
+   "resumo": "O deputado estadual eleito Márcio Canella (União-RJ) poderá receber o diploma eleitoral mesmo atrás das grades no dia 18 de dezembro. Especialistas em Direito Eleitoral confirmam que o político tem respaldo jurídico para formalizar o ato na…",
+   "link": "https://revistaoeste.com/politica/canella-podera-receber-diploma-de-deputado-estadual-na-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/marcio-canella.jpg",
+   "data": "2026-10-16T09:08:33-03:00"
+  },
+  {
+   "id": "b2a41d5fc838",
+   "titulo": "No 1º aumento em três meses, 'prévia do PIB' do Banco Central registra alta de 0,3% em agosto",
+   "resumo": "O Índice de Atividade Econômica (IBC-Br), divulgado pelo Banco Central do Brasil (BC) nesta sexta-feira (16), mostrou expansão de 0,3% em agosto, na comparação com o mês anterior. O cálculo é feito após ajuste sazonal — ou seja, uma forma d…",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/16/previa-do-pib-do-banco-central-tem-crescimento-de-03percent-em-agosto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-16T09:02:49-03:00"
+  },
+  {
+   "id": "6e61b3157fde",
+   "titulo": "Prévia do PIB sobe 0,3% em agosto de 2026, diz BC",
+   "resumo": "IBC-Br, que mede a atividade econômica, avançou 1,5% em 12 meses",
+   "link": "https://www.poder360.com.br/poder-economia/previa-do-pib-sobe-03-em-agosto-de-2026-diz-bc/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T09:01:53-03:00"
+  },
+  {
+   "id": "fbf00663b802",
+   "titulo": "Corregedor envolvido em embate vai relatar suspeição de Nunes Marques",
+   "resumo": "Cueva conduz caso sobre \"Exército do Lula\" e protagonizou guerra de decisões contra presidente do TSE. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/corregedor-envolvido-em-embate-vai-relatar-suspeicao-de-nunes-marques/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16090013/ASPA-GRANDE-2026-10-16T090006.555-960x540.jpg",
+   "data": "2026-10-16T09:01:51-03:00"
+  },
+  {
+   "id": "11636586d50d",
+   "titulo": "Ministro diz que esquerda “tem espaço para crescer” entre empreendedores",
+   "resumo": "Paulo Pereira defende pacote de medidas para MEIs lançado pelo governo a poucos dias do 2º turno",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ministro-diz-que-esquerda-tem-espaco-para-crescer-entre-empreendedores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T09:01:43-03:00"
+  },
+  {
+   "id": "d3565fb67f9c",
+   "titulo": "Fifa propõe repassar R$ 125 milhões a cada federação",
+   "resumo": "Plano projeta US$ 25 milhões por associação nos próximos 4 anos, com recursos do lucro projetado da Copa do Mundo de 2026",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/fifa-propoe-repassar-r-125-milhoes-a-cada-federacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T08:51:58-03:00"
+  },
+  {
+   "id": "de423dd8b7c6",
+   "titulo": "Confira a agenda dos presidenciáveis nesta sexta-feira (16)",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-sexta-feira-16\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-nesta-sexta-feira-16",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-16T08:42:00-03:00"
+  },
+  {
+   "id": "14b0f6117020",
+   "titulo": "Stabile desiste de disputar presidência do Corinthians",
+   "resumo": "Dirigente cita risco à estabilidade política do clube; eleição será em 28 de novembro, com 5 candidatos na disputa",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/stabile-desiste-de-disputar-presidencia-do-corinthians/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T08:25:28-03:00"
+  },
+  {
+   "id": "7d3cd2146e92",
+   "titulo": "STF começa a analisar denúncia contra Oswaldo Eustáquio",
+   "resumo": "A Primeira Turma do Supremo Tribunal Federal (STF) começa nesta sexta-feira, 16, a analisar a denúncia contra o jornalista Oswaldo Eustáquio por associação criminosa. A Procuradoria-Geral da República (PGR) apresentou a acusação. O julgamen…",
+   "link": "https://revistaoeste.com/politica/stf-comeca-a-analisar-denuncia-contra-oswaldo-eustaquio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2021/07/eustaquio.jpg",
+   "data": "2026-10-16T08:23:05-03:00"
+  },
+  {
+   "id": "151a85ad576b",
+   "titulo": "Ao vivo: Senado promulga PEC do fim da escala 6 X 1",
+   "resumo": "Proposta vira Emenda Constitucional e tem início a contagem dos prazos de transição; Lula participa da cerimônia",
+   "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-promulga-pec-do-fim-da-escala-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/-PKNADxrAY8/hqdefault.jpg",
+   "data": "2026-10-16T08:17:28-03:00"
+  },
+  {
+   "id": "5e37a4c9f9d1",
+   "titulo": "PoderData aponta empate entre Lula e Flávio no segundo turno",
+   "resumo": "Pesquisa PoderData/Aya divulgada nesta sexta-feira, 16, indica empate entre Lula (PT, foto) e Flávio Bolsonaro (PL-RJ) em 50% nos votos válidos da disputa de segundo turno. O instituto apontava uma diferença de seis pontos percentuais a fav…",
+   "link": "https://oantagonista.com.br/brasil/poderdata-aponta-empate-entre-lula-e-flavio-no-segundo-turno/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591191052_a1e3fd79e4_4k-scaled-e1792149259104.jpg",
+   "data": "2026-10-16T08:17:09-03:00"
+  },
+  {
+   "id": "f9a55ca023ec",
+   "titulo": "Justiça eleitoral manda PF investigar Ana Elisa por fake news contra Flávio",
+   "resumo": "Juiz eleitoral acolheu parecer do Ministério Público e viu indícios suficientes para investigar postagens. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/justica-manda-pf-investigar-ana-elisa-por-fake-news-contra-flavio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16081228/ASPA-GRANDE-2026-10-16T081219.226-960x540.jpg",
+   "data": "2026-10-16T08:16:45-03:00"
+  },
+  {
+   "id": "eb4046936f49",
+   "titulo": "Inflação na zona do euro atinge 3,8% em setembro",
+   "resumo": "Preços sobem pelo 2º mês seguido, impulsionados por energia; Romênia e Lituânia registram maiores taxas entre países",
+   "link": "https://www.poder360.com.br/poder-economia/inflacao-na-zona-do-euro-atinge-38-em-setembro/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T08:15:56-03:00"
+  },
+  {
+   "id": "f3dc9d952573",
+   "titulo": "A reação de Vorcaro à revelação do contrato com a esposa de Moraes",
+   "resumo": "Mensagens encontradas pela Polícia Federal no celular de Daniel Vorcaro apontam que o banqueiro celebrou quando o jornal O Globo revelou a existência de um contrato entre o escritório Barci de Moraes, pertencente à advogada Viviane Barci de…",
+   "link": "https://oantagonista.com.br/brasil/a-reacao-de-vorcaro-a-revelacao-do-contrato-com-a-esposa-de-moraes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Alexandre-de-Moraes-e-Daniel-Vorcaro-Banco-Master-8.jpg",
+   "data": "2026-10-16T08:12:19-03:00"
+  },
+  {
+   "id": "7092bf93d589",
+   "titulo": "André Mendonça suspende propaganda de Lula que liga Flávio a milícias",
+   "resumo": "O ministro André Mendonça , do Tribunal Superior Eleitoral (TSE) , determinou a suspensão imediata de uma propaganda da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT) que associa o senador Flávio B o lsonaro , candidato d…",
+   "link": "https://revistaoeste.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-liga-flavio-a-milicias/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/mendonca-1.jpg",
+   "data": "2026-10-16T08:10:59-03:00"
+  },
+  {
+   "id": "ffdfd231e27d",
+   "titulo": "Flávio Bolsonaro evoca legado do pai em campanha por MG",
+   "resumo": "O candidato Flávio Bolsonaro (PL) explorou o capital político do pai para tentar consolidar votos no segundo turno em Minas Gerais. O senador gravou um vídeo direcionado a Jair Bolsonaro durante agenda de campanha em Capelinha, no Vale do J…",
+   "link": "https://revistaoeste.com/politica/flavio-bolsonaro-evoca-legado-do-pai-em-campanha-por-mg/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/flavio-bolsonaro-1.jpg",
+   "data": "2026-10-16T08:05:34-03:00"
+  },
+  {
+   "id": "ca23b3b3b4ca",
+   "titulo": "Moraes autoriza Augusto Heleno a deixar prisão domiciliar para consulta médica em Brasília",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/16/moraes-autoriza-augusto-heleno-a-deixar-prisao-domiciliar-para-consulta-medica-em-brasilia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/QB8KJDihgzXg2oIzrBKQ869LQYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/U/lvHUF6T1mzkjLoiJpLMg/54580120469-9480c0ec67-o.jpg",
+   "data": "2026-10-16T08:01:13-03:00"
+  },
+  {
+   "id": "7d1c221a4d4a",
+   "titulo": "PoderData/Aya: Lula e Flávio empatam em intenção de voto para 2º turno",
+   "resumo": "O presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro (PL-RJ) aparecem empatados, com 47% das intenções de voto cada um, em uma simulação de segundo turno para a Presidência da República. É o que mostra pesquisa do PoderData/A…",
+   "link": "https://revistaoeste.com/politica/poderdata-aya-lula-e-flavio-empatam-em-intencao-de-voto-para-2o-turno/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-futura-100-cidades.jpg",
+   "data": "2026-10-16T07:56:32-03:00"
+  },
+  {
+   "id": "4fbc450f226d",
+   "titulo": "Flávio diz que PT vai ter de ‘aturar Bolsonaro’ na Presidência",
+   "resumo": "O senador Flávio Bolsonaro (PL) afirmou nesta quinta-feira, 15, que o PT terá de aceitar o retorno da família Bolsonaro à Presidência da República . Durante o ato \"Bloquinho do 22\", em Minas Gerais , ao lado do deputado federal Nikolas Ferr…",
+   "link": "https://revistaoeste.com/politica/flavio-diz-que-pt-vai-ter-que-aturar-bolsonaro-na-presidencia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/live-flavio-bolsonaro.jpg",
+   "data": "2026-10-16T07:56:08-03:00"
+  },
+  {
+   "id": "89192359f9e5",
+   "titulo": "Vorcaro comemora notícia sobre contrato com mulher de Moraes: ‘Melhor matéria’",
+   "resumo": "A revelação do contrato firmado entre a advogada Viviane Barci de Moraes, mulher do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes , e o Banco Master foi comemorada pelo empresário Daniel Vorcaro , dono da instituição financ…",
+   "link": "https://revistaoeste.com/politica/vorcaro-comemora-noticia-sobre-contrato-com-mulher-de-moraes-melhor-materia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro_esfera-2.jpg",
+   "data": "2026-10-16T07:43:19-03:00"
+  },
+  {
+   "id": "f580a0c1ed8b",
+   "titulo": "Anvisa mantém restrições a produtos da marca Ypê",
+   "resumo": "Agência libera parte dos detergentes e desinfetantes, mas proíbe comercialização e uso de lotes específicos de itens",
+   "link": "https://www.poder360.com.br/poder-saude/anvisa-mantem-restricoes-impostas-a-produtos-da-marca-ype/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-16T07:34:10-03:00"
+  },
+  {
+   "id": "28386ad652ba",
+   "titulo": "O que mostra a pesquisa PoderData/Aya para presidente a 9 dias do segundo turno",
+   "resumo": "Nova pesquisa PoderData mostra o cenário eleitoral para presidente no segundo turno entre Flávio Bolsonaro e Lula. Veja na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-4/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/14073230/pesquisa-presidente2-1-960x540.jpg",
+   "data": "2026-10-16T07:34:08-03:00"
+  },
+  {
+   "id": "73b0f35f02da",
+   "titulo": "Crusoé: O Exército das fake news",
+   "resumo": "O deputado federal André Janones sacudiu o segundo turno da eleição e expôs as fragilidades do Tribunal Superior Eleitoral (TSE) ao colocar em ação o canal de WhatsApp “Exército do Lula”. O canal virou um quartel-general virtual com 4,6 mil…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-o-exercito-das-fake-news/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/CSE-Web-Capa-2.png",
+   "data": "2026-10-16T07:29:40-03:00"
+  },
+  {
+   "id": "3f334dbf670b",
+   "titulo": "‘Não disse que ia dar certo?’, diz Alcolumbre a Camilo Santana sobre escala 6×1",
+   "resumo": "O líder da bancada do PT no Senado, Camilo Santana (CE), atribuiu ao presidente do Congresso , Davi Alcolumbre (União Brasil-AP), responsabilidade pela aprovação, em primeiro turno, da proposta de emenda à Constituição (PEC) que prevê o fim…",
+   "link": "https://revistaoeste.com/politica/nao-disse-que-ia-dar-certo-diz-alcolumbre-a-camilo-santana-sobre-escala-6x1/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/alcolumbre-camilo-santana.jpeg",
+   "data": "2026-10-16T07:25:37-03:00"
+  },
+  {
+   "id": "88aef0dc0b43",
+   "titulo": "Sidônio acusa EUA de interferirem nas eleições brasileiras",
+   "resumo": "O ministro da Secretaria de Comunicação Social (Secom) , Sidônio Palmeira, afirmou na quarta-feira 14 que os Estados Unidos interferem nas eleições brasileiras. “Estão objetivamente interferindo na eleição dos brasileiros”, disse à imprensa…",
+   "link": "https://revistaoeste.com/politica/sidonio-acusa-eua-de-interferir-nas-eleicoes-brasileiras/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/image-2026-04-29-114952.jpg",
+   "data": "2026-10-16T07:19:46-03:00"
+  },
+  {
+   "id": "a0ff844e7b83",
+   "titulo": "PoderData/Aya: Flávio tem 51% de expectativa de vitória ante 42% de Lula",
+   "resumo": "A taxa do petista aumentou 5 pontos enquanto a do senador diminuiu 3 pontos percentuais em uma semana; a margem de erro é de 1,8 ponto percentual",
+   "link": "https://www.poder360.com.br/poderdata/poderdata-aya-flavio-tem-51-de-expectativa-de-vitoria-ante-42-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pd-chance-vencer-2turno-15-out-2026-01-scaled.png",
+   "data": "2026-10-16T07:15:55-03:00"
+  },
+  {
+   "id": "93912ce135c1",
+   "titulo": "Flávio e Lula empatam em 50% dos votos válidos, diz PoderData/Aya",
+   "resumo": "A 9 dias do 2º turno de 25 de outubro, candidatos do PL e do PT têm a mesma pontuação e eleição está indefinida",
+   "link": "https://www.poder360.com.br/poderdata/flavio-e-lula-empatam-em-50-dos-votos-validos-diz-poderdata-aya/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pd-pesquisa-eleitoral-intencao-presidente-15-out-2026-01-scaled.png",
+   "data": "2026-10-16T07:15:13-03:00"
+  },
+  {
+   "id": "022aa594e7de",
+   "titulo": "TSE confirma ordem de Mendonça que obriga Secom a detalhar gastos com publicidade",
+   "resumo": "PL aponta que governo violou teto de despesas com publicidade previsto na legislação eleitoral. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-confirma-ordem-de-mendonca-que-obriga-secom-a-detalhar-gastos-com-publicidade/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16071424/ASPA-GRANDE-2026-10-16T071421.197-960x540.jpg",
+   "data": "2026-10-16T07:14:54-03:00"
+  },
+  {
+   "id": "9ca1f9d96209",
+   "titulo": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/16/a-crise-global-que-flavio-bolsonaro-ou-lula-terao-de-enfrentar-se-eleitos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/lCikJRw_jP_fjZQxwPlAUPgp66c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/12FQBMQR6RlruMuYskEA/design-sem-nome-2026-10-16t061335.673.jpg",
+   "data": "2026-10-16T06:10:18-03:00"
   },
   {
    "id": "605fa6dc182a",
@@ -121,15 +400,6 @@
    "data": "2026-10-15T23:58:32-03:00"
   },
   {
-   "id": "f3e7a1013da7",
-   "titulo": "Vorcaro editava reportagens do site Metrópoles, diz PF",
-   "resumo": "O empresário Daniel Vorcaro , dono do Banco Master, interferia diretamente em reportagens do site Metrópoles antes da publicação, segundo mensagens extraídas pela Polícia Federal (PF) de seu celular. A direção do veículo enviava textos ao b…",
-   "link": "https://revistaoeste.com/politica/vorcaro-editava-reportagens-do-site-metropoles-diz-pf/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/vorcaro_esfera.jpeg",
-   "data": "2026-10-15T23:50:48-03:00"
-  },
-  {
    "id": "3ed00a94757b",
    "titulo": "Lula defende redução da maioridade penal para crimes hediondos",
    "resumo": "<p><strong>Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a redução da maioridade penal de 18 para 16 anos em casos de …",
@@ -137,24 +407,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T23:44:00-03:00"
-  },
-  {
-   "id": "7878e8236449",
-   "titulo": "Estudantes argentinos protestam contra cortes de Milei na educação",
-   "resumo": "Multidão pede cumprimento de lei que garante repasses orçamentários para a educação universitária; também houve protestos contra a flexibilização na venda de terras a estrangeiros",
-   "link": "https://www.poder360.com.br/poder-internacional/estudantes-argentinos-protestam-contra-cortes-de-milei-na-educacao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:35:39-03:00"
-  },
-  {
-   "id": "bd5d343e6037",
-   "titulo": "Campanha de Lula reclama da Meta a observadores internacionais",
-   "resumo": "Coordenação política do presidente entrega 8 ocorrências à União Europeia, à OEA e a outros 4 grupos",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-reclama-da-meta-a-observadores-internacionais/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:26:42-03:00"
   },
   {
    "id": "20368b9620b2",
@@ -166,60 +418,6 @@
    "data": "2026-10-15T23:21:56-03:00"
   },
   {
-   "id": "fbd6f3568a73",
-   "titulo": "Nikolas divulga vídeo de IA com Flávio bebendo e disparando míssil",
-   "resumo": "As cenas são acompanhadas pela música Free Bird, da banda norte-americana Lynyrd Skynyrd",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-divulga-video-de-ia-com-flavio-bebendo-e-disparando-missil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:20:13-03:00"
-  },
-  {
-   "id": "635aab7785ad",
-   "titulo": "Lula liga Flávio a Canella, preso pela PF, durante sabatina na “Globo”",
-   "resumo": "Petista explora ação da Polícia Federal e lembra que Rogéria Bolsonaro seria suplente do ex-prefeito no Senado",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-liga-flavio-a-canella-preso-pela-pf-durante-sabatina-na-globo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:17:40-03:00"
-  },
-  {
-   "id": "a4c2eb187ddc",
-   "titulo": "A 10 dias da eleição, Lula defende propostas de Flávio",
-   "resumo": "O presidente Luiz Inácio Lula da Silva, candidato à reeleição, defendeu nesta quinta-feira, 15, em entrevista à TV Globo, medidas que aparecem no plano de governo de seu adversário no segundo turno, Flávio Bolsonaro. Entre elas estão a redu…",
-   "link": "https://revistaoeste.com/politica/a-10-dias-da-eleicao-lula-defende-propostas-de-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-globo.jpeg",
-   "data": "2026-10-15T23:15:18-03:00"
-  },
-  {
-   "id": "442680797be6",
-   "titulo": "Lula diz ser a favor de reduzir maioridade penal para crimes hediondos",
-   "resumo": "Presidente disse que apoia a redução para 16 anos em crimes específicos; tema foi alvo de discussão no Congresso nesta 5ª feira (15.out)",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/lula-diz-ser-a-favor-de-reduzir-maioridade-penal-para-crimes-hediondos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:12:41-03:00"
-  },
-  {
-   "id": "762c1f6b55c3",
-   "titulo": "Lula defende crescimento contra dívida e descarta corte de gastos",
-   "resumo": "Em entrevista, presidente defendeu estímulo à economia contra a dívida e descartou ajustes que afetem os pobres",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-crescimento-contra-divida-e-descarta-corte-de-gastos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:08:03-03:00"
-  },
-  {
-   "id": "db51adad3a45",
-   "titulo": "TSE manda Meta tratar Lula e Flávio igualmente sob multa de R$ 500 mil",
-   "resumo": "Decisão de Marco Aurélio Bellizze foi motivada por reclamação da campanha petista sobre restrições nas redes sociais e na geração de imagens por inteligência artificial",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-meta-tratar-lula-e-flavio-igualmente-sob-multa-de-r-500-mil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:06:23-03:00"
-  },
-  {
    "id": "9defab2c708f",
    "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; VEJA ÍNTEGRA",
    "resumo": "",
@@ -227,15 +425,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/Sur0z-vL2F6kJJ6jIqYeHAdYmvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/C/JFF23sREOHb0i7UBM9tg/globo-canal-4-20261014-2000-frame-24351.jpeg",
    "data": "2026-10-15T23:02:10-03:00"
-  },
-  {
-   "id": "a002330a3308",
-   "titulo": "Lula diz que Vorcaro alegou perseguição política em reunião",
-   "resumo": "Presidente afirmou que “todos que estão com problema” o procuram; encontro com fundador do Master foi em dezembro de 2024",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-vorcaro-alegou-perseguicao-politica-em-reuniao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T23:01:46-03:00"
   },
   {
    "id": "ae6418b88f62",
@@ -247,15 +436,6 @@
    "data": "2026-10-15T22:56:09-03:00"
   },
   {
-   "id": "60f2b83f2132",
-   "titulo": "“PCC e CV são terroristas para a comunidade brasileira”, diz Lula",
-   "resumo": "Presidente afirmou que facções \"querem dinheiro\" e diferenciou sua atuação da classificação dos EUA",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pcc-e-cv-sao-terroristas-para-a-comunidade-brasileira-diz-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-15T22:53:27-03:00"
-  },
-  {
    "id": "8e3994451d02",
    "titulo": "CNBB critica redução da maioridade penal em meio a debate no Senado",
    "resumo": "CNBB afirma que redução da maioridade penal não combate causas da violência e alerta para risco de ampliar criminalidade entre jovens.",
@@ -263,15 +443,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15224301/cnbb-sede-960x540.jpg",
    "data": "2026-10-15T22:44:38-03:00"
-  },
-  {
-   "id": "2c294d0020cd",
-   "titulo": "Lula diz que aumento da dívida pública preocupa e que solução para problema fiscal é fazer economia crescer",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/lula-entrevista-globo-economia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
-   "data": "2026-10-15T22:43:47-03:00"
   },
   {
    "id": "cb5ffa6631ec",
@@ -355,24 +526,6 @@
    "data": "2026-10-15T21:41:49-03:00"
   },
   {
-   "id": "a39e9a22eeff",
-   "titulo": "VÍDEOS: Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/playlist/videos-renata-lo-prete-entrevista-lula-candidato-a-reeleicao-pelo-pt.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/AVhVWaiW8NbIoBds82Bp9pM-aRE=/s01.video.glbimg.com/deo/vi/30/32/15063230",
-   "data": "2026-10-15T21:33:29-03:00"
-  },
-  {
-   "id": "363bd9b03b6b",
-   "titulo": "Adiamentos em série frustram expectativa da PF de concluir inquérito do Master",
-   "resumo": "PF queria fechar inquérito do Master em agosto, mas adiamentos de depoimentos e o 2º turno empurram a conclusão para 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/adiamentos-em-serie-frustram-expectativa-da-pf-de-concluir-inquerito-do-master/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/18140343/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
-   "data": "2026-10-15T21:30:18-03:00"
-  },
-  {
    "id": "72ef063bce76",
    "titulo": "Campanha de Lula ilustra tarifa zero com foto da gestão Nunes",
    "resumo": "Uma fotografia produzida pela Prefeitura de São Paulo ilustra, no site da campanha do presidente Lula (PT), o anúncio de uma proposta de emenda à Constituição (PEC) que prevê transporte público gratuito aos sábados e domingos em todo o país…",
@@ -380,15 +533,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/17921060076ad15e172d341_1792106007_3x2_lg-1.jpg",
    "data": "2026-10-15T21:27:49-03:00"
-  },
-  {
-   "id": "b2b15e282a7b",
-   "titulo": "Lula defende redução da maioridade penal para crimes hediondos, pede investigação de ministros do STF e diz ser responsável por dificuldades do governo",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-de-lula-na-globo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
-   "data": "2026-10-15T21:18:21-03:00"
   },
   {
    "id": "b7fadf00a8e4",
@@ -418,51 +562,6 @@
    "data": "2026-10-15T21:02:31-03:00"
   },
   {
-   "id": "1af2e4f3a3ec",
-   "titulo": "Flávio defende pena mínima de oito anos para roubo de celulares",
-   "resumo": "O candidato do PL à Presidência, Flávio Bolsonaro, defendeu nesta quinta-feira, 15, a proposta de estabelecer pena mínima de oito anos de prisão para quem roubar ou revender celulares irregulares. “Ladrão de celular vai ficar preso no nosso…",
-   "link": "https://oantagonista.com.br/brasil/flavio-defende-pena-minima-de-oito-anos-para-roubo-de-celulares/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-55.png",
-   "data": "2026-10-15T20:59:05-03:00"
-  },
-  {
-   "id": "b677d8b5bc2f",
-   "titulo": "Ex-sócios de Sidônio receberam mais de R$ 30 milhões da campanha de Lula",
-   "resumo": "A campanha de Lula já declarou R$ 100 milhões em gastos nesta eleição, dos quais R$ 31 milhões foram pagos à Delta Comunicação e Projetos. Maior fornecedora do candidato até o momento, a empresa pertence a Francisco Kertesz e Raul Rabelo. A…",
-   "link": "https://revistaoeste.com/politica/ex-socios-de-sidonio-receberam-mais-de-r-30-milhoes-da-campanha-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/07/2025-01-14_Cerimonia_de_Posse_do_Senhor_Sidonio_Palmeira_como_Ministro_da_Secom_006-copiar.jpg",
-   "data": "2026-10-15T20:55:11-03:00"
-  },
-  {
-   "id": "3d49cd9c6289",
-   "titulo": "PF aponta acordo de Canella com CV para retirar barricadas",
-   "resumo": "A Polícia Federal (PF) apontou que o deputado estadual eleito Márcio Canella (União), preso nesta quinta-feira, 15, mantinha um acordo com chefes do Comando Vermelho (CV) para a retirada de barricadas em Belford Roxo, na Baixada Fluminense.…",
-   "link": "https://oantagonista.com.br/brasil/pf-aponta-acordo-de-canella-com-cv-para-retirar-barricadas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-4.jpg",
-   "data": "2026-10-15T20:33:36-03:00"
-  },
-  {
-   "id": "ae7001bc098a",
-   "titulo": "Tarcísio cobra fechamento do Túnel do Anhangabaú antes de alagamento",
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas, cobrou que o Túnel do Anhangabaú deveria ter sido fechado antes do alagamento registrado na tarde desta quarta-feira, 14, na região central da capital paulista. A inundação deixou carros e ôni…",
-   "link": "https://revistaoeste.com/politica/tarcisio-cobra-fechamento-do-tunel-do-anhangabau-antes-de-alagamento/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/tarcisio-arena-oeste.png",
-   "data": "2026-10-15T20:32:44-03:00"
-  },
-  {
-   "id": "9e8a631c68d4",
-   "titulo": "‘Devia ter eleição toda semana’, diz Flávio sobre guinada do PT pela redução da maioridade penal",
-   "resumo": "O senador Flávio Bolsonaro, candidato à Presidência da República, ironizou nesta quinta-feira, 15, a mudança de posição de integrantes do PT sobre a redução da maioridade penal. Durante uma transmissão ao vivo, o parlamentar ironizou a inic…",
-   "link": "https://revistaoeste.com/politica/devia-ter-eleicao-toda-semana-diz-flavio-sobre-guinada-do-pt-pela-reducao-da-maioridade-penal/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/live-flavio-bolsonaro.jpg",
-   "data": "2026-10-15T20:25:16-03:00"
-  },
-  {
    "id": "bea947d05eaf",
    "titulo": "Alcolumbre vai promulgar fim da escala 6x1 nesta sexta",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as…",
@@ -470,24 +569,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-15T20:10:00-03:00"
-  },
-  {
-   "id": "eaf4f6566436",
-   "titulo": "Senado aprova ‘OAB da Medicina’",
-   "resumo": "O Senado aprovou nesta quinta-feira, 15, o projeto de lei de conversão da medida provisória que torna obrigatória a realização do Exame Nacional de Avaliação da Formação Médica (Enamed) para estudantes de Medicina. Conhecida como “OAB da Me…",
-   "link": "https://oantagonista.com.br/brasil/senado-aprova-oab-da-medicina/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/55142494300_a4aa053c4c_k.jpg",
-   "data": "2026-10-15T19:58:33-03:00"
-  },
-  {
-   "id": "d80da24e3ae0",
-   "titulo": "Motta faz campanha para Lula e terá adversário em 2027, diz Satiê",
-   "resumo": "O deputado federal eleito Rafael Satiê (PL-RJ) afirmou, em entrevista ao Jornal da Oeste Segunda Edição nesta quinta-feira, 15, que o presidente da Câmara dos Deputados , Hugo Motta (Republicanos-PB), atua de forma \"escancarada\" pela reelei…",
-   "link": "https://revistaoeste.com/politica/motta-faz-campanha-para-lula-e-tera-adversario-em-2027-diz-satie/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/captura-de-tela-2026-10-15-194412.png",
-   "data": "2026-10-15T19:55:02-03:00"
   },
   {
    "id": "44ffda5e217f",
@@ -499,33 +580,6 @@
    "data": "2026-10-15T19:52:00-03:00"
   },
   {
-   "id": "5d2e891bdee2",
-   "titulo": "Senado aprova aumento do limite de faturamento do MEI e anistia de dívidas",
-   "resumo": "O Senado Federal aprovou nesta quinta-feira, 15, projeto de lei que amplia o limite de faturamento para o enquadramento como Microempreendedor Individual (MEI) e concede anistia a dívidas de inadimplentes da categoria. A proposta foi aprova…",
-   "link": "https://oantagonista.com.br/brasil/senado-aprova-aumento-do-limite-de-faturamento-do-mei-e-anistia-de-dividas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/c637f06e-5182-4026-89fa-59bc4f13862c.jpg",
-   "data": "2026-10-15T19:35:53-03:00"
-  },
-  {
-   "id": "67455da7a39f",
-   "titulo": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado",
-   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), retirou da pauta desta quinta-feira, 15, a PEC da Segurança Pública. A decisão ocorreu depois de um impasse entre governo e oposição em torno de emendas que tratam da redução da maioridade…",
-   "link": "https://revistaoeste.com/politica/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/06/Alcolumbre-13.jpeg",
-   "data": "2026-10-15T19:15:56-03:00"
-  },
-  {
-   "id": "c9677d937bb7",
-   "titulo": "GSI e Polícia Federal desacataram ordem judicial para favorecer ato de Lula em SP, diz PM",
-   "resumo": "Agentes do Gabinete de Segurança Institucional (GSI) da Presidência da República e da Polícia Federal (PF) teriam desacatado uma ordem da Justiça Eleitoral durante um ato de campanha do presidente Lula , realizado em 3 de outubro, na Avenid…",
-   "link": "https://revistaoeste.com/politica/gsi-policia-federal-lula-sp/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/screenshot-2026-10-16-000047.png",
-   "data": "2026-10-15T19:13:58-03:00"
-  },
-  {
    "id": "804cdf097092",
    "titulo": "A 10 dias da eleição, Lula anuncia PEC para garantir passe livre nos finais de semana",
    "resumo": "A 10 dias do segundto turno, Lula anuncia PEC para garantir o passe livre no transporte público nos finais de semana em todo o país.",
@@ -533,24 +587,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15182058/lula-6-960x540.jpg",
    "data": "2026-10-15T18:59:45-03:00"
-  },
-  {
-   "id": "73f0554ab1d2",
-   "titulo": "Senado aprova teto de R$ 140 mil para MEI e perdão de dívidas",
-   "resumo": "O Senado aprovou nesta quinta-feira, 15, o projeto que eleva o limite de faturamento anual do microempreendedor individual (MEI) para R$ 140 mil até 2028 e perdoa dívidas com a União. O reajuste será escalonado, e o texto também amplia a po…",
-   "link": "https://revistaoeste.com/politica/senado-aprova-novo-teto-para-o-mei-e-perdao-de-dividas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55590855332_7ff21f46b8_o.jpg",
-   "data": "2026-10-15T18:59:02-03:00"
-  },
-  {
-   "id": "c0e85c15c398",
-   "titulo": "Datafolha: Flávio tem 51% dos votos válidos; Lula soma 49%",
-   "resumo": "Levantamento divulgado pelo instituto Datafolha no início da noite desta quinta-feira, 15, mostra o senador Flávio Bolsonaro (PL) numericamente à frente do presidente Luiz Inácio Lula da Silva (PT). O liberal aparece com 51% dos votos válid…",
-   "link": "https://revistaoeste.com/politica/datafolha-flavio-tem-51-dos-votos-validos-lula-soma-49/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-x-vorcaro.jpg",
-   "data": "2026-10-15T18:39:57-03:00"
   },
   {
    "id": "776a45a73956",
@@ -589,42 +625,6 @@
    "data": "2026-10-15T17:33:54-03:00"
   },
   {
-   "id": "78033c46dce3",
-   "titulo": "Mendonça interrompe julgamento sobre vídeo de Lula após TSE formar maioria contra remoção",
-   "resumo": "Placar de 4 a 3 para derrubar liminar do ministro é zerado e caso vai a plenário físico. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-interrompe-julgamento-sobre-video-de-lula-apos-tse-formar-maioria-contra-remocao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15131945/ASPA-GRANDE-2026-10-15T131938.245-960x540.jpg",
-   "data": "2026-10-15T13:21:12-03:00"
-  },
-  {
-   "id": "05bfaa2caf9e",
-   "titulo": "Sergio Moro e Ratinho Junior iniciam transição de governo após embates na campanha eleitoral",
-   "resumo": "Primeiro encontro após a eleição ocorre em meio ao histórico de atritos entre os dois durante a campanha. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/sergio-moro-e-ratinho-junior-iniciam-transicao-apos-embates-na-campanha-eleitoral/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15130333/moro-e-ratinho-960x540.jpg",
-   "data": "2026-10-15T13:08:30-03:00"
-  },
-  {
-   "id": "0182877ea9b5",
-   "titulo": "Por que apoio de Temer a Flávio inflama debate sobre negociação fora dos autos",
-   "resumo": "Apesar de negativa do PL, apoio de Temer à campanha de Flávio poderia envolver não perseguição a Moraes. Entenda.",
-   "link": "https://www.gazetadopovo.com.br/republica/por-que-apoio-de-temer-a-flavio-inflama-debate-sobre-negociacao-fora-dos-autos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/23160629/moraes-8-1-960x540.jpg",
-   "data": "2026-10-15T11:44:13-03:00"
-  },
-  {
-   "id": "c017aacc388c",
-   "titulo": "Coligação de Ciro Gomes pede cassação da chapa de Elmano e novas eleições no Ceará",
-   "resumo": "Ação no TRE-CE questiona decisões judiciais sobre propaganda eleitoral na disputa pelo governo do Ceará. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/ceara/coligacao-de-ciro-gomes-pede-cassacao-de-elmano-e-novas-eleicoes-no-ceara/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15112136/Ciro-e-Elmano-960x540.jpg",
-   "data": "2026-10-15T11:27:33-03:00"
-  },
-  {
    "id": "85d19dcc39f7",
    "titulo": "CUT elogia fim da “massacrante” 6x1; CNI quer revisar PEC aprovada",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cut-elogia-fim-da-massacrante-6x1-cni-quer-revisar-pec-aprovada\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
@@ -659,15 +659,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-14T23:07:00-03:00"
-  },
-  {
-   "id": "88366bc8259f",
-   "titulo": "Fim da 6x1: saiba quando entra em vigor nova jornada de trabalho",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-14T22:43:00-03:00"
   }
  ]
 }
