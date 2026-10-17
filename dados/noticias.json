@@ -1,88 +1,295 @@
 {
- "atualizado": "2026-10-17T06:14:24.201184-03:00",
- "total": 81,
+ "atualizado": "2026-10-17T10:40:14.481953-03:00",
+ "total": 83,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "a7c12744ff17",
-   "titulo": "De Lula a Bolsonaro: fim da reeleição é promessa antiga no Brasil",
-   "resumo": "Flávio fala em acabar com a possibilidade de o presidente se reeleger; proposta já foi defendida por outros candidatos",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/de-lula-a-bolsonaro-fim-da-reeleicao-e-promessa-antiga-no-brasil/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/fim-reeleicao-pec-15-out-2026.png",
-   "data": "2026-10-17T06:10:32-03:00"
+   "id": "aa8828f9746a",
+   "titulo": "PT pode desvincular ‘Exército do Lula’ da campanha, decide Nunes Marques",
+   "resumo": "Na sexta-feira 16, o presidente do Tribunal Superior Eleitoral (TSE), Nunes Marques, permitiu que Lula retire o canal do WhatsApp “Exército do Lula” do registro da campanha. A chapa do petista reúne a Federação Brasil da Esperança (PT, PCdo…",
+   "link": "https://revistaoeste.com/politica/nunes-marques-libera-campanha-de-lula-a-desvincular-o-canal-exercito-do-lula-no-whatsapp/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/nunes_tse.jpeg",
+   "data": "2026-10-17T10:39:15-03:00"
   },
   {
-   "id": "0b4ed65765db",
-   "titulo": "Entenda a proposta de Flávio Bolsonaro para acabar com a reeleição",
-   "resumo": "PEC apresentada mantém possibilidade para prefeitos e governadores; senador diz que os detalhes dependem do Congresso",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/entenda-proposta-de-flavio-bolsonaro-para-acabar-com-a-reeleicao/",
+   "id": "46eec5ba3982",
+   "titulo": "Lula adere à campanha de Janones e posta foto com camisa da seleção",
+   "resumo": "Movimento “O verde e amarelo é nosso” nas redes busca desvincular o símbolo nacional dos apoiadores da família Bolsonaro",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-adere-a-campanha-de-janones-e-posta-foto-com-camisa-da-selecao/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/fim-reeleicao-pec-15-out-2026.png",
-   "data": "2026-10-17T06:10:08-03:00"
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Lula-Camisa-Brasil-1.png",
+   "data": "2026-10-17T10:32:17-03:00"
   },
   {
-   "id": "fa631dff2c49",
-   "titulo": "De caminhoneiros ao Exército do Lula: a estratégia digital de Janones",
-   "resumo": "Deputado ganhou projeção com greve de 2018 e auxílio emergencial em 2020; agora mobiliza milhões no WhatsApp a favor da reeleição de Lula no 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/de-caminhoneiros-ao-exercito-do-lula-a-estrategia-digital-de-janones/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/exercito-lula.png",
-   "data": "2026-10-17T06:05:23-03:00"
+   "id": "7b84faef358d",
+   "titulo": "José Sarney recebe alta após cirurgia abdominal e nove dias de internação em São Luís",
+   "resumo": "",
+   "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/17/jose-sarney-recebe-alta-apos-cirurgia-abdominal-em-sao-luis.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/m5I8VjokC5guF6Vy7rUPv17Uciw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/EVVzjkQsiLdBDJDKt5xw/jose-sarney-2026.png",
+   "data": "2026-10-17T10:31:00-03:00"
   },
   {
-   "id": "4957d1150161",
-   "titulo": "Lula reage na disputa contra Flávio: Por que Isso Importa? #4",
-   "resumo": "Podcast do Poder360 analisa os principais temas políticos da semana que se encerra",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-reage-na-disputa-contra-flavio-por-que-isso-importa-4/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/UwFZP3vi7X8/hqdefault.jpg",
-   "data": "2026-10-17T06:00:51-03:00"
+   "id": "494cebd1bdee",
+   "titulo": "“Impeachment de Moraes vai acontecer independentemente de quem se eleja”",
+   "resumo": "O senador eleito Marcel Van Hattem (Novo-RS) afirmou que o Senado vai abrir caminho para o impeachment de Alexandre de Moraes, do Supremo Tribunal Federal (STF), independentemente de Lula (PT) ou Flávio Bolsonaro (PL) vencer a eleição presi…",
+   "link": "https://oantagonista.com.br/brasil/impeachment-de-moraes-vai-acontecer-independentemente-de-quem-se-eleja/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20220714163122989-1.jpg",
+   "data": "2026-10-17T10:24:15-03:00"
   },
   {
-   "id": "c32578b8ca69",
-   "titulo": "Saiba como estão Lula e Flávio nas pesquisas a 8 dias do 2º turno",
-   "resumo": "O senador aparece numericamente à frente em 11 dos 13 estudos mais recentes compilados pelo Poder360; Lula tem vantagem numérica em 1",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-8-dias-do-2o-turno/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-13-out-2026-lista.jpg",
-   "data": "2026-10-17T06:00:49-03:00"
+   "id": "f1ae912d72cb",
+   "titulo": "Líderança do MST exige comprovantes de votação para famílias assentadas",
+   "resumo": "Vídeo de líder do MST associa comprovante de votação a assentamentos e pede mobilização por Lula. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/video-lider-mst-bahia-desinformacao-comprovante-votacao-assentados/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/07/30083252/mst-foto-joedson-alves-efe-960x540.jpg",
+   "data": "2026-10-17T10:17:29-03:00"
   },
   {
-   "id": "58f957c69cfc",
-   "titulo": "Bloqueio à Rússia deixa Europa com gás limitado para o inverno",
-   "resumo": "Conflitos no Leste Europeu e no Oriente Médio pressionam o abastecimento de gás de países da União Europeia, que tem estoques reduzidos",
-   "link": "https://www.poder360.com.br/poder-internacional/bloqueio-a-russia-deixa-europa-com-gas-limitado-para-o-inverno/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/NQHiYiWFpgg/hqdefault.jpg",
-   "data": "2026-10-17T06:00:37-03:00"
+   "id": "f86e98d66e26",
+   "titulo": "Como funcionava a suposta agência de cafetinagem ligada a Vorcaro",
+   "resumo": "PF quer entender se estrutura de cafetinagem supostamente ligada a Vorcaro agenciava garotas, algumas refugiadas, para festas.",
+   "link": "https://www.gazetadopovo.com.br/republica/como-funcionava-a-suposta-agencia-de-cafetinagem-ligada-a-vorcaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/11131505/daniel-vorcaro-960x540.png",
+   "data": "2026-10-17T10:15:13-03:00"
   },
   {
-   "id": "39d3ebd0ea15",
-   "titulo": "Lula defende Brics na campanha e Flávio quer saída do Brasil do grupo",
-   "resumo": "Enquanto petista menciona bloco 3 vezes no plano de governo, senador prioriza a aproximação com os EUA",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-defende-brics-na-campanha-e-flavio-quer-saida-do-brasil-do-grupo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/exportacao-brasil-brics-18-out-2026-scaled.jpg",
-   "data": "2026-10-17T06:00:07-03:00"
-  },
-  {
-   "id": "d06423f39e08",
-   "titulo": "Poder360 abre acesso ao Agregador de Pesquisas mais completo da mídia",
-   "resumo": "Plataforma compila milhares de levantamentos eleitorais realizados no país desde o ano 2000; ficará disponível para consulta durante o período eleitoral",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/poder360-abre-acesso-ao-agregador-de-pesquisas-mais-completo-da-midia-2/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/politicos-brasil-agregador-13-ago-2026-02-3.png",
-   "data": "2026-10-17T06:00:07-03:00"
-  },
-  {
-   "id": "d87cc0f36b3c",
-   "titulo": "Imposto do pecado encarece importações e pressiona caixa",
-   "resumo": "Nova tributação exige revisão de preços, estoques e contratos logísticos antes da chegada dos produtos às prateleiras",
-   "link": "https://www.poder360.com.br/poder-economia/imposto-do-pecado-encarece-importacoes-e-pressiona-caixa/",
+   "id": "3b47c1184281",
+   "titulo": "Projeto proíbe benefícios a condenado por invadir propriedade rural",
+   "resumo": "Proposta defende que restrição seja válida por 8 anos após o cumprimento integral da pena",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-proibe-beneficios-a-condenado-por-invadir-propriedade-rural/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-17T06:00:02-03:00"
+   "data": "2026-10-17T10:14:50-03:00"
+  },
+  {
+   "id": "2331b7e5ae0f",
+   "titulo": "Datafolha: 51% apoiam fim da reeleição para presidente e governadores",
+   "resumo": "Levantamento mostra que o apoio se divide em duas frentes: 30% preferem mandato de 4 anos e 21% defendem aumento para 5 anos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/datafolha-51-apoiam-fim-da-reeleicao-para-presidente-e-governadores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-17T10:11:13-03:00"
+  },
+  {
+   "id": "bfc9edded5fd",
+   "titulo": "Abstenção de eleitores com mais de 70 anos cai 9,7 pontos percentuais",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/abstencao-de-eleitores-com-mais-de-70-anos-cai-97-pontos-percentuais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/abstencao-de-eleitores-com-mais-de-70-anos-cai-97-pontos-percentuais",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-17T10:03:00-03:00"
+  },
+  {
+   "id": "6960ffee85cb",
+   "titulo": "Saiba quais são os prazos para justificar ausência nas eleições",
+   "resumo": "Quem não justificou o fato de não ter votado no 1º turno tem até 3 de dezembro para regularizar a situação",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-sao-os-prazos-para-justificar-ausencia-nas-eleicoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-17T09:58:31-03:00"
+  },
+  {
+   "id": "db2404e5de00",
+   "titulo": "Moraes sofrerá impeachment seja com Flávio ou Lula, diz Van Hattem",
+   "resumo": "Senador eleito no Rio Grande do Sul afirma que o processo deve avançar e que esta é uma demanda da sociedade brasileira",
+   "link": "https://www.poder360.com.br/poder-justica/moraes-sofrera-impeachment-seja-com-flavio-ou-lula-diz-van-hattem/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-17T09:54:05-03:00"
+  },
+  {
+   "id": "2d2ce7ff7606",
+   "titulo": "Roberto Reis na Crusoé: O medo já mora no Planalto",
+   "resumo": "O problema atual da campanha do medo promovida pelo PT é que o eleitor passa a desconfiar mais de quem conta a história do que da assombração que ela apresenta. A campanha do medo de Lula pode funcionar? Sim. A ameaça de perder renda, empre…",
+   "link": "https://oantagonista.com.br/brasil/roberto-reis-na-crusoe-o-medo-ja-mora-no-planalto/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/assombracao.jpg",
+   "data": "2026-10-17T09:47:00-03:00"
+  },
+  {
+   "id": "c4d808647fc8",
+   "titulo": "Damares pede investigação sobre uso de van do MEC em campanha de Lula",
+   "resumo": "A senadora Damares Alves (Republicanos-DF) pediu ao Ministério Público Eleitoral que investigue o uso de uma van identificada com o selo do Ministério da Educação (MEC) no transporte de estudantes que participaram de uma gravação para a cam…",
+   "link": "https://oantagonista.com.br/brasil/damares-pede-investigacao-sobre-uso-de-van-do-mec-em-campanha-de-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/foto-canva-19.png",
+   "data": "2026-10-17T09:41:53-03:00"
+  },
+  {
+   "id": "1269b25fd7a7",
+   "titulo": "80% querem maioridade penal aos 16 anos, diz Datafolha",
+   "resumo": "Segundo a pesquisa, apoio é de 70% entre os que declaram voto em Lula e de 89% entre os apoiadores de Flávio Bolsonaro",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/80-querem-maioridade-penal-aos-16-anos-diz-datafolha/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-17T09:38:24-03:00"
+  },
+  {
+   "id": "ce9d3218c663",
+   "titulo": "Governo Trump diz apoiar eleição livre e justa no Brasil e defende sanções a Moraes: “Violou direitos humanos”",
+   "resumo": "Em resposta a uma carta dos democratas, Departamento de Estado da gestão Trump acusou Moraes de “silenciar críticos políticos”",
+   "link": "https://www.gazetadopovo.com.br/mundo/governo-trump-diz-apoiar-eleicao-livre-justa-brasil-defende-sancoes-moraes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/17093455/departamento.estado.resposta-960x540.jpg",
+   "data": "2026-10-17T09:37:23-03:00"
+  },
+  {
+   "id": "3f9b7d42f42f",
+   "titulo": "Resumo da semana: advogado de Trump ataca Alexandre de Moraes e Gilmar Mendes",
+   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
+   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-advogado-de-trump-ataca-alexandre-de-moraes-e-gilmar-mendes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16171241/thumb-gazeta-agora_cortes-1-8-960x540.jpg",
+   "data": "2026-10-17T09:31:00-03:00"
+  },
+  {
+   "id": "ae31170f7ebf",
+   "titulo": "Caso Lito: entenda o que faz a proteína prion ficar infecciosa",
+   "resumo": "Influenciador morreu menos de 2 meses depois de divulgar o diagnóstico de doença de Creutzfeldt-Jakob",
+   "link": "https://www.poder360.com.br/poder-saude/caso-lito-entenda-o-que-faz-a-proteina-prion-ficar-infecciosa/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/2024/12/selo-the-conversation.jpg",
+   "data": "2026-10-17T09:30:57-03:00"
+  },
+  {
+   "id": "dd9378879aa1",
+   "titulo": "Projeto cria classificação etária detalhada para desenhos animados",
+   "resumo": "Produções voltadas para crianças de até 6 anos não poderão mostrar violência física e situações de perigo iminente",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-cria-classificacao-etaria-detalhada-para-desenhos-animados/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-17T09:04:18-03:00"
+  },
+  {
+   "id": "a2d854923f2d",
+   "titulo": "Nunes Marques autoriza PT a desvincular “Exército do Lula” da campanha",
+   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques (foto), autorizou nesta sexta-feira, 16, que a campanha de Lula retire o canal de WhatsApp “Exército do Lula” de sua estrutura oficial. A decisão foi tomada após a Cort…",
+   "link": "https://oantagonista.com.br/brasil/nunes-marques-autoriza-pt-a-desvincular-exercito-do-lula-da-campanha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Nunes-Marques.jpg",
+   "data": "2026-10-17T09:02:15-03:00"
+  },
+  {
+   "id": "4190d7e67792",
+   "titulo": "Infra em 1 Minuto: petróleo circula, mas não alivia mercado de diesel",
+   "resumo": "Pedro Rodrigues diz que segurança energética não se mede em barris no subsolo, mas na capacidade de refinar e entregar o produto final",
+   "link": "https://www.poder360.com.br/poder-infra/infra-em-1-minuto-petroleo-circula-mas-nao-alivia-mercado-de-diesel/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/miMN-B_qEjc/hqdefault.jpg",
+   "data": "2026-10-17T09:00:52-03:00"
+  },
+  {
+   "id": "d5684f752dc6",
+   "titulo": "Cleitinho apoia Flávio no 2º turno, mas mantém portas abertas com petistas",
+   "resumo": "Embora tenha declarado apoio a Flávio Bolsonaro no 2º turno, Cleitinho mantém contato com lideranças do PT em Minas Gerais",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/cleitinho-apoia-flavio-no-2o-turno-mas-mantem-portas-abertas-com-petistas",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/lula-e-cleitinho-2-jpg.jpeg",
+   "data": "2026-10-17T09:00:41-03:00"
+  },
+  {
+   "id": "539d3070a400",
+   "titulo": "“Pega esse dedo e enfia no coração”, diz Janja a crítico em MG",
+   "resumo": "Primeira-dama pede microfone durante evento de campanha em Ipatinga na 6ª; a transmissão não mostra a quem ela se dirigiu",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pega-esse-dedo-e-enfia-no-coracao-diz-janja-a-critico-em-mg/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/dysbF50SD8w/hqdefault.jpg",
+   "data": "2026-10-17T08:47:07-03:00"
+  },
+  {
+   "id": "c089a46171b3",
+   "titulo": "Gabriela Prioli: “Nunca recebi pagamento nenhum de Daniel Vorcaro”",
+   "resumo": "A advogada e apresentadora Gabriela Prioli (foto) voltou a negar ter mantido relações comerciais com Daniel Vorcaro ou com o Banco Master. Em vídeo publicado nas redes sociais na sexta-feira, 16, após reportagem do Estadão, ela classificou …",
+   "link": "https://oantagonista.com.br/brasil/gabriela-prioli-nunca-recebi-pagamento-nenhum-de-daniel-vorcaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Gabriela-Prioli.png",
+   "data": "2026-10-17T08:44:15-03:00"
+  },
+  {
+   "id": "94c052449701",
+   "titulo": "Mais de 4,3 mil seções eleitorais mudaram de local para o 2º turno; veja como consultar onde votar",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/mais-de-43-mil-secoes-eleitorais-mudaram-de-local-para-o-2o-turno-veja-como-consultar-onde-votar.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/_wF7bIM3OX-_Z-VoLnJiz3JtK1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/R/9CstAATtSEiuy94ljfHA/texto-do-seu-paragrafo-2026-10-15t092644.015.png",
+   "data": "2026-10-17T07:56:34-03:00"
+  },
+  {
+   "id": "a610e61f81ff",
+   "titulo": "TSE nega pedido de Flávio para proibir gravações de Lula no Alvorada",
+   "resumo": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, negou nesta sexta-feira, 16, um pedido da campanha de Flávio Bolsonaro (PL) para proibir o presidente Lula (PT) de gravar conteúdo eleitoral no Palácio do Planalto…",
+   "link": "https://oantagonista.com.br/brasil/tse-nega-pedido-de-flavio-para-proibir-gravacoes-de-lula-no-alvorada/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-17-as-07.40.39.png",
+   "data": "2026-10-17T07:47:52-03:00"
+  },
+  {
+   "id": "b8a784d41bfe",
+   "titulo": "Delator entrega à PF mensagens com advogado de Eduardo Bolsonaro",
+   "resumo": "O empresário Antonio Carlos Freixo Júnior, conhecido como Mineiro, entregou à Polícia Federal planilhas, contratos de câmbio e mensagens trocadas com Paulo Calixto, advogado de imigração de Eduardo Bolsonaro (foto), publica O Globo. O mater…",
+   "link": "https://oantagonista.com.br/brasil/delator-entrega-a-pf-mensagens-com-advogado-de-eduardo-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/image-12-1-e1783606459425.jpg",
+   "data": "2026-10-17T07:30:45-03:00"
+  },
+  {
+   "id": "0a7a7a96a857",
+   "titulo": "Vorcaro omitiu destino de dinheiro usado em ‘Dark Horse’, diz delator",
+   "resumo": "O empresário Antônio Carlos Freixo Júnior, conhecido como Mineiro, disse à Polícia Federal que Daniel Vorcaro (foto) não lhe contou que transferências feitas a um fundo nos Estados Unidos financiariam Dark Horse, filme sobre Jair Bolsonaro …",
+   "link": "https://oantagonista.com.br/brasil/vorcaro-omitiu-destino-de-dinheiro-usado-em-dark-horse-diz-delator/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/Captura-de-Tela-2026-03-16-as-17.06.37-e1773691904808.png",
+   "data": "2026-10-17T07:03:12-03:00"
+  },
+  {
+   "id": "00ada98b3fce",
+   "titulo": "Letícia Barros na Crusoé: A arrogância fatal da esquerda",
+   "resumo": "A vitória de Flávio Bolsonaro, com 47% dos votos no primeiro turno, foi um balde de água fria para a esquerda. Prova disso é o desespero do eleitorado de Lula nas redes sociais para convencer o público a votar no presidente. Há quem diga qu…",
+   "link": "https://oantagonista.com.br/brasil/leticia-barros-na-crusoe-a-arrogancia-fatal-da-esquerda/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/esquerda.jpg",
+   "data": "2026-10-17T07:03:00-03:00"
+  },
+  {
+   "id": "b6223e07081a",
+   "titulo": "A condição de Michelle para viajar com Flávio na campanha do 2º turno",
+   "resumo": "Desejo da campanha de Flávio é de que Michelle Bolsonaro acompanhe o candidato do PL em alguma viagem ao Nordeste no 2º turno",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-condicao-de-michelle-para-viajar-com-flavio-na-campanha-do-2o-turno",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/07/michelle-flavio-2-jpg-1.jpeg",
+   "data": "2026-10-17T07:00:17-03:00"
+  },
+  {
+   "id": "1fde371e15c4",
+   "titulo": "Veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/veja-as-palavras-mais-faladas-por-flavio-bolsonaro-e-lula-nas-sabatinas-a-tv-globo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/t7sKTZqqW3-U59_I_KOpl4UlZGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/fpSH8BRtG9arRyZ4wEXA/montagem-horizontal-1280x720px-6-.jpg",
+   "data": "2026-10-17T07:00:01-03:00"
+  },
+  {
+   "id": "bb3473b857e2",
+   "titulo": "A meretriz de César",
+   "resumo": "Luís Fortes do Rego* O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), tornou-se, nos últimos anos, talvez o homem mais poderoso desta cambaleante República. Isso ocorreu por duas razões complementares: a extraordinária con…",
+   "link": "https://revistaoeste.com/politica/alexandre-de-moraes-e-a-meretriz-de-cesar/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/02_ed322.jpg",
+   "data": "2026-10-17T07:00:00-03:00"
+  },
+  {
+   "id": "3e862bb2bb31",
+   "titulo": "Datafolha: 96% pretendem votar no segundo turno",
+   "resumo": "Recorte da pesquisa Datafolha divulgado nesta sexta-feira, 16, mostra que 96% dos eleitores pretendem votar no segundo turno da eleição presidencial, marcado para 25 de outubro. Apenas 1% dizem que não irão às urnas, enquanto 3% ainda não d…",
+   "link": "https://oantagonista.com.br/brasil/datafolha-96-pretendem-votar-no-segundo-turno/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/mg_2276-scaled-1.jpg",
+   "data": "2026-10-17T06:47:44-03:00"
   },
   {
    "id": "534b00246d7c",
@@ -92,15 +299,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/lula-x-flavio-1.jpg",
    "data": "2026-10-17T06:00:00-03:00"
-  },
-  {
-   "id": "c62f7eac6235",
-   "titulo": "Taxa sobre exportação de petróleo é insustentável, diz associação",
-   "resumo": "Francisco Neves, da ANDC, avalia que cobrança não terá sustentação jurídica e política após normalização do abastecimento",
-   "link": "https://www.poder360.com.br/poder-economia/taxa-sobre-exportacao-de-petroleo-e-insustentavel-diz-associacao/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/9bBYTTN-TP4/hqdefault.jpg",
-   "data": "2026-10-17T05:58:15-03:00"
   },
   {
    "id": "9d8ffef95be7",
@@ -238,15 +436,6 @@
    "data": "2026-10-16T22:44:57-03:00"
   },
   {
-   "id": "fdc413c80e62",
-   "titulo": "Veja o que é #FATO ou #FAKE na entrevista de Flávio Bolsonaro à Globo no 2º turno das eleições 2026",
-   "resumo": "",
-   "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-flavio-bolsonaro-a-globo-no-2o-turno-das-eleicoes-2026.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/T0c-I4k5FXlbOoTY8Y-8RI8Pg-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/y/TPZ8mARMea1BtvkvfHdg/whatsapp-image-2026-10-16-at-21.08.13.jpeg",
-   "data": "2026-10-16T22:44:47-03:00"
-  },
-  {
    "id": "c9a87c3c210d",
    "titulo": "Flávio promete acabar com reeleição, nega cortes em benefícios e acusa Lula de ‘terrorismo’",
    "resumo": "O senador Flávio Bolsonaro (PL) , candidato à Presidência da República, afirmou nesta sexta-feira, 16, durante sabatina na TV Globo, que pretende propor uma emenda à Constituição para acabar com a reeleição de presidentes. “Eu só preciso de…",
@@ -254,15 +443,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-na-globo_22.jpeg",
    "data": "2026-10-16T22:29:01-03:00"
-  },
-  {
-   "id": "f99a24de3568",
-   "titulo": "Flávio Bolsonaro diz que 'não está no radar' nomear o pai e que Eduardo não será chanceler em eventual governo",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-nao-esta-no-radar-nomear-o-pai-e-que-eduardo-nao-sera-chanceler-em-eventual-governo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/URyq3Y9CmS-BYP8tdbjhEvXoXXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/c/Dx6NTVQ0WQYVNSCCRBfQ/whatsapp-image-2026-10-16-at-21.46.26.jpeg",
-   "data": "2026-10-16T22:20:53-03:00"
   },
   {
    "id": "4a53f1472c3b",
@@ -292,15 +472,6 @@
    "data": "2026-10-16T21:58:29-03:00"
   },
   {
-   "id": "c33905d037c2",
-   "titulo": "Empresário que fez repasses a fundo de 'Dark Horse' diz em delação que tentou reaver valores, mas não conseguiu",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/16/empresario-que-fez-repasses-a-fundo-de-dark-horse-diz-em-delacao-que-tentou-reaver-valores-mas-nao-conseguiu.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/EboMiHhtwtlOqofar4areHln5pg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/F7FgZKQyqh4kyLbpHiQg/entre-vorcaro.jpg",
-   "data": "2026-10-16T21:57:45-03:00"
-  },
-  {
    "id": "5cb14495d70b",
    "titulo": "TSE nega pedido de Flávio para proibir Lula de gravar no Planalto e no Alvorada",
    "resumo": "TSE negou pedido de Flávio Bolsonaro para impedir Lula de gravar conteúdo eleitoral no Planalto e no Alvorada.",
@@ -310,24 +481,6 @@
    "data": "2026-10-16T21:54:50-03:00"
   },
   {
-   "id": "e02af46701f3",
-   "titulo": "Panelaços no Rio e em SP marcam sabatina de Flávio na Globo",
-   "resumo": "Moradores de bairros do Rio de Janeiro e de São Paulo bateram panelas na noite desta sexta-feira, 16, em protesto contra a entrevista do senador Flávio Bolsonaro (PL) à TV Globo. As manifestações, atribuídas a apoiadores do presidente Luiz …",
-   "link": "https://oantagonista.com.br/brasil/panelacos-no-rio-e-em-sp-marcam-sabatina-de-flavio-na-glob/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Opera-Instantaneo_2026-10-16_214029_g1.globo_.com-1.png",
-   "data": "2026-10-16T21:41:51-03:00"
-  },
-  {
-   "id": "848bc4bd346c",
-   "titulo": "Lula põe Globo sob suspeição por almoço com Flávio Bolsonaro",
-   "resumo": "O presidente Lula (PT) declarou nesta sexta-feira, 16, que sua candidatura passa a tratar a Globo com desconfiança. O motivo é o almoço que a direção do grupo ofereceu a Flávio Bolsonaro (PL) no Rio de Janeiro. A declaração foi feita em Ipa…",
-   "link": "https://oantagonista.com.br/brasil/lula-poe-globo-sob-suspeicao-por-almoco-com-flavio-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/ae067fa3-022f-42e6-8f78-7f018b2b041a.jpg",
-   "data": "2026-10-16T21:28:48-03:00"
-  },
-  {
    "id": "e0db505e562b",
    "titulo": "Boulos ajuda Corinthians a negociar dívida de R$ 630 milhões com a Caixa",
    "resumo": "O Corinthians e a Caixa Econômica Federal assinaram nesta sexta-feira, 16, em Brasília, um termo de confidencialidade para avançar nas negociações sobre a dívida de aproximadamente R$ 630 milhões referente à construção da Neo Química Arena.…",
@@ -335,15 +488,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/boulos_caixa.jpeg",
    "data": "2026-10-16T21:07:38-03:00"
-  },
-  {
-   "id": "b7ebc5da3621",
-   "titulo": "Camilo Santana diz que PEC da tarifa zero está pronta",
-   "resumo": "Camilo Santana, coordenador da campanha do presidente Luiz Inácio Lula da Silva (PT) à reeleição, planeja enviar ao Congresso já na semana que vem a proposta de emenda à Constituição (PEC) que zera a tarifa dos ônibus aos sábados, domingos …",
-   "link": "https://oantagonista.com.br/brasil/camilo-santana-diz-que-pec-da-tarifa-zero-esta-pronta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/SaveClip.App_836571513_18414390883080965_3341986294528782130_n.jpg",
-   "data": "2026-10-16T20:57:32-03:00"
   },
   {
    "id": "811c2ac6116c",
@@ -364,15 +508,6 @@
    "data": "2026-10-16T20:49:20-03:00"
   },
   {
-   "id": "2accee0fe959",
-   "titulo": "Evento de Alckmin no interior de SP reúne prefeitos da oposição",
-   "resumo": "O vice-presidente Geraldo Alckmin, candidato à reeleição na chapa de Lula (PT), recebeu 58 prefeitos de dez partidos em Hortolândia, na região de Campinas, nesta sexta-feira, 16. O encontro buscou ampliar o apoio à campanha petista no segun…",
-   "link": "https://oantagonista.com.br/brasil/evento-de-alckmin-no-interior-de-sp-reune-prefeitos-da-oposica/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55366644054_e2b1f31edd_k.jpg",
-   "data": "2026-10-16T20:19:45-03:00"
-  },
-  {
    "id": "f88cf0d96fad",
    "titulo": "PF pede mais 90 dias a Mendonça para investigar caso Dark Horse",
    "resumo": "PF pede a Mendonça mais 90 dias para investigar suspeitas de irregularidades no financiamento do filme sobre Bolsonaro.",
@@ -391,33 +526,6 @@
    "data": "2026-10-16T19:58:39-03:00"
   },
   {
-   "id": "27c2969614fe",
-   "titulo": "Senado discute aumentar para 50 anos a idade mínima no STF",
-   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), e senadores de partidos de centro discutem uma proposta de emenda à Constituição que fixaria em 50 anos a idade mínima para ministros do Supremo Tribunal Federal. Também negociam com o pre…",
-   "link": "https://oantagonista.com.br/brasil/senado-discute-aumentar-para-50-anos-a-idade-minima-no-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55284846358_c7a87cf85a_k.jpg",
-   "data": "2026-10-16T19:57:52-03:00"
-  },
-  {
-   "id": "0118a6ddbd8a",
-   "titulo": "Derrite é o preferido de Flávio Bolsonaro para a Segurança Pública",
-   "resumo": "O senador eleito Guilherme Derrite (PP-SP) é hoje o nome mais cotado para comandar o Ministério da Segurança Pública, caso Flávio Bolsonaro (PL) vença o presidente Luiz Inácio Lula da Silva (PT) no segundo turno. Até agora, não houve conver…",
-   "link": "https://oantagonista.com.br/brasil/derrite-e-o-preferido-de-flavio-bolsonaro-para-a-seguranca-public/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/capa-noticia-2133x1200-6-3.jpg",
-   "data": "2026-10-16T19:44:43-03:00"
-  },
-  {
-   "id": "b606f5f59455",
-   "titulo": "PF pede mais 90 dias para apurar ‘Dark Horse’",
-   "resumo": "A Polícia Federal (PF) pediu ao ministro André Mendonça, do Supremo Tribunal Federal (STF), a prorrogação por 90 dias do inquérito que investiga o financiamento do filme Dark Horse, que narra a história do ex-presidente Jair Bolsonaro (PL).…",
-   "link": "https://oantagonista.com.br/brasil/pf-pede-mais-90-dias-para-apurar-dark-horse/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/Filme-Dark-Horse.jpg",
-   "data": "2026-10-16T19:26:55-03:00"
-  },
-  {
    "id": "ee98e9253196",
    "titulo": "TSE muda regras para canais de WhatsApp durante campanha",
    "resumo": "O Tribunal Superior Eleitoral (TSE) aprovou, nesta sexta-feira, 16, novas regras para o registro de canais de WhatsApp vinculados a campanhas eleitorais. A decisão ocorre depois de uma sequência de decisões conflitantes sobre o \"Exército do…",
@@ -427,15 +535,6 @@
    "data": "2026-10-16T19:26:08-03:00"
   },
   {
-   "id": "945d66c4afec",
-   "titulo": "Zanin relata ação do PSD para tentar restabelecer segundo turno no Rio",
-   "resumo": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), foi sorteado relator de um pedido apresentado pelo PSD, partido do ex-prefeito Eduardo Paes, para tentar restabelecer o segundo turno na eleição para governador do Rio de Janeir…",
-   "link": "https://oantagonista.com.br/brasil/zanin-relata-acao-do-psd-para-tentar-restabelecer-segundo-turno-no-rio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55528930192_fe92ee955a_5k-scaled.jpg",
-   "data": "2026-10-16T19:16:05-03:00"
-  },
-  {
    "id": "6654fdcb8334",
    "titulo": "Gerp: Flávio tem 5 pontos de vantagem sobre Lula",
    "resumo": "O senador Flávio Bolsonaro (PL) aparece com 52% dos votos válidos no segundo turno da eleição presidencial, contra 48% do presidente Lula da Silva (PT) , segundo pesquisa do instituto Gerp divulgada nesta sexta-feira, 16. Os votos válidos e…",
@@ -443,15 +542,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio_pesquisa-gerp.jpeg",
    "data": "2026-10-16T19:02:25-03:00"
-  },
-  {
-   "id": "fed4a42bc6e8",
-   "titulo": "Garotinho diz que quem convive com Lula não o suporta: “É mentiroso”",
-   "resumo": "O ex-governador do Rio de Janeiro Anthony Garotinho afirmou nesta sexta-feira, 16, que as pessoas que convivem com o presidente Lula (PT) não suportam o petista porque ele “é mentiroso”. Garotinho compartilhou no X um trecho da entrevista c…",
-   "link": "https://oantagonista.com.br/brasil/garotinho-diz-que-quem-convive-com-lula-nao-o-suporta-e-mentiroso/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/Garotinho.jpg",
-   "data": "2026-10-16T18:52:06-03:00"
   },
   {
    "id": "02c67012cc46",
@@ -472,15 +562,6 @@
    "data": "2026-10-16T18:27:56-03:00"
   },
   {
-   "id": "020eeb36536a",
-   "titulo": "Cabral anuncia voto em Lula e cita divergências “ideológicas” com Flávio",
-   "resumo": "O ex-governador do Rio de Janeiro Sérgio Cabral declarou apoio nesta sexta-feira, 16, à candidatura do presidente Lula (PT) no segundo turno das eleições presidenciais. Em vídeo divulgado nas redes sociais, Cabral relembrou a convivência co…",
-   "link": "https://oantagonista.com.br/brasil/cabral-anuncia-voto-em-lula-e-cita-divergencias-ideologicas-com-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2023/05/Sergio-Cabral-2010-scaled.jpg",
-   "data": "2026-10-16T18:20:40-03:00"
-  },
-  {
    "id": "d402ad9b4c8d",
    "titulo": "Os números da pesquisa Gerp para presidente no 2º turno",
    "resumo": "Pesquisa divulgada pela Gerp mostra como está a disputa entre Flávio Bolsonaro e Lula no 2º turno. Leia na Gazeta do Povo.",
@@ -499,15 +580,6 @@
    "data": "2026-10-16T17:51:23-03:00"
   },
   {
-   "id": "4699395caa95",
-   "titulo": "Cotado para presidir o Senado, Marinho confronta Alcolumbre sobre PEC da Segurança",
-   "resumo": "Alcolumbre disse adiado votação por decisão própria e trocou farpas com Marinho, cotado para disputar o comando do Senado em 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/cotado-para-presidir-o-senado-marinho-confronta-alcolumbre-sobre-pec-da-seguranca/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16172522/rogerio-marinho-alcolumbre-960x540.jpg",
-   "data": "2026-10-16T17:27:15-03:00"
-  },
-  {
    "id": "fd1ae6b8da43",
    "titulo": "Lula faz uso eleitoral de PEC da Segurança construída pela oposição",
    "resumo": "Lula se apropriou da PEC da Segurança Pública como mais uma bandeira de campanha para virar votos às vésperas do segundo turno.",
@@ -515,24 +587,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/11165401/lula-5-960x540.jpg",
    "data": "2026-10-16T17:12:34-03:00"
-  },
-  {
-   "id": "67ba78287fab",
-   "titulo": "Reinaldo Azevedo recebeu R$ 100 mil mensais do Banco Master",
-   "resumo": "O jornalista Reinaldo Azevedo recebeu pagamentos de R$ 100 mil por mês do Banco Master , instituição financeira controlada pelo ex-banqueiro Daniel Vorcaro, segundo informações atribuídas a mensagens encontradas no telefone do empresário. O…",
-   "link": "https://revistaoeste.com/politica/reinaldo-azevedo-recebeu-daniel-vorcaro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/images-4.jpg",
-   "data": "2026-10-16T17:11:50-03:00"
-  },
-  {
-   "id": "e4d5010189f9",
-   "titulo": "Prefeito de Itaquaquecetuba (SP) se mobiliza em prol de Flávio",
-   "resumo": "O prefeito de Itaquaquecetuba (SP), Eduardo Boigues (PL), está engajado na campanha de Flávio Bolsonaro (PL) à Presidência da República . Ele acredita que a eleição do senador ajudará a cidade a deixar de ser \"subfinanciada\" pela União. \"Pr…",
-   "link": "https://revistaoeste.com/politica/prefeito-de-itaquaquecetuba-sp-se-mobiliza-em-prol-de-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/andre-do-prado-flavio-bolsonaro-eduardo-boigues-ricardo-nunes.jpg",
-   "data": "2026-10-16T17:10:59-03:00"
   },
   {
    "id": "c8b1b293f764",
@@ -560,15 +614,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/16161417/tse-fachada-foto-jose-cruz-agencia-brasil-960x540.jpg",
    "data": "2026-10-16T16:14:46-03:00"
-  },
-  {
-   "id": "2cb79d96a9ab",
-   "titulo": "Fachin aplica critérios distintos para liberar acesso a provas sigilosas no STF",
-   "resumo": "Entenda as decisões divergentes de Fachin sobre o acesso a provas sigilosas envolvendo Luiz Fux e aliados do governo no STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-aplica-criterios-distintos-para-liberar-acesso-a-provas-sigilosas-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16155829/fachin-1-960x540.jpg",
-   "data": "2026-10-16T15:58:26-03:00"
   },
   {
    "id": "9ea83af5d77f",
@@ -697,15 +742,6 @@
    "data": "2026-10-15T23:44:00-03:00"
   },
   {
-   "id": "b7fadf00a8e4",
-   "titulo": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-15T21:09:00-03:00"
-  },
-  {
    "id": "7344ce1b50bd",
    "titulo": "Auxiliares aconselham Lula a prometer \"tarifa zero\" antes do 2º turno",
    "resumo": "Anúncio de \"tarifa zero\" para o transporte público é visto pela campanha de Lula como bala de prata para virada do petista no 2º turno",
@@ -713,24 +749,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/lula-votando.jpg",
    "data": "2026-10-15T16:20:38-03:00"
-  },
-  {
-   "id": "93c7885ce377",
-   "titulo": "Flávio é aconselhado a falar mais sobre Moraes e Lulinha",
-   "resumo": "Leitura de aliados é de que Flávio precisa explorar personagens que incomodam Lula para manter base mobilizada e não ficar a reboque dele",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-e-aconselhado-a-falar-mais-sobre-moraes-e-lulinha",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/whatsapp-image-2026-10-13-at-10-47-36-1.jpeg",
-   "data": "2026-10-15T14:42:13-03:00"
-  },
-  {
-   "id": "1ffad8aeb0b0",
-   "titulo": "Coordenador de Lula propõe reduzir maioridade penal para crimes hediondos",
-   "resumo": "Em contra-ataque a bolsonarismo, senador Camilo Santana (PT) colhe assinaturas para emenda que reduz maioridade penal só para crime hediondo",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/coordenador-de-lula-propoe-reduzir-maioridade-penal-para-crimes-hediondos",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/ex-ministro-camilo-santana-coordenador-da-campanha-a-reeleicao-do-presidente-luiz-inacio-lula-da-silva-coletiva-no-qg-da-campanha-metropoles-1-scaled.jpeg",
-   "data": "2026-10-15T10:44:57-03:00"
   }
  ]
 }
