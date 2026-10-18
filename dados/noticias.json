@@ -1,8 +1,251 @@
 {
- "atualizado": "2026-10-18T07:55:56.756246-03:00",
+ "atualizado": "2026-10-18T11:31:18.970538-03:00",
  "total": 83,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "1028d41a693b",
+   "titulo": "A uma semana do segundo turno, Flávio reúne milhares de apoiadores na Paulista",
+   "resumo": "Confira na Gazeta do Povo as informações sobre o ato de apoio a Flávio Bolsonaro (PL) na Avenida Paulista neste domingo (18)",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18110148/ato.flavio1-960x540.jpg",
+   "data": "2026-10-18T11:28:59-03:00"
+  },
+  {
+   "id": "55e2fbcef06a",
+   "titulo": "Lula ultrapassa Flávio em popularidade digital após 1º turno",
+   "resumo": "Presidente subiu de 70,7 para 82,6 pontos, enquanto senador caiu para 76,4, segundo índice da Quaest",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ultrapassa-flavio-em-popularidade-digital-apos-1o-turno/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T11:21:47-03:00"
+  },
+  {
+   "id": "ea9ef6bc42b8",
+   "titulo": "O que é o Starshield, versão militar do Starlink usado na Ucrânia",
+   "resumo": "Serviços de internet via satélite da empresa SpaceX, de Musk, são essenciais para as comunicações da população e de militares",
+   "link": "https://www.poder360.com.br/poder-tech/o-que-e-o-starshield-versao-militar-do-starlink-usado-na-ucrania-dw/",
+   "fonte": "Poder360",
+   "imagem": "//static.poder360.com.br/2019/03/Logo-DW-1.png",
+   "data": "2026-10-18T11:20:41-03:00"
+  },
+  {
+   "id": "11eee5c25508",
+   "titulo": "Trump levará até 60 dias para avaliar sanções contra Rússia, diz Rubio",
+   "resumo": "Presidente dos EUA suspendeu, na 6ª feira (16.out), um pacote de medidas que entraria em vigor neste domingo (18.out)",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-levara-ate-60-dias-para-avaliar-sancoes-contra-russia-diz-rubio/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T11:18:58-03:00"
+  },
+  {
+   "id": "69ed0d28ea9a",
+   "titulo": "Como pensa o nome forte de Flávio Bolsonaro para a economia",
+   "resumo": "Cotado a ministro em eventual governo de Flávio Bolsonaro, Adolfo Sachsida elaborou nos últimos anos série de medidas para destravar o país.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/como-pensa-adolfo-sachsida-flavio-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/13155005/adolfo-sachsida-campanha-flavio-bolsonaro-960x540.jpg",
+   "data": "2026-10-18T11:09:29-03:00"
+  },
+  {
+   "id": "a60401df7277",
+   "titulo": "TSE decide manter reportagem com acusações de Vorcaro contra Lula",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu manter no ar a reportagem da revista Veja que reúne acusações de Daniel Vorcaro, ex-controlador do Banco Master, sobre supostos pagamentos ligados ao acesso a fundos de pensão de estatais. Em sua …",
+   "link": "https://oantagonista.com.br/brasil/tse-decide-manter-reportagem-com-acusacoes-de-vorcaro-contra-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/Captura-de-Tela-2026-03-16-as-17.06.37-e1773691904808.png",
+   "data": "2026-10-18T11:05:56-03:00"
+  },
+  {
+   "id": "314e629e8c6e",
+   "titulo": "TSE rejeita pedido do Novo e mantém shows de artistas em atos de apoio a Lula",
+   "resumo": "O ministro Ricardo Villas Bôas Cueva rejeitou pedido do Novo que consideraria manifestações previstas para este domingo (18) como showmícios.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-rejeita-pedido-do-novo-e-mantem-shows-de-artistas-em-atos-de-apoio-a-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18105539/Caetano-Veloso-960x540.jpg",
+   "data": "2026-10-18T11:03:45-03:00"
+  },
+  {
+   "id": "26627b840835",
+   "titulo": "Josias Teófilo na Crusoé: O eixo do conservadorismo brasileiro",
+   "resumo": "Pouco se fala como o conservadorismo é mais recente que o seu oposto, o revolucionarismo ou radicalismo revolucionário. O conservadorismo nasceu como reação à Revolução Francesa e sua brutalidade revolucionária. O Brasil foi diretamente afe…",
+   "link": "https://oantagonista.com.br/brasil/josias-teofilo-na-crusoe-o-eixo-do-conservadorismo-brasileiro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Bonifacio-Gemini.jpg",
+   "data": "2026-10-18T11:00:00-03:00"
+  },
+  {
+   "id": "6c8abb55c3dc",
+   "titulo": "Ao vivo: Flávio Bolsonaro realiza ato na av. Paulista",
+   "resumo": "Evento terá a presença do governador de São Paulo, Tarcísio de Freitas, e do prefeito da capital paulista, Ricardo Nunes",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-flavio-bolsonaro-realiza-ato-na-av-paulista/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/3HbI8WZTOKE/hqdefault.jpg",
+   "data": "2026-10-18T10:55:06-03:00"
+  },
+  {
+   "id": "3526f1580796",
+   "titulo": "Incêndio em base militar canadense deixa mortos e feridos",
+   "resumo": "Ministro da Defesa confirma vítimas e TV relata ao menos 7 mortes após gasoduto ser atingido durante treino com munição real",
+   "link": "https://www.poder360.com.br/poder-internacional/incendio-em-base-militar-canadense-deixa-mortos-e-feridos/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/David-McGuinty-incendio-em-base-canadense-18-out-2026.png",
+   "data": "2026-10-18T10:51:13-03:00"
+  },
+  {
+   "id": "437d380f060e",
+   "titulo": "Projeto estabelece regras para verificação de idade na internet",
+   "resumo": "A comprovação pela coleta de dados biométricos ou de imagens de documentos será permitida quando não houver alternativa menos invasiva",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-estabelece-regras-para-verificacao-de-idade-na-internet/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T10:50:01-03:00"
+  },
+  {
+   "id": "5a446ebb6cf5",
+   "titulo": "Lobista chama Lula de “mau caráter” e diz que quer fazer delação: “Não vou poupar ninguém”",
+   "resumo": "A lobista Roberta Luchsinger quer delação premiada, promete não poupar Lula e Lulinha e diz que presidente mente e está “esclerosado”.",
+   "link": "https://www.gazetadopovo.com.br/republica/lobista-chama-lula-de-mau-carater-e-diz-que-quer-fazer-delacao-que-nao-vai-poupar-ninguem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/30014109/Lula-Roberta-1-960x540.jpg",
+   "data": "2026-10-18T10:39:55-03:00"
+  },
+  {
+   "id": "77b0e3b43a4d",
+   "titulo": "‘Bloco do 22’: acompanhe a manifestação da direita na Paulista",
+   "resumo": "https://www.youtube.com/watch?v=Bjk5PuSFhMk&pp=ygUNUmV2aXN0YSBPZXN0ZQ%3D%3D Leia também: \"Virada à direita\" , reportagem publicada na Edição 344 da Revista Oeste O post ‘Bloco do 22’: acompanhe a manifestação da direita na Paulista apareceu…",
+   "link": "https://revistaoeste.com/politica/bloco-do-22-acompanhe-a-manifestacao-da-direita-na-paulista/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-1.jpg",
+   "data": "2026-10-18T10:38:53-03:00"
+  },
+  {
+   "id": "25426aa62fdb",
+   "titulo": "Cultura gratuita é demandas para novos governantes",
+   "resumo": "Pesquisa revela que custo do deslocamento e de ingresso, é fator que desmotiva as pessoas a participarem de atividades culturais",
+   "link": "https://www.poder360.com.br/poder-cultura/cultura-gratuita-e-demandas-para-novos-governantes/",
+   "fonte": "Poder360",
+   "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAABY2lDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokX2QsUvDUBDGv1aloHUQHRwcMolDlJIKuji0FURxCFXB6pS+pqmQxkeSIgU3/4GC/4EKzm4Whzo6OAiik+jm5KTgouV5L4mkInqP435877vjOCA5bnBu9wOoO75bXMorm6UtJfWMBL0gDObxnK6vSv6uP+P9PvTeTstZv///jcGK6TGqn5QZxl0fSKjE+p7PJe8Tj7m0FHFLshXyieRyyOeBZ71YIL4mVljNqBC/EKvlHt3q4brdYNEOcvu06WysyTmUE1jEDjxw2DDQhAId2T/8s4G/gF1yN+FSn4UafOrJkSInmMTLcMAwA5VYQ4ZSk3eO7ncX3U+NtYMnYKEjhLiItZUOcDZHJ2vH2tQ8MDIEXLW54RqB1EeZrFaB11NguASM3lDPtlfNauH26Tww8CjE2ySQOgS6LSE+joToHlPzA3DpfAEDp2ITpJYOWwAAAARjSUNQDA0AAW4D4+8AAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAAAGgAwAEAAAAAQAAAAEAAAAA2uq/xAAAAAtJREFUCB1jYAACAAAFAAGNu5vzAAAAAElFTkSuQmCC",
+   "data": "2026-10-18T10:34:58-03:00"
+  },
+  {
+   "id": "e92ca48519c0",
+   "titulo": "Papa reza o Angelus e agradece orações após cirurgia no pulmão",
+   "resumo": "Leão 14 teve alta no sábado (17.out), 4 dias depois de passar por procedimento para retirada de um tumor",
+   "link": "https://www.poder360.com.br/poder-internacional/papa-reza-o-angelus-e-agradece-oracoes-apos-cirurgia-no-pulmao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T10:23:26-03:00"
+  },
+  {
+   "id": "df69c94854d6",
+   "titulo": "Vorcaro tinha “apoio do presidente” e do PT, diz advogado em áudio",
+   "resumo": "Mensagens encontradas pela Polícia Federal no celular de Daniel Vorcaro indicam que o banqueiro buscou apoio do presidente Lula e de integrantes do PT enquanto tentava viabilizar a venda do Banco Master ao BRB. As conversas, divulgadas nest…",
+   "link": "https://oantagonista.com.br/brasil/vorcaro-tinha-apoio-do-presidente-e-do-pt-diz-advogado-em-audio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Walfrido.png",
+   "data": "2026-10-18T10:18:53-03:00"
+  },
+  {
+   "id": "161adb759753",
+   "titulo": "Agropecuária ocupa territórios próximos aos preservados na Amazônia",
+   "resumo": "Em 41 anos, a agropecuária cresceu 561% no entorno das áreas protegidas do bioma",
+   "link": "https://www.poder360.com.br/poder-sustentavel/agropecuaria-ocupa-territorios-proximos-aos-preservados-na-amazonia/",
+   "fonte": "Poder360",
+   "imagem": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAABY2lDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokX2QsUvDUBDGv1aloHUQHRwcMolDlJIKuji0FURxCFXB6pS+pqmQxkeSIgU3/4GC/4EKzm4Whzo6OAiik+jm5KTgouV5L4mkInqP435877vjOCA5bnBu9wOoO75bXMorm6UtJfWMBL0gDObxnK6vSv6uP+P9PvTeTstZv///jcGK6TGqn5QZxl0fSKjE+p7PJe8Tj7m0FHFLshXyieRyyOeBZ71YIL4mVljNqBC/EKvlHt3q4brdYNEOcvu06WysyTmUE1jEDjxw2DDQhAId2T/8s4G/gF1yN+FSn4UafOrJkSInmMTLcMAwA5VYQ4ZSk3eO7ncX3U+NtYMnYKEjhLiItZUOcDZHJ2vH2tQ8MDIEXLW54RqB1EeZrFaB11NguASM3lDPtlfNauH26Tww8CjE2ySQOgS6LSE+joToHlPzA3DpfAEDp2ITpJYOWwAAAARjSUNQDA0AAW4D4+8AAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAAAGgAwAEAAAAAQAAAAEAAAAA2uq/xAAAAAtJREFUCB1jYAACAAAFAAGNu5vzAAAAAElFTkSuQmCC",
+   "data": "2026-10-18T10:16:26-03:00"
+  },
+  {
+   "id": "b77e9cfb246b",
+   "titulo": "Oposição exalta entrevista de Luchsinger: “Fala tudo, Roberta”",
+   "resumo": "Empresária diz que pretende fazer delação premiada e não poupará Lula nem Lulinha; nas redes, políticos elogiam declarações",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/oposicao-exalta-entrevista-de-luchsinger-fala-tudo-roberta/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Captura-de-Tela-2026-10-17-as-22.37.11.png",
+   "data": "2026-10-18T10:10:07-03:00"
+  },
+  {
+   "id": "ecc2da6fd152",
+   "titulo": "Na Argentina é fracasso, no Brasil é estatística",
+   "resumo": "André Burger* A redução de 32 mil empresas empregadoras na Argentina desde a posse de Javier Milei, em dezembro de 2023, tem sido utilizada por eleitores de Lula como demonstração do fracasso da política econômica argentina. O passo seguint…",
+   "link": "https://revistaoeste.com/politica/javier-milei-na-argentina-e-fracasso-no-brasil-e-estatistica/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/14_ed334-1.jpg",
+   "data": "2026-10-18T10:00:00-03:00"
+  },
+  {
+   "id": "3866e8430ed2",
+   "titulo": "“Bomba na família Lula”, diz Flávio após entrevista de Roberta Luchsinger",
+   "resumo": "O senador Flávio Bolsonaro (PL), candidato à Presidência, se manifestou nas redes sociais sobre as acusações feitas pela lobista Roberta Luchsinger contra Lula (PT) e seu filho, Fábio Luís Lula da Silva, o Lulinha. Após a entrevista à CNN B…",
+   "link": "https://oantagonista.com.br/brasil/bomba-na-familia-lula-diz-flavio-apos-entrevista-de-roberta-luchsinger/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/1dc71871-d082-4e6d-8f5a-768a4da207e9-scaled.jpg",
+   "data": "2026-10-18T09:26:22-03:00"
+  },
+  {
+   "id": "1efa54e371a8",
+   "titulo": "22 livros para quem não vota na esquerda",
+   "resumo": "Como bom editor de livros e assumidamente conservador, em contraposição à onda de editoras, livrarias e profissionais do livro que abertamente abandonaram suas fantasias de neutralidade para apoiar Lula no segundo turno, quero indicar aqui …",
+   "link": "https://revistaoeste.com/politica/22-livros-para-quem-nao-vota-na-esquerda/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/7-de-setembro.jpg",
+   "data": "2026-10-18T09:01:00-03:00"
+  },
+  {
+   "id": "5489f7136bc5",
+   "titulo": "Petistas dizem que chance de Flávio alterar fim da 6x1 é \"zero\"",
+   "resumo": "Para petistas, qualquer tentativa de Flávio Bolsonaro em mexer na escala de trabalho poderia ser declarada inconstitucional pelo Supremo",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/petistas-dizem-que-chance-de-flavio-alterar-fim-da-6x1-e-zero",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-3.jpg",
+   "data": "2026-10-18T09:00:52-03:00"
+  },
+  {
+   "id": "2427c3ab1ec1",
+   "titulo": "Dennys Xavier na Crusoé: Votar nulo faz sentido",
+   "resumo": "A vida moral pode colocar o indivíduo diante de circunstâncias nas quais todas as alternativas disponíveis teimam em exigir algum comprometimento com aquilo que considera eticamente condenável. O exame cuidadoso das possibilidades, em vez d…",
+   "link": "https://oantagonista.com.br/brasil/dennys-xavier-na-crusoe-votar-nulo-faz-sentido/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/eleitor-gemini.jpg",
+   "data": "2026-10-18T09:00:00-03:00"
+  },
+  {
+   "id": "016cd5f4a1b3",
+   "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte de jornalista",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), ignorou um alerta da Polícia Federal de que a divulgação de conversas de um jornalista poderia violar o sigilo constitucional da fonte, publica a Folha. Mesmo diante …",
+   "link": "https://oantagonista.com.br/brasil/moraes-ignorou-alerta-da-pf-sobre-sigilo-da-fonte-de-jornalista/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530502380_c48d9a23b9_6k-scaled.jpg",
+   "data": "2026-10-18T08:45:21-03:00"
+  },
+  {
+   "id": "da713519b1f6",
+   "titulo": "Risco Lula",
+   "resumo": "A poucos dias do segundo turno, o governo Lula transformou o Orçamento e a legislação em instrumentos de campanha. Não se trata de ajustes debatidos com antecedência, mas de benefícios, renúncias e mudanças aceleradas depois do susto diante…",
+   "link": "https://revistaoeste.com/politica/risco-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-1.jpg",
+   "data": "2026-10-18T08:33:00-03:00"
+  },
+  {
+   "id": "95da45e53c0f",
+   "titulo": "Lula diz “desconhecer inteiramente” acusações de Roberta Luchsinger",
+   "resumo": "O presidente Lula (PT) negou ter mantido contato com a lobista Roberta Luchsinger e contestou as acusações feitas por ela em entrevista à CNN Brasil neste sábado, 17. Em nota, a Presidência afirmou que o petista desconhece os fatos relatado…",
+   "link": "https://oantagonista.com.br/brasil/lula-diz-desconhecer-inteiramente-acusacoes-de-roberta-luchsinger/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/capa-noticia-2133x1200-3-1.jpg",
+   "data": "2026-10-18T08:02:34-03:00"
+  },
+  {
+   "id": "85d460ca8629",
+   "titulo": "Ministério Público apreende dinheiro com carcereiro ligado a Milton Leite",
+   "resumo": "O Ministério Público de São Paulo (MPSP) apreendeu cerca de R$ 155 mil e US$ 10 mil com um carcereiro suspeito de facilitar regalias ao ex-vereador Milton Leite (União Brasil) , preso na Cadeia Pública de Mogi das Cruzes, na Grande São Paul…",
+   "link": "https://revistaoeste.com/politica/ministerio-publico-apreende-dinheiro-com-carcereiro-ligado-a-milton-leite/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/milton-leite_saidinha.jpeg",
+   "data": "2026-10-18T08:00:00-03:00"
+  },
   {
    "id": "27c6dee3b4cb",
    "titulo": "Amiga de Lulinha levanta suspeita sobre acidente da filha e cita Lula",
@@ -11,15 +254,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/capa-noticia-2133x1200-3-1.jpg",
    "data": "2026-10-18T07:46:41-03:00"
-  },
-  {
-   "id": "2ef06531b9a4",
-   "titulo": "FMI reduz projeção de crescimento da China para 2026 e 2027",
-   "resumo": "Fundo espera que a economia chinesa cresça 4,5% em 2026 e 4% em 2027, ambas as projeções 0,1 p.p. abaixo das estimativas de julho",
-   "link": "https://www.poder360.com.br/poder-china/fmi-reduz-projecao-de-crescimento-da-china-para-2026-e-2027/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T07:36:25-03:00"
   },
   {
    "id": "1bcbefb7508c",
@@ -40,15 +274,6 @@
    "data": "2026-10-18T07:33:18-03:00"
   },
   {
-   "id": "16361081a51d",
-   "titulo": "Crise de água na Espanha ameaça abastecimento agrícola da Europa",
-   "resumo": "País produz até 25% das frutas e verduras do continente; com agricultura intensiva, mudanças climáticas e poços ilegais, a água está se esgotando",
-   "link": "https://www.poder360.com.br/poder-internacional/crise-de-agua-na-espanha-ameaca-abastecimento-agricola-da-europa-dw/",
-   "fonte": "Poder360",
-   "imagem": "//static.poder360.com.br/2019/03/Logo-DW-1.png",
-   "data": "2026-10-18T07:14:44-03:00"
-  },
-  {
    "id": "aba9047ca451",
    "titulo": "TSE rejeita pedido do Novo para barrar shows pró-Lula",
    "resumo": "O corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, rejeitou o pedido do Novo para suspender os atos do movimento Brasil nas Ruas, previstos para este domingo, 18. A sigla alegava que as apresentações musicais poder…",
@@ -56,15 +281,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Cueva.png",
    "data": "2026-10-18T07:08:50-03:00"
-  },
-  {
-   "id": "9a8428c8bb8a",
-   "titulo": "Chance de virada no 2º turno das eleições em 4 Estados é baixa",
-   "resumo": "Distância entre candidatos no 1º turno no Acre, Amazonas, Distrito Federal e Espírito Santos foi maior que 10 pontos",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/chance-de-virada-no-2o-turno-das-eleicoes-em-4-estados-e-baixa/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/disputas-2turno-2026-15-out-2026-04-3-scaled.png",
-   "data": "2026-10-18T07:00:47-03:00"
   },
   {
    "id": "3b4b5cc050a7",
@@ -94,24 +310,6 @@
    "data": "2026-10-18T06:56:49-03:00"
   },
   {
-   "id": "66ad21691204",
-   "titulo": "Estudo mapeia áreas mais vulneráveis à poluição difusa do agro",
-   "resumo": "As áreas mais críticas se concentram principalmente em municípios de Mato Grosso, Mato Grosso do Sul e Goiás",
-   "link": "https://www.poder360.com.br/poder-agro/estudo-mapeia-areas-mais-vulneraveis-a-poluicao-difusa-do-agro/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/embrapa-mapa-1.png",
-   "data": "2026-10-18T06:55:16-03:00"
-  },
-  {
-   "id": "376144c5a344",
-   "titulo": "Venda de veículos de energia nova bate recorde em setembro na China",
-   "resumo": "NEVs responderam por 61,6% das vendas mensais de carros novos no país asiático; foi o 3º mês consecutivo acima da marca de 60%",
-   "link": "https://www.poder360.com.br/poder-china/venda-de-veiculos-de-energia-nova-bate-recorde-em-setembro-na-china/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T06:32:30-03:00"
-  },
-  {
    "id": "35e623553617",
    "titulo": "Vorcaro pediu lista de jornalistas ‘maldosos controlados’, revelam mensagens",
    "resumo": "O banqueiro Daniel Vorcaro , ex-controlador do Banco Master , perguntou à então superintendente de comunicação da instituição, Ana Lúcia Matos, qual seria o “repórter maldoso mais confiável que temos”. Em resposta, a ex-funcionária indicou …",
@@ -121,49 +319,13 @@
    "data": "2026-10-18T06:32:00-03:00"
   },
   {
-   "id": "6e03c32bd7f4",
-   "titulo": "Big techs manipulam opinião pública, diz porta-voz russa",
-   "resumo": "Em participação em fórum digital, Maria Zakharova afirmou que dependência da tecnologia e IA pode desafiar \"pluralismo de opiniões\"",
-   "link": "https://www.poder360.com.br/poder-tech/big-techs-manipulam-opiniao-publica-diz-porta-voz-russa/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T06:30:45-03:00"
-  },
-  {
-   "id": "6512afce265c",
-   "titulo": "Rússia aposta em moeda digital para modernizar economia",
-   "resumo": "Rublo digital completou 1 mês de lançamento em outubro; projeto permite pagamentos com o celular",
-   "link": "https://www.poder360.com.br/poder-economia/russia-aposta-em-moeda-digital-para-modernizar-economia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T06:30:28-03:00"
-  },
-  {
-   "id": "72b294131613",
-   "titulo": "China lança plano de inovação em ciência e tecnologia ferroviária",
-   "resumo": "Projeto delineia tarefas fundamentais em áreas como pesquisa de base e tecnologias de vanguarda",
-   "link": "https://www.poder360.com.br/poder-china/china-lanca-plano-de-inovacao-em-ciencia-e-tecnologia-ferroviaria/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T06:12:32-03:00"
-  },
-  {
-   "id": "5d01d123c901",
-   "titulo": "Lula e Flávio priorizam Sudeste na última semana de campanha",
-   "resumo": "Região concentra 41,78% do eleitorado; pesquisa PoderData/Aya mostra Flávio com 48% das intenções de voto, ante 44% de Lula",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-priorizam-sudeste-na-ultima-semana-de-campanha/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/lula-flavio-viagens-2-turno-16-out-2026-2-01-scaled.png",
-   "data": "2026-10-18T06:00:56-03:00"
-  },
-  {
-   "id": "a5d1c59a41ff",
-   "titulo": "Eleições aumentam incertezas sobre reforma tributária",
-   "resumo": "Flávio propõe mudanças, enquanto governo posterga decisões para depois do 2º turno",
-   "link": "https://www.poder360.com.br/poder-economia/eleicoes-aumentam-incertezas-sobre-reforma-tributaria/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/tributaria-flavio-16-out-2026.png",
-   "data": "2026-10-18T06:00:50-03:00"
+   "id": "b1457ab0df38",
+   "titulo": "Lobista que atacou Lula em entrevista namora ex-jogador do São Paulo",
+   "resumo": "Sócia de Lulinha, empresária e lobista Roberta Luchsinger mantém um relacionamento amoroso com um ex-jogador do São Paulo",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lobista-que-atacou-lula-em-entrevista-namora-ex-jogador-do-sao-paulo",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2022/05/17174447/WhatsApp-Image-2022-05-17-at-17.44.21-1.jpeg",
+   "data": "2026-10-18T06:00:52-03:00"
   },
   {
    "id": "361b2fbfe39f",
@@ -221,7 +383,7 @@
   },
   {
    "id": "d96ef47ef195",
-   "titulo": "Zanin vai relatar ação do PSD que pede 2º turno no Rio de Janeiro",
+   "titulo": "Zanin vai relatar ação do PSD que pede 2º turno no RJ",
    "resumo": "O ministro Cristiano Zanin , do Supremo Tribunal Federal (STF) , foi sorteado nesta sexta-feira, 16, para relatar uma ação do PSD que pede a realização de segundo turno na eleição para o governo do Rio de Janeiro. O partido, do candidato Ed…",
    "link": "https://revistaoeste.com/politica/zanin-vai-relatar-acao-do-psd-que-pede-2o-turno-no-rio-de-janeiro/",
    "fonte": "Revista Oeste",
@@ -236,15 +398,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/PKwCjAubfqIY9OC6WDPNfNHyISQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/W/wtkEY0ThKckU0RNhhPtQ/captura-de-tela-2026-10-17-224110.png",
    "data": "2026-10-17T22:30:26-03:00"
-  },
-  {
-   "id": "5a446ebb6cf5",
-   "titulo": "Lobista chama Lula de “mau caráter” e diz que quer fazer delação: “Não vou poupar ninguém”",
-   "resumo": "A lobista Roberta Luchsinger quer delação premiada, promete não poupar Lula e Lulinha e diz que presidente mente e está “esclerosado”.",
-   "link": "https://www.gazetadopovo.com.br/republica/lobista-chama-lula-de-mau-carater-e-diz-que-quer-fazer-delacao-que-nao-vai-poupar-ninguem/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/30014109/Lula-Roberta-1-960x540.jpg",
-   "data": "2026-10-17T22:06:09-03:00"
   },
   {
    "id": "8f19f4ce5cab",
@@ -274,15 +427,6 @@
    "data": "2026-10-17T21:37:01-03:00"
   },
   {
-   "id": "6468b54d50d7",
-   "titulo": "Vorcaro pagou R$ 1 milhão por influência na imprensa, apontam mensagens",
-   "resumo": "O banqueiro Daniel Vorcaro , ex-dono do Banco Master, é alvo de denúncias sobre sua relação com dois veículos de comunicação: o jornal Folha de S.Paulo e o site Metrópoles. Mensagens obtidas pelo site indicam que Vorcaro pagou R$ 1 milhão a…",
-   "link": "https://revistaoeste.com/politica/vorcaro-pagou-r-1-milhao-por-influencia-na-imprensa-apontam-mensagens/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/vorcaro_editor.jpeg",
-   "data": "2026-10-17T21:33:00-03:00"
-  },
-  {
    "id": "dd9d7a0eaef9",
    "titulo": "Preocupação de Lula com a entrevista de Luchsinger é zero, diz ministro",
    "resumo": "À coluna, ministro Sidônio Palmeira também levantou suspeita de que Roberta Luchsinger pode ter recebido dinheiro para dar entrevista",
@@ -301,15 +445,6 @@
    "data": "2026-10-17T20:39:57-03:00"
   },
   {
-   "id": "44c82bdb1fad",
-   "titulo": "Roberta Luchsinger quer delatar Lulinha e Lula: ‘Não vou poupar’",
-   "resumo": "A lobista Roberta Luchsinger disse, neste sábado, 17, que pretende firmar um acordo de delação premiada e que não poupará o presidente da República nem Lulinha . Em entrevista à CNN Brasil, ela também declarou que o filho do petista partici…",
-   "link": "https://revistaoeste.com/politica/roberta-luchsinger-quer-delatar-lulinha-e-lula-nao-vou-poupar/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/lula-luchsinger-sem-data.jpg",
-   "data": "2026-10-17T20:39:39-03:00"
-  },
-  {
    "id": "fee6d8f80757",
    "titulo": "“Lula é mentiroso e age com canalhice”, diz amiga de Lulinha",
    "resumo": "A empresária e lobista Roberta Luchsinger (foto) chamou o presidente Lula (PT) de “mentiroso” e o acusou de agir com “mau-caratismo” e “canalhice” ao chamá-la de “pilantra”. Em entrevista à CNN Brasil neste sábado, 17, ela também afirmou qu…",
@@ -317,15 +452,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-17-as-20.11.39.png",
    "data": "2026-10-17T20:24:19-03:00"
-  },
-  {
-   "id": "86017cae4e89",
-   "titulo": "Flávio tem 2,4 pontos de vantagem sobre Lula, aponta Ipespe",
-   "resumo": "O senador Flávio Bolsonaro (PL) tem 51,2% dos votos válidos no segundo turno da eleição presidencial, contra 48,8% do presidente Lula da Silva (PT), segundo pesquisa Ipespe/Abrapel divulgada neste sábado, 17. A diferença é de 2,4 pontos per…",
-   "link": "https://revistaoeste.com/politica/flavio-tem-24-pontos-de-vantagem-sobre-lula-aponta-ipespe/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio_ipespe.jpeg",
-   "data": "2026-10-17T20:01:00-03:00"
   },
   {
    "id": "d86cf34d87b9",
@@ -337,15 +463,6 @@
    "data": "2026-10-17T19:50:17-03:00"
   },
   {
-   "id": "1bbe30f0bafa",
-   "titulo": "Perícia confirma voz de Vorcaro em áudios sobre filme de Lula",
-   "resumo": "A revista Veja divulgou neste sábado, 17, detalhes de uma perícia sobre cinco áudios atribuídos a Daniel Vorcaro (foto), ex-dono do Banco Master, nos quais ele relata supostos pagamentos ligados à produção de um documentário sobre Lula e ao…",
-   "link": "https://oantagonista.com.br/brasil/pericia-confirma-voz-de-vorcaro-em-audios-sobre-filme-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/image-2-1.jpg",
-   "data": "2026-10-17T19:47:09-03:00"
-  },
-  {
    "id": "5c4532d36f2e",
    "titulo": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
    "resumo": "",
@@ -353,42 +470,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/zNu4xa6qUe6OcbugZKdCGfNxc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/q/4hxXteSnmPqLIcZP5zaQ/whatsapp-image-2026-09-12-at-14.50.46.jpeg",
    "data": "2026-10-17T19:42:12-03:00"
-  },
-  {
-   "id": "97aec2958df5",
-   "titulo": "Lula quer “desmascarar mentiras” de Flávio no debate, diz Edinho",
-   "resumo": "O presidente nacional do PT, Edinho Silva (foto), afirmou neste sábado, 17, que Lula quer confrontar diretamente Flávio Bolsonaro (PL) no debate da Band, marcado para amanhã. “O que nós mais queremos é o confronto direto. Nós queremos que o…",
-   "link": "https://oantagonista.com.br/brasil/lula-quer-desmascarar-mentiras-de-flavio-no-debate-diz-edinho/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/Lula-e-Edinho-Silva.jpg",
-   "data": "2026-10-17T19:26:48-03:00"
-  },
-  {
-   "id": "1b0c68fa1388",
-   "titulo": "PF pede mais 90 dias para investigar financiamento de filme sobre Bolsonaro",
-   "resumo": "A Polícia Federal (PF) pediu ao ministro André Mendonça, do Supremo Tribunal Federal (STF) , a prorrogação por mais 90 dias do inquérito que investiga o financiamento de Dark Horse , filme sobre o ex-presidente Jair Bolsonaro (PL). A invest…",
-   "link": "https://revistaoeste.com/politica/pf-pede-mais-90-dias-para-investigar-financiamento-de-filme-sobre-bolsonaro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Policia-Federal-Goias.jpeg",
-   "data": "2026-10-17T19:00:00-03:00"
-  },
-  {
-   "id": "ad942ba51f13",
-   "titulo": "Vorcaro orientou vídeos para atacar Malu Gaspar e Lauro Jardim",
-   "resumo": "Daniel Vorcaro encomendou vídeos anônimos para atacar os jornalistas Lauro Jardim e Malu Gaspar, do jornal O Globo, após reportagens críticas às operações financeiras do Banco Master. Conversas obtidas pela Polícia Federal e publicadas pelo…",
-   "link": "https://oantagonista.com.br/brasil/vorcaro-mandou-produzir-videos-para-atacar-malu-gaspar-e-lauro-jardim/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Daniel-Vorcaro-1.jpg",
-   "data": "2026-10-17T18:49:49-03:00"
-  },
-  {
-   "id": "70f634dfd088",
-   "titulo": "Flávio reúne milhares de apoiadores em atos no Espírito Santo e na Bahia",
-   "resumo": "O candidato à Presidência da República e senador, Flávio Bolsonaro (PL-RJ), participou de dois atos de campanha neste sábado, 17, em Vitória e Salvador. As manifestações reuniram milhares de apoiadores e integraram o “Bloquinho do 22”, mobi…",
-   "link": "https://revistaoeste.com/politica/flavio-reune-milhares-de-apoiadores-em-atos-no-espirito-santo-e-na-bahia/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-17-at-18.12.49.jpeg",
-   "data": "2026-10-17T18:20:12-03:00"
   },
   {
    "id": "7b04312fd5a9",
@@ -400,15 +481,6 @@
    "data": "2026-10-17T17:51:09-03:00"
   },
   {
-   "id": "b5d667b3af65",
-   "titulo": "Flávio exalta Jair Bolsonaro em carreata no Espírito Santo",
-   "resumo": "Flávio Bolsonaro (PL-RJ) participou neste sábado, 17, de uma carreata em Vitória (ES) ao lado do governador de São Paulo, Tarcísio de Freitas (Republicanos), e do deputado Nikolas Ferreira (PL-MG). Durante o ato, o senador e candidato à Pre…",
-   "link": "https://oantagonista.com.br/brasil/flavio-exalta-jair-bolsonaro-em-carreata-no-espirito-santo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-no-ES.png",
-   "data": "2026-10-17T17:46:48-03:00"
-  },
-  {
    "id": "5af06c6e3520",
    "titulo": "Ex-ministros e acadêmicos assinam manifesto de apoio a Lula",
    "resumo": "Manifesto de intelectuais e ex-integrantes de governos fala em ameaças sociais, à democracia e à diplomacia.",
@@ -416,15 +488,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/16010349/55445050325_e425df3563_3k-1-960x540.jpg",
    "data": "2026-10-17T17:13:49-03:00"
-  },
-  {
-   "id": "0b4165ad55ec",
-   "titulo": "STJ exonera servidor suspeito de vazar dados a advogado ligado a Flávio",
-   "resumo": "O Superior Tribunal de Justiça (STJ) exonerou nesta sexta-feira, 16, um servidor suspeito de vazar informações sigilosas ao advogado Willer Tomaz, amigo do senador e candidato à Presidência Flávio Bolsonaro (PL). A Polícia Federal identific…",
-   "link": "https://oantagonista.com.br/brasil/stj-exonera-servidor-suspeito-de-vazar-dados-a-advogado-ligado-a-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-e-Willer-Tomaz.png",
-   "data": "2026-10-17T16:50:52-03:00"
   },
   {
    "id": "0ce73bbd360d",
@@ -443,15 +506,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/18165059/edinho-silva-com-lula-foto-joao-valadares-agencia-pt-960x540.jpg",
    "data": "2026-10-17T16:15:16-03:00"
-  },
-  {
-   "id": "aaf04ea7a8e1",
-   "titulo": "Fumaça de queimadas impede voos de combate a incêndios no Amazonas",
-   "resumo": "A fumaça dos incêndios florestais no Amazonas suspendeu neste sábado, 17, os voos das aeronaves usadas no combate às chamas. Segundo o Ibama, a baixa visibilidade impediu as operações nos dois aeroportos utilizados pelas equipes em Manaus. …",
-   "link": "https://oantagonista.com.br/brasil/fumaca-de-queimadas-impede-voos-de-combate-a-incendios-no-amazonas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/fumaca-no-Amazonas.png",
-   "data": "2026-10-17T16:12:41-03:00"
   },
   {
    "id": "552b52f0a4cf",
@@ -479,15 +533,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15060425/mulheres-direita-eleitas-flavio-bolsonaro_reajustada-960x540.jpg",
    "data": "2026-10-17T15:33:33-03:00"
-  },
-  {
-   "id": "a866a981c329",
-   "titulo": "Após ação de Lula, Flávio também aciona TSE contra a Meta",
-   "resumo": "A campanha de Flávio Bolsonaro (PL) acionou o Tribunal Superior Eleitoral (TSE) contra a Meta, acusando a empresa de permitir o impulsionamento irregular de propaganda negativa contra o candidato. A equipe pede que o senador seja incluído c…",
-   "link": "https://oantagonista.com.br/brasil/apos-acao-de-lula-flavio-tambem-aciona-tse-contra-a-meta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55582902121_d410d4f595_5k-scaled-e1791810538133.jpg",
-   "data": "2026-10-17T15:30:17-03:00"
   },
   {
    "id": "3132414a051a",
@@ -526,10 +571,10 @@
    "data": "2026-10-17T14:26:21-03:00"
   },
   {
-   "id": "167602e4db4e",
-   "titulo": "Mais de 4 mil seções eleitorais tiveram locais de votação alterados",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
+   "id": "e0079e5fe053",
+   "titulo": "Eleições: mais de 4 mil seções tiveram locais alterados; confira",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-mais-de-4-mil-secoes-tiveram-locais-alterados-confira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-mais-de-4-mil-secoes-tiveram-locais-alterados-confira",
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-17T14:20:00-03:00"
@@ -569,24 +614,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-17T12:33:00-03:00"
-  },
-  {
-   "id": "f88123846709",
-   "titulo": "Van Hattem diz que impeachment de Moraes independe do resultado das eleições",
-   "resumo": "Senador eleito no RS afirma que processo vai avançar e é uma demanda da sociedade brasileira. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/van-hattem-diz-que-impeachment-de-moraes-independe-do-resultado-das-eleicoes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/17120748/marcel-960x540.jpg",
-   "data": "2026-10-17T12:10:26-03:00"
-  },
-  {
-   "id": "fcd6325a33cf",
-   "titulo": "Flávio leva aliados à Paulista e Lula mobiliza periferias de SP na reta final da campanha",
-   "resumo": "Campanhas de Flávio e Lula levam apoiadores às ruas neste domingo (18), a oito dias do segundo turno. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-leva-aliados-a-paulista-e-lula-mobiliza-periferias-de-sp-na-reta-final-da-campanha/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/17105500/lula-e-flavio-2-960x540.jpg",
-   "data": "2026-10-17T10:56:15-03:00"
   },
   {
    "id": "bfc9edded5fd",
@@ -641,15 +668,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-16T23:01:00-03:00"
-  },
-  {
-   "id": "3ee297c2e743",
-   "titulo": "Sabatina na Globo: Flávio propõe guerra às facções, fim da reeleição e destaca recordes negativos de Lula",
-   "resumo": "Flávio Bolsonaro (PL) também destacou os recordes negativos de Lula em sabatina na rede Globo. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/sabatina-na-globo-flavio-propoe-guerra-as-faccoes-fim-da-reeleicao-e-destaca-recordes-negativos-de-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16215950/Sabatina-Flavio-alta-1-960x540.jpg",
-   "data": "2026-10-16T22:44:57-03:00"
   },
   {
    "id": "5744127b8f71",
@@ -731,24 +749,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-16T10:39:00-03:00"
-  },
-  {
-   "id": "854fc4c86726",
-   "titulo": "O conselho de Lira para a campanha de Flávio",
-   "resumo": "Ex-presidente da Câmara, Arthur Lira (PP-AL) se reuniu com o coordenador da campanha de Flávio Bolsonaro na quarta-feira (14/10) em Brasília",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/o-conselho-de-lira-para-a-campanha-de-flavio",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/08/flavio-e-arthur-lira.jpg",
-   "data": "2026-10-16T07:00:27-03:00"
-  },
-  {
-   "id": "92237d2b9fc6",
-   "titulo": "Por que Lula atacou pouco Flávio na sabatina do JN",
-   "resumo": "Segundo auxiliares, decisão do presidente Lula de atacar pouco Flávio Bolsonaro (PL) na sabatina do JN teve cálculo estratégico",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/por-que-lula-atacou-pouco-flavio-na-sabatina-do-jn",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-sabatina-jornal-nacional.jpg",
-   "data": "2026-10-16T06:00:05-03:00"
   }
  ]
 }
