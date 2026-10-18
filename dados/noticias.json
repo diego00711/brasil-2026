@@ -1,8 +1,215 @@
 {
- "atualizado": "2026-10-18T15:02:30.492848-03:00",
- "total": 85,
+ "atualizado": "2026-10-18T17:35:44.382863-03:00",
+ "total": 87,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "3715d754177a",
+   "titulo": "Lula pede ao TSE alerta de seções alteradas e transporte a eleitores",
+   "resumo": "Coligação pede gratuidade e avisos a eleitores afetados pela mudança de endereço das seções eleitorais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-ao-tse-alerta-de-secoes-alteradas-e-transporte-a-eleitores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T17:31:12-03:00"
+  },
+  {
+   "id": "f905025901f9",
+   "titulo": "Moro quer proteção policial para amiga de Lulinha",
+   "resumo": "O senador Sergio Moro (União Brasil-PR) anunciou neste domingo, 18, que pedirá proteção policial para a empresária Roberta Luchsinger, após ela declarar que teme por sua segurança e a de suas filhas. Em vídeo nas redes sociais, o parlamenta…",
+   "link": "https://oantagonista.com.br/brasil/moro-quer-protecao-policial-para-amiga-de-lulinha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Moro-em-video.png",
+   "data": "2026-10-18T17:29:34-03:00"
+  },
+  {
+   "id": "896a53ecf089",
+   "titulo": "Câmara terá primeiro deputado acusado de ligação com o PCC",
+   "resumo": "Primeiro deputado federal acusado pelo MP de ligação com o PCC, Ney Santos é eleito para Câmara dos Deputados. Saiba mais na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/primeiro-deputado-federal-acusado-ligacao-pcc-eleito/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15153322/Ney-Santos-960x540.jpg",
+   "data": "2026-10-18T17:24:28-03:00"
+  },
+  {
+   "id": "09253c427e72",
+   "titulo": "Ato de Flávio reúne 76.200 na Paulista a uma semana do 2º turno",
+   "resumo": "Candidato do PL à Presidência convocou manifestação para este domingo (18.out); mais tarde, às 20h, participa de debate com Lula",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-reune-76-200-na-paulista-a-uma-semana-do-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/ato-18-out-2026-flavio-paulista-publico.png",
+   "data": "2026-10-18T17:20:39-03:00"
+  },
+  {
+   "id": "64445e2386ec",
+   "titulo": "Críticas a Lula nas redes batem recorde após entrevista de Roberta Luchsinger",
+   "resumo": "A entrevista da empresária Roberta Luchsinger à CNN Brasil provocou o maior pico de menções negativas a Lula (PT) nas redes sociais em 2026. Segundo levantamento da Brandwatch, as críticas chegaram a 37.587 em uma hora, às 21h de sábado, vo…",
+   "link": "https://oantagonista.com.br/brasil/criticas-a-lula-nas-redes-batem-recorde-apos-entrevista-de-roberta-luchsinger/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-17-as-20.11.39.png",
+   "data": "2026-10-18T17:11:57-03:00"
+  },
+  {
+   "id": "5538f1a708d9",
+   "titulo": "Janones cancela ida a ato para ajudar Lula em debate",
+   "resumo": "Deputado disse que presidente o convocou para ficar no estúdio durante o programa da \"Band\"",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-cancela-ida-de-ato-para-ajudar-lula-em-debate/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/debates-sabatinas-2-turno-17-out-2026-01-scaled.png",
+   "data": "2026-10-18T17:05:05-03:00"
+  },
+  {
+   "id": "5bf614109161",
+   "titulo": "Homem é preso após atropelar idoso em ato pró-Lula em Minas Gerais",
+   "resumo": "Motorista foi preso por tentativa de homicídio após atropelar idoso. Condutor afirma que não percebeu que havia machucado manifestante.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/homem-e-preso-apos-atropelar-idoso-em-ato-pro-lula-em-minas-gerais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18165242/manifestacao-lula-minas-atropelamento-960x540.jpg",
+   "data": "2026-10-18T17:02:46-03:00"
+  },
+  {
+   "id": "a0d23ffb2427",
+   "titulo": "Moraes ignorou alerta da PF sobre sigilo de fonte no caso jornalista do MA",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , determinou que a Polícia Federal (PF) incluísse em um inquérito conversas que poderiam identificar as fontes de um jornalista maranhense. A decisão, conforme o jornal Folha…",
+   "link": "https://revistaoeste.com/politica/moraes-ignorou-alerta-da-pf-sobre-sigilo-de-fonte-no-caso-jornalista-do-ma/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/moraes.jpg",
+   "data": "2026-10-18T17:01:00-03:00"
+  },
+  {
+   "id": "9016ffe14bf8",
+   "titulo": "TSE manda vice de Flávio apagar vídeo que liga Lula ao crime",
+   "resumo": "Ministra Estela Aranha determinou remoção; é a 2ª vez que Alfredo Gaspar deve apagar publicação sem provas contra Lula",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-vice-de-flavio-apagar-video-que-liga-lula-ao-crime/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T16:57:00-03:00"
+  },
+  {
+   "id": "efba1c469507",
+   "titulo": "Atiradores de elite acompanharam ato de Flávio na av. Paulista",
+   "resumo": "Imagens mostram agentes no topo de prédio na capital paulista durante mobilização convocada para o 2º turno",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/atiradores-de-elite-acompanham-manifestacao-de-flavio-na-av-paulista/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/09/infografico-manifestacoes-bolsonaristas-paulista-7-set-2026.png",
+   "data": "2026-10-18T16:33:06-03:00"
+  },
+  {
+   "id": "8f3dcb5f97ec",
+   "titulo": "Em tentativa de virada, PT realiza manifestações e artistas pró-Lula convocam para atos “pela democracia”",
+   "resumo": "Eventos ocorrem em Brasília, Rio de Janeiro e outras capitais; TSE rejeitou pedido do Novo para barrar apresentações musicais",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/em-tentativa-de-virada-pt-realiza-manifestacoes-e-shows-de-artistas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18160014/manifestacao-pt-1-960x540.jpg",
+   "data": "2026-10-18T16:30:12-03:00"
+  },
+  {
+   "id": "bcc9d154995e",
+   "titulo": "Mais de 4.000 seções tiveram locais alterados para o 2º turno",
+   "resumo": "Segundo o TSE, cerca de 0,87% das seções foram transferidas, principalmente em São Paulo e Minas Gerais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mais-de-4-000-secoes-tiveram-locais-alterados-para-o-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T16:19:21-03:00"
+  },
+  {
+   "id": "2ec295b86eeb",
+   "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte de jornalista no Maranhão",
+   "resumo": "Moraes ignorou alerta da PF sobre risco de violação do sigilo da fonte de jornalista maranhense que fez matéria sobre Dino.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-ignorou-alerta-da-pf-sobre-sigilo-da-fonte-de-jornalista-no-maranhao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/20164324/video-moraes-jatinho-ligado-vorcaro-960x540.jpg",
+   "data": "2026-10-18T16:18:29-03:00"
+  },
+  {
+   "id": "1c1c0f531efd",
+   "titulo": "Motorista atropela idoso em ato pró-Lula em BH e é preso",
+   "resumo": "Homem de 45 anos avançou o sinal vermelho e atingiu pedestre em BH; Polícia Civil o prendeu por tentativa de homicídio",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/motorista-atropela-idoso-em-ato-pro-lula-em-bh-e-e-preso/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-18-10-2026-as-15.53.png",
+   "data": "2026-10-18T16:11:25-03:00"
+  },
+  {
+   "id": "86f2dd369ca8",
+   "titulo": "Jorge Messias convoca “Exército do Lula” para atos no Rio",
+   "resumo": "O advogado-geral da União, Jorge Messias, convocou neste domingo, 18, integrantes do “Exército do Lula” para manifestações em apoio à reeleição do presidente Lula (PT), no Rio de Janeiro. Em publicação no X, Messias simulou, em tom de brinc…",
+   "link": "https://oantagonista.com.br/brasil/jorge-messias-convoca-exercito-do-lula-para-atos-no-rio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/54746694329_0b60445c12_k.jpg",
+   "data": "2026-10-18T16:09:29-03:00"
+  },
+  {
+   "id": "ed834ed9cbb8",
+   "titulo": "Não falei nem 1% do que eu sei, diz Roberta Luchsinger",
+   "resumo": "Empresária afirmou ter provas e que só não falou mais em entrevista porque inquéritos correm sob segredo de Justiça",
+   "link": "https://www.poder360.com.br/poder-gente/nao-falei-nem-1-do-que-eu-sei-diz-roberta-luchsinger/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T15:49:24-03:00"
+  },
+  {
+   "id": "c11ef81ad6da",
+   "titulo": "Áudio revela que Vorcaro tinha apoio de Lula para ajudar o Master, diz revista",
+   "resumo": "A Polícia Federal ( PF ) recuperou no celular de Daniel Vorcaro conversas que expõem mais de um ano de articulação, com respaldo do Palácio do Planalto e do presidente Luiz Inácio Lula da Silva (PT), para tirar o Banco Master da rota da fal…",
+   "link": "https://revistaoeste.com/politica/audio-revela-que-vorcaro-tinha-apoio-de-lula-para-salvar-o-master-diz-revista/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/captura-de-tela-2026-09-13-as-09.30.32.png",
+   "data": "2026-10-18T15:34:00-03:00"
+  },
+  {
+   "id": "1028d41a693b",
+   "titulo": "A uma semana do segundo turno, Flávio reúne apoiadores na Paulista e provoca Lula para o debate",
+   "resumo": "Confira na Gazeta do Povo as informações sobre o ato de apoio a Flávio Bolsonaro (PL) na Avenida Paulista neste domingo (18)",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18144847/1810flavio.paulista-960x540.jpg",
+   "data": "2026-10-18T15:27:38-03:00"
+  },
+  {
+   "id": "f57765206018",
+   "titulo": "Em fotos: veja como foi o ato de apoio a Flávio Bolsonaro na Avenida Paulista",
+   "resumo": "",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/em-fotos-veja-como-foi-o-ato-de-apoio-a-flavio-bolsonaro-na-avenida-paulista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18151506/54851827e89c304b5704f731633871985a95328d-960x540.jpg",
+   "data": "2026-10-18T15:22:51-03:00"
+  },
+  {
+   "id": "484d289d17dd",
+   "titulo": "Advogado disse a Vorcaro que ele tinha o “apoio do presidente”",
+   "resumo": "Walfrido Warde compartilhou o link de uma reportagem do \"Globo\" sobre Mantega e o Master e disse que a emissora queria \"quebrar\" o apoio ao ex-banqueiro dentro do PT",
+   "link": "https://www.poder360.com.br/poder-gente/advogado-disse-a-vorcaro-que-ele-tinha-o-apoio-do-presidente/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/KbM3bnilfVE/hqdefault.jpg",
+   "data": "2026-10-18T15:20:26-03:00"
+  },
+  {
+   "id": "a1639844659e",
+   "titulo": "Flávio Bolsonaro diz que vai “poupar a voz” para debate",
+   "resumo": "\"Vou ter a oportunidade de expor os crimes que ele cometeu\", disse o candidato do PL sobre o confronto com Lula na TV",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-diz-que-vai-poupar-a-voz-para-debate/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/ato-paulista-flavio-bolsonaro-18out2026-10.jpg",
+   "data": "2026-10-18T15:16:41-03:00"
+  },
+  {
+   "id": "a5c6c7c307bd",
+   "titulo": "Ato de Flávio Bolsonaro na Paulista reúne 71,9 mil pessoas, estima USP",
+   "resumo": "O ato de campanha de Flávio Bolsonaro (PL) na Avenida Paulista reuniu cerca de 71,9 mil pessoas no horário de pico neste domingo, 18, segundo estimativa do Monitor do Debate Político da USP/Cebrap e da More in Common. A manifestação ocorreu…",
+   "link": "https://oantagonista.com.br/brasil/ato-de-flavio-bolsonaro-na-paulista-reune-719-mil-pessoas-estima-usp/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Ato-Paulista-Flavio.png",
+   "data": "2026-10-18T15:12:43-03:00"
+  },
+  {
+   "id": "9f9e6ff532b6",
+   "titulo": "Reta final do 2º turno: Lula aposta em medidas populares para virar, e Flávio quer reforçar que manterá programas sociais",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/y0YOlczTv-Z6GLsx4WCZzRoUfic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/RuNLPzTQm7mvGf6tUGNw/montagem-horizontal-1200px-24-.jpg",
+   "data": "2026-10-18T15:02:42-03:00"
+  },
   {
    "id": "bc02738227e8",
    "titulo": "A revolução de barriga cheia",
@@ -22,42 +229,6 @@
    "data": "2026-10-18T14:54:44-03:00"
   },
   {
-   "id": "8f3dcb5f97ec",
-   "titulo": "Em tentativa de virada, PT realiza manifestações e shows de artistas",
-   "resumo": "Eventos ocorrem em Brasília, Rio de Janeiro e outras capitais; TSE rejeitou pedido do Novo para barrar apresentações musicais",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/em-tentativa-de-virada-pt-realiza-manifestacoes-e-shows-de-artistas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/18144927/Manifestacao-do-PT-Leandro-Grass-1-960x540.jpg",
-   "data": "2026-10-18T14:54:21-03:00"
-  },
-  {
-   "id": "1028d41a693b",
-   "titulo": "A uma semana do segundo turno, Flávio reúne apoiadores na Paulista e provoca Lula para o debate",
-   "resumo": "Confira na Gazeta do Povo as informações sobre o ato de apoio a Flávio Bolsonaro (PL) na Avenida Paulista neste domingo (18)",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/bloquinho-do-22-ato-apoiadores-flavio-paulista/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/18144847/1810flavio.paulista-960x540.jpg",
-   "data": "2026-10-18T14:49:32-03:00"
-  },
-  {
-   "id": "e36b9f84d1bc",
-   "titulo": "Pressionado a se posicionar, João Gomes diz ser “a favor da democracia”",
-   "resumo": "Cantor fala sobre saúde e educação durante apresentação no Paraná e plateia reage com gestos a favor de Lula",
-   "link": "https://www.poder360.com.br/poder-gente/pressionado-a-se-posicionar-joao-gomes-diz-ser-a-favor-da-democracia/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/UBfnWjmZPsM/hqdefault.jpg",
-   "data": "2026-10-18T14:23:21-03:00"
-  },
-  {
-   "id": "7cd5f09a6fb1",
-   "titulo": "Messias convoca integrantes do Exército do Lula para atos no RJ",
-   "resumo": "Advogado-geral da União busca nova chance no STF em eventual 2º mandato do petista; Senado rejeitou indicação em abril",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/messias-convoca-integrantes-do-exercito-do-lula-para-atos-no-rj/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Jorge-Messias-exercito-do-Lula-18.out_.2026.png",
-   "data": "2026-10-18T14:18:53-03:00"
-  },
-  {
    "id": "a91f55e3d5a9",
    "titulo": "Eleitor sem biometria pode votar no segundo turno das eleições",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
@@ -65,24 +236,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-18T14:02:00-03:00"
-  },
-  {
-   "id": "793b629a13c0",
-   "titulo": "Fátima Bernardes cita democracia e volta a declarar voto em Lula",
-   "resumo": "Em vídeo publicado nas redes, a apresentadora cita ainda os direitos sociais e a soberania nacional ao justificar apoio",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/fatima-bernardes-cita-democracia-e-volta-a-declarar-voto-em-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/fpq0y_xl6cc/hqdefault.jpg",
-   "data": "2026-10-18T13:58:21-03:00"
-  },
-  {
-   "id": "fdae4d978802",
-   "titulo": "Ato de Flávio ocupa 6 quarteirões da Paulista, 1 a menos que Lula",
-   "resumo": "Manifestação foi convocada por candidato do PL à Presidência, Tarcísio de Freitas e Ricardo Nunes",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-ocupa-6-quarteiroes-da-paulista-1-a-menos-que-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/concentracao-flavio-paulista-1.jpg",
-   "data": "2026-10-18T13:42:31-03:00"
   },
   {
    "id": "38bd01ccc6c3",
@@ -101,24 +254,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Van-Hattem.png",
    "data": "2026-10-18T13:38:30-03:00"
-  },
-  {
-   "id": "108644fc3c14",
-   "titulo": "Fernanda Bolsonaro grava vídeo no mercado: “Preços estão um terror”",
-   "resumo": "Mulher de Flávio Bolsonaro diz que os preços estão nas alturas e destaca que a picanha custa R$ 106,55 o kg",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/fernanda-bolsonaro-grava-video-no-mercado-precos-estao-um-terror/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/i4sK4Qmr68E/hqdefault.jpg",
-   "data": "2026-10-18T13:35:21-03:00"
-  },
-  {
-   "id": "31d3d5cc6dfe",
-   "titulo": "Veja imagens do ato da esquerda em Brasília neste domingo",
-   "resumo": "Manifestantes se reuniram em frente ao Museu da República, na Esplanada dos Ministérios, em apoio ao presidente Lula",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-da-esquerda-em-brasilia-neste-domingo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/ato-esplanada-esquerda-18out2026-5.jpg",
-   "data": "2026-10-18T13:11:12-03:00"
   },
   {
    "id": "1fba81ee450a",
@@ -166,15 +301,6 @@
    "data": "2026-10-18T12:25:05-03:00"
   },
   {
-   "id": "12b3a084601f",
-   "titulo": "Filho de Temer aparece em vídeo com adesivo de apoio a Lula",
-   "resumo": "Ação de Michelzinho contrasta com a decisão anunciada pelo pai, que declarou voto em Flávio Bolsonaro no 2º turno",
-   "link": "https://www.poder360.com.br/poder-gente/filho-de-temer-aparece-em-video-com-um-adesivo-de-apoio-a-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/avdae6ZVWEc/hqdefault.jpg",
-   "data": "2026-10-18T12:23:29-03:00"
-  },
-  {
    "id": "f4ef2507997a",
    "titulo": "Defesa de Lulinha nega irregularidades após declarações de lobista Roberta Luchsinger",
    "resumo": "Advogado de Lulinha afirma que acusações de Roberta contrariam depoimentos prestados às autoridades; empresária quer fazer delação premiada.",
@@ -184,15 +310,6 @@
    "data": "2026-10-18T12:16:14-03:00"
   },
   {
-   "id": "991f47e6eb2b",
-   "titulo": "Veja imagens do ato de Flávio Bolsonaro na av. Paulista",
-   "resumo": "Candidato do PL à Presidência reúne apoiadores na capital paulista a uma semana do 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-imagens-do-ato-de-flavio-bolsonaro-na-av-paulista/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/3HbI8WZTOKE/hqdefault.jpg",
-   "data": "2026-10-18T12:13:01-03:00"
-  },
-  {
    "id": "82e0b735d8ce",
    "titulo": "PT acusa Globo de tratamento desigual entre Lula e Flávio Bolsonaro",
    "resumo": "O presidente do PT, Edinho Silva, criticou, no sábado 17, o tratamento dado pela TV Globo ao presidente Luiz Inácio Lula da Silva (PT) e ao senador Flávio Bolsonaro (PL-RJ) , adversários na disputa presidencial. Segundo o dirigente, a emiss…",
@@ -200,24 +317,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/PT-Edinho-Silva.jpeg",
    "data": "2026-10-18T12:09:00-03:00"
-  },
-  {
-   "id": "db50cac2045e",
-   "titulo": "Britânicos devem se preparar para sacrifícios por guerra, diz general",
-   "resumo": "Chefe do Exército britânico afirma que líderes políticos vão ter “uma conversa franca com os cidadãos sobre o que está acontecendo”",
-   "link": "https://www.poder360.com.br/poder-internacional/britanicos-devem-se-preparar-para-sacrificios-por-guerra-diz-general/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T12:05:12-03:00"
-  },
-  {
-   "id": "8eb6d62b8ce3",
-   "titulo": "Robô chinês para aplicações industriais é apresentado no Brasil",
-   "resumo": "A empresa brasileira AutorIA, que trouxe o robô ao país, diz que a demonstração é oportunidade para tecnologia ser conhecida",
-   "link": "https://www.poder360.com.br/poder-tech/robo-chines-para-aplicacoes-industriais-e-apresentado-no-brasil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T12:02:06-03:00"
   },
   {
    "id": "3e12b2acbc0a",
@@ -310,15 +409,6 @@
    "data": "2026-10-18T10:38:53-03:00"
   },
   {
-   "id": "df69c94854d6",
-   "titulo": "Vorcaro tinha “apoio do presidente” e do PT, diz advogado em áudio",
-   "resumo": "Mensagens encontradas pela Polícia Federal no celular de Daniel Vorcaro indicam que o banqueiro buscou apoio do presidente Lula e de integrantes do PT enquanto tentava viabilizar a venda do Banco Master ao BRB. As conversas, divulgadas nest…",
-   "link": "https://oantagonista.com.br/brasil/vorcaro-tinha-apoio-do-presidente-e-do-pt-diz-advogado-em-audio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Walfrido.png",
-   "data": "2026-10-18T10:18:53-03:00"
-  },
-  {
    "id": "ecc2da6fd152",
    "titulo": "Na Argentina é fracasso, no Brasil é estatística",
    "resumo": "André Burger* A redução de 32 mil empresas empregadoras na Argentina desde a posse de Javier Milei, em dezembro de 2023, tem sido utilizada por eleitores de Lula como demonstração do fracasso da política econômica argentina. O passo seguint…",
@@ -326,15 +416,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/14_ed334-1.jpg",
    "data": "2026-10-18T10:00:00-03:00"
-  },
-  {
-   "id": "3866e8430ed2",
-   "titulo": "“Bomba na família Lula”, diz Flávio após entrevista de Roberta Luchsinger",
-   "resumo": "O senador Flávio Bolsonaro (PL), candidato à Presidência, se manifestou nas redes sociais sobre as acusações feitas pela lobista Roberta Luchsinger contra Lula (PT) e seu filho, Fábio Luís Lula da Silva, o Lulinha. Após a entrevista à CNN B…",
-   "link": "https://oantagonista.com.br/brasil/bomba-na-familia-lula-diz-flavio-apos-entrevista-de-roberta-luchsinger/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/1dc71871-d082-4e6d-8f5a-768a4da207e9-scaled.jpg",
-   "data": "2026-10-18T09:26:22-03:00"
   },
   {
    "id": "1efa54e371a8",
@@ -353,42 +434,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-3.jpg",
    "data": "2026-10-18T09:00:52-03:00"
-  },
-  {
-   "id": "2427c3ab1ec1",
-   "titulo": "Dennys Xavier na Crusoé: Votar nulo faz sentido",
-   "resumo": "A vida moral pode colocar o indivíduo diante de circunstâncias nas quais todas as alternativas disponíveis teimam em exigir algum comprometimento com aquilo que considera eticamente condenável. O exame cuidadoso das possibilidades, em vez d…",
-   "link": "https://oantagonista.com.br/brasil/dennys-xavier-na-crusoe-votar-nulo-faz-sentido/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/eleitor-gemini.jpg",
-   "data": "2026-10-18T09:00:00-03:00"
-  },
-  {
-   "id": "016cd5f4a1b3",
-   "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte de jornalista",
-   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), ignorou um alerta da Polícia Federal de que a divulgação de conversas de um jornalista poderia violar o sigilo constitucional da fonte, publica a Folha. Mesmo diante …",
-   "link": "https://oantagonista.com.br/brasil/moraes-ignorou-alerta-da-pf-sobre-sigilo-da-fonte-de-jornalista/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530502380_c48d9a23b9_6k-scaled.jpg",
-   "data": "2026-10-18T08:45:21-03:00"
-  },
-  {
-   "id": "da713519b1f6",
-   "titulo": "Risco Lula",
-   "resumo": "A poucos dias do segundo turno, o governo Lula transformou o Orçamento e a legislação em instrumentos de campanha. Não se trata de ajustes debatidos com antecedência, mas de benefícios, renúncias e mudanças aceleradas depois do susto diante…",
-   "link": "https://revistaoeste.com/politica/risco-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-1.jpg",
-   "data": "2026-10-18T08:33:00-03:00"
-  },
-  {
-   "id": "85d460ca8629",
-   "titulo": "Ministério Público apreende dinheiro com carcereiro ligado a Milton Leite",
-   "resumo": "O Ministério Público de São Paulo (MPSP) apreendeu cerca de R$ 155 mil e US$ 10 mil com um carcereiro suspeito de facilitar regalias ao ex-vereador Milton Leite (União Brasil) , preso na Cadeia Pública de Mogi das Cruzes, na Grande São Paul…",
-   "link": "https://revistaoeste.com/politica/ministerio-publico-apreende-dinheiro-com-carcereiro-ligado-a-milton-leite/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/milton-leite_saidinha.jpeg",
-   "data": "2026-10-18T08:00:00-03:00"
   },
   {
    "id": "3b4b5cc050a7",
@@ -544,15 +589,6 @@
    "data": "2026-10-17T17:13:49-03:00"
   },
   {
-   "id": "0ce73bbd360d",
-   "titulo": "Ministério da Justiça pede investigação sobre possíveis violações da Meta",
-   "resumo": "Pasta enviou relatos de bloqueios e restrições de conteúdo aos usuários, referentes às campanhas eleitorais. A denúncia foi à ANPD e ao MPF.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/ministerio-da-justica-pede-investigacao-sobre-possiveis-violacoes-da-meta/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16182702/meta-facebook-instagram-whatsapp-960x540.jpg",
-   "data": "2026-10-17T16:44:23-03:00"
-  },
-  {
    "id": "54f76293dde8",
    "titulo": "Presidente do PT quer confronto entre Lula e Flávio",
    "resumo": "Em guinada no discurso, Edinho Silva também disse apoiar penas mais duras para crime hediondos, um aceno à redução da maioridade penal.",
@@ -632,24 +668,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-17T14:20:00-03:00"
-  },
-  {
-   "id": "f14bf0f765f6",
-   "titulo": "Líder do MST na Bahia espalha desinformação sobre exigência do Incra",
-   "resumo": "Líder do MST na Bahia afirma falsamente que Incra exige comprovante de votação. Entenda os riscos de coação eleitoral e a negativa oficial do órgão.",
-   "link": "https://www.gazetadopovo.com.br/republica/lider-do-mst-na-bahia-espalha-desinformacao-sobre-exigencia-do-incra/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/17141811/mst-foto-joedson-alves-efe-960x540.jpg",
-   "data": "2026-10-17T14:18:09-03:00"
-  },
-  {
-   "id": "db7a98a18c48",
-   "titulo": "Datafolha: eleitores de Flávio dizem buscar mudança; os de Lula, proteção social",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-eleitores-de-flavio-dizem-buscar-mudanca-os-de-lula-protecao-social.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg",
-   "data": "2026-10-17T13:38:18-03:00"
   },
   {
    "id": "af823c6d4406",
