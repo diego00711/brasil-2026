@@ -1,16 +1,241 @@
 {
- "atualizado": "2026-10-18T17:35:44.382863-03:00",
+ "atualizado": "2026-10-18T20:03:17.042283-03:00",
  "total": 87,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "3715d754177a",
-   "titulo": "Lula pede ao TSE alerta de seções alteradas e transporte a eleitores",
-   "resumo": "Coligação pede gratuidade e avisos a eleitores afetados pela mudança de endereço das seções eleitorais",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-ao-tse-alerta-de-secoes-alteradas-e-transporte-a-eleitores/",
+   "id": "48d898677f73",
+   "titulo": "Testemunha que implicou Lulinha no escândalo do INSS relata nova ameaça",
+   "resumo": "Edson Claro, ex-diretor comercial de uma empresa de Antônio Carlos Camilo Antunes (foto), conhecido como Careca do INSS, procurou a polícia na semana passada após receber uma mensagem que alertava sobre a saída da prisão de Romeu Carvalho A…",
+   "link": "https://oantagonista.com.br/brasil/testemunha-que-implicou-lulinha-no-escandalo-do-inss-relata-nova-ameaca/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/Gemini_Generated_Image_5472l5472l5472l5-1.webp",
+   "data": "2026-10-18T19:54:31-03:00"
+  },
+  {
+   "id": "43943ed97a3d",
+   "titulo": "Antes de debate com Flávio, Lula posta foto se preparando",
+   "resumo": "“Hoje é dia de discutir propostas e, principalmente, falar do futuro do nosso Brasil. Vamos juntos”, escreveu no Instagram",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/antes-de-debate-com-flavio-lula-posta-foto-se-preparando/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/lula-instagram-debate.png",
+   "data": "2026-10-18T19:51:41-03:00"
+  },
+  {
+   "id": "d90b55cc0d26",
+   "titulo": "“A expectativa é que ajude um pouco”, diz Lula sobre debate na Band",
+   "resumo": "O presidente Lula (PT) afirmou neste domingo, 18, que espera que o debate da Band com Flávio Bolsonaro (PL) contribua para esclarecer as propostas dos candidatos no segundo turno. Em conversa com jornalistas antes do confronto, Lula disse e…",
+   "link": "https://oantagonista.com.br/brasil/a-expectativa-e-que-ajude-um-pouco-diz-lula-sobre-debate-na-band/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/ae067fa3-022f-42e6-8f78-7f018b2b041a-1.jpg",
+   "data": "2026-10-18T19:51:30-03:00"
+  },
+  {
+   "id": "102bfd68ab1b",
+   "titulo": "Flávio chega a debate da “Band” acompanhado de Tarcísio e Nikolas",
+   "resumo": "Candidato terá embate direto com Lula pela 1ª vez desde o início da campanha eleitoral ao Planalto",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-chega-a-debate-da-band-acompanhado-de-tarcisio-e-nikolas/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/Gqc1rQtzWUk/hqdefault.jpg",
+   "data": "2026-10-18T19:46:01-03:00"
+  },
+  {
+   "id": "016335c8775e",
+   "titulo": "Campanha de Flávio Bolsonaro realiza manifestação na Paulista",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-18T19:44:00-03:00"
+  },
+  {
+   "id": "431ab528afb1",
+   "titulo": "Flávio tem 52% dos votos válidos, contra 48% de Lula, aponta Gerp",
+   "resumo": "A vantagem de Flávio Bolsonaro (PL) sobre Lula (PT) caiu de dez para quatro pontos percentuais no segundo turno da eleição presidencial, segundo pesquisa do instituto Gerp. O senador tem 52% dos votos válidos, ante 48% do presidente. No lev…",
+   "link": "https://oantagonista.com.br/brasil/flavio-tem-52-dos-votos-validos-contra-48-de-lula-aponta-gerp/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/Flavio-Bolsonaro-e-Lula-4.jpg",
+   "data": "2026-10-18T19:38:00-03:00"
+  },
+  {
+   "id": "b6c9df185dfd",
+   "titulo": "Flávio diz que vai “esfregar verdades”; Lula quer discutir o Brasil",
+   "resumo": "Candidatos adotaram discursos distintos ao chegar à \"Band\" para o 1º debate do 2º turno; encontro começa às 20h",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-vai-esfregar-verdades-lula-quer-discutir-o-brasil/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
+   "data": "2026-10-18T19:37:03-03:00"
+  },
+  {
+   "id": "52e5bc1967b8",
+   "titulo": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/6hH9Bt0ABx8PZs3GSH7xGmJcyek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/A/YXvZ9RT9q7SdADanDxHA/whatsapp-image-2026-09-12-at-14.50.45.jpeg",
+   "data": "2026-10-18T19:36:36-03:00"
+  },
+  {
+   "id": "24002ea64017",
+   "titulo": "Antes de debate, Lula chama Flávio de “irmãozão dos criminosos” no Zap",
+   "resumo": "Mensagem foi enviada algumas horas antes do debate da “Band”, 1ª vez que os candidatos se encontrarão durante a campanha",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/antes-de-debate-lula-chama-flavio-de-irmaozao-dos-criminosos-no-zap/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/lula-flavio.png",
+   "data": "2026-10-18T19:33:05-03:00"
+  },
+  {
+   "id": "0336abc8f67f",
+   "titulo": "Janja culpa Bolsonaro por morte da mãe",
+   "resumo": "A primeira-dama, Janja, atribuiu à “negligência” do ex-presidente Jair Bolsonaro (PL) a morte de sua mãe, em outubro de 2020, durante a pandemia de Covid-19. Em vídeo publicado nas redes sociais neste domingo, 18, ela afirmou: “Negligência …",
+   "link": "https://oantagonista.com.br/brasil/janja-culpa-bolsonaro-por-morte-da-mae/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Janja.png",
+   "data": "2026-10-18T19:23:13-03:00"
+  },
+  {
+   "id": "b7b228997a23",
+   "titulo": "Liderança feminina enfrenta barreira estrutural, diz diretora do Senado",
+   "resumo": "Mesmo em ambientes públicos, como o Senado Federal, há impedimentos; livro foi escrito por Ilana Trombka",
+   "link": "https://www.poder360.com.br/poder-economia/lideranca-feminina-enfrenta-barreira-estrutural-diz-diretora-do-senado/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-18T17:31:12-03:00"
+   "data": "2026-10-18T19:09:49-03:00"
+  },
+  {
+   "id": "d0a5755b6b5a",
+   "titulo": "Flávio escala Moro e Deltan para 1ª fila da plateia do debate da Band",
+   "resumo": "Estratégia de Flávio é usar Moro e Deltan Dallagnol, ambos ex-integrantes da Lava Jato, para tentar desestabilizar Lula no debate da Band",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-escala-moro-e-deltan-para-1a-fila-da-plateia-do-debate-da-band",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/moro-dallagnol-debate-band.jpeg",
+   "data": "2026-10-18T19:06:14-03:00"
+  },
+  {
+   "id": "4407a8c60dc8",
+   "titulo": "‘Não disse nem 1% do que eu sei’, afirma Roberta Luchsinger",
+   "resumo": "A empresária Roberta Luchsinger afirmou neste domingo, 18, que mantém as declarações feitas à CNN Brasil sobre o presidente Luiz Inácio Lula da Silva e que ainda não revelou todas as informações que possui. Em publicação no Instagram, disse…",
+   "link": "https://revistaoeste.com/politica/nao-disse-nem-1-do-que-eu-sei-afirma-roberta-luchsinger/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/saveclip.app-503977467-18509369869040584-400028737213943833-n.jpg",
+   "data": "2026-10-18T19:00:00-03:00"
+  },
+  {
+   "id": "647e852a28f1",
+   "titulo": "Relembre como foi o debate entre Lula e Bolsonaro na “Band” em 2022",
+   "resumo": "Há 4 anos, candidatos trocaram acusações sobre pandemia, corrupção e Petrobras no 1º confronto do 2º turno",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/relembre-como-foi-o-debate-entre-lula-e-bolsonaro-na-band-em-2022/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/2022/10/bolsonaro-ombro-lula.gif",
+   "data": "2026-10-18T18:58:50-03:00"
+  },
+  {
+   "id": "fb16f0ed7ebb",
+   "titulo": "USP vê 71,9 mil pessoas em ato pró-Flávio na Paulista",
+   "resumo": "A manifestação convocada pelo senador Flávio Bolsonaro (PL) , candidato à Presidência da República, reuniu 71,9 mil pessoas na Avenida Paulista, região central de São Paulo, neste domingo, 18. https://twitter.com/FlavioBolsonaro/status/2111…",
+   "link": "https://revistaoeste.com/politica/usp-ve-719-mil-pessoas-em-ato-pro-flavio-na-paulista/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/usp_ato-de-flavio.jpeg",
+   "data": "2026-10-18T18:30:00-03:00"
+  },
+  {
+   "id": "fde717c57762",
+   "titulo": "Flávio é alvo de novo inquérito por suspeita de lavagem de dinheiro",
+   "resumo": "A Polícia Federal enviou ao Supremo Tribunal Federal (STF) uma investigação sobre suspeitas de lavagem de dinheiro envolvendo o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) e o advogado Willer Tomaz, diz o Estadão. A apuração,…",
+   "link": "https://oantagonista.com.br/brasil/flavio-e-alvo-de-novo-inquerito-por-suspeita-de-lavagem-de-dinheiro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-e-Willer-Tomaz.png",
+   "data": "2026-10-18T18:24:11-03:00"
+  },
+  {
+   "id": "59d46927eb12",
+   "titulo": "Moraes será relator de novo inquérito contra Flávio Bolsonaro no STF",
+   "resumo": "Inquérito recém-instaurado e presidido por Moraes contra Flávio apura suspeitas de lavagem de dinheiro envolvendo advogado.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-sera-relator-de-novo-inquerito-contra-flavio-bolsonaro-no-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/29070651/ASPA-GRANDE-2026-09-29T070630.170-960x540.jpg",
+   "data": "2026-10-18T18:22:35-03:00"
+  },
+  {
+   "id": "e82ce192ac7d",
+   "titulo": "Como vai ser o debate na Band",
+   "resumo": "O presidente Luiz Inácio Lula da Silva e o senador Flávio Bolsonaro (PL-RJ) participam neste domingo, 18, do primeiro debate direto entre os dois candidatos no segundo turno das eleições presidenciais de 2026. O encontro começa às 20h, nos …",
+   "link": "https://revistaoeste.com/politica/como-vai-ser-o-debate-na-band/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/01/parana-pesquisas-lula-x-flavio.jpg",
+   "data": "2026-10-18T18:10:50-03:00"
+  },
+  {
+   "id": "e19bf8cf94f2",
+   "titulo": "Debate de Lula e Flávio na “Band” será às 20h; saiba como assistir",
+   "resumo": "Presidente e senador se enfrentam pela 1ª vez neste domingo (18.out), a uma semana do 2º turno da eleição presidencial",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/debate-de-lula-e-flavio-na-band-sera-as-20h-saiba-como-assistir/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T18:06:45-03:00"
+  },
+  {
+   "id": "3909212a94a8",
+   "titulo": "As carrancas da Globo",
+   "resumo": "Num passado não muito distante, que durou até os princípios do século 20, os barqueiros do São Francisco costumavam fixar carrancas na proa para espantar os maus espíritos das águas. Ocorre que a carranca tem uma particularidade anatômica: …",
+   "link": "https://revistaoeste.com/politica/as-carrancas-da-globo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/lula-tvglobo.jpg",
+   "data": "2026-10-18T18:00:00-03:00"
+  },
+  {
+   "id": "f57765206018",
+   "titulo": "Em fotos: veja como foi o ato de apoio a Flávio Bolsonaro na Avenida Paulista",
+   "resumo": "",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/em-fotos-veja-como-foi-o-ato-de-apoio-a-flavio-bolsonaro-na-avenida-paulista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18151506/54851827e89c304b5704f731633871985a95328d-960x540.jpg",
+   "data": "2026-10-18T17:59:44-03:00"
+  },
+  {
+   "id": "9bc89e0993e1",
+   "titulo": "Trump declara apoio a Netanyahu nas eleições de Israel",
+   "resumo": "Presidente dos EUA chama premiê de \"guerreiro\" e fala de parceria; candidato opositor critica interferência norte-americana",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-declara-apoio-a-netanyahu-nas-eleicoes-de-israel/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-18-10-2026-as-17.31.png",
+   "data": "2026-10-18T17:58:10-03:00"
+  },
+  {
+   "id": "2273f795af5f",
+   "titulo": "Ministra do TSE determina que vice de Flávio apague vídeo que associa Lula ao crime organizado",
+   "resumo": "Estela Aranha atendeu pedido da campanha petista e fixou prazo de 24 horas para a remoção das postagens de Gaspar.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/ministra-do-tse-determina-que-vice-de-flavio-apague-video-que-associa-lula-ao-crime-organizado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/06201457/alfredo-gaspar-vice-de-flavio-960x540.jpg",
+   "data": "2026-10-18T17:52:28-03:00"
+  },
+  {
+   "id": "07e8db322cad",
+   "titulo": "Mega-Sena acumula, e próximo sorteio pode pagar R$ 185 milhões",
+   "resumo": "Sem vencedores na sena, o maior prêmio da quina saiu para um bolão de Goiânia, que recebeu R$ 294.033,60",
+   "link": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-e-proximo-sorteio-pode-pagar-r-185-milhoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-18T17:49:00-03:00"
+  },
+  {
+   "id": "c00215e2adf5",
+   "titulo": "“Band” instala grades para separar apoiadores de Lula e Flávio",
+   "resumo": "Grupos se reúnem em frente à sede da emissora para acompanhar o debate presidencial deste domingo (18.out)",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/band-instala-grades-para-separar-apoiadores-de-lula-e-flavio/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/manifestantes-LulaFlavio-debate-band-18out2026-6-scaled.jpg",
+   "data": "2026-10-18T17:44:21-03:00"
+  },
+  {
+   "id": "28c2185a3a1f",
+   "titulo": "Com Lula ou Flávio, Alcolumbre busca apoio para seguir no comando do Senado",
+   "resumo": "O presidente do Senado , Davi Alcolumbre (União-AP), intensificou as articulações para se manter no comando da Casa depois de 2027, quando ocorrerá uma nova eleição de seu sucessor. Por isso, Alcolumbre busca apoio independentemente da vitó…",
+   "link": "https://revistaoeste.com/politica/com-lula-ou-flavio-alcolumbre-articula-apoio-para-seguir-no-comando-do-senado/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/Alcolumbre-STF.jpeg",
+   "data": "2026-10-18T17:38:00-03:00"
   },
   {
    "id": "f905025901f9",
@@ -31,15 +256,6 @@
    "data": "2026-10-18T17:24:28-03:00"
   },
   {
-   "id": "09253c427e72",
-   "titulo": "Ato de Flávio reúne 76.200 na Paulista a uma semana do 2º turno",
-   "resumo": "Candidato do PL à Presidência convocou manifestação para este domingo (18.out); mais tarde, às 20h, participa de debate com Lula",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-flavio-reune-76-200-na-paulista-a-uma-semana-do-2o-turno/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/ato-18-out-2026-flavio-paulista-publico.png",
-   "data": "2026-10-18T17:20:39-03:00"
-  },
-  {
    "id": "64445e2386ec",
    "titulo": "Críticas a Lula nas redes batem recorde após entrevista de Roberta Luchsinger",
    "resumo": "A entrevista da empresária Roberta Luchsinger à CNN Brasil provocou o maior pico de menções negativas a Lula (PT) nas redes sociais em 2026. Segundo levantamento da Brandwatch, as críticas chegaram a 37.587 em uma hora, às 21h de sábado, vo…",
@@ -47,15 +263,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-17-as-20.11.39.png",
    "data": "2026-10-18T17:11:57-03:00"
-  },
-  {
-   "id": "5538f1a708d9",
-   "titulo": "Janones cancela ida a ato para ajudar Lula em debate",
-   "resumo": "Deputado disse que presidente o convocou para ficar no estúdio durante o programa da \"Band\"",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-cancela-ida-de-ato-para-ajudar-lula-em-debate/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/debates-sabatinas-2-turno-17-out-2026-01-scaled.png",
-   "data": "2026-10-18T17:05:05-03:00"
   },
   {
    "id": "5bf614109161",
@@ -68,30 +275,12 @@
   },
   {
    "id": "a0d23ffb2427",
-   "titulo": "Moraes ignorou alerta da PF sobre sigilo de fonte no caso jornalista do MA",
+   "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte no caso de jornalista do MA",
    "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , determinou que a Polícia Federal (PF) incluísse em um inquérito conversas que poderiam identificar as fontes de um jornalista maranhense. A decisão, conforme o jornal Folha…",
    "link": "https://revistaoeste.com/politica/moraes-ignorou-alerta-da-pf-sobre-sigilo-de-fonte-no-caso-jornalista-do-ma/",
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/moraes.jpg",
    "data": "2026-10-18T17:01:00-03:00"
-  },
-  {
-   "id": "9016ffe14bf8",
-   "titulo": "TSE manda vice de Flávio apagar vídeo que liga Lula ao crime",
-   "resumo": "Ministra Estela Aranha determinou remoção; é a 2ª vez que Alfredo Gaspar deve apagar publicação sem provas contra Lula",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-vice-de-flavio-apagar-video-que-liga-lula-ao-crime/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T16:57:00-03:00"
-  },
-  {
-   "id": "efba1c469507",
-   "titulo": "Atiradores de elite acompanharam ato de Flávio na av. Paulista",
-   "resumo": "Imagens mostram agentes no topo de prédio na capital paulista durante mobilização convocada para o 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/atiradores-de-elite-acompanham-manifestacao-de-flavio-na-av-paulista/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/09/infografico-manifestacoes-bolsonaristas-paulista-7-set-2026.png",
-   "data": "2026-10-18T16:33:06-03:00"
   },
   {
    "id": "8f3dcb5f97ec",
@@ -103,15 +292,6 @@
    "data": "2026-10-18T16:30:12-03:00"
   },
   {
-   "id": "bcc9d154995e",
-   "titulo": "Mais de 4.000 seções tiveram locais alterados para o 2º turno",
-   "resumo": "Segundo o TSE, cerca de 0,87% das seções foram transferidas, principalmente em São Paulo e Minas Gerais",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mais-de-4-000-secoes-tiveram-locais-alterados-para-o-2o-turno/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T16:19:21-03:00"
-  },
-  {
    "id": "2ec295b86eeb",
    "titulo": "Moraes ignorou alerta da PF sobre sigilo da fonte de jornalista no Maranhão",
    "resumo": "Moraes ignorou alerta da PF sobre risco de violação do sigilo da fonte de jornalista maranhense que fez matéria sobre Dino.",
@@ -121,15 +301,6 @@
    "data": "2026-10-18T16:18:29-03:00"
   },
   {
-   "id": "1c1c0f531efd",
-   "titulo": "Motorista atropela idoso em ato pró-Lula em BH e é preso",
-   "resumo": "Homem de 45 anos avançou o sinal vermelho e atingiu pedestre em BH; Polícia Civil o prendeu por tentativa de homicídio",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/motorista-atropela-idoso-em-ato-pro-lula-em-bh-e-e-preso/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-18-10-2026-as-15.53.png",
-   "data": "2026-10-18T16:11:25-03:00"
-  },
-  {
    "id": "86f2dd369ca8",
    "titulo": "Jorge Messias convoca “Exército do Lula” para atos no Rio",
    "resumo": "O advogado-geral da União, Jorge Messias, convocou neste domingo, 18, integrantes do “Exército do Lula” para manifestações em apoio à reeleição do presidente Lula (PT), no Rio de Janeiro. Em publicação no X, Messias simulou, em tom de brinc…",
@@ -137,15 +308,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/05/54746694329_0b60445c12_k.jpg",
    "data": "2026-10-18T16:09:29-03:00"
-  },
-  {
-   "id": "ed834ed9cbb8",
-   "titulo": "Não falei nem 1% do que eu sei, diz Roberta Luchsinger",
-   "resumo": "Empresária afirmou ter provas e que só não falou mais em entrevista porque inquéritos correm sob segredo de Justiça",
-   "link": "https://www.poder360.com.br/poder-gente/nao-falei-nem-1-do-que-eu-sei-diz-roberta-luchsinger/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T15:49:24-03:00"
   },
   {
    "id": "c11ef81ad6da",
@@ -164,33 +326,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/18144847/1810flavio.paulista-960x540.jpg",
    "data": "2026-10-18T15:27:38-03:00"
-  },
-  {
-   "id": "f57765206018",
-   "titulo": "Em fotos: veja como foi o ato de apoio a Flávio Bolsonaro na Avenida Paulista",
-   "resumo": "",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/em-fotos-veja-como-foi-o-ato-de-apoio-a-flavio-bolsonaro-na-avenida-paulista/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/18151506/54851827e89c304b5704f731633871985a95328d-960x540.jpg",
-   "data": "2026-10-18T15:22:51-03:00"
-  },
-  {
-   "id": "484d289d17dd",
-   "titulo": "Advogado disse a Vorcaro que ele tinha o “apoio do presidente”",
-   "resumo": "Walfrido Warde compartilhou o link de uma reportagem do \"Globo\" sobre Mantega e o Master e disse que a emissora queria \"quebrar\" o apoio ao ex-banqueiro dentro do PT",
-   "link": "https://www.poder360.com.br/poder-gente/advogado-disse-a-vorcaro-que-ele-tinha-o-apoio-do-presidente/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/KbM3bnilfVE/hqdefault.jpg",
-   "data": "2026-10-18T15:20:26-03:00"
-  },
-  {
-   "id": "a1639844659e",
-   "titulo": "Flávio Bolsonaro diz que vai “poupar a voz” para debate",
-   "resumo": "\"Vou ter a oportunidade de expor os crimes que ele cometeu\", disse o candidato do PL sobre o confronto com Lula na TV",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-diz-que-vai-poupar-a-voz-para-debate/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/ato-paulista-flavio-bolsonaro-18out2026-10.jpg",
-   "data": "2026-10-18T15:16:41-03:00"
   },
   {
    "id": "a5c6c7c307bd",
@@ -274,15 +409,6 @@
    "data": "2026-10-18T12:45:00-03:00"
   },
   {
-   "id": "bb3f5693f026",
-   "titulo": "Flávio Bolsonaro faz ato na Paulista com Tarcísio e Nikolas",
-   "resumo": "O candidato à Presidência Flávio Bolsonaro (PL) participa na tarde deste domingo, 18, de um ato de campanha na Avenida Paulista, em São Paulo, a uma semana do segundo turno contra o presidente Lula (PT). Durante a manifestação, ele levantou…",
-   "link": "https://oantagonista.com.br/brasil/flavio-bolsonaro-faz-ato-na-paulista-com-tarcisio-e-nikolas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/ato-Flavio-Paulista.png",
-   "data": "2026-10-18T12:37:03-03:00"
-  },
-  {
    "id": "d9f7846cc651",
    "titulo": "Consultoria de risco político vê Flávio com 75% de chance de vencer Lula",
    "resumo": "A consultoria de risco político Eurasia Group estima em 75% a probabilidade de vitória do senador Flávio Bolsonaro (PL) sobre o presidente Lula da Silva (PT) no segundo turno da eleição presidencial, marcado para 25 de outubro. Em relatório…",
@@ -310,42 +436,6 @@
    "data": "2026-10-18T12:16:14-03:00"
   },
   {
-   "id": "82e0b735d8ce",
-   "titulo": "PT acusa Globo de tratamento desigual entre Lula e Flávio Bolsonaro",
-   "resumo": "O presidente do PT, Edinho Silva, criticou, no sábado 17, o tratamento dado pela TV Globo ao presidente Luiz Inácio Lula da Silva (PT) e ao senador Flávio Bolsonaro (PL-RJ) , adversários na disputa presidencial. Segundo o dirigente, a emiss…",
-   "link": "https://revistaoeste.com/politica/pt-acusa-globo-de-tratamento-desigual-entre-lula-e-flavio-bolsonaro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/PT-Edinho-Silva.jpeg",
-   "data": "2026-10-18T12:09:00-03:00"
-  },
-  {
-   "id": "3e12b2acbc0a",
-   "titulo": "Wilson Pedroso na Crusoé: Fim da 6×1 ajuda, mas não basta para Lula",
-   "resumo": "A PEC do fim da 6×1 passou no Senado por 75 votos a 1, dez dias antes do segundo turno. A pergunta que Brasília faz desde quarta, 14, à noite é se isso basta para Lula virar a eleição. Na minha leitura, não basta. Ajuda muito, mas sozinha n…",
-   "link": "https://oantagonista.com.br/brasil/wilson-pedroso-na-crusoe-fim-da-6x1-ajuda-mas-nao-basta-para-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/toms8634-scaled-1.jpg",
-   "data": "2026-10-18T12:00:00-03:00"
-  },
-  {
-   "id": "e4dbb0b6b4e5",
-   "titulo": "Motorista é preso após atropelar idoso em ato pró-Lula em BH",
-   "resumo": "Um motorista de 45 anos foi preso em flagrante por tentativa de homicídio após avançar com um carro contra manifestantes em um ato em apoio à reeleição de Lula (PT), no centro de Belo Horizonte. O atropelamento ocorreu neste sábado, 17, por…",
-   "link": "https://oantagonista.com.br/brasil/motorista-e-preso-apos-atropelar-idoso-em-ato-pro-lula-em-bh/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/atropelamento-ato-BH.png",
-   "data": "2026-10-18T11:42:41-03:00"
-  },
-  {
-   "id": "e680601f46d3",
-   "titulo": "Começa a manifestação ‘Bloco do 22’ na Paulista",
-   "resumo": "Começou na Avenida Paulista, na manhã deste domingo, 18, a manifestação \"Bloco do 22\", em apoio ao candidato do PL à Presidência, senador Flávio Bolsonaro (RJ). O ato, na cidade de São Paulo, reúne apoiadores e lideranças políticas a uma se…",
-   "link": "https://revistaoeste.com/politica/bloco-do-22-manifestacao-de-flavio-comeca-na-av-paulista-em-sao-paulo/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-18-at-10.45.52.jpeg",
-   "data": "2026-10-18T11:41:17-03:00"
-  },
-  {
    "id": "42043fd3b936",
    "titulo": "Eleições: quem não votou no primeiro turno pode participar do segundo",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-quem-nao-votou-no-primeiro-turno-pode-participar-do-segundo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
@@ -364,15 +454,6 @@
    "data": "2026-10-18T11:09:29-03:00"
   },
   {
-   "id": "a60401df7277",
-   "titulo": "TSE decide manter reportagem com acusações de Vorcaro contra Lula",
-   "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu manter no ar a reportagem da revista Veja que reúne acusações de Daniel Vorcaro, ex-controlador do Banco Master, sobre supostos pagamentos ligados ao acesso a fundos de pensão de estatais. Em sua …",
-   "link": "https://oantagonista.com.br/brasil/tse-decide-manter-reportagem-com-acusacoes-de-vorcaro-contra-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/Captura-de-Tela-2026-03-16-as-17.06.37-e1773691904808.png",
-   "data": "2026-10-18T11:05:56-03:00"
-  },
-  {
    "id": "314e629e8c6e",
    "titulo": "TSE rejeita pedido do Novo e mantém shows de artistas em atos de apoio a Lula",
    "resumo": "O ministro Ricardo Villas Bôas Cueva rejeitou pedido do Novo que consideraria manifestações previstas para este domingo (18) como showmícios.",
@@ -380,15 +461,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/18132928/Caetano-Veloso-e-Daniela-Mercury-960x540.jpg",
    "data": "2026-10-18T11:03:45-03:00"
-  },
-  {
-   "id": "26627b840835",
-   "titulo": "Josias Teófilo na Crusoé: O eixo do conservadorismo brasileiro",
-   "resumo": "Pouco se fala como o conservadorismo é mais recente que o seu oposto, o revolucionarismo ou radicalismo revolucionário. O conservadorismo nasceu como reação à Revolução Francesa e sua brutalidade revolucionária. O Brasil foi diretamente afe…",
-   "link": "https://oantagonista.com.br/brasil/josias-teofilo-na-crusoe-o-eixo-do-conservadorismo-brasileiro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Bonifacio-Gemini.jpg",
-   "data": "2026-10-18T11:00:00-03:00"
   },
   {
    "id": "5a446ebb6cf5",
@@ -400,31 +472,13 @@
    "data": "2026-10-18T10:39:55-03:00"
   },
   {
-   "id": "77b0e3b43a4d",
-   "titulo": "‘Bloco do 22’: acompanhe a manifestação da direita na Paulista",
-   "resumo": "https://www.youtube.com/watch?v=Bjk5PuSFhMk&pp=ygUNUmV2aXN0YSBPZXN0ZQ%3D%3D Leia também: \"Virada à direita\" , reportagem publicada na Edição 344 da Revista Oeste O post ‘Bloco do 22’: acompanhe a manifestação da direita na Paulista apareceu…",
-   "link": "https://revistaoeste.com/politica/bloco-do-22-acompanhe-a-manifestacao-da-direita-na-paulista/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-1.jpg",
-   "data": "2026-10-18T10:38:53-03:00"
-  },
-  {
-   "id": "ecc2da6fd152",
-   "titulo": "Na Argentina é fracasso, no Brasil é estatística",
-   "resumo": "André Burger* A redução de 32 mil empresas empregadoras na Argentina desde a posse de Javier Milei, em dezembro de 2023, tem sido utilizada por eleitores de Lula como demonstração do fracasso da política econômica argentina. O passo seguint…",
-   "link": "https://revistaoeste.com/politica/javier-milei-na-argentina-e-fracasso-no-brasil-e-estatistica/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/14_ed334-1.jpg",
-   "data": "2026-10-18T10:00:00-03:00"
-  },
-  {
-   "id": "1efa54e371a8",
-   "titulo": "22 livros para quem não vota na esquerda",
-   "resumo": "Como bom editor de livros e assumidamente conservador, em contraposição à onda de editoras, livrarias e profissionais do livro que abertamente abandonaram suas fantasias de neutralidade para apoiar Lula no segundo turno, quero indicar aqui …",
-   "link": "https://revistaoeste.com/politica/22-livros-para-quem-nao-vota-na-esquerda/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/7-de-setembro.jpg",
-   "data": "2026-10-18T09:01:00-03:00"
+   "id": "b1457ab0df38",
+   "titulo": "Lobista que atacou Lula em entrevista namora ex-jogador do São Paulo",
+   "resumo": "Sócia de Lulinha, empresária e lobista Roberta Luchsinger mantém um relacionamento amoroso com um ex-jogador do São Paulo",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lobista-que-atacou-lula-em-entrevista-namora-ex-jogador-do-sao-paulo",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2022/05/17174447/WhatsApp-Image-2022-05-17-at-17.44.21-1.jpeg",
+   "data": "2026-10-18T10:00:52-03:00"
   },
   {
    "id": "5489f7136bc5",
@@ -443,15 +497,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/Presidente-da-Camara-Arthur-Lira-Plenario-da-Camara-dos-Deputados-onde-sera-votada-em-segunda-instancia-a-PEC-1.jpeg",
    "data": "2026-10-18T07:00:40-03:00"
-  },
-  {
-   "id": "b1457ab0df38",
-   "titulo": "Lobista que atacou Lula em entrevista namora ex-jogador do São Paulo",
-   "resumo": "Sócia de Lulinha, empresária e lobista Roberta Luchsinger mantém um relacionamento amoroso com um ex-jogador do São Paulo",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lobista-que-atacou-lula-em-entrevista-namora-ex-jogador-do-sao-paulo",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2022/05/17174447/WhatsApp-Image-2022-05-17-at-17.44.21-1.jpeg",
-   "data": "2026-10-18T06:00:52-03:00"
   },
   {
    "id": "361b2fbfe39f",
@@ -625,24 +670,6 @@
    "data": "2026-10-17T15:33:33-03:00"
   },
   {
-   "id": "3132414a051a",
-   "titulo": "Advogado de Trump pede processo de impeachment após voto de Moraes para tornar Eustáquio réu",
-   "resumo": "Ao compartilhar notícia sobre o voto contra Eustáquio, Martin De Luca questionou: “Quem examinará a conduta do próprio Moraes?”",
-   "link": "https://www.gazetadopovo.com.br/mundo/advogado-trump-pede-processo-impeachment-apos-voto-moraes-tornar-eustaquio-reu/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/13083412/advogado.trump_.gilmar-960x540.jpg",
-   "data": "2026-10-17T15:18:37-03:00"
-  },
-  {
-   "id": "9128c8b369d3",
-   "titulo": "Disputa nas redes: Flávio pede postagem dos preços dos alimentos e PT aposta no verde, amarelo e L de Lula",
-   "resumo": "Flávio divulga ação para comparar custo dos alimentos e Lula participa de mobilização sobre as cores nacionais. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/disputa-nas-redes-flavio-pede-postagem-dos-precos-dos-alimentos-e-pt-aposta-no-verde-amarelo-e-l-de-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/17145327/flavio-e-lula-1-960x540.jpg",
-   "data": "2026-10-17T15:05:22-03:00"
-  },
-  {
    "id": "ceba65dcb254",
    "titulo": "Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres",
    "resumo": "",
@@ -650,15 +677,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/4CuqIgXlEH-B3QHFZEA7mzvujUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/vEkt3RREmLb6F1j3BHxw/montagem-horizontal-1280x720px-18-.jpg",
    "data": "2026-10-17T14:58:40-03:00"
-  },
-  {
-   "id": "c23498b4b832",
-   "titulo": "Datafolha: redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos de Lula",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-reducao-da-maioridade-penal-tem-apoio-de-89percent-dos-eleitores-de-flavio-e-70percent-dos-de-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Rr8Axa55kim5aIGimHmpWsdfkrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/A0bTciSd2BoyXHpKF1tQ/montagem-horizontal-1200px-21-.jpg",
-   "data": "2026-10-17T14:26:21-03:00"
   },
   {
    "id": "e0079e5fe053",
@@ -760,15 +778,6 @@
    "data": "2026-10-16T15:44:00-03:00"
   },
   {
-   "id": "f20b78f325ce",
-   "titulo": "Congresso promulga emenda de aposentadoria especial de agente de saúde",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-de-aposentadoria-especial-de-agente-de-saude\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-de-aposentadoria-especial-de-agente-de-saude",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-16T13:31:00-03:00"
-  },
-  {
    "id": "f5f541aded76",
    "titulo": "Flávio tem almoço reservado com a cúpula da Globo antes da sabatina do JN",
    "resumo": "Almoço de Flávio Bolsonaro com cúpula da TV Globo aconteceu na sexta-feira (16/10), horas antes da sabatina do senador no Jornal Nacional",
@@ -776,15 +785,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-2.jpeg",
    "data": "2026-10-16T13:25:46-03:00"
-  },
-  {
-   "id": "1937ca930674",
-   "titulo": "Lula fica em Brasília no fim de semana se preparando para debate da Band",
-   "resumo": "Lula passará o fim de semana reunido com auxiliares em Brasília para se preparar para o debate da Band, marcado para o domingo (18/10) em SP",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-fica-em-brasilia-no-fim-de-semana-se-preparando-para-debate-da-band",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-em-promulgacao-das-emendas-constitucionais-140-e-141-de-2026-1.jpg",
-   "data": "2026-10-16T12:21:40-03:00"
   }
  ]
 }
