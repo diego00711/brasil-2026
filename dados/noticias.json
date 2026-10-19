@@ -1,16 +1,250 @@
 {
- "atualizado": "2026-10-18T22:10:37.410330-03:00",
- "total": 86,
+ "atualizado": "2026-10-19T04:41:18.225921-03:00",
+ "total": 85,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "0f4c922c6ad4",
-   "titulo": "Flávio cobra Lula sobre “saidinhas”; petista defende benefício",
-   "resumo": "Senador citou vítimas de crimes cometidos por presos beneficiados; presidente defendeu saída temporária para quem tem bom comportamento",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-cobra-lula-sobre-saidinhas-petista-defende-beneficio/",
+   "id": "4ea2c5d3ba89",
+   "titulo": "“Mentiroso é você”, diz Roberta Luchsinger a Lula após debate",
+   "resumo": "Lobista volta a criticar o presidente 1 dia depois de dizer que ele é um covarde por chamá-la de pilantra",
+   "link": "https://www.poder360.com.br/poder-governo/mentiroso-e-voce-diz-roberta-luchsinger-a-lula-apos-debate/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/KVAYW35A6ms/hqdefault.jpg",
+   "data": "2026-10-19T04:17:40-03:00"
+  },
+  {
+   "id": "6e3074b0c1fd",
+   "titulo": "Bolsa Família reajustado começa a ser pago nesta 2ª feira",
+   "resumo": "Valor médio subiu de R$ 675 para R$ 777; aumento foi anunciado por Lula em 17 de setembro",
+   "link": "https://www.poder360.com.br/poder-governo/bolsa-familia-reajustado-comeca-a-ser-pago/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T03:37:18-03:00"
+  },
+  {
+   "id": "1a130f5f20b9",
+   "titulo": "Eleições 2026: não votei no primeiro turno, posso votar no segundo?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/eleicoes-2026-nao-votei-no-primeiro-turno-posso-votar-no-segundo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/SPxaX9saTE_kOKiGcrBJD4J5cSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/w/Z2nBgaRByW3BK4AZF9lw/image-1140-bcbbabccc29ab349bb3b3aefe30e0c20.jpeg",
+   "data": "2026-10-19T03:00:00-03:00"
+  },
+  {
+   "id": "0f0a3280f881",
+   "titulo": "PF liga alerta após viagem ao exterior de amigo investigado de Flávio",
+   "resumo": "Amigo de Flávio Bolsonaro (PL), advogado Willer Tomaz viajou para o exterior em meio à investigação da PF contra ele na \"Farra do INSS\"",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/pf-liga-alerta-apos-viagem-ao-exterior-de-amigo-investigado-de-flavio",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-e-willer-tomaz.jpeg",
+   "data": "2026-10-19T02:00:52-03:00"
+  },
+  {
+   "id": "a82c948522a0",
+   "titulo": "Padilha rebate Flávio sobre pandemia e hospitais do Rio",
+   "resumo": "Ministro citou suspeitas de desvios na pandemia e criticou a gestão dos hospitais federais do Rio",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/padilha-rebate-flavio-sobre-pandemia-e-hospitais-do-rio/",
    "fonte": "Poder360",
    "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T22:09:48-03:00"
+   "data": "2026-10-19T00:43:57-03:00"
+  },
+  {
+   "id": "b5c5796e5f7e",
+   "titulo": "A PEC da Segurança Pública e o debate sobre a maioridade penal - O Assunto #1827",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/19/a-pec-da-seguranca-publica-e-o-debate-sobre-a-maioridade-penal-o-assunto-1827.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/zg0Tx3Ndj8Vcugxbb1OluI9aIys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/5/AkBXdVRpKbdHsyMzdmwA/globo-canal-4-20261015-2000-frame-99981.jpeg",
+   "data": "2026-10-19T00:30:00-03:00"
+  },
+  {
+   "id": "ca2775d14f1e",
+   "titulo": "Nikolas critica modelo de debate da “Band”: “Não é eficaz”",
+   "resumo": "Deputado afirmou que Flávio estava mais \"calmo\" do que Lula; candidatos se enfrentaram neste domingo (18.out)",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-critica-modelo-de-debate-da-band-nao-e-eficaz/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/nikolas-flavio-lula.png",
+   "data": "2026-10-19T00:28:36-03:00"
+  },
+  {
+   "id": "8d5f45e71064",
+   "titulo": "Nikolas zoa Haddad e Tebet na “Band”: “Estão desempregados”",
+   "resumo": "Candidato derrotado ao governo de SP é professor concursado da USP desde 1997, enquanto a ex-ministra do Planejamento não conquistou uma vaga no Senado",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nikolas-zoa-haddad-e-tebet-na-band-estao-desempregados/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/nicFVmsOcgU/hqdefault.jpg",
+   "data": "2026-10-19T00:24:05-03:00"
+  },
+  {
+   "id": "f7ec2f901d4e",
+   "titulo": "Lula chama Dani Marques de “mulher da economia”, e direita vê machismo",
+   "resumo": "Presidente ironizou coordenadora de campanha de Flávio durante o debate da \"Band\"",
+   "link": "https://www.poder360.com.br/poder-economia/lula-chama-dani-marques-de-mulher-da-economia-e-direita-ve-machismo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T00:23:44-03:00"
+  },
+  {
+   "id": "db1e8baa4218",
+   "titulo": "Pesquisa do PT avalia que debate não deve mudar votos de indecisos",
+   "resumo": "Grupos de pesquisas qualitativas veem Lula com mais “postura” de presidente e classificam Flávio como “agressivo” e “infantil”",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pesquisa-do-pt-avalia-que-debate-nao-deve-mudar-votos-de-indecisos/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
+   "data": "2026-10-19T00:14:45-03:00"
+  },
+  {
+   "id": "1be5affd8404",
+   "titulo": "Suspeita de bomba em carro de Flávio é alarme falso",
+   "resumo": "Automóvel estava estacionado dentro do prédio da \"Band\"; candidato do PL pegou carona com Tarcísio para ir embora",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/suspeita-de-bomba-em-carro-de-flavio-e-alarme-falso/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/0__wtpgfzFg/hqdefault.jpg",
+   "data": "2026-10-19T00:09:39-03:00"
+  },
+  {
+   "id": "ecea776bc4c5",
+   "titulo": "Ato pró-Flávio tem míssil inflável pedindo ataque de Trump",
+   "resumo": "Manifestantes circularam com o objeto com a frase \"Trump nuke Brazil\", em inglês",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-pro-flavio-na-paulista-tem-missil-inflavel-pedindo-ataque-de-trump/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T00:03:54-03:00"
+  },
+  {
+   "id": "14ae5f14f443",
+   "titulo": "Quando será o debate presidencial da Globo? Veja a data e o horário",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-debate-presidencial-da-globo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/YKRJqXeVk9sJe7n9fT071zgNDfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/0LhY5rQcqYZ1w59CWk5g/meow-meow-meow-meow-71-.png",
+   "data": "2026-10-19T00:00:00-03:00"
+  },
+  {
+   "id": "141875e66a10",
+   "titulo": "Quando será o segundo turno das eleições 2026? Veja a data",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-segundo-turno-das-eleicoes-2026.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/i0NCPQvzXnGweetitj51u2uIt80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/9/x87f2cRl25XR4xlKZRJQ/videoframe-5226040.png",
+   "data": "2026-10-19T00:00:00-03:00"
+  },
+  {
+   "id": "55c1c0e48443",
+   "titulo": "Apoiadores de Flávio fazem campanha “carioca não é malandro”",
+   "resumo": "Iniciativa começou após Lula chamar o senador de \"malandro carioca\" durante debate da \"Band\"",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/apoiadores-de-flavio-fazem-campanha-carioca-nao-e-malandro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/carioca-malandro-1.jpg",
+   "data": "2026-10-18T23:56:54-03:00"
+  },
+  {
+   "id": "363032420c9e",
+   "titulo": "Grupo de Ações Táticas Especiais é acionado por suspeita de bomba no carro de Flávio",
+   "resumo": "Neste domingo, 18, o Grupo de Ações Táticas Especiais (Gate) isolou a área do estacionamento da Rede Bandeirantes de Comunicação, em virtude de suspeita de bomba no carro do senador Flávio Bolsonaro (PL-RJ), que debateu hoje com Lula. A des…",
+   "link": "https://revistaoeste.com/politica/grupo-de-acoes-taticas-especiais-e-acionado-por-suspeita-de-bomba-no-carro-de-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio_debate.jpeg",
+   "data": "2026-10-18T23:35:25-03:00"
+  },
+  {
+   "id": "089518f49d03",
+   "titulo": "Debate na Band acaba no zero a zero e sem potencial de converter indecisos",
+   "resumo": "Flávio dominou melhor o palco do debate, mas assumiu riscos na forma como tratou o adversário; Lula caiu em armadilhas, mas saiu do corner",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/debate-na-band-termina-no-0-a-0-e-sem-potencial-de-converter-indecisos",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/lula-e-flavio-debate-band-2.jpg",
+   "data": "2026-10-18T23:32:13-03:00"
+  },
+  {
+   "id": "cf789069904e",
+   "titulo": "Gate é acionado para checar carro de Flávio Bolsonaro após suspeita de bomba durante debate na Band",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/gate-e-acionado-para-checar-carro-de-flavio-bolsonaro-apos-suspeita-de-bomba-durante-debate-na-band.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/B1gYgFirOODBBgHdJ_RyLTtUsAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/JAbzYUSTelkqB1rSNuhA/55598209118-3adc0ab19d-k.jpg",
+   "data": "2026-10-18T23:13:33-03:00"
+  },
+  {
+   "id": "a089dec8f624",
+   "titulo": "Vantagem de Lula sobre a família Bolsonaro diminui em 98% das cidades do Nordeste",
+   "resumo": "A vantagem eleitoral do presidente Lula sobre a família Bolsonaro diminuiu em 98% dos municípios do Nordeste entre os primeiros turnos das eleições de 2022 e 2026. Segundo levantamento da Folha de S.Paulo , o senador Flávio Bolsonaro (PL) a…",
+   "link": "https://revistaoeste.com/politica/vantagem-de-lula-sobre-bolsonaro-diminui-em-98-das-cidades-do-nordeste/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/lula-x-flavio-1.jpg",
+   "data": "2026-10-18T23:02:00-03:00"
+  },
+  {
+   "id": "412abc4ff14a",
+   "titulo": "Ato em apoio à democracia e a Lula reúne milhares no Rio e Brasília",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-no-rio-e-brasilia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-no-rio-e-brasilia",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-18T22:53:00-03:00"
+  },
+  {
+   "id": "f7d091500da1",
+   "titulo": "Flávio diz que debate foi positivo e promete seguir mobilizando apoiadores",
+   "resumo": "O senador e candidato a Presidência Flávio Bolsonaro (PL) avaliou positivamente sua participação no debate com o presidente Lula (PT), realizado pela Band neste domingo, 18. Em entrevista após o confronto, o candidato afirmou que conseguiu …",
+   "link": "https://oantagonista.com.br/brasil/flavio-diz-que-debate-foi-positivo-e-promete-seguir-mobilizando-apoiadores/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-18T224055.625.png",
+   "data": "2026-10-18T22:43:17-03:00"
+  },
+  {
+   "id": "56e9a7b9c647",
+   "titulo": "Em debate, Flávio pergunta sobre Lulinha e Lula chama adversário de “malandro carioca”",
+   "resumo": "Os candidatos Flávio Bolsonaro e Lula ficaram frente a frente pela 1ª vez em um debate presidencial nesta campanha. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-lula-primeiro-debate-presidencial/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18222040/debate-Band-960x540.jpg",
+   "data": "2026-10-18T22:38:27-03:00"
+  },
+  {
+   "id": "169f548e9b2f",
+   "titulo": "Em entrevista, Lula desafia Flávio a abrir sigilos bancário e telefônico até próximo debate",
+   "resumo": "O presidente Lula (PT) desafiou o senador Flávio Bolsonaro (PL) a abrir os sigilos bancário e telefônico para apurar suspeitas de corrupção. A declaração foi feita em entrevista após o debate entre os candidatos, realizado pela Band neste d…",
+   "link": "https://oantagonista.com.br/brasil/em-entrevista-lula-desafia-flavio-a-abrir-sigilos-bancario-e-telefonico-ate-proximo-debate/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-18T223615.808.png",
+   "data": "2026-10-18T22:37:08-03:00"
+  },
+  {
+   "id": "554a3b6f080f",
+   "titulo": "Lula ataca Trump para justificar crise econômica",
+   "resumo": "O presidente Lula da Silva (PT) atacou o presidente dos Estados Unidos, Donald Trump, ao abordar a crise econômica, em meio às discussões sobre as tensões comerciais entre os dois países. https://twitter.com/Alexmorettibr/status/21119772561…",
+   "link": "https://revistaoeste.com/politica/lula-ataca-trump-para-justificar-crise-economica/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavioxlula_trump.jpeg",
+   "data": "2026-10-18T22:31:26-03:00"
+  },
+  {
+   "id": "caf7fa3ea991",
+   "titulo": "Lula e Flávio enfrentam interrupções na reta final do debate",
+   "resumo": "As considerações finais do debate entre Lula (PT) e Flávio Bolsonaro (PL) foram marcadas por manifestações das plateias neste domingo, 18, nos estúdios da Band. O mediador precisou intervir para pedir silêncio durante as falas dos candidato…",
+   "link": "https://oantagonista.com.br/brasil/lula-e-flavio-enfrentam-interrupcoes-na-reta-final-do-debate/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-18T222827.576.png",
+   "data": "2026-10-18T22:29:36-03:00"
+  },
+  {
+   "id": "0130a17d80b2",
+   "titulo": "Ministro de Lula discute com assessor de Flávio no debate da Band",
+   "resumo": "Ministro da Secom, Sidônio Palmeira, se irritou com estratégia de Flávio Bolsonaro de permanecer atrás de Lula durante as falas do petista",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/ministro-de-lula-discute-com-assessor-de-flavio-no-debate-da-band",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-debate-band-lula.jpg",
+   "data": "2026-10-18T22:28:57-03:00"
+  },
+  {
+   "id": "d6f960510e02",
+   "titulo": "Aliados de Lula intensificam ataques contra Kassio e Mendonça em campanha",
+   "resumo": "André Janones chamou André Mendonça de \"vagabundo\" e Rui Falcão pediu ao STF para investigar Kassio Nunes Marques por falsidade ideológica.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/aliados-de-lula-intensificam-ataques-contra-kassio-e-mendonca-em-campanha/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15192057/Kassio-Nunes-Marques-e-Andre-Mendonca-no-TSE-960x540.jpg",
+   "data": "2026-10-18T22:12:17-03:00"
   },
   {
    "id": "69772199938b",
@@ -40,69 +274,6 @@
    "data": "2026-10-18T21:51:54-03:00"
   },
   {
-   "id": "37220eacf47e",
-   "titulo": "Flávio cita áudio de Vorcaro sobre R$ 30 milhões ao Instituto Lula",
-   "resumo": "Senador mencionou gravação ao ser questionado pelo petista sobre o dinheiro enviado pelo banqueiro ao filme de Jair Bolsonaro",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-cita-audio-de-vorcaro-sobre-r-30-milhoes-ao-instituto-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:51:30-03:00"
-  },
-  {
-   "id": "56e9a7b9c647",
-   "titulo": "Flávio e Lula se enfrentam pela 1ª vez em debate presidencial marcado por troca de acusações",
-   "resumo": "Os candidatos Flávio Bolsonaro e Lula ficaram frente a frente pela 1ª vez em um debate presidencial nesta campanha. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-lula-primeiro-debate-presidencial/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/18212706/Renato-PizzuttoBand-960x540.jpg",
-   "data": "2026-10-18T21:45:50-03:00"
-  },
-  {
-   "id": "1d1ac414b94c",
-   "titulo": "Lula cobra rastreamento de balas; Flávio questiona fronteiras",
-   "resumo": "Presidente questionou retirada da identificação de munições; senador responsabilizou governo pela entrada de armas ilegais no país",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-cobra-rastreamento-de-balas-flavio-questiona-fronteiras/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:45:39-03:00"
-  },
-  {
-   "id": "f37e45c6c756",
-   "titulo": "Flávio diz que Lula foi eleito por “aclamação nos presídios”",
-   "resumo": "Senador afirmou que 73% dos presos votaram no petista; presidente respondeu que até o pai de Flávio votou nele",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-lula-foi-eleito-por-aclamacao-nos-presidios/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:39:04-03:00"
-  },
-  {
-   "id": "f4647e3da8ad",
-   "titulo": "Flávio pede que Lula escreva “corrupto” durante debate",
-   "resumo": "Senador associou palavra à sigla PT durante confronto com presidente na “Band”",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-pede-que-lula-escreva-corrupto-durante-debate/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:36:46-03:00"
-  },
-  {
-   "id": "e9c90eff91b0",
-   "titulo": "Lula cobra Flávio por atuação em caso de criança morta por policial",
-   "resumo": "Presidente questionou defesa de PM acusado de matar menina de 5 anos; senador disse que advocacia não pode ser criminalizada",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-cobra-flavio-por-atuacao-em-caso-de-crianca-morta-por-policial/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T21:35:54-03:00"
-  },
-  {
-   "id": "413c6344fb66",
-   "titulo": "Lula diz que Flávio mente e é “carioca malandro” em debate na “Band”",
-   "resumo": "Presidente disse que adversário mentiu durante debate; senador afirmou que petista ofendeu moradores do Rio de Janeiro",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-flavio-mente-e-e-carioca-malandro-em-debate-na-band/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:32:37-03:00"
-  },
-  {
    "id": "7c3150e1450a",
    "titulo": "Lula questiona proposta de Flávio para o SUS e discussão vira confusão",
    "resumo": "O debate sobre saúde pública entre Lula (PT) e Flávio Bolsonaro (PL) terminou em uma discussão com interrupções e intervenção do mediador neste domingo, 18, no debate da Band. O presidente questionou se a proposta do adversário de levar ao …",
@@ -110,15 +281,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-18T213030.913.png",
    "data": "2026-10-18T21:31:41-03:00"
-  },
-  {
-   "id": "2d58133b233f",
-   "titulo": "Lula pede voto de Jair Bolsonaro: “Sou melhor que seu filho”",
-   "resumo": "Presidente provoca Flávio durante debate da \"Band\" e afirma que ex-presidente conhece o próprio filho",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-voto-de-jair-bolsonaro-sou-melhor-que-seu-filho/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-18T21:28:17-03:00"
   },
   {
    "id": "ed26f36c15fb",
@@ -130,15 +292,6 @@
    "data": "2026-10-18T21:26:32-03:00"
   },
   {
-   "id": "4bbdd58f19ab",
-   "titulo": "“Quero distância de miliciano”, diz Lula a Flávio",
-   "resumo": "Presidente fez declaração ao se aproximar do adversário durante troca de acusações sobre corrupção no debate da \"Band\"",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/quero-distancia-de-miliciano-diz-lula-a-flavio/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:20:15-03:00"
-  },
-  {
    "id": "87988a5b1d9b",
    "titulo": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo",
    "resumo": "",
@@ -146,15 +299,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/WYMP7oszosvB1EcIF3dhACe4JFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/p/nJtFNjSwehmu8EnmEeEQ/formato-g1-30-.jpg",
    "data": "2026-10-18T21:19:51-03:00"
-  },
-  {
-   "id": "eed494fc859b",
-   "titulo": "“Eu fiz dele um prisioneiro”, diz Lula a Flávio sobre Vorcaro",
-   "resumo": "Presidente afirmou que dono do Banco Master se tornou banqueiro no governo Bolsonaro e foi preso durante sua gestão",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/eu-fiz-dele-um-prisioneiro-diz-lula-a-flavio-sobre-vorcaro/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nacionais-nesta-semana-lula-flavio-17-out-2026-_page-0001-1-scaled.jpg",
-   "data": "2026-10-18T21:18:57-03:00"
   },
   {
    "id": "f5638b7c5f30",
@@ -238,24 +382,6 @@
    "data": "2026-10-18T20:33:20-03:00"
   },
   {
-   "id": "ba8b7f00afe2",
-   "titulo": "Instituto Mises Brasil reúne frases controversas de Lula",
-   "resumo": "O Instituto Mises Brasil publicou um carrossel nas redes sociais com 11 declarações controversas do presidente Luiz Inácio Lula da Silva, feitas entre 1979 e 2025. As frases abordam temas como Adolf Hitler, homossexualidade, escravidão, pop…",
-   "link": "https://revistaoeste.com/politica/instituto-mises-brasil-reune-frases-controversas-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/2026-10-13t161647z_1358026882_rc2d2oabnzp6_rtrmadp_3_brazil-election-lula.jpg",
-   "data": "2026-10-18T20:33:00-03:00"
-  },
-  {
-   "id": "faffbd58e572",
-   "titulo": "Debate na Band: Flávio promete recuperar territórios dominados pelo tráfico",
-   "resumo": "Durante o debate presidencial na Band, realizado neste domingo, 18, o candidato Flávio Bolsonaro (PL-RJ) prometeu recuperar os territórios dominados pelo crime organizado. \"No governo do Flávio Bolsonaro não vai ter ninguém passando a mão n…",
-   "link": "https://revistaoeste.com/politica/debate-na-band-flavio-promete-recuperar-territorios-dominados-pelo-trafico/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-11.jpg",
-   "data": "2026-10-18T20:28:25-03:00"
-  },
-  {
    "id": "9bfb60428df0",
    "titulo": "Ministro Alexandre de Moraes autoriza quebra de sigilo de fonte jornalística",
    "resumo": "Ministro Alexandre de Moraes determinou inclusão de provas que identificam fonte de jornalista maranhense, ignorando alertas da PF sobre sigilo constitucional.",
@@ -266,11 +392,11 @@
   },
   {
    "id": "c8444913d550",
-   "titulo": "Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno",
+   "titulo": "No 1º debate, Lula e Flávio Bolsonaro trocam acusações e provocações",
    "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/t7sKTZqqW3-U59_I_KOpl4UlZGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/fpSH8BRtG9arRyZ4wEXA/montagem-horizontal-1280x720px-6-.jpg",
+   "imagem": "https://s2-g1.glbimg.com/hOGxckax1zlwLarH3ow4x8jtmyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/p/Q71NxxRPGVRkuufPffCg/55598487220-dc389340c6-k.jpg",
    "data": "2026-10-18T20:16:38-03:00"
   },
   {
@@ -301,15 +427,6 @@
    "data": "2026-10-18T19:44:00-03:00"
   },
   {
-   "id": "431ab528afb1",
-   "titulo": "Flávio tem 52% dos votos válidos, contra 48% de Lula, aponta Gerp",
-   "resumo": "A vantagem de Flávio Bolsonaro (PL) sobre Lula (PT) caiu de dez para quatro pontos percentuais no segundo turno da eleição presidencial, segundo pesquisa do instituto Gerp. O senador tem 52% dos votos válidos, ante 48% do presidente. No lev…",
-   "link": "https://oantagonista.com.br/brasil/flavio-tem-52-dos-votos-validos-contra-48-de-lula-aponta-gerp/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/Flavio-Bolsonaro-e-Lula-4.jpg",
-   "data": "2026-10-18T19:38:00-03:00"
-  },
-  {
    "id": "52e5bc1967b8",
    "titulo": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
    "resumo": "",
@@ -319,15 +436,6 @@
    "data": "2026-10-18T19:36:36-03:00"
   },
   {
-   "id": "0336abc8f67f",
-   "titulo": "Janja culpa Bolsonaro por morte da mãe",
-   "resumo": "A primeira-dama, Janja, atribuiu à “negligência” do ex-presidente Jair Bolsonaro (PL) a morte de sua mãe, em outubro de 2020, durante a pandemia de Covid-19. Em vídeo publicado nas redes sociais neste domingo, 18, ela afirmou: “Negligência …",
-   "link": "https://oantagonista.com.br/brasil/janja-culpa-bolsonaro-por-morte-da-mae/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Janja.png",
-   "data": "2026-10-18T19:23:13-03:00"
-  },
-  {
    "id": "d0a5755b6b5a",
    "titulo": "Flávio escala Moro e Deltan para 1ª fila da plateia do debate da Band",
    "resumo": "Estratégia de Flávio é usar Moro e Deltan Dallagnol, ambos ex-integrantes da Lava Jato, para tentar desestabilizar Lula no debate da Band",
@@ -335,24 +443,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/moro-dallagnol-debate-band.jpeg",
    "data": "2026-10-18T19:06:14-03:00"
-  },
-  {
-   "id": "4407a8c60dc8",
-   "titulo": "‘Não disse nem 1% do que eu sei’, afirma Roberta Luchsinger",
-   "resumo": "A empresária Roberta Luchsinger afirmou neste domingo, 18, que mantém as declarações feitas à CNN Brasil sobre o presidente Luiz Inácio Lula da Silva e que ainda não revelou todas as informações que possui. Em publicação no Instagram, disse…",
-   "link": "https://revistaoeste.com/politica/nao-disse-nem-1-do-que-eu-sei-afirma-roberta-luchsinger/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/saveclip.app-503977467-18509369869040584-400028737213943833-n.jpg",
-   "data": "2026-10-18T19:00:00-03:00"
-  },
-  {
-   "id": "fde717c57762",
-   "titulo": "Flávio é alvo de novo inquérito por suspeita de lavagem de dinheiro",
-   "resumo": "A Polícia Federal enviou ao Supremo Tribunal Federal (STF) uma investigação sobre suspeitas de lavagem de dinheiro envolvendo o senador e candidato à Presidência Flávio Bolsonaro (PL-RJ) e o advogado Willer Tomaz, diz o Estadão. A apuração,…",
-   "link": "https://oantagonista.com.br/brasil/flavio-e-alvo-de-novo-inquerito-por-suspeita-de-lavagem-de-dinheiro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-e-Willer-Tomaz.png",
-   "data": "2026-10-18T18:24:11-03:00"
   },
   {
    "id": "59d46927eb12",
@@ -580,33 +670,6 @@
    "data": "2026-10-18T00:00:00-03:00"
   },
   {
-   "id": "a45db5a94ce4",
-   "titulo": "Lobista diz que Lulinha se reunia com ministros e afirma querer fazer delação premiada",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/17/empresaria-amiga-de-lulinha-rebate-declaracao-de-lula-diz-que-nao-e-pilantra-e-que-virou-boi-de-piranha.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/PKwCjAubfqIY9OC6WDPNfNHyISQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/W/wtkEY0ThKckU0RNhhPtQ/captura-de-tela-2026-10-17-224110.png",
-   "data": "2026-10-17T22:30:26-03:00"
-  },
-  {
-   "id": "8f19f4ce5cab",
-   "titulo": "Apoiadores de Lula realizam atos em diversas cidades e capitais",
-   "resumo": "",
-   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/v8num4VgG5wpxS9pcWC4h2MAXnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/v8qHngRU6qnj1j3lhGZQ/captura-de-tela-2026-10-17-220028.jpg",
-   "data": "2026-10-17T22:06:08-03:00"
-  },
-  {
-   "id": "75c0b8fd9829",
-   "titulo": "Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras",
-   "resumo": "",
-   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/0Zgu5KX_DtWO2xZHLVhsMK2AUNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/E/irBlYVSj2NnVFR2XVb5w/captura-de-tela-2026-10-17-215241-1-.jpg",
-   "data": "2026-10-17T22:06:03-03:00"
-  },
-  {
    "id": "c3eb943f9f7b",
    "titulo": "Ato em São Paulo busca consolidar apoio a Flávio na reta final do 2º turno",
    "resumo": "Flávio Bolsonaro mobiliza aliados para ato na Avenida Paulista, em São Paulo, neste domingo (18), em busca de reforçar candidatura.",
@@ -625,33 +688,6 @@
    "data": "2026-10-17T21:18:18-03:00"
   },
   {
-   "id": "a0f66dbe7455",
-   "titulo": "Quem é o senador eleito no Maranhão que promete confrontar Flávio Dino em Brasília",
-   "resumo": "Senador eleito no Maranhão acusa o ex-governador de perseguição política e promete confrontá-lo em Brasília. Leia o perfil na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/maranhao/lahesio-bonfim-senador-eleito-maranhao-promete-confrontar-flavio-dino-em-brasilia/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/13144714/Gemini_Generated_Image_eyv0t6eyv0t6eyv0-960x540.jpg",
-   "data": "2026-10-17T20:39:57-03:00"
-  },
-  {
-   "id": "d86cf34d87b9",
-   "titulo": "Maria do Carmo faz caminhada no Centro de Manaus e apresenta propostas para infraestrutura",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/5LAZ70Ie2dp0_4dOTg139YUDuHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/H/02IMWyS0qdCapMFHeBpQ/captura-de-tela-2026-10-17-184848.png",
-   "data": "2026-10-17T19:50:17-03:00"
-  },
-  {
-   "id": "5c4532d36f2e",
-   "titulo": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/zNu4xa6qUe6OcbugZKdCGfNxc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/q/4hxXteSnmPqLIcZP5zaQ/whatsapp-image-2026-09-12-at-14.50.46.jpeg",
-   "data": "2026-10-17T19:42:12-03:00"
-  },
-  {
    "id": "5af06c6e3520",
    "titulo": "Ex-ministros e acadêmicos assinam manifesto de apoio a Lula",
    "resumo": "Manifesto de intelectuais e ex-integrantes de governos fala em ameaças sociais, à democracia e à diplomacia.",
@@ -659,15 +695,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/16010349/55445050325_e425df3563_3k-1-960x540.jpg",
    "data": "2026-10-17T17:13:49-03:00"
-  },
-  {
-   "id": "54f76293dde8",
-   "titulo": "Presidente do PT quer confronto entre Lula e Flávio",
-   "resumo": "Em guinada no discurso, Edinho Silva também disse apoiar penas mais duras para crime hediondos, um aceno à redução da maioridade penal.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/presidente-do-pt-quer-confronto-entre-lula-e-flavio/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/18165059/edinho-silva-com-lula-foto-joao-valadares-agencia-pt-960x540.jpg",
-   "data": "2026-10-17T16:15:16-03:00"
   },
   {
    "id": "e0079e5fe053",
@@ -740,42 +767,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-16T23:01:00-03:00"
-  },
-  {
-   "id": "5744127b8f71",
-   "titulo": "Flávio usa relógio do pai, Jair Bolsonaro, em sabatina do JN",
-   "resumo": "Em sabatina do Jornal Nacional, Flávio Bolsonaro decidiu utilizar o mesmo relógio da marca Aqua que pertencia ao seu pai, Jair Bolsonaro",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-usa-relogio-do-pai-jair-bolsonaro-em-sabatina-do-jn",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/3000/12/1.jpg",
-   "data": "2026-10-16T21:58:56-03:00"
-  },
-  {
-   "id": "17e9588a330e",
-   "titulo": "Emissoras estrangeiras pedem à Band para transmitir debate de Lula e Flávio",
-   "resumo": "Uma das emissoras estrangeiras que pediu autorização à Band para retransmitir o debate foi a CNN Portugal, segundo apurou a coluna",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/emissoras-estrangeiras-pedem-a-band-para-transmitir-debate-de-lula-e-flavio",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-e-flavio-entorno-df-jpg.jpeg",
-   "data": "2026-10-16T17:51:23-03:00"
-  },
-  {
-   "id": "9ea83af5d77f",
-   "titulo": "Alcolumbre homenageia Paim no fim da 6x1; entenda motivo",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-homenageia-paim-no-fim-da-6x1-entenda-motivo",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-16T15:44:00-03:00"
-  },
-  {
-   "id": "f5f541aded76",
-   "titulo": "Flávio tem almoço reservado com a cúpula da Globo antes da sabatina do JN",
-   "resumo": "Almoço de Flávio Bolsonaro com cúpula da TV Globo aconteceu na sexta-feira (16/10), horas antes da sabatina do senador no Jornal Nacional",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-tem-almoco-reservado-com-a-cupula-da-globo-antes-da-sabatina-do-jn",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-2.jpeg",
-   "data": "2026-10-16T13:25:46-03:00"
   }
  ]
 }
