@@ -1,8 +1,242 @@
 {
- "atualizado": "2026-10-19T21:16:30.941579-03:00",
- "total": 85,
+ "atualizado": "2026-10-20T02:56:57.211704-03:00",
+ "total": 86,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "5bb518c46524",
+   "titulo": "Janones deve ter alta hospitalar nesta terça-feira",
+   "resumo": "Deputado André Janones (Rede-MG) foi internado no hospital Vila Nova Star, em SP, após um quadro de arritimia cardíaca",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/janones-deve-ter-alta-hospitalar-nesta-terca-feira",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/andrejanones-1791130052-4000610037176538595-513171443-3x2-1.jpg",
+   "data": "2026-10-20T02:00:10-03:00"
+  },
+  {
+   "id": "868880406e64",
+   "titulo": "Flávio Bolsonaro enfrenta resistência de parlamentares em fim de mandato",
+   "resumo": "Entenda por que parlamentares em fim de mandato dificultam os planos de Flávio Bolsonaro para aprovar a PEC da Transição antes da posse em 2027.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-enfrenta-resistencia-de-parlamentares-em-fim-de-mandato/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20005106/Congresso-Senado-foto-bigstock-crop-20221123183555-960x540.jpg",
+   "data": "2026-10-20T00:51:04-03:00"
+  },
+  {
+   "id": "7d6fcfd013bf",
+   "titulo": "O controle e o rastreamento de armas e munições - O Assunto #1828",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/20/o-controle-e-o-rastreamento-de-armas-e-municoes-o-assunto-1828.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/6M-hWsPFzj7PNHRD5PfFTX-NQHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/6/9RiIVSRAA5FdOTOtHOaA/imagem-destaque-g1.png",
+   "data": "2026-10-20T00:30:00-03:00"
+  },
+  {
+   "id": "1f2d9e7b2aeb",
+   "titulo": "Lula defende “saidinha” de presos e cita direito à convivência familiar",
+   "resumo": "Lula afirma que a \"saidinha\" favorece a ressocialização, mas defende restrições para presos condenados por crimes hediondos, como estupro.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-defende-saidinha-de-presos-e-cita-direito-a-convivencia-familiar/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/15205913/lula-meta-960x540.jpg",
+   "data": "2026-10-20T00:19:21-03:00"
+  },
+  {
+   "id": "f3ef7a23b4c5",
+   "titulo": "Empresária Roberta Luchsinger ameaça revelar crimes de Lula e seu filho",
+   "resumo": "Entenda as acusações de Roberta Luchsinger sobre tráfico de influência envolvendo o filho de Lula e ministros do governo federal em investigações da PF.",
+   "link": "https://www.gazetadopovo.com.br/republica/empresaria-roberta-luchsinger-ameaca-revelar-crimes-de-lula-e-seu-filho/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20000620/Lula-Roberta-960x540.jpg",
+   "data": "2026-10-20T00:06:17-03:00"
+  },
+  {
+   "id": "9b6821ad8e10",
+   "titulo": "Eleições 2026: acompanhe a apuração em todo o Brasil",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-acompanhe-a-apuracao-em-todo-o-brasil.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/gZhTKQD2Kn43YvYvIlFEfF2EkYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/6HFDdKSCaXJpGzATPhag/0-20-0109mg02-av-assedio-voto.png",
+   "data": "2026-10-20T00:00:00-03:00"
+  },
+  {
+   "id": "0b6d978af269",
+   "titulo": "Eleições 2026: campanhas já declararam quase R$ 290 milhões em gastos com a Meta, mais que o dobro de 2022",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-declaracao-gastos-meta.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/7vpCqbfy518oWIiwb_iALFBUpuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/Rqr3dXSp2g3aALNkibBg/2026-07-10t160702z-1-lynxmpem690yq-rtroptp-4-tech-ai-meta-layoffs.jpg",
+   "data": "2026-10-20T00:00:00-03:00"
+  },
+  {
+   "id": "3f4a6d34c7fd",
+   "titulo": "Mourão compara Lula a Biden",
+   "resumo": "O senador Hamilton Mourão (Republicanos-RS) comparou o desempenho do presidente Lula da Silva (PT) no debate da Band, realizado neste domingo, 18, ao confronto entre Joe Biden e Donald Trump nos Estados Unidos, em 2024. Em publicação nesta …",
+   "link": "https://revistaoeste.com/politica/mourao-compara-lula-a-biden/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/mourao_sobre_lula.jpeg",
+   "data": "2026-10-19T23:53:00-03:00"
+  },
+  {
+   "id": "abc985527613",
+   "titulo": "Com Nikolas e Pavanato, Flávio reúne multidão em Manaus",
+   "resumo": "“Bloquinho do 22” contou com a presença dos 2 deputados federais mais votados nas eleições de 2026",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/com-nikolas-e-pavanato-flavio-reune-multidao-em-manaus/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/hhUBWQ1_C94/hqdefault.jpg",
+   "data": "2026-10-19T23:44:04-03:00"
+  },
+  {
+   "id": "b7465a47f550",
+   "titulo": "Justiça encerra recuperação judicial da Americanas",
+   "resumo": "Justiça do Rio encerra recuperação judicial da Americanas, iniciada em janeiro de 2023 após revelação de fraude bilionária.",
+   "link": "https://www.gazetadopovo.com.br/economia/justica-encerra-recuperacao-judicial-da-americanas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19232228/lojas-americanas-960x540.jpg",
+   "data": "2026-10-19T23:23:08-03:00"
+  },
+  {
+   "id": "7b4094795aa9",
+   "titulo": "Lula diz que foi convencido a mudar opinião sobre maioridade penal",
+   "resumo": "Presidente afirma que pediu a líder do PT no Senado para apresentar emenda e fala em responsabilizar quem tem 16 anos ao cometer crime hediondo",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-foi-convencido-a-mudar-opiniao-sobre-maioridade-penal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T23:21:25-03:00"
+  },
+  {
+   "id": "7770e74b1a7b",
+   "titulo": "Governo Lula preparou reajuste do Bolsa Família em um dia",
+   "resumo": "O governo do presidente Luiz Inácio Lula da Silva preparou, em um único dia, os documentos técnicos que fundamentaram o reajuste do Bolsa Família anunciado em 17 de setembro, a 17 dias do primeiro turno das eleições de 2026. Os registros fo…",
+   "link": "https://revistaoeste.com/politica/governo-lula-preparou-reajuste-do-bolsa-familia-em-um-dia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/Bolsa-Familia.jpg",
+   "data": "2026-10-19T22:42:26-03:00"
+  },
+  {
+   "id": "c21135f7bdaa",
+   "titulo": "PGR rejeita acusação de abuso de autoridade contra Mendonça",
+   "resumo": "A Procuradoria-Geral da República enviou ao Supremo Tribunal Federal, nesta segunda-feira, 19, um parecer contrário ao pedido de investigação do ministro André Mendonça por abuso de autoridade. O procurador-geral da República, Paulo Gonet, …",
+   "link": "https://revistaoeste.com/politica/pgr-rejeita-acusacao-de-abuso-de-autoridade-contra-mendonca/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/04/Paulo-Gonet.jpg",
+   "data": "2026-10-19T22:35:23-03:00"
+  },
+  {
+   "id": "6191cf748432",
+   "titulo": "Flávio faz motociata no Pará; Lula participa de marcha no RS",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-19T22:25:00-03:00"
+  },
+  {
+   "id": "b39ba01d5418",
+   "titulo": "Lula desconversa sobre indicação ao STF: “Primeiro vou ganhar eleição”",
+   "resumo": "Presidente minimiza derrota política na indicação de Messias e diz que quem perdeu foi “quem não aprovou”",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-desconversa-sobre-indicacao-ao-stf-primeiro-vou-ganhar-eleicao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T22:23:52-03:00"
+  },
+  {
+   "id": "f6ae82ff4409",
+   "titulo": "Lula promete Ministério da Segurança mesmo se perder eleição",
+   "resumo": "Presidente também diz ser necessário discutir orçamento para o órgão; medida está condicionada à aprovação da PEC",
+   "link": "https://www.poder360.com.br/poder-governo/lula-promete-ministerio-da-seguranca-mesmo-se-perder-eleicao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T22:23:19-03:00"
+  },
+  {
+   "id": "4693cdc2a121",
+   "titulo": "Manifestantes pró-Lula fazem protesto em frente à sede da Meta em SP",
+   "resumo": "Manifestantes pró-Lula protestaram contra suposta interferência da Meta nas eleições presidenciais. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/manifestantes-pro-lula-fazem-protesto-em-frente-a-sede-da-meta-em-sp/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19221347/protesto-meta-sp-960x540.jpg",
+   "data": "2026-10-19T22:19:51-03:00"
+  },
+  {
+   "id": "33041ba58402",
+   "titulo": "Novo Código Civil da esquerda pode ser aprovado no pacote de maldades de Alcolumbre",
+   "resumo": "Novo Código Civil pode ser votado em ritmo acelerado no Senado mesmo que sua versão final não seja amplamente conhecida.",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/novo-codigo-civil-esquerda-votado-senado-atropelo-alcolumbre/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19125621/novo-codigo-civil-atropelo-alcolumbre-960x540.jpg",
+   "data": "2026-10-19T22:01:56-03:00"
+  },
+  {
+   "id": "1f66e225818c",
+   "titulo": "Lula diz duvidar que Congresso mais à direita retome escala 6 X 1",
+   "resumo": "Presidente afirma que medida “foi uma conquista do povo brasileiro” e que já há categorias que trabalham na jornada 5 X 2",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-duvidar-que-congresso-mais-a-direita-retome-escala-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T21:43:23-03:00"
+  },
+  {
+   "id": "5eaed4085478",
+   "titulo": "Deputado do PL diz que estava sob efeito de medicamentos durante confusão em SP",
+   "resumo": "O gabinete do deputado estadual Marcelo Aguiar (PL) afirmou nesta segunda-feira, 19, que o parlamentar estava “sob efeito de medicamentos fortes” que teriam provocado uma reação adversa e resultado em uma discussão no bar Santo, no Itaim Bi…",
+   "link": "https://oantagonista.com.br/brasil/deputado-do-pl-diz-que-estava-sob-efeito-de-medicamentos-durante-confusao-em-sp/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-19T132208.938.png",
+   "data": "2026-10-19T21:40:13-03:00"
+  },
+  {
+   "id": "2bec8c5883ee",
+   "titulo": "Lei Rouanet movimenta mais de R$ 10 bilhões no governo Lula",
+   "resumo": "Projetos culturais captaram R$ 10,4 bilhões por meio da Lei Rouanet durante o terceiro mandato do presidente Luiz Inácio Lula da Silva. O valor supera em 43% os R$ 7,3 bilhões registrados nos quatro anos do governo do ex-presidente Jair Bol…",
+   "link": "https://revistaoeste.com/politica/lei-rouanet-movimenta-mais-de-r-10-bilhoes-no-governo-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/11/img_1397.webp",
+   "data": "2026-10-19T21:36:33-03:00"
+  },
+  {
+   "id": "a16bf35ae46f",
+   "titulo": "Lula nega “bomba fiscal” e critica a autonomia do BC",
+   "resumo": "Presidente defende reajuste do Bolsa Família e afirma que não precisa aprender sobre controle de gastos com a Faria Lima",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-nega-bomba-fiscal-e-critica-a-autonomia-do-bc/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T21:36:30-03:00"
+  },
+  {
+   "id": "db06ef155584",
+   "titulo": "Não subestimei capacidade de Flávio e da direita, diz Lula",
+   "resumo": "Presidente declarou saber o que “representa o bolsonarismo”; também afirmou trabalhar para recuperar votos no Sul, Nordeste, Minas e SP",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nao-subestimei-capacidade-de-flavio-e-da-direita-diz-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-19T21:26:16-03:00"
+  },
+  {
+   "id": "e10c904f5e80",
+   "titulo": "PT assina CPMI para investigar Lulinha e cobra comissão sobre Flávio e Master",
+   "resumo": "Base do governo apoiará uma CPMI sobre Lulinha e Roberta Luchsinger e outra para investigar Flávio Bolsonaro no caso Dark Horse.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-assina-cpmi-para-investigar-lulinha-e-cobra-comissao-sobre-flavio-e-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19212423/lider-governo-senado-teresa-leitao-960x540.jpg",
+   "data": "2026-10-19T21:25:17-03:00"
+  },
+  {
+   "id": "56c10f8b3f60",
+   "titulo": "A estratégia de Silas Malafaia nas redes que impulsionou aliados nas urnas",
+   "resumo": "Pastor publicou listas de votação e pediu votos para nomes no Senado, na Câmara e nas assembleias legislativas. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/estrategia-de-silas-malafaia-nas-redes-impulsionou-aliados-nas-urnas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/14122311/Gemini_Generated_Image_h6x5ibh6x5ibh6x5-960x540.jpg",
+   "data": "2026-10-19T21:23:55-03:00"
+  },
+  {
+   "id": "eb2bf47ab0ae",
+   "titulo": "“Questão de direito das pessoas de conviverem em família”, diz Lula sobre ‘saidinha’",
+   "resumo": "O presidente Lula (PT) comentou nesta segunda-feira, 19, seu veto, em abril de 2024, à restrição das saídas temporárias dos presos, as saidinhas. O tema foi alvo de críticas do senador Flávio Bolsonaro (PL) durante o debate da Band, realiza…",
+   "link": "https://oantagonista.com.br/brasil/questao-de-direito-das-pessoas-de-conviverem-em-familia-diz-lula-sobre-saidinha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55600695895_ec073652f9_3k.jpg",
+   "data": "2026-10-19T21:18:30-03:00"
+  },
   {
    "id": "418ff093560b",
    "titulo": "Lula diz que gratuidade no transporte aos fins de semana será bancada por emendas",
@@ -67,24 +301,6 @@
    "data": "2026-10-19T20:41:37-03:00"
   },
   {
-   "id": "c1c4384ee32f",
-   "titulo": "Airbus projeta que Brasil dobrará nº de passageiros de avião até 2045",
-   "resumo": "Fabricante europeia estima que América Latina precisará de novas 2.770 aeronaves nos próximos 20 anos",
-   "link": "https://www.poder360.com.br/poder-economia/airbus-projeta-que-brasil-dobrara-no-de-passageiros-de-aviao-ate-2045/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T20:33:14-03:00"
-  },
-  {
-   "id": "36e51e424b90",
-   "titulo": "Eu me senti encabulado em debate com miliciano desqualificado, diz Lula",
-   "resumo": "Presidente disse que Flávio Bolsonaro falou “mentira e mais mentira” e voltou a cobrar que o adversário abra os sigilos bancário e telefônico",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/eu-me-senti-encabulado-em-debate-com-miliciano-desqualificado-diz-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T20:26:20-03:00"
-  },
-  {
    "id": "0b0509e39e19",
    "titulo": "Manifestantes protestam em frente à sede da Meta em SP contra suposta interferência nas eleições",
    "resumo": "",
@@ -139,15 +355,6 @@
    "data": "2026-10-19T19:55:36-03:00"
   },
   {
-   "id": "481cb45e218a",
-   "titulo": "PGR rejeita abuso de autoridade em conduta de Mendonça no caso Master",
-   "resumo": "Parecer rebate pedido de Moraes, afirma que relatórios da PF não têm valor probatório e deixa decisão para o plenário do STF",
-   "link": "https://www.poder360.com.br/poder-justica/pgr-rejeita-abuso-de-autoridade-em-conduta-de-mendonca-no-caso-master/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T19:52:12-03:00"
-  },
-  {
    "id": "3d0b9ec95458",
    "titulo": "Flávio promete acabar com entraves ambientais no Pará",
    "resumo": "O senador Flávio Bolsonaro (PL-RJ) afirmou nesta segunda-feira, 19, que pretende “acabar com entraves ambientais” e promover a “maior regularização fundiária” da história do Pará. O candidato do PL à Presidência participou de uma motocarrea…",
@@ -155,15 +362,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55567412789_8307ae0f26_k.jpg",
    "data": "2026-10-19T19:48:12-03:00"
-  },
-  {
-   "id": "7c78762ff176",
-   "titulo": "Saiba quem assinou o pedido para abertura de CPI de Luchsinger",
-   "resumo": "Pedido reúne 83 assinaturas, mas precisa de 171 deputados e 27 senadores para que comissão seja instalada",
-   "link": "https://www.poder360.com.br/poder-congresso/saiba-quem-assinou-o-pedido-para-abertura-de-cpi-de-luchsinger/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T19:36:24-03:00"
   },
   {
    "id": "5b5a96bf70b8",
@@ -184,15 +382,6 @@
    "data": "2026-10-19T19:29:41-03:00"
   },
   {
-   "id": "7e27cd1647a2",
-   "titulo": "Ministério da Agricultura confirma foco de doença de Newcastle em SC",
-   "resumo": "Estabelecimento de criação comercial de perus foi interditado em Nova Itaberaba; infecção em humanos é rara",
-   "link": "https://www.poder360.com.br/poder-agro/ministerio-da-agricultura-confirma-foco-de-doenca-de-newcastle-em-sc/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T19:28:20-03:00"
-  },
-  {
    "id": "7ce474cb53bd",
    "titulo": "GloboNews Debate reúne coordenadores das campanhas de Flávio e Lula",
    "resumo": "GloboNews Debate reúne coordenadores das campanhas de Flávio e Lula O programa GloboNews Debate recebeu, nesta segunda-feira (19), os coordenadores das campanhas de Flávio Bolsonaro (PL) e Lula (PT). . Rogério Marinho, da campanha de Flávio…",
@@ -200,15 +389,6 @@
    "fonte": "G1 Política",
    "imagem": "",
    "data": "2026-10-19T19:25:43-03:00"
-  },
-  {
-   "id": "24042765894f",
-   "titulo": "“Essa é a minha última disputa eleitoral”, diz Lula",
-   "resumo": "Presidente falou sobre o tema ao dizer que apresentará autorização ao TSE na 3ª feira (20.out) para que haja a abertura de seus sigilos bancário e telefônico",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/essa-e-a-minha-ultima-disputa-eleitoral-diz-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T19:10:13-03:00"
   },
   {
    "id": "0b21b5056a8d",
@@ -236,15 +416,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/shutterstock_2590735383.jpg",
    "data": "2026-10-19T19:01:26-03:00"
-  },
-  {
-   "id": "d47a9353f064",
-   "titulo": "Demanda por combustíveis deve crescer 2,5% em 2027, diz EPE",
-   "resumo": "Maior aumento proporcional deve ser do etanol hidratado; estatal projeta recorde no QAV",
-   "link": "https://www.poder360.com.br/poder-energia/demanda-por-combustiveis-deve-crescer-25-em-2027-diz-epe/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-19T18:57:36-03:00"
   },
   {
    "id": "959548a5ba8c",
@@ -346,15 +517,6 @@
    "data": "2026-10-19T17:44:02-03:00"
   },
   {
-   "id": "c951c155bb6a",
-   "titulo": "PGR é contra pedido de Moraes para investigar Mendonça",
-   "resumo": "PGR se manifestou contra pedido de Moraes para investigar Mendonça por supostas irregularidades nas relatorias dos casos Master e INSS.",
-   "link": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-pedido-de-moraes-para-investigar-mendonca/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19172657/mendonca-moraes-960x540.jpg",
-   "data": "2026-10-19T17:43:50-03:00"
-  },
-  {
    "id": "573a00afb048",
    "titulo": "Janones poderá ter alta em 48 horas, diz boletim médico",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/janones-podera-ter-alta-em-48-horas-diz-boletim-medico\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as…",
@@ -382,15 +544,6 @@
    "data": "2026-10-19T17:18:21-03:00"
   },
   {
-   "id": "5bbf88ac33db",
-   "titulo": "Presidente do PL critica reforma eleitoral articulada pelo centrão",
-   "resumo": "Valdemar Costa Neto criticou a iniciativa do centrão que ganhou força depois do avanço do PL nas eleições de 2026.",
-   "link": "https://www.gazetadopovo.com.br/republica/presidente-do-pl-critica-reforma-eleitoral-articulada-pelo-centrao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19161837/pl_imprensa_mcajr_abr_2311222323-960x540.jpg",
-   "data": "2026-10-19T17:16:27-03:00"
-  },
-  {
    "id": "01ee0bf13951",
    "titulo": "Na TV, Flávio Bolsonaro pede 'mobilização total' e Lula aborda o assassinato de Ana Clara, de 5 anos",
    "resumo": "",
@@ -398,15 +551,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/p5GRtbDZGMkAN25P-TZOrRj5OZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/No8UvgTfSGzgY30WdrGg/montagem-horizontal-1280x720px.jpg",
    "data": "2026-10-19T17:11:16-03:00"
-  },
-  {
-   "id": "912103ddae80",
-   "titulo": "Crusoé: Presidente da OAB acusa Lula de tentar “criminalizar a advocacia” em debate",
-   "resumo": "O presidente do Conselho Federal da OAB, Beto Simonetti, acusou o presidente Lula (PT) de tentar “criminalizar a advocacia“ no debate contra Flávio Bolsonaro (PL) no domingo, 18. Durante o debate, o petista criticou a atuação do filho do ex…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-presidente-da-oab-acusa-lula-de-tentar-criminalizar-a-advocacia-em-debate/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55597093007_97c493de12_k-1.jpg",
-   "data": "2026-10-19T17:10:03-03:00"
   },
   {
    "id": "bbb460cf1d4c",
@@ -427,15 +571,6 @@
    "data": "2026-10-19T16:59:42-03:00"
   },
   {
-   "id": "4717a87cc70f",
-   "titulo": "Lula usa relógio quase 100 vezes mais caro que o de Flávio em debate",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) usou um relógio avaliado em cerca de R$ 42 mil no debate presidencial da TV Bandeirantes, realizado neste domingo, 18. O senador Flávio Bolsonaro (PL), adversário do petista no segundo turno, comp…",
-   "link": "https://revistaoeste.com/politica/lula-usa-relogio-quase-100-vezes-mais-caro-que-o-de-flavio-em-debate/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-lula-debate-band-1.jpg",
-   "data": "2026-10-19T16:56:30-03:00"
-  },
-  {
    "id": "b9847238dd9b",
    "titulo": "Proposta da assessora de Flávio ignora lógica atual do Bolsa Família",
    "resumo": "Daniella Marques indicou que Bolsa Família pode passar a ser atrelado a emprego, enquanto lógica atual do programa é na renda familiar",
@@ -452,33 +587,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/iYBrTbCuJI91qc27PFPwsOJXYlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/z/z9Q2cBQni9Sm47KwiMjQ/fabiano-zetel.jpeg",
    "data": "2026-10-19T16:53:41-03:00"
-  },
-  {
-   "id": "8a1cf9292088",
-   "titulo": "Alcolumbre adia votação da PEC da Segurança Pública para depois do 2º turno",
-   "resumo": "Alcolumbre adia votação da PEC da Segurança Pública após impasse entre governo e oposição sobre a redução da maioridade penal.",
-   "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-adia-votacao-da-pec-da-seguranca-publica-para-depois-do-2o-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19164406/alcolumbre-2-960x540.jpg",
-   "data": "2026-10-19T16:46:50-03:00"
-  },
-  {
-   "id": "ecfb75c00c54",
-   "titulo": "Flávio Saretta declara voto em Flávio; vídeo",
-   "resumo": "O ex-tenista profissional Flávio Saretta declarou voto no senador Flávio Bolsonaro (PL) e criticou o presidente Lula da Silva (PT) em um vídeo publicado neste domingo, 18, em seu perfil no Instagram. Saretta, que reúne mais de 200 mil segui…",
-   "link": "https://revistaoeste.com/politica/flavio-saretta-declara-voto-em-flavio-video/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/saretta_voto-em-flavio-2.jpeg",
-   "data": "2026-10-19T16:46:40-03:00"
-  },
-  {
-   "id": "6856c78aa742",
-   "titulo": "Janones está estável e pode receber alta em até 48 horas, diz boletim",
-   "resumo": "O deputado federal André Janones (Rede-MG) está clinicamente estável e poderá receber alta hospitalar nas próximas 48 horas, caso mantenha as atuais condições de saúde. A informação consta em boletim médico divulgado na tarde desta segunda-…",
-   "link": "https://oantagonista.com.br/brasil/janones-esta-estavel-e-pode-receber-alta-em-ate-48-horas-diz-boletim/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Andre-Janones.jpg",
-   "data": "2026-10-19T16:42:43-03:00"
   },
   {
    "id": "c34f54e4a09c",
@@ -499,33 +607,6 @@
    "data": "2026-10-19T16:33:53-03:00"
   },
   {
-   "id": "6c0ebd58d599",
-   "titulo": "Douglas Ruas oficializa equipe de transição para o próximo governo do Rio",
-   "resumo": "O governador eleito do Rio de Janeiro, Douglas Ruas (PL), anunciou os integrantes da equipe que ficará responsável pela transição de governo. A composição do grupo foi oficializada nesta segunda-feira, 19, por meio de publicação no Diário O…",
-   "link": "https://revistaoeste.com/politica/douglas-ruas-oficializa-equipe-de-transicao-para-o-proximo-governo-do-rio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/ruas.jpg",
-   "data": "2026-10-19T16:31:17-03:00"
-  },
-  {
-   "id": "f6fd6f33b502",
-   "titulo": "Janones é internado na UTI com arritmia cardíaca após debate da Band",
-   "resumo": "Parlamentar está clinicamente estável e permanece sob monitoramento cardíaco após crise de arritmia. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/janones-internado-uti-com-arritmia-cardiaca-apos-debate-band/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19114614/andre-janones-com-simone-tebet-debate-band-foto-renato-pizzutto-band-960x540.jpg",
-   "data": "2026-10-19T16:30:16-03:00"
-  },
-  {
-   "id": "d7259c5a62bd",
-   "titulo": "Quase 500 mil brasileiros na malha fina receberão carta da Receita Federal",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/19/quase-500-mil-brasileiros-na-malha-fina-receberao-carta-da-receita-federal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/2QYWBG_S54nAMNevSUbTA5doiZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/fgPHcHSfS27EDbXGd0Qg/imposto-de-renda.jpg",
-   "data": "2026-10-19T16:28:21-03:00"
-  },
-  {
    "id": "c83f9e456603",
    "titulo": "Lula se diz incomodado com preparo de Flávio para o debate da Band",
    "resumo": "Petista acusou Flávio Bolsonaro de ser miliciano e ter sido preparado para \"mentir\" no debate. Leia na Gazeta do Povo.",
@@ -535,15 +616,6 @@
    "data": "2026-10-19T16:21:23-03:00"
   },
   {
-   "id": "591745df1bd9",
-   "titulo": "TSE dá 24h à Meta para provar tratamento igualitário a Lula e Flávio",
-   "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE) , deu um prazo de 24 horas à Meta para que comprove o cumprimento das medidas destinadas a garantir tratamento isonômico às campanhas de Luiz Inácio Lula da Silva e Flá…",
-   "link": "https://revistaoeste.com/politica/tse-da-24h-para-meta-provar-tratamento-igualitario-a-lula-e-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-x-flavio.jpg",
-   "data": "2026-10-19T15:58:47-03:00"
-  },
-  {
    "id": "f12818d31a5b",
    "titulo": "Zanin cobra TSE sobre ação do PSD para contestar eleição de Ruas no RJ",
    "resumo": "Ministro do STF dá cinco dias para Tribunal Superior Eleitoral explicar decisão que anulou 274 mil votos de Anthony Garotinho. Leia na Gazeta do Povo.",
@@ -551,15 +623,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/19154514/cristiano-zanin-foto-carlos-moura-stf-960x540.jpg",
    "data": "2026-10-19T15:45:33-03:00"
-  },
-  {
-   "id": "3bcf082fd089",
-   "titulo": "GloboNews Debate recebe coordenadores das campanhas de Lula e Flávio Bolsonaro nesta segunda-feira",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-recebe-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/2hLDUStywzhoL2GYRFwGsWi9Hl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/Vy1oJjQeWCnEEGORsTPQ/edinho-e-rogerio-marinho.jpg",
-   "data": "2026-10-19T15:34:16-03:00"
   },
   {
    "id": "29997bd0e6c1",
@@ -580,15 +643,6 @@
    "data": "2026-10-19T15:05:38-03:00"
   },
   {
-   "id": "4951802a5918",
-   "titulo": "Roberta Luchsinger chama Lula de “mentiroso” durante debate da Band",
-   "resumo": "Lobista rebateu acusações do presidente e afirmou colaborar com a Polícia Federal sobre relação com Lulinha. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/roberta-luchsinger-lula-mentiroso-debate-band/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19150025/lula-foto-renato-pizzutto-band-960x540.jpg",
-   "data": "2026-10-19T15:00:43-03:00"
-  },
-  {
    "id": "75b33b7dda8d",
    "titulo": "ANPD cobra Meta por bloqueios e remoção de conteúdos",
    "resumo": "Agência deu cinco dias para que big tech explique critérios para restrições e possibilidade de recurso. Leia na Gazeta do Povo.",
@@ -596,15 +650,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/19134456/ASPA-GRANDE-2026-10-19T134453.159-960x540.jpg",
    "data": "2026-10-19T13:47:08-03:00"
-  },
-  {
-   "id": "5490b952296e",
-   "titulo": "Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/peRTn9Y57BZdQULKez6ZLN9AVCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/x/M8FbZFR3a7ryAvSyAipg/2026-10-18t235824z-399622985-rc2z5oabxsy4-rtrmadp-3-brazil-election-debate.jpg",
-   "data": "2026-10-19T13:24:00-03:00"
   },
   {
    "id": "8d8b4f1aadca",
@@ -623,24 +668,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-19T12:57:00-03:00"
-  },
-  {
-   "id": "d499e42bb21e",
-   "titulo": "Governo Lula antecipa Bolsa Família com reajuste antes do segundo turno",
-   "resumo": "Benefício mínimo sobe para R$ 691 e pagamentos de outubro serão concluídos quatro dias antes da votação presidencial. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/economia/governo-lula-antecipa-bolsa-familia-reajuste-antes-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19125030/bolsa-familia-foto-jose-cruz-agencia-brasil-960x540.jpg",
-   "data": "2026-10-19T12:54:13-03:00"
-  },
-  {
-   "id": "199d596262ec",
-   "titulo": "O que a campanha de Flávio prepara antes do segundo turno",
-   "resumo": "Flávio Bolsonaro intensifica a agenda de campanha antes do segundo turno, com debates, atos de rua e viagens pelo país. Veja a programação",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/do-debate-da-globo-aos-atos-de-rua-agenda-final-flavio-bolsonaro-antes-do-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19120446/nikolas-flavio-segundo-turno-960x540.jpg",
-   "data": "2026-10-19T12:39:07-03:00"
   },
   {
    "id": "86ba37a6b6dd",
@@ -724,15 +751,6 @@
    "data": "2026-10-18T23:32:13-03:00"
   },
   {
-   "id": "412abc4ff14a",
-   "titulo": "Ato em apoio à democracia e a Lula reúne milhares no Rio e Brasília",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-no-rio-e-brasilia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-em-apoio-democracia-e-lula-reune-milhares-no-rio-e-brasilia",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-18T22:53:00-03:00"
-  },
-  {
    "id": "0130a17d80b2",
    "titulo": "Ministro de Lula discute com assessor de Flávio no debate da Band",
    "resumo": "Ministro da Secom, Sidônio Palmeira, se irritou com estratégia de Flávio Bolsonaro de permanecer atrás de Lula durante as falas do petista",
@@ -758,15 +776,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2022/05/17174447/WhatsApp-Image-2022-05-17-at-17.44.21-1.jpeg",
    "data": "2026-10-18T10:00:52-03:00"
-  },
-  {
-   "id": "5489f7136bc5",
-   "titulo": "Petistas dizem que chance de Flávio alterar fim da 6x1 é \"zero\"",
-   "resumo": "Para petistas, qualquer tentativa de Flávio Bolsonaro em mexer na escala de trabalho poderia ser declarada inconstitucional pelo Supremo",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/petistas-dizem-que-chance-de-flavio-alterar-fim-da-6x1-e-zero",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-3.jpg",
-   "data": "2026-10-18T09:00:52-03:00"
   }
  ]
 }
