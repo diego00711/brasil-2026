@@ -1,34 +1,502 @@
 {
- "atualizado": "2026-10-20T13:53:31.110074-03:00",
- "total": 86,
+ "atualizado": "2026-10-20T17:30:56.349998-03:00",
+ "total": 82,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "dc5ea2b54d91",
-   "titulo": "TMC inaugura nova sede na av. Paulista em aniversário de 1 ano",
-   "resumo": "Governador de São Paulo e prefeito participaram de evento de expansão da marca multimídia do empresário João Camargo",
-   "link": "https://www.poder360.com.br/poder-midia/tmc-inaugura-nova-sede-na-av-paulista-em-aniversario-de-1-ano/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/eventotmc2.jpg",
-   "data": "2026-10-20T13:52:32-03:00"
+   "id": "7ba51b835535",
+   "titulo": "Pazolini (Republicanos) tem 52% dos votos válidos no Espírito Santo, mostra pesquisa",
+   "resumo": "O ex-prefeito de Vitória Lorenzo Pazolini (Republicanos) lidera as intenções de voto para o governo do Espírito Santo, com 52% dos votos válidos, contra 48% do governador Ricardo Ferraço (MDB). Os números são de pesquisa Real Time Big Data …",
+   "link": "https://revistaoeste.com/politica/pazolini-republicanos-tem-52-dos-votos-validos-no-espirito-santo-mostra-pesquisa/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/pazolini-ferraco.jpeg",
+   "data": "2026-10-20T17:21:26-03:00"
   },
   {
-   "id": "a768ee4bcedf",
-   "titulo": "Flávio promete pacificar o Brasil e governar para todos",
-   "resumo": "Senador critica Lula e promete atender Estados independentemente da orientação política dos governadores",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-pacificar-o-brasil-e-governar-para-todos/",
+   "id": "e2a0d44242df",
+   "titulo": "“O Judiciário precisa passar por uma reforma”, afirma Alckmin ao propor fim da indicação pessoal para o STF",
+   "resumo": "Em entrevista para a Gazeta do Povo, vice-presidente Geraldo Alckmin (PSB) propõe fim da indicação pessoal para o STF. Saiba mais:",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/o-judiciario-precisa-passar-por-uma-reforma-afirma-alckmin-ao-propor-fim-da-indicacao-pessoal-para-o-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20170411/Alckmin-960x540.jpg",
+   "data": "2026-10-20T17:11:18-03:00"
+  },
+  {
+   "id": "4407f7c7c7d8",
+   "titulo": "PT pede CPI contra Flávio Bolsonaro e investigação de Lulinha às vésperas do segundo turno",
+   "resumo": "Partido muda estratégia e passa a defender investigação do filho do presidente Lula às vésperas do segundo turno da eleição presidencial. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-cpi-contra-flavio-bolsonaro-investigacao-lulinha/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20171032/lula-com-flavio-bolsonaro-foto-renato-pizzutto-band-960x540.jpg",
+   "data": "2026-10-20T17:10:54-03:00"
+  },
+  {
+   "id": "53647a91c616",
+   "titulo": "Entenda as regras para sair do Bolsa Família e o que defende Flávio",
+   "resumo": "Proposta de Daniella Marques, da campanha do senador, defende maior período de transição que o modelo atual e retorno imediato do beneficiário em caso de perda de renda; hoje, ele entra em fila prioritária e pode esperar até 3 anos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/entenda-as-regras-para-sair-do-bolsa-familia-e-o-que-defende-flavio/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/regra-saida-bolsa-familia-lula-proposta-bolsonaro-20-out-2026-scaled.png",
+   "data": "2026-10-20T17:09:26-03:00"
+  },
+  {
+   "id": "c955ffb2b271",
+   "titulo": "Pagamentos do SUS: STF vai julgar caso que pode custar R$ 24 bi por ano",
+   "resumo": "O Supremo Tribunal Federal (STF) reconheceu a repercussão geral de uma disputa que pode provocar impacto de cerca de R$ 24 bilhões por ano no orçamento do Ministério da Saúde . Por 9 votos a 1, a Corte decidiu analisar a possibilidade de re…",
+   "link": "https://revistaoeste.com/politica/sus-stf-custos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/gilmar-mendes-stf.jpg",
+   "data": "2026-10-20T17:08:49-03:00"
+  },
+  {
+   "id": "9baa47f0f471",
+   "titulo": "André Janones recebe alta e deixa hospital em São Paulo",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/andre-janones-recebe-alta-e-deixa-hospital-em-sao-paulo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/andre-janones-recebe-alta-e-deixa-hospital-em-sao-paulo",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-20T17:07:00-03:00"
+  },
+  {
+   "id": "0988eec1eebf",
+   "titulo": "TSE reduz para 453 o número de locais de votação alterados no 2º turno",
+   "resumo": "Dados anteriores do sistema da Justiça Eleitoral indicavam até 4.300 alterações; eleitores devem consultar o local de votação no site do tribunal",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-reduz-para-453-o-numero-de-locais-de-votacao-alterados-no-2o-turno/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-20T13:51:00-03:00"
+   "data": "2026-10-20T17:04:55-03:00"
   },
   {
-   "id": "e32e6cce9d91",
-   "titulo": "Nikolas critica reação da esquerda a vídeo do influenciador Felca",
-   "resumo": "O deputado federal reeleito Nikolas Ferreira (PL-MG) afirmou nesta terça-feira, 20, que a esquerda queria usar o youtuber Felca para fins políticos. No entanto, segundo ele, a tentativa fracassou porque o influenciador publicou um vídeo sem…",
-   "link": "https://revistaoeste.com/politica/nikolas-critica-reacao-da-esquerda-a-video-do-influenciador-felca/",
+   "id": "eaee1741fa3a",
+   "titulo": "Eleições: saiba quais documentos são aceitos para votar no 2° turno",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-quais-documentos-sao-aceitos-para-votar-no-2deg-turno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-quais-documentos-sao-aceitos-para-votar-no-2deg-turno",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-20T17:00:00-03:00"
+  },
+  {
+   "id": "90a3f54c9c5e",
+   "titulo": "PT anuncia apoio à CPMI para investigar Lulinha",
+   "resumo": "O líder do PT na Câmara dos Deputados , Pedro Uczai (SC), anunciou nesta terça-feira, 20, que integrantes do partido assinaram o requerimento da oposição para criar uma Comissão Parlamentar Mista de Inquérito (CPMI) sobre Fábio Luís Lula da…",
+   "link": "https://revistaoeste.com/politica/cpmi-sobre-lulinha-apoio-pt/",
    "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/03/Ferreira-Nikolas-.jpg",
-   "data": "2026-10-20T13:45:11-03:00"
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-20-at-15.17.19.jpeg",
+   "data": "2026-10-20T16:53:03-03:00"
+  },
+  {
+   "id": "a6dede36a35c",
+   "titulo": "Governo Lula envia milhões de mensagens via WhatsApp em ano eleitoral",
+   "resumo": "O governo do presidente Luiz Inácio Lula da Silva (PT) envia milhões de mensagens via WhatsApp para divulgar programas sociais e ações da administração federal. Segundo a CNN Brasil, a gestão utiliza o número oficial do GovBR nas comunicaçõ…",
+   "link": "https://revistaoeste.com/politica/governo-lula-envia-milhoes-de-mensagens-via-whatsapp-em-ano-eleitoral/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula_nazismo.jpeg",
+   "data": "2026-10-20T16:46:42-03:00"
+  },
+  {
+   "id": "b2e687851d49",
+   "titulo": "Milei reproduz mentiras sobre urnas e tenta interferir no processo eleitoral brasileiro, diz Itamaraty",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/milei-reproduz-mentiras-sobre-urnas-e-tenta-interferir-no-processo-brasileiro-diz-itamaraty.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/1ZdkM2vVBAoIpGtPvWrfTUiw9yE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/M/fSArM6RiuaF6rZGwXmNA/photo-collage.png-1-.png",
+   "data": "2026-10-20T16:38:20-03:00"
+  },
+  {
+   "id": "d191154278a3",
+   "titulo": "Flávio Arns declara apoio a Lula no 2º turno",
+   "resumo": "O senador Flávio Arns (PSB) declarou apoio a Lula (PT) e elogiou o vice-presidente Geraldo Alckmin (PSB). Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/flavio-arns-declara-apoio-a-lula-no-2o-turno/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20162748/Flavio-Arns-960x540.jpg",
+   "data": "2026-10-20T16:33:48-03:00"
+  },
+  {
+   "id": "ee9697e83457",
+   "titulo": "Sobe para 4 o número de locais de votação alterados no 2° turno em SP; veja endereços",
+   "resumo": "",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/20/sobe-para-4-o-numero-de-locais-de-votacao-alterados-no-2-turno-em-sp-veja-enderecos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Mb4rrC-SLY2McV7Lxy1qTfu4Zws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/x/gewSyBTBGXLwt5NNBewg/pin5468.jpg-3.jpg",
+   "data": "2026-10-20T16:31:37-03:00"
+  },
+  {
+   "id": "6e0e51ed0c5b",
+   "titulo": "Janones recebe alta em SP e diz que retomará campanha",
+   "resumo": "Deputado federal foi internado por arritmia cardíaca; Janones lidera canal de apoio a Lula no WhatsApp",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-recebe-alta-em-sp-e-diz-que-retomara-campanha/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-20-10-2026-as-16.16.png",
+   "data": "2026-10-20T16:31:31-03:00"
+  },
+  {
+   "id": "bea7ecf86249",
+   "titulo": "Meta recusa pedido federal para criar canal de proteção a jornalistas",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/meta-recusa-pedido-federal-para-criar-canal-de-protecao-jornalistas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/meta-recusa-pedido-federal-para-criar-canal-de-protecao-jornalistas",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-20T16:31:00-03:00"
+  },
+  {
+   "id": "d07a99b38c5f",
+   "titulo": "Brasil passa sauditas e vira 2º maior fornecedor de petróleo da China",
+   "resumo": "Chineses importaram importaram 44,29 milhões de toneladas de óleo bruto do mercado brasileiro nos primeiros 9 meses do ano; a Rússia lidera como principal fornecedora do mercado chinês",
+   "link": "https://www.poder360.com.br/poder-energia/brasil-passa-sauditas-e-vira-2o-maior-fornecedor-de-petroleo-da-china/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-20T16:29:50-03:00"
+  },
+  {
+   "id": "3673497cf6a3",
+   "titulo": "Governo de SP entrega 200 mil tablets a escolas estaduais",
+   "resumo": "O governo de São Paulo entregou 95 mil dos 200 mil tablets comprados para a rede estadual de ensino e prevê concluir, até 31 de outubro, a distribuição dos 105 mil restantes, informou a Secretaria da Educação nesta terça-feira, 20. A aquisi…",
+   "link": "https://oantagonista.com.br/brasil/governo-de-sp-entrega-200-mil-tablets-a-escolas-estaduais/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55600653542_908ac25611_k-1024x690-1.jpg",
+   "data": "2026-10-20T16:22:37-03:00"
+  },
+  {
+   "id": "11614b2f3db8",
+   "titulo": "Mailza Assis (PP) lidera disputa pelo governo do Acre com 59%",
+   "resumo": "A governadora do Acre , Mailza Assis (PP), tem 59% das intenções de votos válidos na disputa pelo governo estadual, contra 41% do senador Alan Rick (Republicanos). Os dados são da pesquisa do instituto Real Time Big Data, divulgada nesta te…",
+   "link": "https://revistaoeste.com/politica/mailza-assis-lidera-disputa-pelo-governo-do-acre-com-59/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/governo-acre.png",
+   "data": "2026-10-20T16:16:33-03:00"
+  },
+  {
+   "id": "7b087a9680ff",
+   "titulo": "Flórida emite mandado de prisão contra Raúl Castro por ataque em 1996",
+   "resumo": "Procuradoria afirma que ex-presidente cubano autorizou derrubada de 2 aviões civis, que deixou 4 mortos",
+   "link": "https://www.poder360.com.br/poder-internacional/florida-emite-mandado-de-prisao-contra-raul-castro-por-ataque-em-1996/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-20T16:13:18-03:00"
+  },
+  {
+   "id": "7533d075ebbc",
+   "titulo": "Alexandre de Moraes assume relatoria de investigação contra Flávio Bolsonaro",
+   "resumo": "Ministro Alexandre de Moraes relata novo inquérito da PF sobre lavagem de dinheiro envolvendo Flávio Bolsonaro e Willer Tomaz. Entenda o impacto nas eleições.",
+   "link": "https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-assume-relatoria-de-investigacao-contra-flavio-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20161153/video-moraes-jatinho-ligado-vorcaro-1-960x540.jpg",
+   "data": "2026-10-20T16:11:50-03:00"
+  },
+  {
+   "id": "46bb06c1105e",
+   "titulo": "Lula promete quarto mandato histórico e “surra nos bolsonaristas”",
+   "resumo": "Presidente afirma que esta será sua última disputa pelo Planalto e promete ampliar programas sociais. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-promete-quarto-mandato-historico-surra-bolsonaristas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20155617/lula-campanha-sao-luis-20-10-2026-foto-ricardo-stuckert-secom-960x540.jpg",
+   "data": "2026-10-20T16:10:55-03:00"
+  },
+  {
+   "id": "213bdd1683a0",
+   "titulo": "Com Lula na cola, Flávio apela para seu próprio pacote de bondades",
+   "resumo": "Com Lula próximo nas pesquisas, Flávio Bolsonaro começa a apelar para a volta do Perse e capitalizar na regra de transição do Bolsa Família",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/com-lula-na-cola-flavio-apela-para-seu-proprio-pacote-de-bondades",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/debate-band-lula-e-flavio-4.jpg",
+   "data": "2026-10-20T16:10:02-03:00"
+  },
+  {
+   "id": "50cd700f8e6e",
+   "titulo": "Deputado cobra Defesa por gastos e efetivo contra queimadas no Amazonas",
+   "resumo": "O deputado federal Capitão Alberto Neto (PL-AM) protocolou nesta terça-feira, 20, um requerimento para que o Ministério da Defesa informe o efetivo, os custos e a estrutura mobilizada pelas Forças Armadas no combate aos incêndios florestais…",
+   "link": "https://oantagonista.com.br/brasil/deputado-cobra-defesa-por-gastos-e-efetivo-contra-queimadas-no-amazonas/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/img20260715125616164.jpg",
+   "data": "2026-10-20T16:04:40-03:00"
+  },
+  {
+   "id": "95fad3b1f33f",
+   "titulo": "TSE rejeita pedido de Flávio contra fala de Lula que liga Vorcaro a Bolsonaro",
+   "resumo": "A ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), rejeitou o pedido do senador Flávio Bolsonaro (PL) para retirar do ar um vídeo em que o presidente Lula (PT) afirma que Daniel Vorcaro “virou banqueiro no governo Bolsonaro” e …",
+   "link": "https://oantagonista.com.br/brasil/tse-rejeita-pedido-de-flavio-contra-fala-de-lula-que-liga-vorcaro-a-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Flavio-Bolsonaro-e-Lula.jpg",
+   "data": "2026-10-20T16:02:12-03:00"
+  },
+  {
+   "id": "ec21a46f8a34",
+   "titulo": "Crusoé: Realtime reforça vantagem de Celina Leão no DF",
+   "resumo": "Pesquisa Realtime Big Data, divulgada nesta terça-feira, 20, reforça a vantagem de Celina Leão (PP) na disputa ao governo do Distrito Federal. A candidata à reeleição tem 53% das intenções de voto, ante 37% de Leandro Grass (PT). Brancos e …",
+   "link": "https://oantagonista.com.br/brasil/crusoe-realtime-reforca-vantagem-de-celina-leao-no-df/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Celina-Leao.jpg",
+   "data": "2026-10-20T16:02:00-03:00"
+  },
+  {
+   "id": "c069a8356b5f",
+   "titulo": "Bolsa brasileira ganha R$ 515 bi em outubro; 4ª maior alta desde 2020",
+   "resumo": "Valor de mercado das empresas listadas na B3 cresceu 10,02% em 13 pregões, no 4º maior avanço nominal mensal desde 2020",
+   "link": "https://www.poder360.com.br/poder-economia/bolsa-brasileira-ganha-r-515-bi-em-outubro-4a-maior-alta-desde-2020/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/b3-ganha-515-bilhoes-em-outubro-2-out-2026-01-scaled.png",
+   "data": "2026-10-20T15:57:38-03:00"
+  },
+  {
+   "id": "d090eed3eb75",
+   "titulo": "A cinco dias do segundo turno, PT resgata caso de mansão ligada a Flávio",
+   "resumo": "A cinco dias do segundo turno presidencial, o PT voltou a questionar a disputa por uma mansão em Angra dos Reis (RJ), associada ao senador Flávio Bolsonaro (PL-RJ). Nesta terça-feira, 20, durante uma coletiva no Salão Verde da Câmara, o líd…",
+   "link": "https://oantagonista.com.br/brasil/a-cinco-dias-do-segundo-turno-pt-resgata-caso-de-mansao-ligada-a-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-20T155416.295.png",
+   "data": "2026-10-20T15:57:32-03:00"
+  },
+  {
+   "id": "979d15c8e525",
+   "titulo": "Tocantins: Vicentinho Júnior (PSDB) tem 52% contra 48% de Dorinha (União), diz Real Time",
+   "resumo": "Uma pesquisa do Real Time Big Data divulgada nesta terça-feira, 20, mostra que o deputado federal Vicentinho Júnior (PSDB) lidera a corrida pelo governo do Tocantins , com 4 pontos porcentuais de vantagem sobre a senadora Professora Dorinha…",
+   "link": "https://revistaoeste.com/politica/tocantins-vicentinho-junior-tem-52-contra-48-de-dorinha-diz-real-time/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/parana-pesquisas-disputa-pelo-governo-do-tocantins-tem-empate-tecnico.jpg",
+   "data": "2026-10-20T15:55:15-03:00"
+  },
+  {
+   "id": "b5b7a5f5757f",
+   "titulo": "Arena Fonte Nova fecha acordo de naming rights com Acelen",
+   "resumo": "Parceria com empresa do setor de energia mantém elementos históricos do estádio na Bahia, que será uma das sedes da Copa do Mundo Feminina de 2027",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/arena-fonte-nova-fecha-acordo-de-naming-rights-com-acelen/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-20T15:51:04-03:00"
+  },
+  {
+   "id": "429320f43bbb",
+   "titulo": "Flávio “conseguiu encurralar” Lula em debate da “Band”, diz Tarcísio",
+   "resumo": "Governador de SP afirma que corrupção é \"tônica\" dos governos petistas e citou casos como Mensalão",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-conseguiu-encurralar-lula-em-debate-da-band-diz-tarcisio/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/TolSjHYz5Jg/hqdefault.jpg",
+   "data": "2026-10-20T15:49:27-03:00"
+  },
+  {
+   "id": "7fa1b6f87736",
+   "titulo": "Na TV, Lula exibe depoimento da mãe de Paulo Gustavo, morto por Covid; Flávio Bolsonaro se diz vencedor de debate",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/horario-eleitoral-presidente-20-outubro-lula-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/arSiEJzjIMj1zeNctbW0IKHsI34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/b/6EoLjsQ1upf9AvzbWo4A/lula-e-flavio.jpg",
+   "data": "2026-10-20T15:46:04-03:00"
+  },
+  {
+   "id": "4516f7b54009",
+   "titulo": "Novo fundo financiará de 5 a 10 projetos de minerais críticos, diz governo",
+   "resumo": "Secretário de Mineração do MME afirma que Planalto regulamentará Fundo Garantidor nos próximos meses",
+   "link": "https://www.poder360.com.br/poder-governo/novo-fundo-financiara-5-a-10-projetos-de-minerais-criticos-diz-governo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-20T15:39:13-03:00"
+  },
+  {
+   "id": "8e89d8233b1c",
+   "titulo": "Etanol vale a pena em 11 Estados e preço só não é competitivo em 3 UFs",
+   "resumo": "Preço médio do combustível está abaixo de 75% do valor da gasolina em 24 unidades da federação",
+   "link": "https://www.poder360.com.br/poder-energia/etanol-vale-a-pena-em-11-estados-e-preco-so-nao-e-competitivo-em-3-ufs/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-20T15:39:02-03:00"
+  },
+  {
+   "id": "e0df625ed810",
+   "titulo": "Crusoé: Realtime aponta Allyson à frente de Cadu de Lula no RN",
+   "resumo": "Levantamento Realtime Big Data, divulgado nesta terça-feira, 20, aponta Allyson Bezerra (União Brasil) numericamente à frente de Cadu de Lula (PT) na disputa ao governo do Rio Grande do Norte. O ex-prefeito de Mossoró tem 45% das intenções …",
+   "link": "https://oantagonista.com.br/brasil/crusoe-realtime-aponta-allyson-a-frente-de-cadu-de-lula-no-rn/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Allyson-Bezerra-e-Cadu-de-Lula-1.png",
+   "data": "2026-10-20T15:35:58-03:00"
+  },
+  {
+   "id": "c494d4e630e5",
+   "titulo": "PT aceita investigar Lulinha, mas cobra oposição em CPMI contra Flávio",
+   "resumo": "O PT decidiu apoiar a comissão parlamentar mista de inquérito (CPMI) proposta pela oposição para investigar Fábio Luís Lula da Silva, o Lulinha, filho do presidente Lula, e a empresária Roberta Luchsinger. Em contrapartida, o líder do parti…",
+   "link": "https://oantagonista.com.br/brasil/pt-aceita-investigar-lulinha-mas-cobra-oposicao-em-cpmi-contra-flavio-1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/pedro-uczai-1.jpg",
+   "data": "2026-10-20T15:30:09-03:00"
+  },
+  {
+   "id": "221be067d3c8",
+   "titulo": "Amazonas: Omar Aziz (PSD) tem 53% contra 47% de Maria do Carmo (PL), diz pesquisa",
+   "resumo": "Pesquisa do instituto Real Time Big Data divulgada nesta terça-feira, 20, mostra o ex-governador do Amazonas Omar Aziz (PSD) na liderança das intenções de voto contra Professora Maria do Carmo (PL) na disputa pelo governo do Estado . De aco…",
+   "link": "https://revistaoeste.com/politica/amazonas-omar-aziz-tem-53-contra-47-de-maria-do-carmo-diz-pesquisa/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/omar-aziz_amazonas.jpeg",
+   "data": "2026-10-20T15:26:10-03:00"
+  },
+  {
+   "id": "1e0b32594015",
+   "titulo": "Flávio Bolsonaro se reúne com influenciadores em SP, e Marçal orienta evitar críticas a Lula e defende 'vender o medo'",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/flavio-bolsonaro-reune-influenciadores-evento-marcal.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/EGH2tfjtbyXsNFS9jdBQO1XsXKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/H/i0Ocq5QeezbkObKShJ9w/flavio-influencers.jpg",
+   "data": "2026-10-20T15:18:26-03:00"
+  },
+  {
+   "id": "dd2751712b23",
+   "titulo": "Janones recebe alta hospitalar: “Direita nunca mais terá hegemonia nas redes”",
+   "resumo": "O deputado federal André Janones (Rede-MG) recebeu alta hospitalar nesta terça-feira, 20, após ser internado por uma arritmia cardíaca, e afirmou, em entrevista a jornalistas, que retomará com “força máxima” sua atuação na reta final da cam…",
+   "link": "https://oantagonista.com.br/brasil/janones-recebe-alta-hospitalar-direita-nunca-mais-tera-hegemonia-nas-redes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Andre-Janones.jpg",
+   "data": "2026-10-20T15:16:18-03:00"
+  },
+  {
+   "id": "74e1aaf65dd2",
+   "titulo": "Nikolas publica vídeo com relatos de nordestinos sobre promessas de Lula",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) publicou nesta terça-feira, 20, um vídeo com depoimentos de moradores do Nordeste que relatam dificuldades de acesso a serviços básicos, despesas com medicamentos e falta de oportunidades de empre…",
+   "link": "https://revistaoeste.com/politica/nikolas-publica-video-com-relatos-de-nordestinos-sobre-promessas-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Nikolas-Ferreira-2026.jpg",
+   "data": "2026-10-20T15:15:55-03:00"
+  },
+  {
+   "id": "df3d8312895f",
+   "titulo": "Convergência Brasil declara apoio a Flávio Bolsonaro no 2° turno e cobra compromisso com ajuste fiscal",
+   "resumo": "O grupo empresarial Convergência Brasil divulgou nesta terça-feira, 20, um manifesto em apoio à candidatura de Flávio Bolsonaro (PL) à Presidência da República no segundo turno das eleições de 2026. Logo do grupo Convergência Brasil No docu…",
+   "link": "https://revistaoeste.com/politica/convergencia-brasil-flavio-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-bolsonaro-1.jpg",
+   "data": "2026-10-20T15:15:37-03:00"
+  },
+  {
+   "id": "52336f43efcc",
+   "titulo": "Marçal orienta influenciadores pró-Flávio a trocar críticas a Lula por discurso de renovação",
+   "resumo": "Empresário chegou a defender admitir feitos do petista e pensar em encerramento de ciclo político. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/marcal-orienta-aliados-de-flavio-a-trocar-ataques-a-lula-por-discurso-de-renovacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20151323/ASPA-GRANDE-2026-10-20T151314.134-960x540.jpg",
+   "data": "2026-10-20T15:14:06-03:00"
+  },
+  {
+   "id": "ece4bdb623be",
+   "titulo": "Mendonça será relator de pedido de Lula para levantar sigilos dele e de Flávio",
+   "resumo": "Presidente pede acesso a dados bancários, fiscais e telefônicos dos últimos oito anos dele, do senador e familiares. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/mendonca-relator-pedido-lula-levantar-sigilos-dele-e-flavio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20151224/flavio-bolsonaro-com-lula-debate-band-foto-renato-pizzutto-divulgacao-band-1-960x540.jpg",
+   "data": "2026-10-20T15:12:42-03:00"
+  },
+  {
+   "id": "b1fd60bfb2f5",
+   "titulo": "Celina Leão (PP) tem 59% dos votos válidos no DF, diz pesquisa",
+   "resumo": "A atual governadora do Distrito Federal, Celina Leão (PP) , tem 59% das intenções de votos válidos na disputa pelo governo do DF, contra 41% de Leandro Grass (PT), segundo pesquisa do instituto Real Time Big Data divulgada nesta terça-feira…",
+   "link": "https://revistaoeste.com/politica/celina-leao-tem-59-dos-votos-validos-no-df-diz-pesquisa/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/1790797808288534.jpg",
+   "data": "2026-10-20T15:09:26-03:00"
+  },
+  {
+   "id": "95b511e8589f",
+   "titulo": "Nikolas Ferreira publica relatos de nordestinos sobre pobreza e falta de oportunidades",
+   "resumo": "Relatos de moradores do Nordeste sobre dificuldades para pagar medicamentos, acesso precário à água e falta de oportunidades de trabalho foram reunidos em um vídeo publicado pelo deputado federal Nikolas Ferreira (PL-MG). A gravação também …",
+   "link": "https://oantagonista.com.br/brasil/nikolas-ferreira-publica-relatos-de-nordestinos-sobre-pobreza-e-falta-de-oportunidades/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/nikolas-melhor-1.jpg",
+   "data": "2026-10-20T15:05:58-03:00"
+  },
+  {
+   "id": "6449b150b69f",
+   "titulo": "Milton Leite Filho chega à Câmara com o pai preso e o irmão fora do Legislativo paulista",
+   "resumo": "Milton Leite Filho chega à Câmara dos Deputados com o pai preso e o irmão fora da Alesp. Saiba na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/milton-leite-filho-deputado-federal-eleito-sao-paulo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/13141413/milton-leite-filho-Larissa-Navarro-flickr-assembleiasp-960x540.jpg",
+   "data": "2026-10-20T14:51:48-03:00"
+  },
+  {
+   "id": "b3c54d136e0e",
+   "titulo": "Realtime indica disputa acirrada entre Omar Aziz e Maria do Carmo no AM",
+   "resumo": "Pesquisa Reatime Big Data, divulgada nesta terça-feira, 20, indica que a disputa entre o senador Omar Aziz (PSD) e a Professora Maria do Carmo (PL) pelo governo do Amazonas será acirrada. A menos de uma semana do segundo turno, o senador te…",
+   "link": "https://oantagonista.com.br/brasil/realtime-indica-disputa-acirrada-entre-omar-aziz-e-maria-do-carmo-no-am/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Retrato-de-campanha-diante-da-bandeira-listrada.png",
+   "data": "2026-10-20T14:49:33-03:00"
+  },
+  {
+   "id": "7a360e4e4711",
+   "titulo": "Em posts apagados, Flávio Bolsonaro critica Bolsa Família e diz que 'PT perpetua pobreza com bolsa-farelo'",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/posts-apagados-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/gXMPpEDNiA-PkM7msbLPs-EmVsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/p/ZPDw3yQTCrs7vgeRluRA/2026-10-14t194745z-1904909709-rc273oahqumj-rtrmadp-3-brazil-election-bolsonaro.jpg",
+   "data": "2026-10-20T14:40:21-03:00"
+  },
+  {
+   "id": "4810e02248bc",
+   "titulo": "Lulinha estabelece o modelo de tráfico de influência e de corrupção no governo Lula",
+   "resumo": "Lobista Roberta Luchsinger e Fábio Luiz Lula da Silva, o Lulinha, criam rede de facilitação de negócios escusos com o governo.",
+   "link": "https://www.gazetadopovo.com.br/vozes/silvio-ribas/lulinha-estabelece-o-modelo-de-trafico-de-influencia-e-de-corrupcao-no-governo-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18121300/Lulinha-Roberta-e-Lula-960x540.jpg",
+   "data": "2026-10-20T14:35:22-03:00"
+  },
+  {
+   "id": "c5c64ebc8562",
+   "titulo": "Líder de Lula colhe assinaturas para tentar cassar Flávio",
+   "resumo": "Líder do governo Lula no Congresso quer levar Flávio Bolsonaro ao Conselho de Ética do Senado e cassar seu mandato por causa do Dark Horse",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lider-de-lula-colhe-assinaturas-para-levar-flavio-ao-conselho-de-etica",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/candidato-a-presidencia-da-republica-flavio-bolsonaro.jpg",
+   "data": "2026-10-20T14:26:00-03:00"
+  },
+  {
+   "id": "f84620bbdcc1",
+   "titulo": "Justiça nega pedido de prisão de motorista investigado por atropelar e matar tio de Boulos",
+   "resumo": "",
+   "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/justica-nega-pedido-de-prisao-de-motorista-investigado-por-atropelar-e-matar-tio-de-boulos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/gRu5e94ifaFe5PQM4jynq9A5Iyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/5/hxewdQSDiVA5r79ivbVQ/fotojet-2026-10-07t121748.820.jpg",
+   "data": "2026-10-20T14:25:52-03:00"
+  },
+  {
+   "id": "9ccd6010b5a4",
+   "titulo": "Em entrevista a Rico Melquiades, Flávio garante direitos LGBT",
+   "resumo": "O senador e candidato a Presidência Flávio Bolsonaro (PL) afirmou que não pretende retirar direitos da população LGBT caso seja eleito presidente da República. Em entrevista ao influenciador Rico Melquiades, o pré-candidato negou que vá per…",
+   "link": "https://oantagonista.com.br/brasil/em-entrevista-a-rico-melquiades-flavio-garante-direitos-lgbt/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-20T135115.039.png",
+   "data": "2026-10-20T14:23:57-03:00"
+  },
+  {
+   "id": "6358b7afd594",
+   "titulo": "Minas Gerais volta a ser peça-chave para decisão da disputa presidencial",
+   "resumo": "Flávio e Lula fazem campanha em Minas Gerais, estado considerado decisivo para a eleição à Presidência. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/minas-gerais-peca-chave-eleicao-presidencial/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16153103/MG-Flavio-e-Nikolas-960x540.jpg",
+   "data": "2026-10-20T14:22:15-03:00"
+  },
+  {
+   "id": "8cfdd6992938",
+   "titulo": "Fachin repreende desembargador julgado pelo CNJ: “não lhe concedi a palavra”",
+   "resumo": "Processo disciplinar terminou com punição de 120 dias por acúmulo de processos e comportamento inadequado. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-repreende-desembargador-julgado-pelo-cnj-deve-aguardar-a-ordem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20141948/ASPA-GRANDE-2026-10-20T141945.417-960x540.jpg",
+   "data": "2026-10-20T14:21:15-03:00"
+  },
+  {
+   "id": "7c677bf5b155",
+   "titulo": "Lula tenta deixar “versão analógica” e escalada digital petista acende alerta na direita",
+   "resumo": "Lula aposta em campanha nas redes sociais no 2º turno e corre atrás do domínio digital da direita. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-tenta-deixar-versao-analogica-escalada-digital-petista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19144826/Lula-redes-sociais-960x540.jpg",
+   "data": "2026-10-20T13:59:56-03:00"
+  },
+  {
+   "id": "96f018723406",
+   "titulo": "Roberta Luchsinger decide tirar filhas do Brasil após denúncias sobre Lula em entrevista",
+   "resumo": "Este episódio do Podcast 15 Minutos analisa os recentes desdobramentos políticos envolvendo as declarações de Roberta Luchsinger e a PGR.",
+   "link": "https://www.gazetadopovo.com.br/republica/roberta-luchsinger-decide-tirar-filhas-do-brasil-apos-denuncias-sobre-lula-em-entrevista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
+   "data": "2026-10-20T13:56:36-03:00"
   },
   {
    "id": "4e572c83681b",
@@ -40,21 +508,12 @@
    "data": "2026-10-20T13:44:00-03:00"
   },
   {
-   "id": "edd21bcbf9d6",
-   "titulo": "Mendonça será relator do pedido de Lula para quebra de sigilo",
-   "resumo": "Presidente apresentou petição em que autoriza levantamento dos sigilos, mas a liberação está condicionada a Flávio fazer o mesmo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mendonca-sera-relator-do-pedido-de-lula-para-quebra-de-sigilo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-20T13:35:18-03:00"
-  },
-  {
    "id": "a496f21c8e0a",
-   "titulo": "A 5 dias do segundo turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha proposta",
-   "resumo": "O candidato do PL à Presidência da República, Flávio Bolsonaro, informou nesta terça-feira (20) que propõe devolver, se eleito for, uma parte do PIX utilizado no pagamento de contas de luz e prestações, por exemplo. O anúncio foi feito por …",
+   "titulo": "A 5 dias do 2º turno, Flávio propõe devolver via PIX parte de gastos com contas e prestações, mas não detalha custos",
+   "resumo": "",
    "link": "https://g1.globo.com/economia/noticia/2026/10/20/a-5-dias-do-segundo-turno-flavio-propoe-devolver-via-pix-parte-de-gastos-com-contas-e-prestacoes-mas-nao-detalha-proposta.ghtml",
    "fonte": "G1 Política",
-   "imagem": "",
+   "imagem": "https://s2-g1.glbimg.com/nEBqH9V8eqRYkFtkjzpUxba8Qtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/mc1n7LQmeAnjxz7KLzVQ/fta20260824258.jpg",
    "data": "2026-10-20T13:23:42-03:00"
   },
   {
@@ -67,33 +526,6 @@
    "data": "2026-10-20T13:19:26-03:00"
   },
   {
-   "id": "db075cb880e3",
-   "titulo": "Conselho de minerais deve focar em operações ligadas a governos",
-   "resumo": "Secretário de Mineração do MME cita possíveis critérios para o colegiado que estão sendo discutidos dentro do governo",
-   "link": "https://www.poder360.com.br/poder-governo/conselho-de-minerais-deve-focar-em-investimentos-ligados-a-estados-estrangeiros/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/09/conselho-minerais-criticos-18-set-2026-01.png",
-   "data": "2026-10-20T13:17:01-03:00"
-  },
-  {
-   "id": "d9f676b6ad91",
-   "titulo": "Milton Leite é transferido por suspeitas de regalias na prisão",
-   "resumo": "O ex-vereador Milton Leite (União) deixou a Cadeia Pública de Mogi das Cruzes, e os agentes o levaram para o Centro de Detenção Provisória de Guarulhos na manhã desta terça-feira, 20. A polícia efetuou a transferência depois de uma investig…",
-   "link": "https://revistaoeste.com/politica/milton-leite-e-transferido-por-suspeitas-de-regalias-na-prisao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/milton-leite.jpg",
-   "data": "2026-10-20T13:14:56-03:00"
-  },
-  {
-   "id": "bbf86016950f",
-   "titulo": "Esquerda tenta impedir ato na UFRN contra reeleição de Lula",
-   "resumo": "Uma manifestação na Universidade Federal do Rio Grande do Norte (UFRN) contra a candidatura do presidente Luiz Inácio Lula da Silva (PT) à reeleição terminou em confusão com estudantes de esquerda que tentaram impedir o ato político. Convoc…",
-   "link": "https://revistaoeste.com/politica/esquerda-tenta-impedir-ato-na-ufrn-contra-reeleicao-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/manifestacao-direita-ufrn.jpg",
-   "data": "2026-10-20T13:04:10-03:00"
-  },
-  {
    "id": "cb1364106ad2",
    "titulo": "Carlos Viana ironiza desafio de Lula sobre abertura de sigilos",
    "resumo": "O senador Carlos Viana (PSD-MG) ironizou, nesta terça-feira, 20, a proposta do presidente Lula (PT) de abrir os próprios sigilos e os de seus familiares, caso o senador Flávio Bolsonaro (PL-RJ) faça o mesmo. Nas redes sociais, o presidente …",
@@ -101,24 +533,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/03/ganha-ganha-1.jpg",
    "data": "2026-10-20T13:02:36-03:00"
-  },
-  {
-   "id": "6798b3881d43",
-   "titulo": "Ao vivo: Lula vai a comícios em Petrolina e em Juazeiro",
-   "resumo": "Presidente participa de caminhada em cidades do Nordeste, com a presença de políticos do PT e aliados",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ao-vivo-lula-vai-a-comicios-em-petrolina-e-em-juazeiro/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/n3X38qv1yt4/hqdefault.jpg",
-   "data": "2026-10-20T13:00:16-03:00"
-  },
-  {
-   "id": "2a705a3ee503",
-   "titulo": "A quatro dias do 2º turno, Lula enviará PEC do transporte gratuito ao Congresso",
-   "resumo": "O presidente Lula (PT) confirmou nesta terça-feira, 20, em entrevista coletiva em São Luís, que enviará na quarta, 21, ao Congresso Nacional uma Proposta de Emenda à Constituição (PEC) para garantir transporte público gratuito aos fins de s…",
-   "link": "https://oantagonista.com.br/brasil/a-quatro-dias-do-2o-turno-lula-enviara-pec-do-transporte-gratuito-ao-congresso/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591191052_a1e3fd79e4_4k-scaled-e1792149259104.jpg",
-   "data": "2026-10-20T12:59:16-03:00"
   },
   {
    "id": "e827fc022b71",
@@ -139,15 +553,6 @@
    "data": "2026-10-20T12:53:04-03:00"
   },
   {
-   "id": "620afcf0b7cb",
-   "titulo": "Lula pede quebra dos próprios sigilos, mas condiciona liberação a Flávio",
-   "resumo": "Campanha petista protocolou petição junto ao TSE e afirmou que dados só podem ser divulgados se o senador do PL fizer o mesmo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-pede-quebra-dos-proprios-sigilos-mas-condiciona-liberacao-a-flavio/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-20T12:38:32-03:00"
-  },
-  {
    "id": "6fcbc45b36ad",
    "titulo": "No Maranhão, Lula diz que disputa pela última vez a Presidência e promete mandato ‘histórico’",
    "resumo": "",
@@ -155,15 +560,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/MvNxNHX2MoElUMfoTchXQJXyOZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Y/6VBKngTayJc6uryXHFbA/montagens-1920-x-1080-px-.png",
    "data": "2026-10-20T12:37:54-03:00"
-  },
-  {
-   "id": "1ef41a08a1b9",
-   "titulo": "Leia a íntegra do pedido de Lula ao TSE para abrir seus sigilos",
-   "resumo": "Presidente condiciona abertura à quebra dos sigilos bancário, fiscal e telemático de Flávio Bolsonaro e de seus familiares",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-do-pedido-de-lula-ao-tse-para-abrir-seus-sigilos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-20T12:36:24-03:00"
   },
   {
    "id": "924b85414f8f",
@@ -184,42 +580,6 @@
    "data": "2026-10-20T12:17:42-03:00"
   },
   {
-   "id": "b9551bed9c15",
-   "titulo": "Governo autoriza IBGE a contratar 325 funcionários temporários",
-   "resumo": "Seleção terá 276 vagas para agentes de pesquisa por telefone e 49 para supervisores; edital deverá sair em até 6 meses",
-   "link": "https://www.poder360.com.br/poder-governo/governo-autoriza-ibge-a-contratar-325-funcionarios-temporarios/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-20T12:16:27-03:00"
-  },
-  {
-   "id": "7f0e02763917",
-   "titulo": "Carlos Viana denuncia Lula por estelionato eleitoral",
-   "resumo": "O senador Carlos Viana (Podemos-MG) anunciou nesta segunda-feira, 19, que denunciou o presidente Luiz Inácio Lula da Silva por suposto estelionato eleitoral. O parlamentar questiona a antecipação dos pagamentos do Bolsa Família , concentrad…",
-   "link": "https://revistaoeste.com/politica/carlos-viana-denuncia-lula-por-estelionato-eleitoral/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/03/AGE20260223026.jpg",
-   "data": "2026-10-20T12:16:24-03:00"
-  },
-  {
-   "id": "81b5664bd1ee",
-   "titulo": "Advogado diz que Lulinha não despachou com ministros: ‘Convívio social’",
-   "resumo": "O advogado Marco Aurélio de Carvalho, que defende Fábio Luís Lula da Silva, o Lulinha , e também é coordenador jurídico da campanha à reeleição do presidente Luiz Inácio Lula da Silva (PT), afirmou nesta segunda-feira, 19, que a relação do …",
-   "link": "https://revistaoeste.com/politica/advogado-diz-que-lulinha-nao-despachou-com-ministros-convivio-social/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/lulinha-lula-corrupcao.jpeg",
-   "data": "2026-10-20T12:14:54-03:00"
-  },
-  {
-   "id": "29960093b4e9",
-   "titulo": "Lula diz que enviará PEC do transporte gratuito ao Congresso na 4ª feira",
-   "resumo": "Presidente também declarou que, no mesmo dia, sancionará projeto de aumento do limite de MEIs",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-enviara-pec-do-transporte-gratuito-ao-congresso-na-4a-feira/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-20T12:14:30-03:00"
-  },
-  {
    "id": "bc57ae0ea7ed",
    "titulo": "PF e Moraes ampliam pressão sobre Flávio a poucos dias do 2º turno",
    "resumo": "Alexandre de Moraes é relator de novo inquérito contra Flávio no STF, que apura suspeitas de lavagem de dinheiro. Senador nega.",
@@ -229,15 +589,6 @@
    "data": "2026-10-20T12:10:42-03:00"
   },
   {
-   "id": "3c3eda54a5ce",
-   "titulo": "Roberta Luchsinger denuncia grupo para difamá-la com aliados de Lula",
-   "resumo": "A lobista Roberta Luchsinger compartilhou, nesta terça-feira, 20, um print de uma suposta conversa em um grupo de WhatsApp chamado “Frente Ampla” que, segundo ela, indicaria uma tentativa de desqualificá-la. Na imagem, aparecem como suposto…",
-   "link": "https://oantagonista.com.br/brasil/roberta-luchsinger-denuncia-grupo-difama-la-com-aliados-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-20T120823.372.png",
-   "data": "2026-10-20T12:09:35-03:00"
-  },
-  {
    "id": "12cb9b72d2ce",
    "titulo": "Local de votação ainda pode mudar; consulte de novo antes de ir à urna",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/local-de-votacao-ainda-pode-mudar-consulte-de-novo-antes-de-ir-urna\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -245,51 +596,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-20T12:07:00-03:00"
-  },
-  {
-   "id": "5c52d9fb5b73",
-   "titulo": "Meta presta informações ao TSE e diz tratar Lula e Flávio igualmente",
-   "resumo": "Empresa nega descumprimento de ordens judiciais e detalha alterações nas plataformas. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/meta-presta-informacoes-ao-tse-e-nega-descumprimento-de-decisao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20113441/ASPA-GRANDE-2026-10-20T113437.112-960x540.jpg",
-   "data": "2026-10-20T11:57:05-03:00"
-  },
-  {
-   "id": "63f04c0f6642",
-   "titulo": "Lula autoriza TSE a divulgar sigilos dele e da família se Flávio fizer o mesmo",
-   "resumo": "O presidente Lula (PT) protocolou nesta terça-feira, 20, no Tribunal Superior Eleitoral (TSE), uma autorização para a liberação e divulgação pública de seus sigilos bancário, fiscal e telefônico e dos dados de familiares referentes aos últi…",
-   "link": "https://oantagonista.com.br/brasil/lula-autoriza-tse-a-divulgar-sigilos-dele-e-da-familia-se-flavio-fizer-o-mesmo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/33d4602e-f9e7-46c1-a624-be7b71ee8b69.jpg",
-   "data": "2026-10-20T11:53:52-03:00"
-  },
-  {
-   "id": "cd4edfb9bf1a",
-   "titulo": "Depois de aprovar pacote pró-Lula, Câmara esvazia agenda na reta final do 2º turno",
-   "resumo": "A Câmara dos Deputados chega a esta terça-feira, 20, sem atividades legislativas registradas na agenda oficial, depois de aprovar, na semana passada, um pacote de benefícios para microempreendedores individuais (MEIs) defendido pelo governo…",
-   "link": "https://revistaoeste.com/politica/camara-sem-votacoes-pacote-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/hugomo.jpg",
-   "data": "2026-10-20T11:52:40-03:00"
-  },
-  {
-   "id": "38fe2a848854",
-   "titulo": "Meta diz ao TSE que trata Lula e Flávio de forma igual",
-   "resumo": "A Meta afirmou ao Tribunal Superior Eleitoral (TSE), na segunda-feira, 19, que aplica critérios iguais e não discriminatórios às candidaturas de Lula (PT) e Flávio Bolsonaro (PL) e detalhou as medidas adotadas para cumprir determinação do m…",
-   "link": "https://oantagonista.com.br/brasil/meta-diz-ao-tse-que-trata-lula-e-flavio-de-forma-igual/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Lula-e-Flavio-Bolsonaro-1.jpg",
-   "data": "2026-10-20T11:46:39-03:00"
-  },
-  {
-   "id": "ca32cee7f899",
-   "titulo": "Ministros entram de férias para ajudar na campanha eleitoral de Lula",
-   "resumo": "Pelo menos quatro ministros do governo Lula decidiram tirar férias na reta final da campanha eleitoral para atuar na tentativa de reeleição do presidente da República. Estão oficialmente de férias Alexandre Silveira (Minas e Energia), Lucia…",
-   "link": "https://oantagonista.com.br/brasil/ministros-entram-de-ferias-para-ajudar-na-campanha-eleitoral-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/54745621912_41e3183c23_k.jpg",
-   "data": "2026-10-20T11:30:00-03:00"
   },
   {
    "id": "49846bd7ea62",
@@ -310,78 +616,6 @@
    "data": "2026-10-20T11:26:14-03:00"
   },
   {
-   "id": "461225c1e7c8",
-   "titulo": "Lula defende ‘saidinhas’ de presos e cita direito ao ‘convívio familiar’",
-   "resumo": "O presidente Luiz Inácio Lula da Silva defendeu nesta segunda-feira, 19, as saídas temporárias de presos, conhecidas como 'saidinhas'. Em sabatina ao SBT News, ele justificou seu veto, em abril de 2024, à restrição do benefício. “É uma ques…",
-   "link": "https://revistaoeste.com/politica/lula-defende-saidinhas-de-presos-e-cita-direito-ao-convivio-familiar/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-sbt.jpg",
-   "data": "2026-10-20T11:17:31-03:00"
-  },
-  {
-   "id": "447e1668e165",
-   "titulo": "Lula protocola documento no TSE e no STF em que diz que libera a divulgação de sigilos dele e de parentes se Flávio também o fizer",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/EHrIt8W2MPjqq1Zyrjln3mWXVaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/z/MAtBvTRMCeNwpfxEu8ow/2026-10-19t205006z-1997559598-rc2k6oafwj8d-rtrmadp-3-brazil-election-lula.jpg",
-   "data": "2026-10-20T11:14:28-03:00"
-  },
-  {
-   "id": "6561c81176bf",
-   "titulo": "Crusoé: Nikolas levanta caixão do PT em Manaus",
-   "resumo": "Reeleito com 3.119.051 votos, o deputado federal Nikolas Ferreira (PL-MG) levantou o caixão do PT (foto) durante comício em Manaus, no Amazonas, na segunda-feira, 19. Ao lado de Flávio Bolsonaro (PL) e Lucas Pavanato, deputado eleito por Sã…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-nikolas-levanta-caixao-do-pt-em-manaus/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-4-1.jpg",
-   "data": "2026-10-20T11:14:10-03:00"
-  },
-  {
-   "id": "4f85fa62b610",
-   "titulo": "Meta nega favorecer candidatos e contesta acusações ao TSE",
-   "resumo": "A Meta negou ao Tribunal Superior Eleitoral (TSE), nesta terça-feira, 20, que esteja descumprindo determinações da Corte ou favorecendo candidatos nas redes sociais durante a eleição . A manifestação foi apresentada em resposta a uma nova r…",
-   "link": "https://revistaoeste.com/politica/meta-nega-favorecer-candidatos-e-contesta-acusacoes-ao-tse/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/meta-eua-processo.jpeg",
-   "data": "2026-10-20T11:11:27-03:00"
-  },
-  {
-   "id": "75cb55fbf6fc",
-   "titulo": "Flávio tem 50,8% contra 49,2% de Lula em votos válidos, diz pesquisa",
-   "resumo": "Levantamento França ouviu 3.000 eleitores de 16 a 20 de outubro; margem de erro é de 1,8 pontos percentuais",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-508-contra-492-de-lula-em-votos-validos-diz-pesquisa/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/presidente-2turno-franca-20out.png",
-   "data": "2026-10-20T11:10:01-03:00"
-  },
-  {
-   "id": "c8b67c33e574",
-   "titulo": "Lobista, bolsa família e gafes: o desespero de Lula na semana final",
-   "resumo": "No programa Última Análise desta segunda-feira (19), convidados falam a respeito de desespero petista às vésperas de segundo turno.",
-   "link": "https://www.gazetadopovo.com.br/republica/lobista-bolsa-familia-e-gafes-o-desespero-de-lula-na-semana-final/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/19080901/debate.imprensa-960x540.jpg",
-   "data": "2026-10-20T11:02:51-03:00"
-  },
-  {
-   "id": "9aa825eb6a9e",
-   "titulo": "Flávio promete, se eleito, retomar benefício para eventos encerrado por Lula após suspeitas de irregularidades e alto custo",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Zq6LS0qKSCs_Yi7wg_khGIXeO3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/f/R6NF89QGaKbathXa8UvA/capa-g1-3-.gif",
-   "data": "2026-10-20T11:01:51-03:00"
-  },
-  {
-   "id": "218eb6faa261",
-   "titulo": "Milei acusa Lula de machismo e alfineta: “Espero que não roube a eleição”",
-   "resumo": "O presidente da Argentina, Javier Milei, voltou a criticar Lula, desta vez por comentário do petista sobre fim da escala 6x1",
-   "link": "https://www.gazetadopovo.com.br/mundo/milei-acusa-lula-machismo-alfineta-espero-nao-roube-eleicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/09102244/milei.lula_.igrejas-960x540.jpg",
-   "data": "2026-10-20T11:01:14-03:00"
-  },
-  {
    "id": "03b7c0510ad3",
    "titulo": "Fenaj manifesta indignação com formato do debate da TV Band",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fenaj-manifesta-indignacao-com-formato-do-debate-da-tv-band\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
@@ -389,132 +623,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-20T10:50:00-03:00"
-  },
-  {
-   "id": "a7d3ddb57260",
-   "titulo": "Alcolumbre usa gabinetes e apartamentos funcionais para ficar no cargo",
-   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), centralizou a definição dos gabinetes e apartamentos funcionais destinados aos parlamentares que tomarão posse em fevereiro de 2027 e passou a controlar pessoalmente as tratativas sobre os…",
-   "link": "https://oantagonista.com.br/brasil/alcolumbre-usa-gabinetes-e-apartamentos-funcionais-para-ficar-no-cargo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55507113935_2217f9dbe6_o.jpg",
-   "data": "2026-10-20T10:47:12-03:00"
-  },
-  {
-   "id": "e67d9926e961",
-   "titulo": "Mães de Lula e Jair Bolsonaro entram na disputa eleitoral",
-   "resumo": "Às vésperas do segundo turno, o vereador bolsonarista de Recife e deputado federal eleito Thiago Medina (PL) protocolou na Câmara Municipal do Recife um projeto de lei que pretende alterar o nome do Parque Dona Lindu, localizado em Boa Viag…",
-   "link": "https://oantagonista.com.br/brasil/maes-de-lula-e-jair-bolsonaro-entram-na-disputa-eleitoral/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/image-18-1-e1785071273244.jpg",
-   "data": "2026-10-20T10:38:13-03:00"
-  },
-  {
-   "id": "8d841f58c3eb",
-   "titulo": "Presidente da OAB critica Lula por ‘criminalizar advocacia’ em debate com Flávio",
-   "resumo": "O presidente do Conselho Federal da Ordem dos Advogados do Brasil (OAB) , Beto Simonetti, criticou nesta segunda-feira, 19, declarações do presidente Luiz Inácio Lula da Silva (PT) durante o debate com Flávio Bolsonaro (PL) na TV Bandeirant…",
-   "link": "https://revistaoeste.com/politica/presidente-da-oab-critica-lula-por-criminalizar-advocacia-em-debate-com-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/beto-simonetti-oab.jpg",
-   "data": "2026-10-20T10:32:29-03:00"
-  },
-  {
-   "id": "f9af581d5391",
-   "titulo": "TSE fecha prazo para registro de novas pesquisas eleitorais",
-   "resumo": "​O Tribunal Superior Eleitoral (TSE) encerrou o cadastro de pesquisas de intenção de voto para o segundo turno da disputa presidencial. O prazo para a inclusão de consultas no sistema oficial PesqEle expirou na segunda-feira 19 e impede a e…",
-   "link": "https://revistaoeste.com/politica/tse-fecha-prazo-para-registro-de-novas-pesquisas-eleitorais/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/tse.jpg",
-   "data": "2026-10-20T10:32:22-03:00"
-  },
-  {
-   "id": "5b3eee3d3c3a",
-   "titulo": "Quantos filhos Bolsonaro tem? E quantos filhos Lula tem? Conheça a família dos políticos",
-   "resumo": "Quantos filhos Bolsonaro tem e quantos filhos Lula tem? Veja quem são os filhos dos dois políticos. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/quantos-filhos-bolsonaro-e-lula-tem/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16134402/Bolsonaro_e_seus_filhos_Eduardo_e_Flavio-960x540.jpg",
-   "data": "2026-10-20T10:28:35-03:00"
-  },
-  {
-   "id": "1751965c75f2",
-   "titulo": "Como Moro pretende modernizar a administração pública e fortalecer os municípios do Paraná",
-   "resumo": "Plano de governo de Moro reúne propostas para ampliar capacidade dos municípios e reorganizar a estrutura do estado. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/como-moro-pretende-modernizar-a-administracao-publica-e-fortalecer-os-municipios-do-parana/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20102446/Moro-960x540.jpg",
-   "data": "2026-10-20T10:28:07-03:00"
-  },
-  {
-   "id": "9499b408a4a2",
-   "titulo": "Flávio vê otimismo na reta final, mas alerta campanha após ruído sobre Bolsa Família",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/XUvFJzQpL-5DDzmr_UUnmUoLEPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/V/uuDUIHTWuOviwDiUerHQ/185648-salvador-dispensa-visita-domiciliar-para-atualizacao-do-cadastro-unico-de-quem-mora-sozinho-3.jpg",
-   "data": "2026-10-20T10:26:52-03:00"
-  },
-  {
-   "id": "a35956cf0a89",
-   "titulo": "MP Eleitoral cobra TSE por maior divulgação de mudanças em locais de votação",
-   "resumo": "Zonas eleitorais mudaram locais em 441 seções, sobretudo em Minas Gerais. Confira as mudanças na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/mp-eleitoral-cobra-tse-por-maior-divulgacao-de-mudancas-em-locais-de-votacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20102558/ASPA-GRANDE-2026-10-20T102556.179-960x540.jpg",
-   "data": "2026-10-20T10:26:36-03:00"
-  },
-  {
-   "id": "5d987609c597",
-   "titulo": "Novo pede cassação de Lula após pacotão eleitoreiro do PT",
-   "resumo": "O partido Novo apresentou nesta segunda, 19, uma Ação de Investigação Judicial Eleitoral (AIJE) no TSE contra o presidente Lula e seu vice, Geraldo Alckmin. A ação pede a cassação da chapa e a declaração de inelegibilidade de ambos por oito…",
-   "link": "https://oantagonista.com.br/brasil/novo-pede-cassacao-de-lula-apos-pacotao-eleitoreiro-do-pt/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-18T223615.808.png",
-   "data": "2026-10-20T10:22:17-03:00"
-  },
-  {
-   "id": "9681bb235aa6",
-   "titulo": "Lula rebate Flávio sobre “padrão Einstein” em hospitais do SUS",
-   "resumo": "Presidente afirma que promessa de campanha de Flávio já existe no SUS com parceria do governo com Hospital Albert Einstein. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-rebate-flavio-padrao-einstein-hospitais-sus/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20101403/lula-foto-ricardo-stuckert-secom-13-960x540.jpg",
-   "data": "2026-10-20T10:14:22-03:00"
-  },
-  {
-   "id": "2a0c399f9ef3",
-   "titulo": "PSD sai menor da eleição e neutralidade pode garantir espaço com Flávio ou Lula",
-   "resumo": "Neutralidade custa ao PSD cadeiras no Senado; peso do partido de Kassab depende da vitória de Flávio ou de Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/neutralidade-psd-kassab-eleicoes-2026-flavio-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15004708/Gilberto-Kassab-PSD-enfraquecimento_reajustada-960x540.jpg",
-   "data": "2026-10-20T10:05:44-03:00"
-  },
-  {
-   "id": "d10d7e959a52",
-   "titulo": "Janones anuncia saída do hospital para comandar “batalha final” de Lula",
-   "resumo": "Deputado prevê deixar hospital em São Paulo na tarde desta terça-feira e retomar mobilização digital em apoio ao petista. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/janones-saida-hospital-comandar-batalha-final-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20094539/andre-janones-foto-marina-ramos-camara-960x540.jpg",
-   "data": "2026-10-20T09:46:03-03:00"
-  },
-  {
-   "id": "4a87a64f2d40",
-   "titulo": "Convergência Brasil declara apoio a Flávio Bolsonaro e cobra mudança na política fiscal",
-   "resumo": "Movimento critica a política econômica de Lula e cobra compromissos fiscais de eventual governo Flávio Bolsonaro. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/convergencia-brasil-declara-apoio-a-flavio-bolsonaro-e-cobra-mudanca-na-politica-fiscal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20091836/planalto-960x540.jpg",
-   "data": "2026-10-20T09:45:27-03:00"
-  },
-  {
-   "id": "b6e68e2d28a8",
-   "titulo": "Moro anuncia primeiro nome ao secretariado; confira o perfil",
-   "resumo": "Pricilla Santana é o 1º nome anunciado para o secretariado do governador eleito do Paraná, Sergio Moro (PL). Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/moro-anuncia-primeiro-nome-ao-secretariado-confira-o-perfil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20093029/priscilla-960x540.jpg",
-   "data": "2026-10-20T09:35:12-03:00"
   },
   {
    "id": "840bdcb2e587",
@@ -526,42 +634,6 @@
    "data": "2026-10-20T09:28:00-03:00"
   },
   {
-   "id": "e5d8b3383c01",
-   "titulo": "Crusoé: 85% são contra presidente indicar ministros ao STF, indica Realtime",
-   "resumo": "Diante da atuação política dos ministros do Supremo Tribunal Federal no primeiro turno e da perspectiva de renovação da Corte nos próximos quatro anos, 85% dos brasileiros dizem ser favoráveis à retirada da prerrogativa do presidente da Rep…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-85-sao-contra-presidente-indicar-ministros-ao-stf-indica-realtime/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55588680617_97b05ff496_k-1.jpg",
-   "data": "2026-10-20T09:26:47-03:00"
-  },
-  {
-   "id": "180cb9bb9022",
-   "titulo": "Quem são os deputados federais eleitos em 2026?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/quem-sao-os-deputados-federais-eleitos-em-2026.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/WYMP7oszosvB1EcIF3dhACe4JFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/p/nJtFNjSwehmu8EnmEeEQ/formato-g1-30-.jpg",
-   "data": "2026-10-20T09:24:14-03:00"
-  },
-  {
-   "id": "cb17ef30c140",
-   "titulo": "Quem ganhou as eleições de 2026 para senador?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/quem-ganhou-as-eleicoes-de-2026-para-senador.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/gFZKuQ3RgsTLwAWK52g0mZ-LjDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/j/16IpkgQaiGiWUbvNQB1Q/55592375485-2a38b60110-o.jpg",
-   "data": "2026-10-20T09:23:03-03:00"
-  },
-  {
-   "id": "11a74a3fe3b3",
-   "titulo": "Meta diz ao TSE que tomou medidas para candidaturas serem tratadas de forma igual",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/meta-responde-ao-tse-e-diz-que-nao-houve-desobediencia-ou-demora-no-cumprimento-de-decisao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/nw7pdk_tEbjDz40kXYW61AAMILw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/h2G4lTTvGS8NtJOUCtwg/jn-ato-meta-20261019-1708-frame-7500.jpeg",
-   "data": "2026-10-20T09:22:57-03:00"
-  },
-  {
    "id": "cc9364aab18a",
    "titulo": "Sociedade civil apresenta propostas aos candidatos à Presidência",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/sociedade-civil-apresenta-propostas-aos-candidatos-presidencia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
@@ -569,42 +641,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-20T08:35:00-03:00"
-  },
-  {
-   "id": "cf8dc37a7e1d",
-   "titulo": "Crusoé: Felca frustra lulistas com vídeo sobre fobia social",
-   "resumo": "Após passar sete meses fora das redes sociais, o influenciador Felca (foto) causou expectativa entre os apoiadores de Lula ao anunciar que retornaria com um vídeo, dizendo que se escondeu “por tempo demais”. A expectativa de que viria um ví…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-felca-frustra-lulistas-video-sobre-fobia-social/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-20-as-07.28.30-e1792495562389.png",
-   "data": "2026-10-20T08:26:35-03:00"
-  },
-  {
-   "id": "e71491cc52e1",
-   "titulo": "Ato anti-Lula na UFRN termina em confronto entre grupos",
-   "resumo": "Alunos de esquerda confrontaram evento programado com \"recua, fascista, recua\". Universidade não se pronunciou. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/ato-anti-lula-na-ufrn-termina-em-confronto-entre-grupos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20082030/ASPA-GRANDE-2026-10-20T080755.162-960x540.jpg",
-   "data": "2026-10-20T08:22:29-03:00"
-  },
-  {
-   "id": "9e317add57ff",
-   "titulo": "PGR é contra soltura de familiares e advogado ligado a Vorcaro",
-   "resumo": "Parecer assinado por Paulo Gonet, vice-procurador-geral e outros dois subprocuradores foi direcionado a Fachin. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-soltura-de-familiares-e-advogado-ligado-a-vorcaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20071350/ASPA-GRANDE-2026-10-20T071348.195-960x540.jpg",
-   "data": "2026-10-20T07:14:39-03:00"
-  },
-  {
-   "id": "63e976a5b43d",
-   "titulo": "O que mostra a pesquisa Real Time Big Data para presidente no 2º turno",
-   "resumo": "Nova pesquisa Real Time Big Data mostra como está a disputa para presidente da República nas eleições 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16110511/pesquisa-presidente2-4-960x540.jpg",
-   "data": "2026-10-20T07:02:39-03:00"
   },
   {
    "id": "574208c7bc3c",
@@ -634,33 +670,6 @@
    "data": "2026-10-20T02:00:10-03:00"
   },
   {
-   "id": "868880406e64",
-   "titulo": "Flávio Bolsonaro enfrenta resistência de parlamentares em fim de mandato",
-   "resumo": "Entenda por que parlamentares em fim de mandato dificultam os planos de Flávio Bolsonaro para aprovar a PEC da Transição antes da posse em 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-enfrenta-resistencia-de-parlamentares-em-fim-de-mandato/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20005106/Congresso-Senado-foto-bigstock-crop-20221123183555-960x540.jpg",
-   "data": "2026-10-20T00:51:04-03:00"
-  },
-  {
-   "id": "1f2d9e7b2aeb",
-   "titulo": "Lula defende “saidinha” de presos e cita direito à convivência familiar",
-   "resumo": "Lula afirma que a \"saidinha\" favorece a ressocialização, mas defende restrições para presos condenados por crimes hediondos, como estupro.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-defende-saidinha-de-presos-e-cita-direito-a-convivencia-familiar/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15205913/lula-meta-960x540.jpg",
-   "data": "2026-10-20T00:19:21-03:00"
-  },
-  {
-   "id": "f3ef7a23b4c5",
-   "titulo": "Empresária Roberta Luchsinger ameaça revelar crimes de Lula e seu filho",
-   "resumo": "Entenda as acusações de Roberta Luchsinger sobre tráfico de influência envolvendo o filho de Lula e ministros do governo federal em investigações da PF.",
-   "link": "https://www.gazetadopovo.com.br/republica/empresaria-roberta-luchsinger-ameaca-revelar-crimes-de-lula-e-seu-filho/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20000620/Lula-Roberta-960x540.jpg",
-   "data": "2026-10-20T00:06:17-03:00"
-  },
-  {
    "id": "6191cf748432",
    "titulo": "Flávio faz motociata no Pará; Lula participa de marcha no RS",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
@@ -677,33 +686,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-19T20:42:00-03:00"
-  },
-  {
-   "id": "8cee7ae542af",
-   "titulo": "Lula diz que vai entregar amanhã ao TSE pedido de abertura de sigilo",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-diz-que-vai-entregar-amanha-ao-tse-pedido-de-abertura-de-sigilo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-diz-que-vai-entregar-amanha-ao-tse-pedido-de-abertura-de-sigilo",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-19T19:58:00-03:00"
-  },
-  {
-   "id": "c68ff01ac05b",
-   "titulo": "TRE-RJ alterou apenas um local de votação no estado; confira",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-rj-alterou-apenas-um-local-de-votacao-no-estado-confira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-rj-alterou-apenas-um-local-de-votacao-no-estado-confira",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-19T18:39:00-03:00"
-  },
-  {
-   "id": "4433c5621b5c",
-   "titulo": "Moradores da Maré se mobilizam para divulgar locais de votação",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moradores-da-mare-se-mobilizam-para-divulgar-locais-de-votacao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moradores-da-mare-se-mobilizam-para-divulgar-locais-de-votacao",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-19T17:56:00-03:00"
   },
   {
    "id": "b9847238dd9b",
@@ -758,24 +740,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/flavio-debate-band-lula.jpg",
    "data": "2026-10-19T05:00:51-03:00"
-  },
-  {
-   "id": "0f0a3280f881",
-   "titulo": "PF liga alerta após viagem ao exterior de amigo investigado de Flávio",
-   "resumo": "Amigo de Flávio Bolsonaro (PL), advogado Willer Tomaz viajou para o exterior em meio a investigações da PF contra ele tramitando no STF",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/pf-liga-alerta-apos-viagem-ao-exterior-de-amigo-investigado-de-flavio",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-e-willer-tomaz.jpeg",
-   "data": "2026-10-19T02:00:52-03:00"
-  },
-  {
-   "id": "089518f49d03",
-   "titulo": "Debate na Band acaba no zero a zero e sem potencial de converter indecisos",
-   "resumo": "Flávio dominou melhor o palco do debate, mas assumiu riscos na forma como tratou o adversário; Lula caiu em armadilhas, mas saiu do corner",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/debate-na-band-termina-no-0-a-0-e-sem-potencial-de-converter-indecisos",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-e-flavio-debate-band-2.jpg",
-   "data": "2026-10-18T23:32:13-03:00"
   }
  ]
 }
