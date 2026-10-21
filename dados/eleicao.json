@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T12:11:39.161676-03:00",
+ "gerado_em": "2026-10-21T17:05:06.057701-03:00",
  "fonte": "TSE — resultados.tse.jus.br",
  "presidente_br": {
   "uf": "BR",
@@ -3913,7 +3913,7 @@
   "PB": {
    "uf": "PB",
    "apurado": "100,00",
-   "atualizado_tse": "04/10/2026 23:23:01",
+   "atualizado_tse": "21/10/2026 13:24:31",
    "votos_validos": "2286622",
    "candidatos": [
     {
@@ -3923,7 +3923,7 @@
      "coligacao": "PODE / MOBILIZA / PCDOB / PT / PV / AGIR / PRD / SOLIDARIEDADE / PP / UNIÃO / REPUBLICANOS / PSB",
      "votos": 1470252,
      "percentual": "64,30",
-     "eleito": true,
+     "eleito": false,
      "campo": "direita"
     },
     {
@@ -3974,7 +3974,7 @@
     "coligacao": "PODE / MOBILIZA / PCDOB / PT / PV / AGIR / PRD / SOLIDARIEDADE / PP / UNIÃO / REPUBLICANOS / PSB",
     "votos": 1470252,
     "percentual": "64,30",
-    "eleito": true,
+    "eleito": false,
     "campo": "direita"
    }
   },
