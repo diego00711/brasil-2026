@@ -1,8 +1,152 @@
 {
- "atualizado": "2026-10-22T01:33:13.735801-03:00",
+ "atualizado": "2026-10-22T07:04:21.140496-03:00",
  "total": 85,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "0525898c0b0b",
+   "titulo": "Deltan alerta sobre suposto ‘golpe judicial’ contra Flávio antes do 2º turno",
+   "resumo": "O senador eleito Deltan Dallagnol (Novo-PR) divulgou um vídeo na noite desta quarta-feira, 21, no qual alerta para rumores de que o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes estaria preparando uma operação da Polícia Fe…",
+   "link": "https://revistaoeste.com/politica/deltan-alerta-sobre-suposto-golpe-judicial-contra-flavio-antes-do-2o-turno/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/05/Captura-de-tela-2023-05-19-184203.jpg",
+   "data": "2026-10-22T06:52:59-03:00"
+  },
+  {
+   "id": "e5d3364c91be",
+   "titulo": "MPE aponta novo tratamento desigual da Meta em campanhas",
+   "resumo": "Procuradoria diz que houve descumprimento de parte das determinações do TSE; MPF também cobra empresa sobre bloqueios",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpe-aponta-novo-tratamento-desigual-da-meta-em-campanhas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:42:44-03:00"
+  },
+  {
+   "id": "8a9c5121a3f7",
+   "titulo": "Palmeiras garante R$ 82 milhões com final da Libertadores",
+   "resumo": "Premiação mínima supera projeção do clube para todas as competições em 2026; conquista pode elevar total a R$ 172,3 milhões",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/palmeiras-garante-r-82-milhoes-com-final-da-libertadores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:40:15-03:00"
+  },
+  {
+   "id": "83f826bfb022",
+   "titulo": "Deputado do PL apresenta proposta contra assédio eleitoral",
+   "resumo": "O deputado José Medeiros (PL-MT) apresentou um projeto de lei que estabelece limites para o uso da estrutura da administração pública federal no monitoramento de cidadãos por suas opiniões políticas, ideológicas ou religiosas. O PL 5.624/20…",
+   "link": "https://oantagonista.com.br/brasil/deputado-do-pl-apresenta-proposta-contra-assedio-eleitoral/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/img20230518120219615-scaled.jpg",
+   "data": "2026-10-22T06:40:00-03:00"
+  },
+  {
+   "id": "6d865d98f9a0",
+   "titulo": "PSB e PDT declaram apoio à reeleição de Motta ao comando da Câmara",
+   "resumo": "Partidos citam “avanço da extrema direita” na Casa e defendem maioria com o centro democrático para garantir a governabilidade",
+   "link": "https://www.poder360.com.br/poder-congresso/psb-e-pdt-declaram-apoio-a-reeleicao-de-motta-ao-comando-da-camara/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:38:06-03:00"
+  },
+  {
+   "id": "c0781561a530",
+   "titulo": "Saiba quais pesquisas eleitorais podem sair nesta 5ª feira",
+   "resumo": "Pesquisas nacionais atualizam cenários para o 2º turno, enquanto levantamentos no AC, DF e RN medem disputas locais",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-quais-pesquisas-eleitorais-podem-sair-nesta-5a-feira-13/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/estudos-eleitorais-21-out-2026-scaled.png",
+   "data": "2026-10-22T06:15:41-03:00"
+  },
+  {
+   "id": "d7ef20826d35",
+   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
+   "resumo": "Ações sociais no Piauí, entregas de equipamentos e moradias na Bahia e vistorias em obras no Amazonas movimentam o dia",
+   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-13/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:15:40-03:00"
+  },
+  {
+   "id": "f17f662442f9",
+   "titulo": "Plenário do STF: saiba quais ações estão na pauta desta 5ª feira",
+   "resumo": "Plenário julga recursos sobre poder da Aneel para determinar devolução de impostos cobrados a mais nas contas de luz",
+   "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-5a-feira-9/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:15:37-03:00"
+  },
+  {
+   "id": "8683749da65d",
+   "titulo": "Saiba o que o Lula e Flávio farão nesta 5ª feira",
+   "resumo": "Presidente dedica o dia a gravações de campanha em Brasília; senador realiza transmissão ao vivo pelo YouTube",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-o-que-o-lula-e-flavio-farao-nesta-5a-feira/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-22T06:15:31-03:00"
+  },
+  {
+   "id": "54fa0767dc80",
+   "titulo": "Saiba quais indicadores e balanços saem nesta 5ª feira",
+   "resumo": "México, Argentina, Reino Unido e Japão movimentam o exterior; Bradesco e empresas globais divulgam relatório",
+   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-5a-feira-11/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/indicadores-internacionais-1aedicao2026-21out2026-scaled.png",
+   "data": "2026-10-22T06:00:54-03:00"
+  },
+  {
+   "id": "b233c284aa89",
+   "titulo": "Saiba quais foram as principais causas de morte no Brasil desde 2020",
+   "resumo": "Dados do Ministério da Saúde mostram a evolução da mortalidade no país nos últimos 6 anos",
+   "link": "https://www.poder360.com.br/poder-saude/saiba-quais-foram-as-principais-causas-de-morte-no-brasil-desde-2020/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/causas-mortes-brasil-21-out-2026-4-03-scaled.png",
+   "data": "2026-10-22T06:00:50-03:00"
+  },
+  {
+   "id": "c577a7fa86a2",
+   "titulo": "Saiba como estão Pazolini e Ferraço nas pesquisas para o governo do ES",
+   "resumo": "Compilação do Poder360 considera 4 pesquisas realizadas de 10 a 19 de outubro; Pazolini lidera numericamente em todas",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-pazolini-e-ferraco-nas-pesquisas-para-o-governo-do-es/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/ES-pesquisa-2oturno-21.out_.2026.jpg",
+   "data": "2026-10-22T06:00:39-03:00"
+  },
+  {
+   "id": "ad514702f174",
+   "titulo": "Eleições 2026: como encontrar meu título de eleitor?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-como-encontrar-meu-titulo-de-eleitor.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Mq3vDq7FBwr_RxmK-Bl55EtvCvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/D/YMdOtJQ2GvQoR9UCLtSA/copia-de-edicao-imagens-g1-2-.png",
+   "data": "2026-10-22T03:00:00-03:00"
+  },
+  {
+   "id": "ee27b1401a25",
+   "titulo": "Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro",
+   "resumo": "",
+   "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/c4ljL4WJiXdedvAUXiu4_uCXlvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/w/LhoJl4RQOpUDk13pH9Vg/lula-falvio.jpg",
+   "data": "2026-10-22T03:00:00-03:00"
+  },
+  {
+   "id": "dce19884384f",
+   "titulo": "As orientações de Rogério Marinho a Flávio para o debate da Globo",
+   "resumo": "Coordenador da campanha de Flávio, senador Rogério Marinho deu duas dicas principais ao candidato do PL para o debate da Globo",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/as-orientacoes-de-rogerio-marinho-a-flavio-para-o-debate-da-globo",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/09/marinho-flavio-bolsonaro-foto-carlos-moura-ag-senado.jpg",
+   "data": "2026-10-22T02:00:22-03:00"
+  },
+  {
+   "id": "fb2808e7c2ad",
+   "titulo": "Quaest no DF, 2º turno: veja intenção de voto para governador por sexo, raça, idade, religião e renda",
+   "resumo": "",
+   "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/quaest-no-df-2o-turno-veja-intencao-de-voto-para-governador-por-sexo-raca-idade-religiao-e-renda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ylveh23csKN76pUOJmz__ZCSWTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/nBL4tCTdGkPwfAUlVlFg/montagem-horizontal-1280x720px.jpg",
+   "data": "2026-10-22T02:00:00-03:00"
+  },
   {
    "id": "edeb25ac59ea",
    "titulo": "PGR defende prisões e sugere que Fachin assuma decisões urgentes no caso Master",
@@ -11,15 +155,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/22013051/ASPA-GRANDE-2026-09-28T145828.223-960x540.jpg",
    "data": "2026-10-22T01:30:48-03:00"
-  },
-  {
-   "id": "5c77a713aa78",
-   "titulo": "Em novo programa, Lula mira indecisos e critica oposição",
-   "resumo": "Peça resgata cortes do governo anterior e avança sobre acenos ao trabalhador, incluindo isenção na cesta básica e fim da escala 6 X 1",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-novo-programa-lula-mira-indecisos-e-critica-oposicao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-22T00:43:57-03:00"
   },
   {
    "id": "6c0596a5574d",
@@ -33,7 +168,7 @@
   {
    "id": "95c87f0cbd7a",
    "titulo": "Augusto Cury reforça apoio e pede votos para Flávio",
-   "resumo": "O senador Flávio Bolsonaro compartilhou nesta quarta-feira, 21, um novo vídeo de apoio do escritor Augusto Cury, terceiro colocado nas eleições deste ano. Na gravação, Cury pediu votos ao candidato no segundo turno, marcado para domingo, 25…",
+   "resumo": "O senador Flávio Bolsonaro compartilhou nesta quarta-feira, 21, um novo vídeo de apoio do escritor Augusto Cury, terceiro colocado nas eleições deste ano. Na gravação, Cury pediu votos ao candidato no segundo turno, marcado para domingo 25,…",
    "link": "https://revistaoeste.com/politica/augusto-cury-reforca-apoio-e-pede-votos-para-flavio/",
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/augusto-cury-avante-futura-100-cidades.jpg",
@@ -56,15 +191,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/quaest_liula.jpeg",
    "data": "2026-10-22T00:08:13-03:00"
-  },
-  {
-   "id": "648276308652",
-   "titulo": "Lula diz que PF apura perda de ilha de Richarlison para amigo de Flávio",
-   "resumo": "Atleta comprou imóvel por cerca de R$ 10 milhões, mas perdeu a posse para o advogado Willer Tomaz, amigo do candidato do PL à Presidência",
-   "link": "https://www.poder360.com.br/poder-justica/lula-diz-que-pf-apura-perda-de-ilha-de-richarlison-para-amigo-de-flavio/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/T9tFy756uXU/hqdefault.jpg",
-   "data": "2026-10-22T00:06:17-03:00"
   },
   {
    "id": "012c290f605b",
@@ -130,33 +256,6 @@
    "data": "2026-10-21T23:44:09-03:00"
   },
   {
-   "id": "fc7ced379cb7",
-   "titulo": "Lula faz convite a Flávio para abrir sigilos nesta 5ª feira no TSE",
-   "resumo": "Petista concordou com as 19 condições do adversário e marca reunião no Tribunal a 4 dias do 2º turno das eleições",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-convite-a-flavio-para-abrir-sigilos-nesta-5a-feira-no-tse/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Lula-convida-Flavio-para-abrir-sigilo-no-TSE-21-OUT-2026.png",
-   "data": "2026-10-21T23:24:18-03:00"
-  },
-  {
-   "id": "0b931d814496",
-   "titulo": "“Vira pix”: Durigan rebate Flávio e diz que proposta já existe",
-   "resumo": "Ministro disse que cashback integra a reforma tributária e passa a valer em 2027; também questionou a falta de detalhes da proposta do candidato do PL",
-   "link": "https://www.poder360.com.br/poder-economia/vira-pix-durigan-rebate-flavio-e-diz-que-proposta-ja-existe/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/gF3K7BtoNpI/hqdefault.jpg",
-   "data": "2026-10-21T23:23:00-03:00"
-  },
-  {
-   "id": "0279d25d9ebc",
-   "titulo": "CNBB cobra respeito às urnas e participação consciente no 2º turno",
-   "resumo": "Em carta, entidade também defendeu que os cidadãos continuem acompanhando e fiscalizando a gestão pública depois da eleição",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/cnbb-cobra-respeito-as-urnas-e-participacao-consciente-no-2o-turno/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-21T23:22:38-03:00"
-  },
-  {
    "id": "3bf7ab097e6a",
    "titulo": "Campanha de Lula usa suposto favorecimento da Meta para pedir cassação da chapa de Flávio no TSE",
    "resumo": "Lula pede inelegibilidade e cassação da chapa de Flávio por suposto abuso de poder econômico e uso indevido dos meios de comunicação.",
@@ -184,15 +283,6 @@
    "data": "2026-10-21T22:51:33-03:00"
   },
   {
-   "id": "1a8298d4fc37",
-   "titulo": "Fotos revelam viagem de Lulinha e lobista em jatinho de US$ 20 mi",
-   "resumo": "Imagens divulgadas pela revista \"Veja\" mostram o filho de Lula em encontros com Roberta Luchsinger, investigada por suspeita de intermediar interesses privados no governo",
-   "link": "https://www.poder360.com.br/poder-justica/fotos-revelam-viagem-de-lulinha-e-lobista-em-jatinho-de-us-20-mi/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/fotos-mostram-proximidade-entre-lulinha-luchsinger-e-empresarios-21-outubro-2026.png",
-   "data": "2026-10-21T22:50:23-03:00"
-  },
-  {
    "id": "2f1a9d2726af",
    "titulo": "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
@@ -218,33 +308,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15224301/cnbb-sede-960x540.jpg",
    "data": "2026-10-21T22:22:43-03:00"
-  },
-  {
-   "id": "1834741eea58",
-   "titulo": "Ex-piloto de F1 Nelson Piquet declara voto em Flávio no 2º turno",
-   "resumo": "Tricampeão mundial pede votos para o candidato do PL em vídeo publicado nas redes sociais",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ex-piloto-de-f1-nelson-piquet-declara-voto-em-flavio-no-2o-turno/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/K9YcgOJVQR8/hqdefault.jpg",
-   "data": "2026-10-21T22:20:00-03:00"
-  },
-  {
-   "id": "ba4fc7f9d2e7",
-   "titulo": "Campanha de Lula pede ao TSE cassação da chapa de Flávio Bolsonaro",
-   "resumo": "Ação trata de “abuso de poder econômico”, diz que Meta e X atuam como interessadas e quer medidas rápidas antes do 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes/campanha-de-lula-pede-ao-tse-cassacao-da-chapa-de-flavio-bolsonaro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-21T22:10:24-03:00"
-  },
-  {
-   "id": "43c3f3a5c792",
-   "titulo": "EUA declaram Ramagem ilegal e confirmam processo de deportação",
-   "resumo": "Departamento de Segurança de Trump afirma que o ex-diretor da Abin ultrapassou prazo de visto e responde a processo",
-   "link": "https://www.poder360.com.br/poder-internacional/eua-declaram-ramagem-ilegal-e-confirmam-processo-de-deportacao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-21T22:04:27-03:00"
   },
   {
    "id": "c22af4301af9",
@@ -299,15 +362,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55575935513_4e654bb529_k.jpg",
    "data": "2026-10-21T21:29:26-03:00"
-  },
-  {
-   "id": "28e5586ec5dc",
-   "titulo": "Dirceu sobre Flávio abrir sigilo: “Pode acabar no mesmo lugar que o pai”",
-   "resumo": "Após ato em defesa da democracia na USP, ex-ministro de Lula disse que duvida que senador abra os dados",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/dirceu-sobre-flavio-abrir-sigilo-pode-acabar-no-mesmo-lugar-que-o-pai/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/lJIIMt2PUZU/hqdefault.jpg",
-   "data": "2026-10-21T21:29:19-03:00"
   },
   {
    "id": "169d05d6adef",
@@ -427,33 +481,6 @@
    "data": "2026-10-21T20:28:08-03:00"
   },
   {
-   "id": "a0f53a05ee39",
-   "titulo": "Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/9u_PTbvlaOx-B73ElAcXxqqZVb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/PBamqxTMibAz5Tsy8bRA/4.jpg",
-   "data": "2026-10-21T20:25:11-03:00"
-  },
-  {
-   "id": "b11ab8ce5148",
-   "titulo": "Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/HZn9P15WrZvvTYwLK7hW3UtxTS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/U/wtKowOTcm0lAouHVYW1w/55574360850-aa334d5896-k.jpg",
-   "data": "2026-10-21T20:25:08-03:00"
-  },
-  {
-   "id": "c910ef096436",
-   "titulo": "PF diz que encontrou sala secreta com máquina de contar dinheiro no hangar de Willer Tomaz; veja imagens",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/kSd5oXIaX7XhV1xrwcDZrBgegxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/D/vLtFB3T1qgmgtx2HPt7w/37447615496-4cb71e3490-k.jpg",
-   "data": "2026-10-21T20:18:07-03:00"
-  },
-  {
    "id": "6126fa2a0d00",
    "titulo": "Lula envia PEC da tarifa zero ao Congresso",
    "resumo": "O presidente Luiz Inácio Lula da Silva enviou ao Congresso nesta quarta-feira, 21, a Proposta de Emenda à Constituição (PEC) que prevê transporte público gratuito aos fins de semana e feriados . O texto destina cerca de R$ 12 bilhões em eme…",
@@ -470,15 +497,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55604297301_33a69e6eb7_k.jpg",
    "data": "2026-10-21T20:05:41-03:00"
-  },
-  {
-   "id": "26aee6f131f5",
-   "titulo": "Nunes Marques adia restrição ao WhatsApp para eleições de 2028",
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE) , ministro Kassio Nunes Marques, afirmou nesta quarta-feira, 21, que a discussão sobre a restrição de canais de WhatsApp durante o período eleitoral deve ficar para as eleições municipais de…",
-   "link": "https://revistaoeste.com/politica/nunes-marques-adia-restricao-ao-whatsapp-para-eleicoes-de-2028/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/tse_kassio-nunes_turno-2.jpeg",
-   "data": "2026-10-21T20:05:39-03:00"
   },
   {
    "id": "264c46051b1a",
@@ -569,15 +587,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-21T17:52:00-03:00"
-  },
-  {
-   "id": "dcd449ceee0c",
-   "titulo": "Celina recua na disputa pelo governo do DF, aponta Quaest",
-   "resumo": "Pesquisa Quaest divulgada nesta quarta-feira, 21, mostra a governadora Celina Leão (PP) com 50% das intenções de voto no segundo turno da disputa pelo governo do Distrito Federal. No levantamento anterior, divulgado em 12 de outubro, Celina…",
-   "link": "https://oantagonista.com.br/brasil/celina-recua-na-disputa-pelo-governo-do-df-aponta-quaest/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/Captura-de-Tela-2026-08-10-as-10.42.32-e1786369973989.png",
-   "data": "2026-10-21T17:39:18-03:00"
   },
   {
    "id": "41485df2ef50",
@@ -758,15 +767,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/candidato-a-presidencia-da-republica-flavio-bolsonaro.jpg",
    "data": "2026-10-20T14:26:00-03:00"
-  },
-  {
-   "id": "7cf8d9b6e270",
-   "titulo": "Lula visita Sarney no Maranhão após atos de campanha",
-   "resumo": "Após ato de campanha na capital do Maranhão, São Luís, Lula deverá ter um encontro com o ex-presidente José Sarney (MDB)",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-visita-sarney-no-maranhao",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/jos-sarney.jpg",
-   "data": "2026-10-20T12:17:42-03:00"
   }
  ]
 }
