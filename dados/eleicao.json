@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T09:37:43.641106-03:00",
+ "gerado_em": "2026-10-24T13:32:43.434470-03:00",
  "fonte": "TSE — resultados.tse.jus.br",
  "presidente_br": {
   "uf": "BR",
@@ -3981,7 +3981,7 @@
   "PE": {
    "uf": "PE",
    "apurado": "100,00",
-   "atualizado_tse": "06/10/2026 16:59:15",
+   "atualizado_tse": "24/10/2026 12:42:07",
    "votos_validos": "5266852",
    "candidatos": [
     {
@@ -4363,8 +4363,8 @@
   "RN": {
    "uf": "RN",
    "apurado": "100,00",
-   "atualizado_tse": "04/10/2026 23:02:10",
-   "votos_validos": "1986668",
+   "atualizado_tse": "24/10/2026 12:06:47",
+   "votos_validos": "1986441",
    "candidatos": [
     {
      "nome": "ALLYSON",
@@ -4435,16 +4435,6 @@
      "percentual": "0,02",
      "eleito": false,
      "campo": "direita"
-    },
-    {
-     "nome": "HENRIQUE LYRA",
-     "numero": "29",
-     "partido": "PCO",
-     "coligacao": "PCO",
-     "votos": 227,
-     "percentual": "0,01",
-     "eleito": false,
-     "campo": "esquerda"
     }
    ],
    "vencedor": {
@@ -4695,7 +4685,7 @@
   "SC": {
    "uf": "SC",
    "apurado": "100,00",
-   "atualizado_tse": "15/10/2026 13:22:51",
+   "atualizado_tse": "24/10/2026 11:26:57",
    "votos_validos": "4265641",
    "candidatos": [
     {
