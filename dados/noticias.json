@@ -1,115 +1,502 @@
 {
- "atualizado": "2026-10-25T03:02:42.335816-03:00",
- "total": 74,
+ "atualizado": "2026-10-25T08:17:37.714393-03:00",
+ "total": 87,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "35079255435f",
-   "titulo": "Pesquisa PoderData/Aya: leia os resultados de Lula e Flávio no 2º turno",
-   "resumo": "Candidatos estão em situação de empate técnico com percentuais iguais aos de 3 dias atrás, mas Lula nunca esteve à frente do senador ao longo de toda a campanha de 2º turno",
-   "link": "https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-no-2o-turno-3/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/kDKp0pvbs8k/hqdefault.jpg",
-   "data": "2026-10-25T02:38:58-03:00"
+   "id": "637420b4adea",
+   "titulo": "Vereadora do PT é atingida no rosto durante ataque a carreata pró-Lula",
+   "resumo": "A vereadora Iara Pimentel (PT), de Montes Claros (MG), foi atingida no rosto durante um ataque a uma carreata em apoio ao presidente Lula (PT), na noite deste sábado, 24, véspera do segundo turno. Segundo a assessoria da parlamentar, o carr…",
+   "link": "https://oantagonista.com.br/brasil/vereadora-do-pt-e-atingida-no-rosto-durante-ataque-a-carreata-pro-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-tela-2026-10-25-081510.png",
+   "data": "2026-10-25T08:16:22-03:00"
   },
   {
-   "id": "958c70e93cab",
-   "titulo": "Lula vence Flávio na Nova Zelândia; acompanhe votação no exterior",
-   "resumo": "Quase 1 milhão de brasileiros que vivem em outros países estão aptos a votar; fora do Brasil, eleitor só vota para presidente",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-2026-2-turno-exterior-resultados/",
+   "id": "cb3ad66e0bfc",
+   "titulo": "Lula vence na China e Flávio, no Japão",
+   "resumo": "Petista também teve maioria na Austrália, Nova Zelândia e Coreia do Sul; divulgação oficial dos resultados começa às 17h",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-vence-na-china-e-flavio-no-japao/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-25T02:26:14-03:00"
+   "data": "2026-10-25T08:14:19-03:00"
   },
   {
-   "id": "74733dc571a8",
-   "titulo": "Saiba como estão Lula e Flávio nas últimas 18 pesquisas divulgadas",
-   "resumo": "Levantamentos feitos de 12 a 24 de outubro mostram Lula numericamente à frente em apenas 1 estudo",
-   "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-lula-e-flavio-nas-ultimas-18-pesquisas-divulgadas/",
+   "id": "18411c6b6f85",
+   "titulo": "Escola onde Derrite vota fica sem luz depois de chuva em SP",
+   "resumo": "Enel foi acionada; urnas têm bateria com autonomia de até 12 horas",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/escola-onde-derrite-vota-fica-sem-luz-depois-de-chuva-em-sp/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/2turno-pesquisas-nacionais-df-23-out-2026-01-scaled.png",
-   "data": "2026-10-25T02:19:18-03:00"
+   "imagem": "",
+   "data": "2026-10-25T08:14:02-03:00"
   },
   {
-   "id": "ff62cbeca639",
-   "titulo": "Trunfo de Lula, jovens são os que menos pretendem votar no 2º turno",
-   "resumo": "Já os eleitores adultos (até 59 anos), entre os quais Flávio é mais forte, são os que mais dizem ter interesse em votar no domingo",
-   "link": "https://www.poder360.com.br/poderdata/trunfo-de-lula-jovens-sao-os-que-menos-pretendem-votar-no-2o-turno-2/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pd-comparecimento-24-out-2026-04-scaled.png",
-   "data": "2026-10-25T02:15:59-03:00"
-  },
-  {
-   "id": "6394ccce051c",
-   "titulo": "Eleitores de Flávio estão mais decididos do que os de Lula",
-   "resumo": "Pesquisa PoderData/Aya feita de 23 a 24 de outubro mostra que 98% dos eleitores de Flávio não mudam o voto; entre os de Lula, a taxa cai para 93%",
-   "link": "https://www.poder360.com.br/poderdata/eleitores-de-flavio-estao-mais-decididos-do-que-os-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pd-intencao-voto-24-out-2026-04-scaled.png",
-   "data": "2026-10-25T02:04:13-03:00"
-  },
-  {
-   "id": "bb308e03f822",
-   "titulo": "Saiba como estão Celina e Grass nas pesquisas para governador do DF",
-   "resumo": "Levantamentos feitos de 15 a 24 de outubro mostram candidata do PP com 57,9% a 61% dos votos válidos",
-   "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-celina-e-grass-nas-pesquisas-para-governador-do-df/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nos-estados-nesta-semana-lula-flavio-19-out-2026-06-2-scaled.png",
-   "data": "2026-10-25T02:02:16-03:00"
-  },
-  {
-   "id": "5c2ec4c8f10f",
-   "titulo": "Saiba como estão Vicentinho e Dorinha nas pesquisas para governador do TO",
-   "resumo": "Levantamentos realizados de 15 a 24 de outubro mostram candidato com 52% a 59,5% dos votos válidos",
-   "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-vicentinho-e-dorinha-nas-pesquisas-para-governador-do-to/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nos-estados-nesta-semana-lula-flavio-19-out-2026-05-2-scaled.png",
-   "data": "2026-10-25T02:01:51-03:00"
-  },
-  {
-   "id": "72027be0d505",
-   "titulo": "Só 11% dizem que não votaram no 1º turno, mas abstenção foi de 21,08%",
-   "resumo": "A abstenção tende a ser ainda maior no 2º turno; a desmotivação do eleitorado pode ser um dos fatores",
-   "link": "https://www.poder360.com.br/poderdata/so-11-dizem-que-nao-votaram-no-1o-turno-mas-abstencao-foi-de-2108/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pd-comparecimento-24-out-2026-01-scaled.png",
-   "data": "2026-10-25T01:51:41-03:00"
-  },
-  {
-   "id": "4bf79edabd4f",
-   "titulo": "Saiba como estão Mailza e Alan nas pesquisas para governador do Acre",
-   "resumo": "Levantamentos realizados de 15 a 24 de outubro mostram candidata do PP liderando todos os estudos, com 59% a 62% dos votos válidos",
-   "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-mailza-e-alan-nas-pesquisas-para-governador-do-acre-2/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nos-estados-nesta-semana-lula-flavio-19-out-2026-04-1-scaled.png",
-   "data": "2026-10-25T01:44:15-03:00"
-  },
-  {
-   "id": "8902c62e575d",
-   "titulo": "Saiba como estão Cadu de Lula e Allyson nas pesquisas do RN",
-   "resumo": "Levantamentos feitos de 13 a 24 de outubro mostram Cadu de Lula numericamente à frente em 2 estudos",
-   "link": "https://www.poder360.com.br/poder-pesquisas/saiba-como-estao-cadu-de-lula-e-allyson-nas-pesquisas-do-rn-2/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-2-turno-nos-estados-nesta-semana-lula-flavio-19-out-2026-07-2-scaled.png",
-   "data": "2026-10-25T01:42:34-03:00"
-  },
-  {
-   "id": "f570874ba53c",
-   "titulo": "Locatário paga aluguel por Pix durante 3 anos sem recibo e, após proprietário negar os últimos 4 meses, descobre que os comprovantes podem não bastar sozinhos",
-   "resumo": "Durante três anos, um locatário manteve o aluguel por Pix e não recebeu recibos do proprietário. Quando os últimos quatro meses passaram a ser cobrados novamente, ele reuniu as transferências bancárias e percebeu que comprovar o envio do di…",
-   "link": "https://oantagonista.com.br/brasil/locatario-paga-aluguel-por-pix-durante-3-anos-sem-recibo-e-apos-proprietario-negar-os-ultimos-4-meses-descobre-que-os-comprovantes-podem-nao-bastar-sozinhos/",
+   "id": "b751f1229f09",
+   "titulo": "Moraes está “se cagando de medo”, diz Tagliaferro",
+   "resumo": "O ex-assessor de Alexandre de Moraes no Tribunal Superior Eleitoral (TSE) Eduardo Tagliaferro atacou o ministro do Supremo Tribunal Federal (STF) na madrugada deste domingo, 25, dia do segundo turno da eleição presidencial. “Moraes a essa h…",
+   "link": "https://oantagonista.com.br/brasil/moraes-esta-se-cagando-de-medo-diz-tagliaferro/",
    "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Tenant_showing_rent_payment_proof_20261024211020.jpg",
-   "data": "2026-10-24T22:33:00-03:00"
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/tagliaferro-1.jpg",
+   "data": "2026-10-25T08:11:41-03:00"
   },
   {
-   "id": "f6589fc16754",
-   "titulo": "Veritá aponta Flávio na liderança isolada contra Lula no 2º turno",
-   "resumo": "O senador Flávio Bolsonaro (PL) lidera a corrida presidencial com 51,56% dos votos válidos contra 48,44% do presidente Luiz Inácio Lula da Silva (PT) às vésperas do segundo turno. A sondagem do Instituto Veritá divulgada neste sábado, 24, a…",
-   "link": "https://revistaoeste.com/politica/verita-aponta-flavio-na-lideranca-isolada-contra-lula-no-2o-turno/",
+   "id": "216367a2a817",
+   "titulo": "Cunha prevê vitória de Flávio por 3,4 milhões de votos: “Vamos ver se acerto”",
+   "resumo": "O ex-presidente da Câmara dos Deputados Eduardo Cunha afirmou a noite de sábado, 24, que espera uma vitória de Flávio Bolsonaro (PL) sobre Lula (PT) por cerca de 3,4 milhões de votos no segundo turno da eleição presidencial, que ocorre nest…",
+   "link": "https://oantagonista.com.br/brasil/cunha-preve-vitoria-de-flavio-por-34-milhoes-de-votos-vamos-ver-se-acerto/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/eduardo-cunha-1.jpg",
+   "data": "2026-10-25T08:09:09-03:00"
+  },
+  {
+   "id": "2cd95e408771",
+   "titulo": "Segundo colocado no 1º turno nunca venceu eleição presidencial desde 1989",
+   "resumo": "Nenhum candidato que ficou em segundo lugar no primeiro turno venceu a eleição presidencial desde 1989. O líder da etapa inicial ganhou as sete disputas decididas em segundo turno. Neste domingo, 25, Flávio Bolsonaro e Luiz Inácio Lula da S…",
+   "link": "https://revistaoeste.com/politica/segundo-colocado-no-1o-turno-nunca-venceu-eleicao-presidencial-desde-1989/",
    "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/rj_flavio-x-lula.jpg",
-   "data": "2026-10-24T22:19:27-03:00"
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavioxlula_trump.jpeg",
+   "data": "2026-10-25T08:07:29-03:00"
+  },
+  {
+   "id": "0250d0361ec3",
+   "titulo": "Vereadora petista é atingida por pedrada durante ato no interior de MG",
+   "resumo": "Iara Pimentel foi ferida no rosto após manifestantes lançarem garrafas, tijolos e outros objetos contra carro de som. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/vereadora-petista-atingida-pedrada-durante-ato-interior-mg/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25080630/2026.10.25-atentado-vereadora-pt-montes-claros-foto-reproducao-redes-sociais-960x540.jpg",
+   "data": "2026-10-25T08:06:59-03:00"
+  },
+  {
+   "id": "7d3b1750a3b8",
+   "titulo": "Como justificar a ausência no 2º turno das eleições",
+   "resumo": "Os eleitores que não comparecerem às urnas neste domingo, 25 de outubro, deverão justificar a ausência. A Justiça Eleitoral oferece três opções: o aplicativo e-Título, o sistema de Autoatendimento Eleitoral e o atendimento presencial. O ele…",
+   "link": "https://revistaoeste.com/politica/como-justificar-a-ausencia-no-2o-turno-das-eleicoes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/como-justificar-a-ausencia-no-2o-turno-das-eleicoes.jpeg",
+   "data": "2026-10-25T08:04:49-03:00"
+  },
+  {
+   "id": "93169600c1d4",
+   "titulo": "Urnas estão abertas em todo o Brasil; acompanhe o 2° turno das eleições",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
+   "data": "2026-10-25T08:00:40-03:00"
+  },
+  {
+   "id": "7c2d810d5dcf",
+   "titulo": "Câmara analisa PL que recuperação judicial para pequenas dívidas",
+   "resumo": "Projeto cria procedimento simplificado para empresas com dívidas de até R$ 1,62 milhão e até 40 credores",
+   "link": "https://www.poder360.com.br/poder-congresso/camara-analisa-pl-que-recuperacao-judicial-para-pequenas-dividas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T08:00:13-03:00"
+  },
+  {
+   "id": "477d54d7a4b9",
+   "titulo": "Nikolas e Janones viram peças-chave na campanha digital de Flávio e Lula",
+   "resumo": "A disputa entre Lula (PT) e Flávio Bolsonaro (PL) ganhou, no segundo turno, um reforço de dois personagens controversos. De um lado, o deputado federal Nikolas Ferreira (PL-MG), campeão de votos em Minas Gerais; André Janones (Rede-MG), que…",
+   "link": "https://oantagonista.com.br/brasil/nikolas-e-janones-viram-pecas-chave-na-campanha-digital-de-flavio-e-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-20T182714.159.png",
+   "data": "2026-10-25T08:00:00-03:00"
+  },
+  {
+   "id": "1ecc47dcdbd2",
+   "titulo": "Presidente do TSE, Nunes Marques acompanha abertura de sessão e vota em Brasília",
+   "resumo": "Nunes Marques acompanha a impressão da zerésima para o 2º turno das eleições O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, acompanha a abertura de sua sessão eleitoral em Brasília, neste domingo (25). AO …",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-nunes-marques-acompanha-abertura-de-sessao-em-brasilia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-25T07:53:56-03:00"
+  },
+  {
+   "id": "67ce352d9a9f",
+   "titulo": "Saiba quais as condutas consideradas crime eleitoral no dia da votação",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quais-condutas-consideradas-crime-eleitoral-no-dia-da-votacao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quais-condutas-consideradas-crime-eleitoral-no-dia-da-votacao",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T07:49:00-03:00"
+  },
+  {
+   "id": "e997ec7c1b01",
+   "titulo": "Flávio Bolsonaro emula populismo lulista em busca de votos dos indecisos na reta final",
+   "resumo": "Na reta final da eleição presidencial deste ano, o senador Flávio Bolsonaro (PL) resolveu emular o populismo do presidente Lula (PT) para tentar fugir das críticas e atenuar efeitos de notícias falsas que passaram a ser propagadas pelo peti…",
+   "link": "https://oantagonista.com.br/brasil/flavio-emula-populismo-lulista-em-busca-de-votos-dos-indecisos-na-reta-final/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/268d110d-30c1-4f9b-8400-8bba53a49277-scaled.jpg",
+   "data": "2026-10-25T07:45:00-03:00"
+  },
+  {
+   "id": "f4202fe132ea",
+   "titulo": "Qual é o número de Lula, candidato do PT à Presidência da República",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/qual-e-o-numero-de-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/-0uc35EXfgCEnWA1Tegbr2PvbPQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/oryt9VQQ6PnTTJEtWjRw/globo-canal-4-20261013-2000-frame-128819.jpeg",
+   "data": "2026-10-25T07:42:19-03:00"
+  },
+  {
+   "id": "7936ad0aea39",
+   "titulo": "Qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/qual-e-o-numero-de-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/l6JIUN4Btda8U7noi4T4qp86ApQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/qxz6yhTnqV5JL7kebU3A/g1-flavio-bolsonaro-manaus-19-outubro.jpg",
+   "data": "2026-10-25T07:42:14-03:00"
+  },
+  {
+   "id": "0307e66e4553",
+   "titulo": "Manejo adequado recupera pastagens e amplia estoque de carbono",
+   "resumo": "Experimentos de longa duração no interior paulista mostram que a intensificação moderada do pasto recupera a produtividade da terra e maximiza o sequestro de CO₂",
+   "link": "https://www.poder360.com.br/poder-sustentavel/manejo-adequado-recupera-pastagens-e-amplia-estoque-de-carbono/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:40:07-03:00"
+  },
+  {
+   "id": "3d9979b25488",
+   "titulo": "Eleições 2026: acompanhe a cobertura ao vivo da votação do 2º turno no Paraná",
+   "resumo": "",
+   "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-pr.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/FCaDRQxmrCto1aT4amAEGgt9y38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/y/BtpfXuTcWQULE5NtVBCA/whatsapp-image-2026-10-04-at-14.47.16.jpeg",
+   "data": "2026-10-25T07:34:50-03:00"
+  },
+  {
+   "id": "f0e243accacf",
+   "titulo": "Sergio Moro (PL) é eleito governador do Paraná",
+   "resumo": "",
+   "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/qEaf1VuUlZ_BI2rRei-6GC9gTV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/GCupaBT5uL9DBH72n5vA/urna-eletronica.jpg",
+   "data": "2026-10-25T07:34:07-03:00"
+  },
+  {
+   "id": "005d3174c785",
+   "titulo": "Correios compram 60 mil computadores e ocultam valor do gasto",
+   "resumo": "A poucos meses do fim do governo Lula, os Correios decidiram adquirir 63,8 mil microcomputadores de alta configuração — isso em uma estatal que acumula rombo bilionário na atual gestão. O tamanho da compra chamou a atenção da Controladoria-…",
+   "link": "https://revistaoeste.com/politica/correios-compram-60-mil-computadores-e-ocultam-valor-do-gasto/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/03/shutterstock_2302997491-copiar.jpg",
+   "data": "2026-10-25T07:32:18-03:00"
+  },
+  {
+   "id": "455ea9841762",
+   "titulo": "Projeto isenta IR para aposentados com sequelas neurológicas",
+   "resumo": "Proposta também abrange casos decorrentes de doenças contraídas depois da aposentadoria",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-isenta-ir-para-aposentados-com-sequelas-neurologicas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:30:38-03:00"
+  },
+  {
+   "id": "42a4aa2aff0e",
+   "titulo": "Técnicas “extras” da FIV nem sempre aumentam chance de gravidez",
+   "resumo": "Revisão avaliou estudos de métodos adicionais à fertilização \"in vitro\" e concluiu que não há evidências de benefícios",
+   "link": "https://www.poder360.com.br/poder-saude/tecnicas-extras-da-fiv-nem-sempre-aumentam-chance-de-gravidez/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:30:33-03:00"
+  },
+  {
+   "id": "8491710edc34",
+   "titulo": "Que horas termina a votação e começa a apuração dos votos no 2º turno das Eleições 2026?",
+   "resumo": "Saiba que horas começa a apuração dos votos no segundo turno e onde acompanhar os resultados em tempo real.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/que-horas-comeca-apuracao-votos-2-turno/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20155759/Eleicao-Simulada_Cabine-de-Votacao_Fernando-Frazao_Agencia-Brasil-1-960x540.jpg",
+   "data": "2026-10-25T07:30:00-03:00"
+  },
+  {
+   "id": "258a302ee178",
+   "titulo": "Bia Kicis: “A anistia ampla ao 8/1 estará entre as minhas prioridades”",
+   "resumo": "Bia Kicis quer chegar ao Senado em 2027 com uma cobrança: a aprovação de uma anistia ampla aos presos do 8 de janeiro, que vá além da redução das penas. Eleita pelo Distrito Federal, a deputada federal apresenta a medida como uma das priori…",
+   "link": "https://revistaoeste.com/politica/entrevista-bia-kicis-anistia-ampla-reforma-supremo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/53129234122_53a67a7b66_o.jpg.jpeg",
+   "data": "2026-10-25T07:30:00-03:00"
+  },
+  {
+   "id": "278b8f6deb40",
+   "titulo": "Lula faz o diabo e consegue, nas pesquisas, colar em Flávio Bolsonaro",
+   "resumo": "Em 2013, então presidente Dilma Rousseff afirmou em alto e bom som que o PT poderia fazer ‘o diabo’ para vencer uma eleição. O tempo passou; o mantra ficou. A reta final da eleição presidencial foi marcada por uma sequência de anúncios do g…",
+   "link": "https://oantagonista.com.br/brasil/lula-faz-o-diabo-e-consegue-nas-pesquisas-colar-em-flavio-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593302823_80166e8089_3k.jpg",
+   "data": "2026-10-25T07:30:00-03:00"
+  },
+  {
+   "id": "a49f85704c22",
+   "titulo": "Jovem morre em carreata de apoio a Flávio Bolsonaro em Goiás",
+   "resumo": "Um jovem de 19 anos morreu após ser atropelado por um caminhão durante uma carreata de apoio a Flávio Bolsonaro (PL) em Goianésia (GO), no sábado, 24, véspera do segundo turno das eleições. Identificado como Matheus Henrique, ele estava sob…",
+   "link": "https://oantagonista.com.br/brasil/jovem-morre-em-carreata-de-apoio-a-flavio-bolsonaro-em-goias/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/goianopolis.png",
+   "data": "2026-10-25T07:29:20-03:00"
+  },
+  {
+   "id": "690f62e0dacc",
+   "titulo": "Projeto destina 1% do Fundo de Segurança a cursos para mulheres",
+   "resumo": "Proposta beneficia prioritariamente vítimas de violência doméstica e moradoras de áreas vulneráveis",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-destina-1-do-fundo-de-seguranca-a-cursos-para-mulheres/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:20:16-03:00"
+  },
+  {
+   "id": "df02a1fbab1c",
+   "titulo": "Consulte o local de votação antes de sair de casa; saiba como",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/consulte-o-local-de-votacao-antes-de-sair-de-casa-saiba-como\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/consulte-o-local-de-votacao-antes-de-sair-de-casa-saiba-como",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T07:19:00-03:00"
+  },
+  {
+   "id": "790816fb5566",
+   "titulo": "Eleições 2026: como justificar a ausência no segundo turno?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/como-justificar-a-ausencia-no-segundo-turno-1.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/axVsaclOznRNaqY6kfPh86XSD1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/X/xjqX3BRhCi9iMA6jfy5w/globo-canal-4-20241004-2000-frame-98081.jpeg",
+   "data": "2026-10-25T07:18:39-03:00"
+  },
+  {
+   "id": "3a857d2accf7",
+   "titulo": "Flávio tem apoio mais consolidado que Lula, indica pesquisa",
+   "resumo": "Pesquisa PoderData/Aya mostra que 95% dos eleitores já decidiram o voto para o segundo turno e não pretendem mudar de escolha. Entre os apoiadores de Flávio Bolsonaro (PL), o índice chega a 98%, contra 93% dos eleitores de Lula (PT). O leva…",
+   "link": "https://oantagonista.com.br/brasil/voto-em-flavio-esta-mais-consolidado-que-em-lula-aponta-pesquisa/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55590211891_c19ec0dc68_6k-scaled-e1792332059207.jpg",
+   "data": "2026-10-25T07:15:19-03:00"
+  },
+  {
+   "id": "90021082277e",
+   "titulo": "Daniella Marques rebate críticas e diz que “competência não tem gênero”",
+   "resumo": "Coordenadora da campanha de Flávio Bolsonaro disse que tem sido atacada e \"reduzida ao rótulo de mulher da economia\"",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/daniella-marques-rebate-criticas-e-diz-que-competencia-nao-tem-genero/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:15:06-03:00"
+  },
+  {
+   "id": "ae6ff1f641be",
+   "titulo": "Ministério da Prosperidade x ônibus de graça – o vazio de promessas em 2026",
+   "resumo": "O segundo turno das eleições presidenciais foi marcado por uma troca de ataques entre Flávio Bolsonaro (PL) e Lula (PT). Esse tiroteio verbal, ocorrido principalmente nos debates, foi fruto de um vazio de propostas, que dominou não somente …",
+   "link": "https://oantagonista.com.br/brasil/ministerio-da-prosperidade-x-onibus-de-graca-o-vazio-de-promessas-em-2026/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Flavio-Bolsonaro.jpg",
+   "data": "2026-10-25T07:15:00-03:00"
+  },
+  {
+   "id": "3f1ace0ec99e",
+   "titulo": "Antes da urna, papel e caneta: prepare sua colinha para votar",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/antes-da-urna-papel-e-caneta-prepare-sua-colinha-para-votar\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/antes-da-urna-papel-e-caneta-prepare-sua-colinha-para-votar",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T07:15:00-03:00"
+  },
+  {
+   "id": "f61fa704da6a",
+   "titulo": "2º turno: 5 Estados e o DF escolhem governadores neste domingo",
+   "resumo": "Cinco Estados e o Distrito Federal realizam neste domingo, 25, o segundo turno para governador. Os eleitores escolhem entre os dois candidatos mais votados em 4 de outubro. As disputas ocorrem no Acre, Amazonas, Espírito Santo, Rio Grande d…",
+   "link": "https://revistaoeste.com/politica/2o-turno-5-estados-e-o-df-escolhem-governadores-neste-domingo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/urna-eletronica-eleicoes-2026-clausula-de-barreira.jpg",
+   "data": "2026-10-25T07:14:10-03:00"
+  },
+  {
+   "id": "b7183b6b71f0",
+   "titulo": "Eleições 2026: qual o horário de votação neste domingo (25)?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-qual-o-horario-de-votacao-neste-domingo-25.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/okpLM-FjH0vtNZYxesFicJmBxfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/t/xe9h8GSnW3uwnKY8sAHA/edicao-imagens-g1-71-.png",
+   "data": "2026-10-25T07:12:43-03:00"
+  },
+  {
+   "id": "183e0a7f28a4",
+   "titulo": "Confira horário de votação neste domingo, segundo turno das eleições",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-horario-de-votacao-neste-domingo-segundo-turno-das-eleicoes\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-horario-de-votacao-neste-domingo-segundo-turno-das-eleicoes",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T07:11:00-03:00"
+  },
+  {
+   "id": "53952c3ce7ff",
+   "titulo": "Veja em tempo real a apuração do 2ª turno na Agência Brasil",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-em-tempo-real-apuracao-do-2a-turno-na-agencia-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-em-tempo-real-apuracao-do-2a-turno-na-agencia-brasil",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T07:11:00-03:00"
+  },
+  {
+   "id": "7efc30af0b71",
+   "titulo": "PoderData/Aya: Flávio tem 51% dos votos válidos, contra 49% de Lula",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) aparece com 51% dos votos válidos, contra 49% do presidente Luiz Inácio Lula da Silva, segundo pesquisa PoderData/Aya divulgada neste domingo, 25. O levantamento ouviu eleitores nos dias 23 e 24 de outubro…",
+   "link": "https://revistaoeste.com/politica/poderdata-aya-flavio-tem-51-dos-votos-validos-contra-49-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-x-vorcaro.jpg",
+   "data": "2026-10-25T07:07:30-03:00"
+  },
+  {
+   "id": "5be0eae6abb9",
+   "titulo": "Câmara avalia ampliar exigências para agentes públicos declararem bens",
+   "resumo": "A proposta inclui a obrigação de detalhar participações societárias diretas e indiretas, no Brasil ou no exterior",
+   "link": "https://www.poder360.com.br/poder-congresso/camara-avalia-ampliar-exigencias-para-agentes-publicos-declararem-bens/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T07:05:27-03:00"
+  },
+  {
+   "id": "aedfa914ebc3",
+   "titulo": "“Prometer um Einstein a cada brasileiro é fazer povo de idiota”, diz Drauzio",
+   "resumo": "Médico critica Flávio Bolsonaro e diz que nenhum país é capaz de oferecer padrão do hospital privado a toda população",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/prometer-um-einstein-a-cada-brasileiro-e-fazer-povo-de-idiota-diz-drauzio/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/drauzio-varella-flavio-sus-24out2026-1.png",
+   "data": "2026-10-25T07:04:50-03:00"
+  },
+  {
+   "id": "774cfb1e6e5e",
+   "titulo": "O que disse Flávio Bolsonaro na live de Gusttavo Lima",
+   "resumo": "Flávio Bolsonaro (PL) encerrou a campanha para o segundo turno com uma live no Instagram ao lado dos cantores sertanejos Gusttavo Lima e Rodolffo, da dupla com Israel. Durante a transmissão, realizada na noite de sábado, 24, o senador Flávi…",
+   "link": "https://oantagonista.com.br/brasil/o-que-disse-flavio-bolsonaro-na-live-de-gusttavo-lima/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-25-as-06.55.04.png",
+   "data": "2026-10-25T07:03:48-03:00"
+  },
+  {
+   "id": "56b596f76035",
+   "titulo": "Apuração do 2º turno começa às 17h neste domingo",
+   "resumo": "A apuração do segundo turno das eleições de 2026 começa às 17h deste domingo, 25, no horário de Brasília. A contagem dos votos terá início com o encerramento da votação em todo o país. A Justiça Eleitoral atualizará os resultados oficiais à…",
+   "link": "https://revistaoeste.com/politica/apuracao-do-2o-turno-comeca-as-17h-neste-domingo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/09/urnas-eletronicas-Antonio-AugustoAscomTSE.jpg",
+   "data": "2026-10-25T07:00:07-03:00"
+  },
+  {
+   "id": "7e6b26b19a78",
+   "titulo": "Brasil escolhe o novo presidente da República após pior campanha da história",
+   "resumo": "O Brasil vai às urnas neste domingo, 25 de outubro, para escolher seu próximo presidente da República em uma das campanhas mais sujas e baixas da história desde a redemocratização. São 158,7 milhões de eleitores aptos a votar. O senador Flá…",
+   "link": "https://oantagonista.com.br/brasil/brasil-escolhe-o-novo-presidente-apos-pior-campanha-da-historia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Flavio-ilustracao.jpg",
+   "data": "2026-10-25T06:47:00-03:00"
+  },
+  {
+   "id": "d64d62370627",
+   "titulo": "Nem sobrenome Lula garante vida fácil a candidato ao governo do RN",
+   "resumo": "O sobrenome Lula é um ativo importante em boa parte da região Nordeste. Menos no Rio Grande do Norte. A petista Fátima Bezerra tem encontrado dificuldades em conseguir fazer seu sucessor, Cadu de Lula (PT), ex-secretário da Fazenda do Estad…",
+   "link": "https://oantagonista.com.br/brasil/nem-sobrenome-lula-garante-vida-facil-a-candidato-ao-governo-do-rn/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Allyson-Bezerra-e-Cadu-de-Lula.png",
+   "data": "2026-10-25T06:45:00-03:00"
+  },
+  {
+   "id": "21bd13bcf669",
+   "titulo": "Eleitores vão às urnas hoje para escolher o presidente do país",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-urnas-neste-domingo-para-escolher-o-presidente-do-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-urnas-neste-domingo-para-escolher-o-presidente-do-pais",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T06:45:00-03:00"
+  },
+  {
+   "id": "fea92f138c1e",
+   "titulo": "Flávio e Lula votam às 8h neste domingo; saiba o local de votação de cada um",
+   "resumo": "Os candidatos à Presidência da República Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva votam logo na abertura dos portões, às 8h deste domingo, 25, no segundo turno das eleições . Os dois receberam mais votos no primeiro turno . Flávio …",
+   "link": "https://revistaoeste.com/politica/flavio-e-lula-votam-as-8h-neste-domingo-saiba-o-local-de-votacao-de-cada-um/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-x-lula-futura-100-cidades.jpg",
+   "data": "2026-10-25T06:39:10-03:00"
+  },
+  {
+   "id": "5d23bd5ad7c6",
+   "titulo": "De Toni defende revisão do pacto federativo e da reforma tributária",
+   "resumo": "A deputada federal e senadora eleita Carol De Toni (PL-SC) pretende levar ao Senado uma agenda de revisão do pacto federativo, redução dos gastos públicos e mudanças na reforma tributária. Em entrevista à Oeste , a parlamentar afirmou que o…",
+   "link": "https://revistaoeste.com/politica/de-toni-defende-revisao-do-pacto-federativo-e-da-reforma-tributaria/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Carol-De-Toni.jpg",
+   "data": "2026-10-25T06:30:00-03:00"
+  },
+  {
+   "id": "e17ea9cc0d8e",
+   "titulo": "DF mobiliza 5 mil agentes para o 2º turno das eleições",
+   "resumo": "O Distrito Federal mobilizará 5 mil agentes de segurança pública para o segundo turno das eleições, neste domingo, 25. O planejamento inclui o fechamento de vias na região central de Brasília, o reforço do monitoramento por câmeras e drones…",
+   "link": "https://revistaoeste.com/politica/df-mobiliza-5-mil-agentes-para-o-2o-turno-das-eleicoes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/praca-dos-tres-poderes-palacio-do-planalto-congresso-nacional-stf.jpg",
+   "data": "2026-10-25T06:01:41-03:00"
+  },
+  {
+   "id": "c89a9e0f29df",
+   "titulo": "Campanha de Lula aposta em crescimento de votos no Nordeste com mobilização",
+   "resumo": "Governadores do Nordeste aliados de Lula reforçam transporte gratuito para facilitar deslocamento de eleitores até seus locais de votação",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/campanha-de-lula-aposta-em-crescimento-de-votos-no-nordeste-com-mobilizacao",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/lula-5-1.jpg",
+   "data": "2026-10-25T06:00:28-03:00"
+  },
+  {
+   "id": "03ae124701ba",
+   "titulo": "Eleições 2026: veja onde acompanhar a apuração para presidente e como consultar os votos em Goiás",
+   "resumo": "",
+   "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-onde-acompanhar-a-apuracao-para-presidente-e-como-consultar-os-votos-em-goias.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/gZhTKQD2Kn43YvYvIlFEfF2EkYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/6HFDdKSCaXJpGzATPhag/0-20-0109mg02-av-assedio-voto.png",
+   "data": "2026-10-25T06:00:00-03:00"
+  },
+  {
+   "id": "72d728700353",
+   "titulo": "Lula passa o chapéu no PT e arrecada mais de R$ 100 mil com aliados",
+   "resumo": "No segundo turno das eleições, Lula conseguiu arrecadar ao menos R$ 111,5 mil com doações de dirigentes, ex-ministros e outros aliados do PT",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-passa-o-chapeu-no-pt-e-arrecada-mais-de-r-100-mil-com-aliados",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/04/lula-2-1.jpg",
+   "data": "2026-10-25T05:00:41-03:00"
+  },
+  {
+   "id": "e5e7506f4028",
+   "titulo": "Flávio chega ao 2º turno como favorito, mas vê risco na mobilização de Lula",
+   "resumo": "Flávio passou 2º turno tendo de conter clima de \"já ganhou\" em sua campanha e vendo apoiadores de Lula também se mobilizarem nas ruas",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-chega-ao-2o-turno-como-favorito-mas-ve-risco-na-mobilizacao-de-lula",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-lula.jpg",
+   "data": "2026-10-25T05:00:04-03:00"
+  },
+  {
+   "id": "9443a2506c1c",
+   "titulo": "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e na Malásia",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/QMyusNvpv35iAldBfvSkaYY9E7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/U/VHkfa0T8CLYuFhzB0m7w/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais.png",
+   "data": "2026-10-25T00:00:06-03:00"
+  },
+  {
+   "id": "d5fe52b2bce4",
+   "titulo": "Eleições 2026: qual é a ordem de votação no segundo turno?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/qual-a-ordem-de-votacao-no-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/q8GEaJHJ9jhRnXhfYKd-OF2__7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/F/dueyYKTuOWUsHNOIAcsg/urna-eletronica-cortada.jpg",
+   "data": "2026-10-25T00:00:01-03:00"
+  },
+  {
+   "id": "714174db9fc6",
+   "titulo": "Eleições 2026: Roupa, celular, números dos candidatos – o que pode e o que não pode no dia da eleição",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-roupa-celular-numeros-dos-candidatos-o-que-pode-e-o-que-nao-pode-no-dia-da-eleicao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/i0NCPQvzXnGweetitj51u2uIt80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/9/x87f2cRl25XR4xlKZRJQ/videoframe-5226040.png",
+   "data": "2026-10-25T00:00:01-03:00"
   },
   {
    "id": "1174b9978d7f",
@@ -128,24 +515,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/24220643/flavio_lula_composicao_2134x1200-960x540.jpg",
    "data": "2026-10-24T22:08:18-03:00"
-  },
-  {
-   "id": "d707aebb40ff",
-   "titulo": "Pedras de até 320 kg atravessam sozinhas o chão de um deserto e deixam rastros de centenas de metros que intrigaram cientistas por décadas",
-   "resumo": "Rochas espalhadas pelo chão rachado de Racetrack Playa, no Vale da Morte, deixam longas marcas como se alguém as tivesse arrastado pelo deserto. Algumas chegam a 320 kg, e seus rastros podem alcançar centenas de metros sem que uma pessoa te…",
-   "link": "https://oantagonista.com.br/brasil/pedras-de-ate-320-kg-atravessam-sozinhas-o-chao-de-um-deserto-e-deixam-rastros-de-centenas-de-metros-que-intrigaram-cientistas-por-decadas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/FLOWIMAGE_Stones_moving_across_dry_lakebed_20261024203729.jpg",
-   "data": "2026-10-24T21:53:00-03:00"
-  },
-  {
-   "id": "ab715076a56e",
-   "titulo": "Nunes Marques compara eleição brasileira ao Super Bowl em reunião no TSE",
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE) , Kassio Nunes Marques, comparou a estrutura da eleição brasileira ao Super Bowl, a grande final da liga de futebol americano dos Estados Unidos. O magistrado discursou para 47 observadores …",
-   "link": "https://revistaoeste.com/politica/nunes-marques-compara-eleicao-brasileira-ao-super-bowl-em-reuniao-no-tse/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/nunes-marques1.jpeg",
-   "data": "2026-10-24T21:51:20-03:00"
   },
   {
    "id": "7879fbdedebe",
@@ -184,15 +553,6 @@
    "data": "2026-10-24T21:10:52-03:00"
   },
   {
-   "id": "621d9a71f96f",
-   "titulo": "Flávio Bolsonaro tem 50,1% dos votos válidos, diz Futura",
-   "resumo": "A pesquisa Futura/100% Cidades aponta Flávio Bolsonaro (PL) com 50,1% dos votos válidos, ante 49,9% do presidente Luiz Inácio Lula da Silva (PT). O levantamento foi divulgado neste sábado 24, véspera do segundo turno. + Entenda o que é Polí…",
-   "link": "https://revistaoeste.com/politica/flavio-bolsonaro-tem-501-dos-votos-validos-diz-futura/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/flavio-1-1.jpg",
-   "data": "2026-10-24T21:09:45-03:00"
-  },
-  {
    "id": "d59a12fa968c",
    "titulo": "Brasileiros votam para decidir entre guinada e mais do mesmo na economia",
    "resumo": "Eleição coloca em disputa manutenção de plano para economia que elevou dívida pública e corte de gastos para equilibrar contas do país.",
@@ -211,24 +571,6 @@
    "data": "2026-10-24T20:52:00-03:00"
   },
   {
-   "id": "5dd143686a32",
-   "titulo": "Checagem de debate aponta vantagem de Flávio em afirmações verdadeiras",
-   "resumo": "O Ranking dos Políticos divulgou neste sábado, 24, uma checagem das 137 declarações feitas por Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) durante o debate da última quinta-feira, 22. O levantamento revelou uma vantagem do candid…",
-   "link": "https://revistaoeste.com/politica/checagem-de-debate-aponta-vantagem-de-flavio-em-afirmacoes-verdadeiras/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-bolsonaro-x-lula-debate-da-globo.jpg",
-   "data": "2026-10-24T20:20:18-03:00"
-  },
-  {
-   "id": "1831349c2938",
-   "titulo": "TSE nega remoção de perfis de Nikolas e Marçal, mas reduz alcance",
-   "resumo": "O ministro Ricardo Villas Bôas Cueva, do Tribunal Superior Eleitoral (TSE) , negou nesta sexta-feira, 23, o pedido da coligação do PT para excluir os perfis do deputado federal Nikolas Ferreira (PL-MG) e do empresário Pablo Marçal nas redes…",
-   "link": "https://revistaoeste.com/politica/tse-nega-remocao-de-perfis-de-nikolas-e-marcal-mas-reduz-alcance/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/image-9.jpg",
-   "data": "2026-10-24T20:19:11-03:00"
-  },
-  {
    "id": "6e12a9e2becd",
    "titulo": "Candidatos à Presidência reúnem apoiadores no último dia de campanha",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/candidatos-presidencia-reunem-apoiadores-no-ultimo-dia-de-campanha\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -236,33 +578,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-24T20:19:00-03:00"
-  },
-  {
-   "id": "503466e125b4",
-   "titulo": "Datafolha: Flávio tem vantagem entre eleitores mais propensos a votar",
-   "resumo": "Nesta véspera do segundo turno, Flávio Bolsonaro (PL) leva vantagem entre os eleitores com maior probabilidade de comparecer às urnas, segundo o Datafolha. Nesse grupo, que representa 76% do eleitorado, o senador tem 52% dos votos válidos, …",
-   "link": "https://oantagonista.com.br/brasil/datafolha-flavio-tem-vantagem-entre-eleitores-mais-propensos-a-votar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55582902121_d410d4f595_5k-scaled-e1791810538133.jpg",
-   "data": "2026-10-24T20:04:44-03:00"
-  },
-  {
-   "id": "ab2bc244d85e",
-   "titulo": "AtlasIntel: Flávio tem 50,8% e Lula, 49,2%",
-   "resumo": "Flávio Bolsonaro (PL) tem 50,8% dos votos válidos, contra 49,2% de Lula (PT), na última pesquisa AtlasIntel antes do segundo turno presidencial de 2026. O levantamento foi divulgado neste sábado 24, e aponta empate técnico entre os candidat…",
-   "link": "https://revistaoeste.com/politica/atlasintel-flavio-tem-508-e-lula-492/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-e-lula-debate-da-tv-globo-2.jpg",
-   "data": "2026-10-24T20:04:01-03:00"
-  },
-  {
-   "id": "5feefbdc321f",
-   "titulo": "Apocalipse com número na urna",
-   "resumo": "*Students of Liberty Acabou em 2018, acabou em 2022, está acabando de novo agora, e nós continuamos aqui, vivos, pagando Documento de Arrecadação de Receitas Federais, presos no trânsito da 23 de Maio, ressuscitados pontualmente na segunda-…",
-   "link": "https://revistaoeste.com/politica/apocalipse-com-numero-na-urna/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/modelo-de-urna-eletronica-eleicoes-suplementares-direita-x-esquerda.jpg",
-   "data": "2026-10-24T20:00:00-03:00"
   },
   {
    "id": "ed09e3a68158",
@@ -283,15 +598,6 @@
    "data": "2026-10-24T19:54:49-03:00"
   },
   {
-   "id": "2c7e7f41a930",
-   "titulo": "Quaest: Allyson tem 51% dos votos válidos no RN, e Cadu de Lula, 49%",
-   "resumo": "Allyson Bezerra (União Brasil) tem 51% dos votos válidos na disputa pelo governo do Rio Grande do Norte, contra 49% de Cadu de Lula (PT), segundo pesquisa Quaest divulgada neste sábado, 24, véspera do segundo turno. A diferença está dentro …",
-   "link": "https://oantagonista.com.br/brasil/quaest-allyson-tem-51-dos-votos-validos-no-rn-e-cadu-de-lula-49/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Allyson-Bezerra-e-Cadu-de-Lula-1.png",
-   "data": "2026-10-24T19:53:15-03:00"
-  },
-  {
    "id": "7ac02ac5b4c1",
    "titulo": "Quaest divulga nova pesquisa de 2º turno para governador do Amazonas",
    "resumo": "A pesquisa Quaest ouviu 2.154 eleitores do Amazonas entre os dias 23 e 24 de outubro de 2026. Leia mais na Gazeta do Povo.",
@@ -310,42 +616,6 @@
    "data": "2026-10-24T19:47:54-03:00"
   },
   {
-   "id": "0b73b621e8bf",
-   "titulo": "Os números da Quaest para governador do Tocantins na véspera do 2º turno",
-   "resumo": "Pesquisa Quaest mostra como está o cenário eleitoral no Tocantins na véspera do 2º turno das eleições 2026. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-tocantins-outubro-2026-segundo-turno-2/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/21074706/senados_estados-271-1-960x540.png",
-   "data": "2026-10-24T19:44:11-03:00"
-  },
-  {
-   "id": "dfacdc62f50c",
-   "titulo": "Demoscopia de encomenda",
-   "resumo": "A pesquisa Quaest divulgada na quarta-feira. 21, trouxe a manchete pronta, e a imprensa companheira tratou de repercuti-la: pela primeira vez desde agosto, o medo da volta dos Bolsonaro (44%) teria superado o medo da permanência de Lula (42…",
-   "link": "https://revistaoeste.com/politica/demoscopia-de-encomenda/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-14.jpg",
-   "data": "2026-10-24T19:42:06-03:00"
-  },
-  {
-   "id": "3cb94f66068f",
-   "titulo": "AtlasIntel indica Flávio à frente de Lula nos votos válidos do 2º turno",
-   "resumo": "A última pesquisa AtlasIntel da corrida presidencial deste ano indica o senador Flávio Bolsonaro (PL-RJ) com 50,8% das intenções de voto válidos, o que o elegerá presidente da República caso o número seja confirmado pelos eleitores brasilei…",
-   "link": "https://oantagonista.com.br/brasil/atlasintel-indica-flavio-a-frente-de-lula-nos-votos-validos-do-2o-turno/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55609862808_f8f827c5cd_6k-scaled-e1792881214516.jpg",
-   "data": "2026-10-24T19:34:11-03:00"
-  },
-  {
-   "id": "51f9b4f3d707",
-   "titulo": "Quaest: Flávio tem 51% dos votos válidos ante 49% de Lula",
-   "resumo": "O instituto Quaest divulgou neste sábado, 24, véspera do segundo turno, um levantamento que mostra o senador Flávio Bolsonaro (PL) com 51% dos votos válidos. O presidente Luiz Inácio Lula da Silva (PT) aparece com 49%. A diferença entre os …",
-   "link": "https://revistaoeste.com/politica/quaest-flavio-tem-51-dos-votos-validos-ante-49-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-e-lula-debate-da-tv-globo-1.jpg",
-   "data": "2026-10-24T19:34:02-03:00"
-  },
-  {
    "id": "bbecc79fb908",
    "titulo": "Os números da última pesquisa AtlasIntel para presidente antes do 2º turno",
    "resumo": "Na véspera da votação, pesquisa AtlasIntel mostra como está a disputa para presidente da República nas eleições 2026. Leia na Gazeta do Povo.",
@@ -355,33 +625,6 @@
    "data": "2026-10-24T19:30:26-03:00"
   },
   {
-   "id": "a88f6b79034f",
-   "titulo": "Carro com adesivo de Lula atropela crianças em ato pró-Flávio",
-   "resumo": "Um motorista com propaganda eleitoral pró-Lula no veículo invadiu uma calçada e atropelou duas crianças em Ilhabela, no litoral norte paulista, na tarde deste sábado 24. O crime ocorreu durante uma passeata em favor de Flávio Bolsonaro (PL)…",
-   "link": "https://revistaoeste.com/politica/carro-com-adesivo-de-lula-atropela-criancas-em-ato-pro-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-atropelamento-ilha-bela.jpg",
-   "data": "2026-10-24T19:28:47-03:00"
-  },
-  {
-   "id": "87f13e21587a",
-   "titulo": "Quaest aponta Pazolini dez pontos à frente de Ferraço no ES",
-   "resumo": "Lorenzo Pazolini (Republicanos) tem 55% dos votos válidos na disputa pelo governo do Espírito Santo, contra 45% de Ricardo Ferraço (MDB), segundo pesquisa Quaest divulgada neste sábado, 24, véspera do segundo turno. Na intenção de voto tota…",
-   "link": "https://oantagonista.com.br/brasil/quaest-aponta-pazolini-dez-pontos-a-frente-de-ferraco-no-es/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/49557113151_610be34957_o-1.jpg",
-   "data": "2026-10-24T19:27:37-03:00"
-  },
-  {
-   "id": "ed1293f6bbe2",
-   "titulo": "Quaest: Flávio chega a 51% dos votos válidos, e Lula tem 49%",
-   "resumo": "Flávio Bolsonaro (PL) tem 51% dos votos válidos no segundo turno da eleição presidencial, contra 49% de Lula (PT), de acordo com a pesquisa Quaest divulgada neste sábado, 24. Na rodada anterior, publicada na quarta-feira, o senador tinha 45…",
-   "link": "https://oantagonista.com.br/brasil/quaest-flavio-chega-a-51-dos-votos-validos-e-lula-tem-49/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Flavio-Bolsonaro-e-Lula.jpg",
-   "data": "2026-10-24T19:16:28-03:00"
-  },
-  {
    "id": "3be652cca8e0",
    "titulo": "Quaest divulga pesquisa para presidente da República na véspera do 2º turno; confira",
    "resumo": "Pesquisa Quaest mostra as intenções de voto para presidente na véspera da votação do segundo turno das eleições 2026. Leia na Gazeta do Povo.",
@@ -389,33 +632,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/20140831/pesquisa-presidente2-7-960x540.jpg",
    "data": "2026-10-24T19:15:07-03:00"
-  },
-  {
-   "id": "ee5fdfe87626",
-   "titulo": "TSE desmente ex-BBB que alegou mudança em local de votação",
-   "resumo": "O Tribunal Superior Eleitoral (TSE) desmentiu alegação da ex-participante do reality show Big Brother Brasil Giselly Bicalho (foto), que disse que seu local de votação foi alterado do primeiro para o segundo turno, de São Paulo para o Espír…",
-   "link": "https://oantagonista.com.br/brasil/tse-desmente-ex-bbb-que-alegou-mudanca-em-local-de-votacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-24-as-18.53.01-e1792878945235.png",
-   "data": "2026-10-24T19:09:45-03:00"
-  },
-  {
-   "id": "fb230751f403",
-   "titulo": "Nexus/BTG: Flávio tem 50,5% dos votos válidos, e Lula, 49,5%",
-   "resumo": "O senador Flávio Bolsonaro (PL) tem 50,5% dos votos válidos, contra 49,5% do presidente Lula (PT), segundo pesquisa Nexus/BTG divulgada neste sábado, 24, véspera do segundo turno. Com margem de erro de 2,2 pontos percentuais, os dois candid…",
-   "link": "https://oantagonista.com.br/brasil/nexus-btg-flavio-tem-505-dos-votos-validos-e-lula-495/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Flavio-e-Lula.jpg",
-   "data": "2026-10-24T19:02:28-03:00"
-  },
-  {
-   "id": "3f7c21ecf8e6",
-   "titulo": "Datafolha: Lula tem 46% de rejeição, e Flávio, 45%",
-   "resumo": "Lula (PT) e Flávio Bolsonaro (PL) chegam ao segundo turno com índices de rejeição praticamente iguais: 46% dos eleitores dizem que não votariam no petista, enquanto 45% descartam o filho de Jair Bolsonaro, segundo pesquisa Datafolha divulga…",
-   "link": "https://oantagonista.com.br/brasil/datafolha-lula-tem-46-de-rejeicao-e-flavio-45/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Flavio-Bolsonaro.jpg",
-   "data": "2026-10-24T18:48:19-03:00"
   },
   {
    "id": "442670dece7c",
@@ -434,24 +650,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-24T18:42:00-03:00"
-  },
-  {
-   "id": "88066c969e86",
-   "titulo": "Eleições: saiba como consultar locais de votação para o segundo turno",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T18:39:00-03:00"
-  },
-  {
-   "id": "d9c6f7352c86",
-   "titulo": "Datafolha: Flávio tem 51% dos votos válidos, e Lula, 49%",
-   "resumo": "O senador Flávio Bolsonaro (PL) tem 51% dos votos válidos, contra 49% do presidente Lula (PT), segundo pesquisa Datafolha divulgada neste sábado, véspera do segundo turno presidencial. O resultado configura empate técnico, dentro da margem …",
-   "link": "https://oantagonista.com.br/brasil/datafolha-flavio-tem-51-dos-votos-validos-e-lula-49/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-e-Lula-2.jpg",
-   "data": "2026-10-24T18:35:07-03:00"
   },
   {
    "id": "c2ad57e7171d",
@@ -481,15 +679,6 @@
    "data": "2026-10-24T18:00:08-03:00"
   },
   {
-   "id": "e85bdaadb867",
-   "titulo": "Quaest: Celina Leão tem 61% dos votos válidos no DF",
-   "resumo": "A governadora do Distrito Federal, Celina Leão (PP), lidera a disputa pelo governo local com 61% dos votos válidos, contra 39% de Leandro Grass (PT), segundo pesquisa Quaest divulgada neste sábado, 24, véspera do segundo turno. A diferença …",
-   "link": "https://oantagonista.com.br/brasil/quaest-celina-leao-tem-61-dos-votos-validos-no-df/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-75.png",
-   "data": "2026-10-24T17:50:56-03:00"
-  },
-  {
    "id": "614d7f81a9ba",
    "titulo": "Nexus/BTG Pactual divulga pesquisa para presidente na véspera do 2º turno; veja os números",
    "resumo": "Pesquisa Nexus/BTG Pactual mostra como está disputa a presidente na véspera do segundo turno das eleições 2026. Leia na Gazeta do Povo.",
@@ -508,33 +697,6 @@
    "data": "2026-10-24T17:39:18-03:00"
   },
   {
-   "id": "9d3c1fed14e4",
-   "titulo": "Veja quem tem prioridade nas seções eleitorais no segundo turno",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T17:24:00-03:00"
-  },
-  {
-   "id": "f8ece163908c",
-   "titulo": "Saiba os direitos de idosos e pessoas com deficiência para votar",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T15:22:00-03:00"
-  },
-  {
-   "id": "9c0bafe6d38f",
-   "titulo": "Trabalhador tem direito de sair do serviço para votar; confira a lei",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T14:30:00-03:00"
-  },
-  {
    "id": "258d670ea601",
    "titulo": "Lula e Flávio Bolsonaro levam multidões às ruas de BH e Rio na reta final da eleição",
    "resumo": "Campanhas mobilizam eleitores em estados do Sudeste para ampliar votações nos maiores colégios eleitorais do país. Leia na Gazeta do Povo.",
@@ -542,24 +704,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/24125137/lula-com-flavio-bolsonaro-fotos-reproducao-X-Lula-e-Instagram-Flavio-Bolsonaro-960x540.jpg",
    "data": "2026-10-24T12:52:12-03:00"
-  },
-  {
-   "id": "db09c177ff0f",
-   "titulo": "Eleições 2026: saiba o que caracteriza o crime de boca de urna",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-saiba-o-que-caracteriza-o-crime-de-boca-de-urna",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T12:28:00-03:00"
-  },
-  {
-   "id": "8ce1f7d9947b",
-   "titulo": "Confira a agenda dos presidenciáveis neste sábado (24)",
-   "resumo": "<p>Neste sábado (24), último dia da campanha eleitoral, os candidatos à presidência da República Flávio Bolsonaro e Luiz Inácio Lula da Silva participam de atos em Minas Gerais, Rio de Janeiro e São Paulo. Confira as agendas:<img src=\"https…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/confira-agenda-dos-presidenciaveis-neste-sabado-25",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-24T10:42:00-03:00"
   },
   {
    "id": "41cc4f9e4261",
@@ -641,33 +785,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/lula-e-flavio-entorno-df-jpg.jpeg",
    "data": "2026-10-23T15:43:15-03:00"
-  },
-  {
-   "id": "d440478e88ec",
-   "titulo": "Justiça manda X apagar publicação de Erika Hilton sobre vice de Flávio",
-   "resumo": "Justiça de Alagoas manda X apagar publicação de Erika Hilton sobre acusação sem provas contra Alfredo Gaspar, vice de Flávio Bolsonaro",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/justica-manda-x-retirar-publicacao-de-erika-hilton-sobre-vice-de-flavio",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/03/deputada-erika-hilton-em-entrevista-para-o-metropoles-metropoles-8-scaled.jpg",
-   "data": "2026-10-23T13:59:13-03:00"
-  },
-  {
-   "id": "8f73de630b63",
-   "titulo": "Lula reavalia ida de Janones a debate após convite de Flávio a ex-mulher",
-   "resumo": "Ida da ex-mulher de Janones ao debate da Globo a convite de Flávio pode impedir presença do deputado na equipe de Lula por medida protetiva",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-reavalia-ida-de-janones-a-debate-apos-convite-de-flavio-a-ex-mulher",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/live-lula-janones.jpg",
-   "data": "2026-10-23T13:25:06-03:00"
-  },
-  {
-   "id": "6c58b21441ea",
-   "titulo": "A estratégia de Motta ao garantir o apoio de PSB e PDT antes do 2º turno",
-   "resumo": "Presidente da Câmara, Hugo Motta trabalhou para garantir o maior número de siglas ao seu lado antes da definição da eleição nacional",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-estrategia-de-motta-ao-garantir-o-apoio-de-psb-e-pdt-antes-do-2o-turno",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/12/11164120/O-presidente-da-Camara-dos-Deputados-Hugo-Motta-participa-do-evento-todos-pela-educacao-no-B-Hotel-em-Brasilia-Metropoles-16.jpg",
-   "data": "2026-10-23T05:00:23-03:00"
   }
  ]
 }
