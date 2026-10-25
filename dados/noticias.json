@@ -1,25 +1,601 @@
 {
- "atualizado": "2026-10-25T16:00:16.395640-03:00",
- "total": 77,
+ "atualizado": "2026-10-25T18:41:42.526715-03:00",
+ "total": 89,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "7cd366a35b85",
-   "titulo": "TRE-BA determina prisão de secretário de Mobilidade de Salvador",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-ba-determina-prisao-de-secretario-de-mobilidade-de-salvador\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-ba-determina-prisao-de-secretario-de-mobilidade-de-salvador",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T15:52:00-03:00"
+   "id": "9e958dea4fcf",
+   "titulo": "Secretário de Salvador diz que atuou para normalizar ônibus e comenta ordem de prisão",
+   "resumo": "O secretário de Mobilidade de Salvador, Pablo Souza, afirmou neste domingo, 25, que a retirada de adesivos políticos dos ônibus da capital baiana provocou um impacto operacional no transporte público durante o segundo turno das eleições . E…",
+   "link": "https://revistaoeste.com/politica/secretario-de-salvador-diz-que-atuou-para-normalizar-onibus-e-comenta-ordem-de-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/saveclip.app_860019794_18098249297537933_3943619746441312828_n.jpg",
+   "data": "2026-10-25T18:39:17-03:00"
   },
   {
-   "id": "58ecf1ac27c7",
-   "titulo": "Eleitores de todas as idades vão às urnas pelo futuro do país",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-de-todas-idades-vao-urnas-pelo-futuro-do-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-de-todas-idades-vao-urnas-pelo-futuro-do-pais",
+   "id": "2e1e23fe4a0a",
+   "titulo": "Ranking dos Políticos critica Zanin e vê “caos institucional” em prorrogação da votação",
+   "resumo": "O Ranking dos Políticos criticou neste domingo, 25, a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar a votação do segundo turno até as 19h, no horário de Brasília. Em nota divulgada às 17h53, a entidade…",
+   "link": "https://revistaoeste.com/politica/ranking-dos-politicos-critica-zanin/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/03/zanin.jpg",
+   "data": "2026-10-25T18:38:55-03:00"
+  },
+  {
+   "id": "ed47058d8529",
+   "titulo": "Eleição nos EUA: Trump vota antecipadamente e cita fraudes sem provas",
+   "resumo": "Republicano diz ser contra fraudes e tenta impulsionar candidatos do partido no pleito de 3 de novembro",
+   "link": "https://www.poder360.com.br/poder-internacional/eleicao-nos-eua-trump-vota-antecipadamente-e-cita-fraudes-sem-provas/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/09/historico-aprovacao-eua-17-set-2026-03-scaled.png",
+   "data": "2026-10-25T18:38:30-03:00"
+  },
+  {
+   "id": "0fddf6b5afc4",
+   "titulo": "Prefeito de Salvador atribui atraso de ônibus à retirada de propaganda eleitoral",
+   "resumo": "O prefeito de Salvador, Bruno Reis (União Brasil), atribuiu o atraso dos ônibus registrado na capital baiana à retirada de propagandas eleitorais irregulares colocadas nos veículos. Em entrevista coletiva, o prefeito afirmou que a frota foi…",
+   "link": "https://oantagonista.com.br/brasil/prefeito-de-salvador-atribui-atraso-de-onibus-a-retirada-de-propaganda-eleitoral/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-1-3.jpg",
+   "data": "2026-10-25T18:37:49-03:00"
+  },
+  {
+   "id": "d52a58e37cdc",
+   "titulo": "Decisão de Zanin sobre prorrogação de votação deixa TREs perdidos e divide tribunais",
+   "resumo": "Decisão do ministro Cristiano Zanin, do STF, para prorrogar votação até as 19h provoca confusão nos TREs. Veja.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/decisao-zanin-prorrogacao-votacao-deixa-tres-perdidos-divide-tribunais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/19111452/Eleicoes_Rovena-Rosa_Agencia-Brasil-1-960x540.jpg",
+   "data": "2026-10-25T18:37:29-03:00"
+  },
+  {
+   "id": "c92353010096",
+   "titulo": "Nikolas: “Estão fazendo isso para criar narrativa de golpe”",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) criticou neste domingo, 25, a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de estender o horário de votação do segundo turno até as 19h. Em vídeo divulgado nas redes, o …",
+   "link": "https://oantagonista.com.br/brasil/nikolas-estao-fazendo-isso-para-criar-narrativa-de-golpe/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/nikolas-melhor-1.jpg",
+   "data": "2026-10-25T18:37:15-03:00"
+  },
+  {
+   "id": "fa7f0efcda9a",
+   "titulo": "Zanin esclarece decisão e diz que votação até 19h vale para locais onde urnas ainda estão abertas",
+   "resumo": "O ministro Zanin determinou a extensão do horário de votação em todo o Brasil até as 19h neste domingo (25), em decisão liminar do STF.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/stf-concede-liminar-e-prorroga-votacao-ate-as-19h-em-todo-o-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/14080925/ASPA-GRANDE-2026-10-14T080922.133-960x540.jpg",
+   "data": "2026-10-25T18:37:14-03:00"
+  },
+  {
+   "id": "528925e8155d",
+   "titulo": "Joice diz que votou em Lula após 25 anos de oposição ao PT",
+   "resumo": "Ex-líder do governo Bolsonaro afirma que apoiou Augusto no 1º turno e decidiu votar no petista por temer um governo Flávio",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/joice-diz-que-votou-em-lula-apos-25-anos-de-oposicao-ao-pt/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/qEKhJmYnjgs/hqdefault.jpg",
+   "data": "2026-10-25T18:36:09-03:00"
+  },
+  {
+   "id": "0b15f142e634",
+   "titulo": "No DF, urnas fecham antes de informação sobre prorrogação chegar",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/no-df-urnas-fecham-antes-de-informacao-sobre-prorrogacao-chegar\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/no-df-urnas-fecham-antes-de-informacao-sobre-prorrogacao-chegar",
    "fonte": "Agência Brasil",
    "imagem": "",
-   "data": "2026-10-25T15:51:00-03:00"
+   "data": "2026-10-25T18:34:00-03:00"
+  },
+  {
+   "id": "47fd28e37005",
+   "titulo": "TSE orienta seções ainda abertas a receber votos até as 19h",
+   "resumo": "Determinação segue decisão de Cristiano Zanin; locais que já haviam encerrado a votação às 17h não foram reabertos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-orienta-secoes-ainda-abertas-a-receber-votos-ate-as-19h/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T18:33:17-03:00"
+  },
+  {
+   "id": "dd8f9af834f7",
+   "titulo": "Pressão de Lula faz Zanin atropelar TSE, estender votação e atrasar apuração",
+   "resumo": "Pressão de Lula faz Zanin atropelar TSE, estender votação e atrasar apuração. Entenda a situação na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pressao-de-lula-faz-zanin-atropelar-tse-estender-votacao-e-atrasar-apuracao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25183207/55609825728_e653021eab_6k-960x540.jpg",
+   "data": "2026-10-25T18:32:29-03:00"
+  },
+  {
+   "id": "37c0ea45a1a6",
+   "titulo": "Ratinho Junior afirma que “onda do PL” provocou derrota de escolhido ao governo",
+   "resumo": "Ratinho Junior fala pela primeira vez sobre derrota de Sandro Alex provocada, segundo ele, pela \"onda do PL\". Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/ratinho-junior-afirma-que-onda-do-pl-provocou-derrota-de-escolhido-ao-governo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/16131317/sandro-alex-960x540.jpg",
+   "data": "2026-10-25T18:32:18-03:00"
+  },
+  {
+   "id": "ecafa50a73ba",
+   "titulo": "TSE troca 1.516 urnas eletrônicas até as 18h no 2º turno",
+   "resumo": "Substituições representam 0,25% do total; nenhuma seção precisou de votação manual por cédula de papel",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-troca-900-urnas-eletronicas-ate-as-12h-no-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/kDKp0pvbs8k/hqdefault.jpg",
+   "data": "2026-10-25T18:31:25-03:00"
+  },
+  {
+   "id": "5230e7c312f3",
+   "titulo": "“Resultado da eleição será questionado judicialmente”, diz Alessandro Vieira",
+   "resumo": "O senador Alessandro Vieira (MDB-SE) reagiu neste domingo, 25, à decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que prorrogou até as 19h a votação do segundo turno das eleições. O parlamentar afirmou que o resultado…",
+   "link": "https://oantagonista.com.br/brasil/resultado-da-eleicao-sera-questionado-judicialmente-diz-alessandro-vieira/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55206641457_0e1e8561e2_o-1-e1776529838234.jpg",
+   "data": "2026-10-25T18:25:31-03:00"
+  },
+  {
+   "id": "3c01031c1856",
+   "titulo": "Prorrogação até 19h é só para urnas que não fecharam, diz Zanin",
+   "resumo": "Ministro do Supremo atendeu a pedido da campanha de Lula, atropelou o TSE e deu mais duas horas para eleitores votarem",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/prorrogacao-ate-19h-e-so-para-urnas-que-nao-fecharam-diz-zanin/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T18:24:50-03:00"
+  },
+  {
+   "id": "8ec07421be8a",
+   "titulo": "“Decisão monocrática poderá levar caos total ao país”, diz Sóstenes",
+   "resumo": "O líder do PL na Câmara dos Deputados, Sóstenes Cavalcante (RJ), criticou neste domingo, 25, a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), que prorrogou a votação do segundo turno até as 19h. O deputado afirmou q…",
+   "link": "https://oantagonista.com.br/brasil/decisao-monocratica-podera-levar-caos-total-ao-pais-diz-sostenes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20260506221510948.jpg",
+   "data": "2026-10-25T18:22:57-03:00"
+  },
+  {
+   "id": "3b17e569021f",
+   "titulo": "Esquerda errou ao ignorar redes nos últimos anos, diz Helder Filho",
+   "resumo": "Filho do governador do Pará afirma que falta de investimento digital prejudicou Lula no 1º turno e critica ausência de Janones na estratégia de comunicação",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/esquerda-errou-ao-ignorar-redes-nos-ultimos-anos-diz-helder-filho/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/qEKhJmYnjgs/hqdefault.jpg",
+   "data": "2026-10-25T18:21:52-03:00"
+  },
+  {
+   "id": "93169600c1d4",
+   "titulo": "Horário de votação é prorrogado até as 19h após pedido de extensão do prazo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
+   "data": "2026-10-25T18:20:52-03:00"
+  },
+  {
+   "id": "83dd8d9de22f",
+   "titulo": "Apuração das Eleições 2026 em tempo real: acompanhe o 2º turno ao vivo na Gazeta do Povo",
+   "resumo": "Acompanhe a apuração do segundo turno das Eleições 2026 na Gazeta do Povo, com resultados em tempo real, análises e cobertura ao vivo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/apuracao-das-eleicoes-2026-em-tempo-real-acompanhe-o-2o-turno-ao-vivo-na-gazeta-do-povo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25163034/2-turno-eleicoes-2026-960x540.jpg",
+   "data": "2026-10-25T18:19:25-03:00"
+  },
+  {
+   "id": "7f339dbd0557",
+   "titulo": "TSE: seções eleitorais ainda abertas devem manter votação até as 19h",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-secoes-eleitorais-ainda-abertas-devem-manter-votacao-ate-19h\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-secoes-eleitorais-ainda-abertas-devem-manter-votacao-ate-19h",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T18:15:00-03:00"
+  },
+  {
+   "id": "fea3e2580dd2",
+   "titulo": "Urnas que não foram fechadas podem seguir votação até às 19h, decide Kassio",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) orientou os tribunais regionais eleitorais, neste domingo, 25, a manter até as 19h, no horário de Brasília, as seções eleitorais que ainda estiverem abertas. O ofício, assinado pelo presidente da Corte, m…",
+   "link": "https://revistaoeste.com/politica/tse-orienta-manter-secoes-abertas-ate-as-19h-mas-nao-esclarece-reabertura-das-que-foram-fechadas/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/05/Kassio-Nunes-Marques.jpg",
+   "data": "2026-10-25T18:14:43-03:00"
+  },
+  {
+   "id": "18fc71671e71",
+   "titulo": "Marinho critica decisão que estendeu horário de votação",
+   "resumo": "O senador Rogério Marinho (PL-RN) criticou neste domingo, 25, a decisão do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin de estender por duas horas o horário de votação no segundo turno das eleições, até as 19h , pelo horário d…",
+   "link": "https://revistaoeste.com/politica/marinho-critica-decisao-que-estendeu-horario-de-votacao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/55528643231_66f29aa279_b.jpg",
+   "data": "2026-10-25T18:12:23-03:00"
+  },
+  {
+   "id": "553746be8053",
+   "titulo": "Coordenador da campanha de Flávio critica “intervenção” de Zanin na eleição",
+   "resumo": "Zanin tomou a decisão em caráter liminar após acolher uma reclamação da coligação Brasil Pronto Pra Mais, ligada à campanha de Lula",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/coordenador-da-campanha-de-flavio-critica-intervencao-de-zanin-na-eleicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/18172014/rogerio-marinho-1-960x540.jpg",
+   "data": "2026-10-25T18:11:48-03:00"
+  },
+  {
+   "id": "d6377aac547e",
+   "titulo": "Chefe da OEA diz que sistema eleitoral brasileiro é “muito sólido”",
+   "resumo": "José Miguel Insulza acompanha votação no Distrito Federal e destaca transparência dos testes nas urnas eletrônicas",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/chefe-da-oea-diz-que-sistema-eleitoral-brasileiro-e-muito-solido/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/capa-painel-de-apuraca-poder-3-out-2026.jpeg",
+   "data": "2026-10-25T18:11:15-03:00"
+  },
+  {
+   "id": "f25a915ed1b0",
+   "titulo": "“Caos institucional”, diz Ranking dos Políticos sobre decisão de Zanin",
+   "resumo": "O Ranking dos Políticos, entidade que avalia o desempenho de deputados e senadores no Congresso, afirmou que a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal, de prorrogar a votação até 19 horas a pedido do PT, atropela a …",
+   "link": "https://oantagonista.com.br/brasil/caos-institucional-diz-ranking-dos-politicos-sobre-decisao-de-zanin/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55606051244_2547284c02_k.jpg",
+   "data": "2026-10-25T18:10:45-03:00"
+  },
+  {
+   "id": "2e2aec1efdda",
+   "titulo": "Urnas já fechadas não serão reabertas, esclarece Zanin",
+   "resumo": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), esclareceu neste domingo, 25, que a decisão de prorrogar a votação do segundo turno até as 19h deve ser cumprida apenas nos locais em que as urnas ainda não haviam sido encerrad…",
+   "link": "https://oantagonista.com.br/brasil/urnas-ja-fechadas-nao-serao-reabertas-esclarece-zanin/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55528930192_fe92ee955a_5k-scaled.jpg",
+   "data": "2026-10-25T18:08:13-03:00"
+  },
+  {
+   "id": "6e18bef69770",
+   "titulo": "Justiça Eleitoral nega prisão de secretário de Transporte e presidente da SPTrans",
+   "resumo": "A Justiça Eleitoral de São Paulo negou o pedido de prisão do secretário municipal de Mobilidade Urbana e Transporte, Celso Jorge Caldeira, e do diretor-presidente da SPTrans , Victor Hugo Borges, em meio a denúncias sobre a suposta redução …",
+   "link": "https://revistaoeste.com/politica/justica-eleitoral-nega-prisao-de-secretario-de-transporte-e-presidente-da-sptrans/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/09/onibus-morte-saopaulo-Paulo-PintoAgencia-Brasil.jpg",
+   "data": "2026-10-25T18:07:30-03:00"
+  },
+  {
+   "id": "753c7a9f32aa",
+   "titulo": "Zanin emite novo despacho e mantém votação onde urnas não foram fechadas",
+   "resumo": "Neste domingo, 25, o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), emitiu um novo despacho sobre o alcance da decisão que prorrogou a votação em locais afetados por problemas no transporte de eleitores. Segundo o magistrado, …",
+   "link": "https://revistaoeste.com/politica/em-meio-a-confusao-cristiano-zanin-emite-novo-despacho-e-mantem-votacao-onde-urnas-nao-foram-fechadas/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/01/lula-zanin.jpg",
+   "data": "2026-10-25T18:04:56-03:00"
+  },
+  {
+   "id": "1c002f528948",
+   "titulo": "Sobrinho de Dilma, Pedro Rousseff sofre acidente a caminho de São Paulo",
+   "resumo": "Pedro Rousseff publicou vídeo nas redes sociais para tranquilizar seguidores após acidente e afirmou que passa bem: “A gente reviveu”.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/sobrinho-de-dilma-pedro-rousseff-sofre-acidente-a-caminho-de-sao-paulo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25175852/Design-sem-nome-8-1-960x540.jpg",
+   "data": "2026-10-25T18:04:13-03:00"
+  },
+  {
+   "id": "6bf37f8c9fe4",
+   "titulo": "Alvorada pode voltar a ter adolescentes com as filhas de Flávio",
+   "resumo": "Luiza, de 14 anos, e Carolina, de 12, poderão morar na residência oficial caso o senador seja eleito presidente",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/alvorada-pode-voltar-a-ter-adolescentes-com-as-filhas-de-flavio/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T18:02:55-03:00"
+  },
+  {
+   "id": "3f0303372eea",
+   "titulo": "Apuração dos votos: após prorrogar votação até 19h, Zanin esclarece que decisão afeta apenas locais com urnas ainda abertas",
+   "resumo": "Após prorrogar votação, Zanin diz que decisão afeta apenas urnas ainda abertas O ministro do Supremo Tribunal Federal (STF), Cristiano Zanin, esclareceu que a decisão de prorrogar a votação até 19h deve ser aplicada apenas nos locais em que…",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-dos-votos-apos-prorrogar-votacao-ate-19h-zanin-esclarece-que-decisao-afeta-apenas-locais-com-urnas-que-ainda-estavam-abertas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-25T18:02:47-03:00"
+  },
+  {
+   "id": "5d82f55adaa8",
+   "titulo": "TRE-DF descarta estender votação até as 19h",
+   "resumo": "O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) informou neste domingo, 25, que o horário de votação no segundo turno não será estendido até as 19h na capital federal. “Não haveria tempo hábil para avisar todas as seções. Inclusi…",
+   "link": "https://oantagonista.com.br/brasil/tre-df-descarta-estender-votacao-ate-as-19h/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/689ceab9-d001-4c23-8871-8e887977afdd-scaled.jpg",
+   "data": "2026-10-25T18:01:51-03:00"
+  },
+  {
+   "id": "d2c0783e7bd9",
+   "titulo": "TSE paralisa apuração após decisão de Zanin; totalização será retomada às 19h",
+   "resumo": "Ministro do STF, Cristiano Zanin, prorrogou a votação até às 19h em todo o Brasil. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-paralisa-apuracao-apos-zanin-prorrogar-votacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25180026/urna-tse-960x540.jpg",
+   "data": "2026-10-25T18:01:35-03:00"
+  },
+  {
+   "id": "527abc105dcd",
+   "titulo": "Eleições 2026: Anac diz não ter identificado anormalidades na programação de voos comerciais",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/25/eleicoes-2026-anac-diz-nao-ter-identificado-anormalidades-na-programacao-de-voos-comerciais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/yMHSYF4oI4tydOckg9qMXsNpUXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/a/2YtnK4QlKfoZ2BFFOqnA/modelo-novo-copia-5-2.jpg",
+   "data": "2026-10-25T17:58:14-03:00"
+  },
+  {
+   "id": "dd10700c8524",
+   "titulo": "Após STF prorrogar votação, mesários não recebem orientação e parte das escolas são fechadas em SP; eleitores podem ficar sem votar",
+   "resumo": "",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/apos-stf-prorrogar-votacao-mesarios-nao-recebem-orientacao-e-escolas-sao-fechadas-em-sp-eleitores-podem-ficar-sem-votar.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/xVOVQ37c3HTWJEGLPecXlspcwW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/k6eSV3RuA3JNqA2elSoQ/fotojet-2026-10-25t174214.661.jpg",
+   "data": "2026-10-25T17:55:30-03:00"
+  },
+  {
+   "id": "630264378d61",
+   "titulo": "Deputado Pedro Rousseff, sobrinho de Dilma, sofre acidente",
+   "resumo": "Sobrinho da ex-presidente Dilma Rousseff seguia para São Paulo com um assessor; a equipe acompanharia a apuração da eleição",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/deputado-pedro-rousseff-sobrinho-de-dilma-sofre-acidente/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T17:55:03-03:00"
+  },
+  {
+   "id": "4ec734305653",
+   "titulo": "Anac registra 35 voos cancelados no fim de semana; 4 para o Nordeste",
+   "resumo": "Agência diz que fluxo aéreo está dentro da normalidade; companhias justificam com condições meteorológicas e problemas técnicos",
+   "link": "https://www.poder360.com.br/poder-infra/anac-registra-35-voos-cancelados-no-fim-de-semana-4-para-o-nordeste/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-25T17:52:55-03:00"
+  },
+  {
+   "id": "cda74cfff433",
+   "titulo": "Mais de 2,6 mi de eleitores justificam ausência no segundo turno até as 12h",
+   "resumo": "O Tribunal Superior Eleitoral ( TSE ) registrou mais de 2,6 milhões de justificativas de ausência às urnas pelo aplicativo e-Título entre sábado 24, e as 12h deste domingo, 25, dia do segundo turno das eleições de 2026. Os dados abrangem to…",
+   "link": "https://revistaoeste.com/politica/mais-de-26-mi-de-eleitores-justificam-ausencia-no-segundo-turno-ate-as-12h/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/eleitores-1.jpg",
+   "data": "2026-10-25T17:52:45-03:00"
+  },
+  {
+   "id": "2a90a373da53",
+   "titulo": "Parlamentares do Psol pedem prisão de Ricardo Nunes por frota de ônibus",
+   "resumo": "Parlamentares do Psol pediram a prisão do prefeito de São Paulo, Ricardo Nunes (MDB), do secretário municipal de Transportes, Celso Jorge Caldeira, e do presidente da SPTrans, Victor Hugo Borges, por suspeita de descumprimento de uma decisã…",
+   "link": "https://oantagonista.com.br/brasil/parlamentares-do-psol-pedem-prisao-de-ricardo-nunes-por-frota-de-onibus/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2023/08/img20230803101631893.jpg",
+   "data": "2026-10-25T17:51:28-03:00"
+  },
+  {
+   "id": "949cf6735251",
+   "titulo": "Apuração dos votos: urnas fechadas não podem ser reabertas",
+   "resumo": "Zanin, ministro do STF, prorroga votação em todo país até as 19h Após decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar a votação até as 19h, as urnas que já haviam sido fechadas não podem ser reabertas. O…",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-dos-votos-urnas-fechadas-nao-podem-ser-reabertas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-25T17:48:02-03:00"
+  },
+  {
+   "id": "90b578f6cba5",
+   "titulo": "Cleitinho faz eleitores de Lula e Flávio se abraçarem",
+   "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), protagonizou uma cena de pacificação na manhã deste domingo, 25, em Divinópolis. O político promoveu um abraço entre eleitores do presidente Luiz Inácio Lula da Silva (P…",
+   "link": "https://revistaoeste.com/politica/cleitinho-faz-eleitores-de-lula-e-flavio-se-abracarem/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/1792960662126296.jpg",
+   "data": "2026-10-25T17:44:18-03:00"
+  },
+  {
+   "id": "a656f31d1ab8",
+   "titulo": "Adesivos de Lula ocupam catracas e escadas de estação de metrô em SP",
+   "resumo": "Neste domingo, 25, a Estação Consolação, da Linha 2-Verde do Metrô de São Paulo, na Avenida Paulista, amanheceu com adesivos em apoio ao presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) . O material de campanha foi colado n…",
+   "link": "https://revistaoeste.com/politica/adesivos-de-lula-ocupam-catracas-e-escadas-de-estacao-de-metro-em-sp/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/estacao-consolacao.jpg",
+   "data": "2026-10-25T17:39:57-03:00"
+  },
+  {
+   "id": "276a43b01e80",
+   "titulo": "Após denúncia de frota de ônibus reduzida, eleitores de SP podem votar até as 19h; decisão do STF vale para todo o país",
+   "resumo": "",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/apos-reducao-de-frota-de-onibus-eleitores-de-sp-podem-votar-ate-as-19h-decisao-do-stf-vale-para-todo-o-pais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/MPa5zsRpCFte6cL3_00Y1AQOSA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/a/2XXtLPQui8W1UWnzVfyQ/hn-geral-cop-segundoturno-25102026-20261025-1627-frame-48518.jpeg",
+   "data": "2026-10-25T17:39:04-03:00"
+  },
+  {
+   "id": "678c6441ef2e",
+   "titulo": "Marinho acusa STF de “intervenção” após prorrogação da votação",
+   "resumo": "O coordenador da campanha de Flávio Bolsonaro (PL) à Presidência, senador Rogério Marinho (PL-RN), criticou neste domingo, 25, a decisão do ministro do Supremo Tribunal Federal (STF) Cristiano Zanin de estender o horário de votação até as 1…",
+   "link": "https://oantagonista.com.br/brasil/marinho-acusa-stf-de-intervencao-apos-prorrogacao-da-votacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/54776533755_5df0e9ddd7_o-scaled.jpg",
+   "data": "2026-10-25T17:38:50-03:00"
+  },
+  {
+   "id": "3231b2523771",
+   "titulo": "MP Eleitoral se manifestou contra prorrogar votação",
+   "resumo": "O Ministério Público Eleitoral defendeu que o horário de votação terminasse às 17h, conforme previsto em lei, mesmo diante de denúncias de restrições ao transporte de eleitores na Bahia. O parecer, enviado ao TSE às 17h01, foi apresentado p…",
+   "link": "https://oantagonista.com.br/brasil/mp-eleitoral-se-manifestou-contra-prorrogar-votacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/072c62eb-6708-41df-ab9b-2189b7a055ad-scaled.jpg",
+   "data": "2026-10-25T17:38:41-03:00"
+  },
+  {
+   "id": "6bd901e8c3b2",
+   "titulo": "TRE-DF descarta esticar votação e diz que urnas não podem ser reabertas",
+   "resumo": "O Tribunal Regional Eleitoral do Distrito Federal (TRE-DF) descartou a prorrogação do horário de votação e manteve a contagem dos votos neste domingo, 25. A Corte regional comunicou que não recebeu nenhuma notificação formal do Tribunal Sup…",
+   "link": "https://revistaoeste.com/politica/tre-df-descarta-esticar-votacao-e-mantem-apuracao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2021/07/urna-eletrocc82nica-de-primeira-geraccca7acc83o.jpeg",
+   "data": "2026-10-25T17:38:19-03:00"
+  },
+  {
+   "id": "9c22bdf1e20c",
+   "titulo": "TSE pausa apuração após decisão de Zanin sobre horário de votação",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) pausou a totalização dos votos do segundo turno das eleições presidenciais neste domingo, 25, após a decisão do ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), de prorrogar a votação até as 1…",
+   "link": "https://oantagonista.com.br/brasil/tse-pausa-apuracao-apos-decisao-de-zanin-sobre-horario-de-votacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2022/06/jfcrz_abr_2810186546df-scaled.jpg",
+   "data": "2026-10-25T17:30:20-03:00"
+  },
+  {
+   "id": "b859a2dc0baa",
+   "titulo": "“Não vamos aceitar banditismo nem de prefeito nem de governador”, diz Lula",
+   "resumo": "O presidente Lula (PT) reagiu neste domingo, 25, a denúncias de que prefeitos estariam dificultando o acesso ao transporte público durante a votação de segundo turno. Em declaração feita na capital paulista, o petista disse que “essas pesso…",
+   "link": "https://oantagonista.com.br/brasil/nao-vamos-aceitar-banditismo-nem-de-prefeito-nem-de-governador-diz-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593269713_230b365af3_3k.jpg",
+   "data": "2026-10-25T17:29:55-03:00"
+  },
+  {
+   "id": "b9bbc0d64f6a",
+   "titulo": "Policial militar é preso acusado de venda de voto no estado do Rio",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policial-militar-e-preso-acusado-de-venda-de-voto-no-estado-do-rio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policial-militar-e-preso-acusado-de-venda-de-voto-no-estado-do-rio",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T17:28:00-03:00"
+  },
+  {
+   "id": "57687370f30e",
+   "titulo": "Eleições 2026: apuração dos votos é pausada após Zanin prorrogar tempo de votação até às 19h",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-apuracao-dos-votos-e-pausada-apos-zanin-prorrogar-tempo-de-votacao-ate-as-19h.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/EBjLC1t9I0humuReYvniy4Q5RDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/w/waKlfASTu3QMY8m63JRw/g1-2026-10-25t143507.558.jpg",
+   "data": "2026-10-25T17:25:43-03:00"
+  },
+  {
+   "id": "6a104724927f",
+   "titulo": "Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-quem-ganhou-na-europa-no-2o-turno-das-eleicoes-2026.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/uHLXqp01_0kWHeey_0BjNr4MYxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/B/stbfvETS2Cvs6sDZBDaA/votacao-exterior-2026-10-25-europe-votos-por-pais-9-.png",
+   "data": "2026-10-25T17:22:09-03:00"
+  },
+  {
+   "id": "df3c421ea344",
+   "titulo": "Moro vota em Curitiba e projeta vitória de Flávio por mais de três pontos",
+   "resumo": "Moro também defendeu uma mudança no comando do governo federal e criticou os resultados econômicos e a política de segurança de Lula.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/moro-vota-em-curitiba-e-projeta-vitoria-de-flavio-por-mais-de-tres-pontos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20102446/Moro-960x540.jpg",
+   "data": "2026-10-25T17:21:10-03:00"
+  },
+  {
+   "id": "9ad8b5d107d3",
+   "titulo": "Salvador: Procon atualiza para 544 total de ônibus parados em garagens",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/salvador-procon-atualiza-para-544-total-de-onibus-parados-em-garagens\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/salvador-procon-atualiza-para-544-total-de-onibus-parados-em-garagens",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T17:09:00-03:00"
+  },
+  {
+   "id": "0fbf16042d3c",
+   "titulo": "Eleições 2026: Zanin prorroga votação em todo o país até as 19h",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/zanin-prorroga-votacao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/erXER5H-Et7NzjeIx7evyYkUo98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/pg0XCdTSmom64bm67K7g/55339452818-46535c9b81-k.jpg",
+   "data": "2026-10-25T17:04:48-03:00"
+  },
+  {
+   "id": "11564e6d2dba",
+   "titulo": "Campanha de Flávio pede votação até 19h por chuvas em alguns estados",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-pede-votacao-ate-19h-por-chuvas-em-alguns-estados",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T17:04:00-03:00"
+  },
+  {
+   "id": "fec6d68e24c8",
+   "titulo": "Campanha de Lula denuncia falta de transporte em nove estados",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-denuncia-falta-de-transporte-em-nove-estados\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-lula-denuncia-falta-de-transporte-em-nove-estados",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T17:01:00-03:00"
+  },
+  {
+   "id": "0614432a26a0",
+   "titulo": "Eleições 2026: quantos votos são necessários para ganhar a eleição presidencial?",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/quantos-votos-sao-necessarios-para-ganhar-a-eleicao-presidencial.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/a9EFCT4OazGQ6cVmt5i3okyW_h4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/a/kxQfozRXmpmpxsIRVTLA/fotojet-10-.jpg",
+   "data": "2026-10-25T17:00:09-03:00"
+  },
+  {
+   "id": "b9a1591a170a",
+   "titulo": "Ônibus parados sem circular, pontos e terminais lotados, moradores organizam caronas: veja situação do transporte público de SP nas eleições",
+   "resumo": "Na Zona Norte de SP, motoristas não queriam sair para levar as pessoas para votar O transporte público de São Paulo enfrenta situação caótica neste domingo (25), dia de eleição do segundo turno para presidente da República, com ônibus parad…",
+   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/onibus-parados-sem-circular-pontos-e-terminais-lotados-moradores-organizam-caronas-veja-situacao-do-transporte-publico-de-sp-nas-eleicoes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-10-25T17:00:01-03:00"
+  },
+  {
+   "id": "e167372b5ead",
+   "titulo": "Rafael Greca se emociona ao votar e diz que críticas por apoio a Lula não o abalam",
+   "resumo": "Greca se emocionou ao votar e ao recordar a importância que, segundo ele, sua esposa, Margarita, atribuía à democracia e ao direito de voto.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/rafael-greca-se-emociona-ao-votar-e-diz-que-criticas-por-apoio-a-lula-nao-o-abalam/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2022/01/29115142/c5d24c80-14b2-11eb-86c5-4deef7161a5a-wp-960x540.jpg",
+   "data": "2026-10-25T16:59:29-03:00"
+  },
+  {
+   "id": "9d4becb8b31c",
+   "titulo": "Flávio acompanha apuração na casa de aliado com familiares e pastor",
+   "resumo": "Previsão é de que Flávio Bolsonaro (PL) vá para o QG de sua campanha, também em Brasília, apenas após o avanço da apuração dos votos",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-acompanha-inicio-da-apuracao-em-casa-com-familiares-e-pastores",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/o-candidato-a-presidencia-da-republica-senador-flavio-bolsonaro-deixa-sua-residencia-e-segue-para-o-escritorio-de-vicente-santino-metropoles-5-scaled.jpeg",
+   "data": "2026-10-25T16:47:06-03:00"
+  },
+  {
+   "id": "3ac5c23c8ba1",
+   "titulo": "Lula pede prorrogação de votação em cidades com falhas no transporte",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-pede-prorrogacao-de-votacao-em-cidades-com-falhas-no-transporte\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-pede-prorrogacao-de-votacao-em-cidades-com-falhas-no-transporte",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T16:46:00-03:00"
+  },
+  {
+   "id": "2bd9d0e77107",
+   "titulo": "Campanha de Flávio Bolsonaro pede ao TSE extensão do horário de votação em MG, RS, PR, SP e SC",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/campanha-de-flavio-bolsonaro-pede-pede-ao-tse-extensao-do-horario-de-votacao-em-mg-e-rs-por-chuvas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
+   "data": "2026-10-25T16:43:48-03:00"
+  },
+  {
+   "id": "2df7a72a1693",
+   "titulo": "\"Não poderia ficar de fora\", diz idoso que votou 10 dias após cirurgia",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nao-poderia-ficar-de-fora-diz-idoso-que-votou-10-dias-apos-cirurgia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nao-poderia-ficar-de-fora-diz-idoso-que-votou-10-dias-apos-cirurgia",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T16:23:00-03:00"
+  },
+  {
+   "id": "4cbbc81dcdb4",
+   "titulo": "Federação Israelita do RJ emite nota de repúdio contra eleitora por saudação nazista",
+   "resumo": "Caso foi registrado no bairro de Botafogo, na capital fluminense. Mulher vestia camisa verde e amarela e boné MAGA. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/federacao-israelita-do-rj-emite-nota-de-repudio-contra-eleitora-por-saudacao-nazista/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25160219/Saudacao-nazista-FIERJ-960x540.jpg",
+   "data": "2026-10-25T16:19:25-03:00"
+  },
+  {
+   "id": "7c4e773e44ad",
+   "titulo": "Procon identifica 370 ônibus parados em garagens de Salvador",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/procon-identifica-370-onibus-parados-em-garagens-de-salvador\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/procon-identifica-370-onibus-parados-em-garagens-de-salvador",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T16:16:00-03:00"
+  },
+  {
+   "id": "fb941f2c6242",
+   "titulo": "PT notifica TRE-SP por falta de ônibus na cidade neste domingo",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pt-notifica-tre-sp-por-falta-de-onibus-na-cidade-neste-domingo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pt-notifica-tre-sp-por-falta-de-onibus-na-cidade-neste-domingo",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-25T16:03:00-03:00"
   },
   {
    "id": "226706e23e8c",
@@ -31,123 +607,6 @@
    "data": "2026-10-25T15:50:07-03:00"
   },
   {
-   "id": "73b98fe861cd",
-   "titulo": "Lula diz que pedirá prisão de “prefeito bandido”",
-   "resumo": "Presidente diz que gestores e empresários dificultam a votação e pede prorrogação do horário eleitoral para eleitores prejudicados",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-pedira-prisao-de-prefeito-bandido/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:49:53-03:00"
-  },
-  {
-   "id": "1eec88e8514c",
-   "titulo": "“Voto em papel é só registro histórico”, diz presidente do TSE",
-   "resumo": "Kassio Nunes Marques afirmou que não houve necessidade de votos em papel e que urnas eletrônicas são eficientes e seguras",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/voto-em-papel-e-so-registro-historico-diz-presidente-do-tse/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:45:21-03:00"
-  },
-  {
-   "id": "cce25be14222",
-   "titulo": "Pedido para ampliar horário de votação será avaliado, afirma Marques",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pedido-para-ampliar-horario-de-votacao-sera-avaliado-afirma-marques\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pedido-para-ampliar-horario-de-votacao-sera-avaliado-afirma-marques",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T15:44:00-03:00"
-  },
-  {
-   "id": "3e3fed267cac",
-   "titulo": "Gilmar Mendes não votará no segundo turno",
-   "resumo": "O ministro Gilmar Mendes (foto), decano do Supremo Tribunal Federal (STF), não votará neste domingo, 25, no segundo turno das eleições, por causa de uma lesão no braço. Em recuperação, ele permanecerá em Brasília e não viajará até seu domic…",
-   "link": "https://oantagonista.com.br/brasil/gilmar-mendes-nao-votara-no-segundo-turno/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55563722980_aa0648787b_k.jpg",
-   "data": "2026-10-25T15:39:02-03:00"
-  },
-  {
-   "id": "92bca80ecfe6",
-   "titulo": "TSE não agiu de ofício, diz Nunes Marques sobre “Exército do Lula”",
-   "resumo": "Presidente da Corte eleitoral afirmou que suas decisões foram tomadas em resposta a demandas judiciais e que 80% delas foram referendadas em plenário",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-nao-agiu-de-oficio-diz-nunes-marques-sobre-exercito-do-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:34:01-03:00"
-  },
-  {
-   "id": "99b3f8d88812",
-   "titulo": "Brasil quer reconhecimento do resultado e pacificação, diz Alcolumbre",
-   "resumo": "\"Votem! Saiam de suas casas para exercer um direito pelo qual centenas de brasileiros lutaram\", disse Davi Alcolumbre",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/brasil-quer-reconhecimento-do-resultado-e-pacificacao-diz-alcolumbre/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:29:49-03:00"
-  },
-  {
-   "id": "eb4185fa2217",
-   "titulo": "Em Salvador, quem estiver na seção eleitoral às 17h poderá votar",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-salvador-quem-estiver-17h-na-fila-podera-votar-diz-tse\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-salvador-quem-estiver-17h-na-fila-podera-votar-diz-tse",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T15:28:00-03:00"
-  },
-  {
-   "id": "d6527b9b5907",
-   "titulo": "Ministro do TSE aciona Nunes Marques sobre frota de ônibus na Bahia",
-   "resumo": "Mais cedo, a Justiça Eleitoral do Estado determinou o restabelecimento do transporte coletivo em 3 cidades baianas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/ministro-do-tse-aciona-nunes-marques-sobre-frota-de-onibus-na-bahia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:23:51-03:00"
-  },
-  {
-   "id": "457437cbbd1e",
-   "titulo": "Moraes libera visitas de grupo de oração a Bolsonaro",
-   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), autorizou a retomada das visitas de um grupo de oração ao ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar. A decisão foi assinada neste sábado, 24, no dia …",
-   "link": "https://oantagonista.com.br/brasil/moraes-libera-visitas-de-grupo-de-oracao-a-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/mg_9453-1-e1789761152868.jpg",
-   "data": "2026-10-25T15:20:28-03:00"
-  },
-  {
-   "id": "bd0f1f5c1137",
-   "titulo": "Campanha de Lula pede prisão de secretário e chefe da SPTrans",
-   "resumo": "Federação do PT aponta descumprimento de decisão que determinou 100% da frota de ônibus em circulação em São Paulo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-pede-prisao-de-secretario-e-chefe-da-sptrans/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T15:18:07-03:00"
-  },
-  {
-   "id": "51bd0523c6b6",
-   "titulo": "Ministro de Lula quer prender prefeito de São Paulo em meio à eleição",
-   "resumo": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos, anunciou neste domingo, 25, que pedirá ao Tribunal Regional Eleitoral de São Paulo (TRE-SP) a prisão do prefeito Ricardo Nunes (MDB) e do secretário municipal de Mobilidade Ur…",
-   "link": "https://revistaoeste.com/politica/ministro-de-lula-quer-prender-prefeito-de-sao-paulo-em-meio-a-eleicao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/boulos.jpg",
-   "data": "2026-10-25T15:08:57-03:00"
-  },
-  {
-   "id": "087d431b443c",
-   "titulo": "PM detém cinco pessoas por crimes eleitorais em São Paulo",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pm-detem-cinco-pessoas-por-crimes-eleitorais-em-sao-paulo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pm-detem-cinco-pessoas-por-crimes-eleitorais-em-sao-paulo",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T15:07:00-03:00"
-  },
-  {
-   "id": "ca043c2daeab",
-   "titulo": "Nunes Marques rebate acusações de favorecimento a Flávio",
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques (foto), rebateu críticas de que teria favorecido Flávio Bolsonaro (PL) na disputa presidencial. Em entrevista a jornalistas na sede do tribunal, o ministro afirmou nest…",
-   "link": "https://oantagonista.com.br/brasil/nunes-marques-rebate-acusacoes-de-favorecimento-a-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55577193888_785b5c76a6_3k-e1791806853267.jpg",
-   "data": "2026-10-25T15:06:59-03:00"
-  },
-  {
    "id": "3a6e16ac4659",
    "titulo": "Prefeito de Salvador diz que sindicalistas colaram adesivos do PT em ônibus",
    "resumo": "À coluna, prefeito de Salvador afirmou que \"sindicalistas\" teriam colado adesivos do PT em ônibus e dono da empresa não deixou frota sair",
@@ -155,78 +614,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/onibus-em-salvador.jpg",
    "data": "2026-10-25T15:04:31-03:00"
-  },
-  {
-   "id": "435926c7558b",
-   "titulo": "Justiça Eleitoral manda prender secretário de transporte de Salvador",
-   "resumo": "O Tribunal Regional Eleitoral da Bahia (TRE-BA) determinou a prisão em flagrante do secretário de Mobilidade de Salvador, Pablo Souza (foto), por suspeita de crime eleitoral após a redução da frota de ônibus no segundo turno deste domingo, …",
-   "link": "https://oantagonista.com.br/brasil/justica-eleitoral-manda-prender-secretario-de-transporte-de-salvador/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Pablo-Souza.png",
-   "data": "2026-10-25T14:54:28-03:00"
-  },
-  {
-   "id": "066da6db58ed",
-   "titulo": "Campanha de Lula diz que só 60% dos ônibus circulam em SP",
-   "resumo": "Marco Aurélio diz que Justiça determinou operação de 100% da frota e que equipe pedirá extensão do horário de votação",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-diz-que-so-60-dos-onibus-circulam-em-sp/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T14:52:07-03:00"
-  },
-  {
-   "id": "96162b3d60c8",
-   "titulo": "Moraes autoriza Bolsonaro a receber visitas de grupo de oração",
-   "resumo": "Ministro do Supremo determinou a observação das medidas de segurança; ex-presidente cumpre prisão domiciliar em Brasília",
-   "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-bolsonaro-a-receber-visitas-de-grupo-de-oracao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T14:50:00-03:00"
-  },
-  {
-   "id": "d74870346026",
-   "titulo": "Ministro do TSE manda apurar suposta redução de ônibus durante votação na Bahia",
-   "resumo": "Neste domingo, 25, o corregedor da Justiça Eleitoral, Ricardo Villas Bôas Cueva, determinou providências urgentes para apurar denúncias de suposta redução do transporte público em três municípios da Bahia durante o segundo turno das eleiçõe…",
-   "link": "https://revistaoeste.com/politica/ministro-do-tse-manda-apurar-suposta-reducao-de-onibus-durante-votacao-na-bahia/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/55572907112_e1592a7dfa_k.jpg",
-   "data": "2026-10-25T14:43:55-03:00"
-  },
-  {
-   "id": "03875117114d",
-   "titulo": "PT quer prisão de secretário de Nunes por frota reduzida de ônibus",
-   "resumo": "O PT de São Paulo vai pedir a prisão do secretário municipal de Mobilidade Urbana e Transporte, Celso Jorge Caldeira, por suposto descumprimento da ordem judicial que determinou a circulação de 100% da frota de ônibus neste domingo, 25, dia…",
-   "link": "https://oantagonista.com.br/brasil/pt-quer-prisao-de-secretario-de-nunes-por-frota-reduzida-de-onibus/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/eletricovolvo.jpg",
-   "data": "2026-10-25T14:43:25-03:00"
-  },
-  {
-   "id": "0addc1f59bbc",
-   "titulo": "Fiscais do PL são levados à PF no Rio por suspeita de boca de urna",
-   "resumo": "Mulher com crachá de “delegado” e um homem foram conduzidos por ordem do juiz eleitoral; PL diz desconhecer os casos",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/fiscais-do-pl-sao-levados-a-pf-no-rio-por-suspeita-de-boca-de-urna/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T14:41:01-03:00"
-  },
-  {
-   "id": "0ae973a77419",
-   "titulo": "Nunes Marques diz que TSE acompanha mobilidade de eleitores após casos em SP, Salvador e indígenas",
-   "resumo": "Presidente do TSE afirma que dificuldades estão sendo corrigidas. Eleições transcorrem dentro do planejado, pontuou. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-mobilidade-eleitores-casos-sp-salvador-indigenas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25144009/kassio-nunes-marques-foto-reproducao-youtube-tse-2-960x540.jpg",
-   "data": "2026-10-25T14:40:34-03:00"
-  },
-  {
-   "id": "018dab036d5b",
-   "titulo": "PT pede ao TSE extensão da votação até as 19h em cidades da Bahia",
-   "resumo": "Partido cita ônibus reduzidos e descumprimento de ordem judicial para justificar ampliação do prazo eleitoral em Salvador, Feira de Santana e Lauro de Freitas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-pede-ao-tse-extensao-da-votacao-na-bahia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-25T14:36:56-03:00"
   },
   {
    "id": "09014f4eb362",
@@ -238,204 +625,6 @@
    "data": "2026-10-25T14:35:36-03:00"
   },
   {
-   "id": "48c6f345bd55",
-   "titulo": "TRE-BA determina retomada integral da frota de ônibus em Salvador",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-ba-determina-retomada-integral-da-frota-de-onibus-em-salvador\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tre-ba-determina-retomada-integral-da-frota-de-onibus-em-salvador",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T14:34:00-03:00"
-  },
-  {
-   "id": "05082fecfe5b",
-   "titulo": "Roberta Luchsinger declara voto em Flávio",
-   "resumo": "Amiga de Fábio Luiz Lula da Silva, o Lulinha, Roberta Luchsinger declarou ter votado em Flávio Bolsonaro no segundo turno das Eleições de 2026. Ele é filho do presidente Lula. Ela é investigada por possíveis esquemas de corrupção que envolv…",
-   "link": "https://revistaoeste.com/politica/roberta-luchsinger-declara-voto-em-flavio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/lula-luchsinger-nov2022.jpg",
-   "data": "2026-10-25T14:17:47-03:00"
-  },
-  {
-   "id": "69f492e60400",
-   "titulo": "Justiça atende a pedido do PT e manda prender secretário de Mobilidade de Salvador",
-   "resumo": "O Tribunal Regional Eleitoral da Bahia (TRE-BA) determinou, na tarde deste domingo, 25, a prisão em flagrante do secretário de Mobilidade de Salvador, Pablo Souza. A detenção dele deverá ser efetuada por agentes da Polícia Federal . Contra …",
-   "link": "https://revistaoeste.com/politica/justica-atende-a-pedido-do-pt-e-manda-prender-secretario-de-mobilidade-de-salvador/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/oonibus-municipal-de-salvador-tre-ba-pt.jpg",
-   "data": "2026-10-25T14:15:39-03:00"
-  },
-  {
-   "id": "8750ddc61039",
-   "titulo": "Campanha de Lula denuncia prefeitura de São Paulo à Justiça por falta de ônibus",
-   "resumo": "Coligação acusa gestão de Ricardo Nunes de descumprir decisão judicial e manter apenas 60% da frota nas ruas. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/campanha-lula-denuncia-prefeitura-sao-paulo-justica-falta-onibus/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25141147/lula-comicio-sao-paulo-24-10-2026-foto-ricardo-stuckert-secm-960x540.jpg",
-   "data": "2026-10-25T14:13:45-03:00"
-  },
-  {
-   "id": "707e847d0d2a",
-   "titulo": "TRE-BA manda prender secretário que reteve ônibus com adesivos do PT em Salvador",
-   "resumo": "Ônibus do transporte coletivo de Salvador estavam com adesivos com estrela e número 13 no para-brisa. Leia mais na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tre-ba-manda-prender-secretario-que-reteve-onibus-com-adesivos-do-pt-em-salvador/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25131442/onibus-Salvador-Secom-Prefeitura-de-Salvador-960x540.jpg",
-   "data": "2026-10-25T14:12:22-03:00"
-  },
-  {
-   "id": "1bd4a13073f5",
-   "titulo": "‘O Brasil vai viver um novo tempo’, diz Alfredo Gaspar",
-   "resumo": "O candidato à Vice-Presidência da República na chapa de Flávio Bolsonaro , deputado Alfredo Gaspar (PL-AL), demonstrou confiança na vitória ao votar no começo da tarde deste domingo, 25, em Maceió. Ao conversar com jornalistas, o parlamenta…",
-   "link": "https://revistaoeste.com/politica/o-brasil-vai-viver-um-novo-tempo-diz-alfredo-gaspar/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/alfredo-gaspar-vota-turno-2.jpg",
-   "data": "2026-10-25T14:01:06-03:00"
-  },
-  {
-   "id": "172c7f2d284f",
-   "titulo": "Eleições: algumas condutas podem configurar crimes eleitorais",
-   "resumo": "Os chamados crimes eleitorais são aqueles que podem interferir na vontade dos cidadãos e deturpar o processo democrático. Um deles é a propaganda no dia da eleição, conhecida como boca de urna. + Leia mais notícias de Política em Oeste Esta…",
-   "link": "https://revistaoeste.com/politica/eleicoes-algumas-condutas-podem-configurar-crimes-eleitorais/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/boca.jpg",
-   "data": "2026-10-25T14:00:39-03:00"
-  },
-  {
-   "id": "700a6506c51e",
-   "titulo": "Nunes Marques prevê resultado da eleição até as 21h deste domingo",
-   "resumo": "Apuração começa às 17h e envolve mais de 158 milhões de eleitores em todo o país na disputa entre Lula e Flávio Bolsonaro. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/nunes-marques-preve-resultado-eleicao-21h-deste-domingo/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25135722/kassio-nunes-marques-verificacao-urnas-25-10-2026-foto-antonio-augusto-tse-960x540.jpg",
-   "data": "2026-10-25T13:57:41-03:00"
-  },
-  {
-   "id": "bc0036b5b0fb",
-   "titulo": "Janja ataca jornalista: ‘Vai se catar, meu filho’",
-   "resumo": "A primeira-dama, Janja da Silva, disse a um repórter “vai se catar, meu filho”, depois de ele comentar que o presidente parecia desanimado. A fala ocorreu neste domingo, 25. Lula participava de uma coletiva de imprensa em seu local de votaç…",
-   "link": "https://revistaoeste.com/politica/janja-ataca-jornalista-vai-se-catar-meu-filho/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/11/Janja-1-scaled.jpg",
-   "data": "2026-10-25T13:52:55-03:00"
-  },
-  {
-   "id": "7255e84e5e09",
-   "titulo": "O para-choque janonista",
-   "resumo": "O lulopetismo nunca precisou de bons motivos, apenas de bons pretextos. E o pretexto deste segundo turno foi, como em 2022, a salvação da democracia contra o fascismo, essa entidade proteiforme que a esquerda brasileira enxerga em todo adve…",
-   "link": "https://revistaoeste.com/politica/o-para-choque-janonista/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/janonismo.png",
-   "data": "2026-10-25T13:34:28-03:00"
-  },
-  {
-   "id": "90f4b3b64e68",
-   "titulo": "Cleitinho vota e faz eleitores de Lula e de Flávio se abraçarem",
-   "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), pediu que dois eleitores, um apoiador de Lula (PT) e outro de Flávio Bolsonaro (PL), se abraçassem antes de votar neste domingo, 25, em Divinópolis. “Faz o L, faz o 22. …",
-   "link": "https://oantagonista.com.br/brasil/cleitinho-vota-e-faz-eleitores-de-lula-e-de-flavio-se-abracarem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-25-as-13.24.22.png",
-   "data": "2026-10-25T13:33:06-03:00"
-  },
-  {
-   "id": "716140eace98",
-   "titulo": "Vereadora do PT é atacada durante carreata em Montes Claros",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vereadora-do-pt-e-atacada-durante-carreata-em-montes-claros\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vereadora-do-pt-e-atacada-durante-carreata-em-montes-claros",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T13:32:00-03:00"
-  },
-  {
-   "id": "75a38946c61d",
-   "titulo": "Toffoli: “Que o próximo governante possa trazer paz para a nação”",
-   "resumo": "O ministro do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) Dias Toffoli (foto) disse neste domingo, 25, após votar em Brasília, esperar que o próximo presidente promova a pacificação no país. Usando uma camisa branc…",
-   "link": "https://oantagonista.com.br/brasil/toffoli-que-o-proximo-governante-possa-trazer-paz-para-a-nacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Toffoli-vota.png",
-   "data": "2026-10-25T13:20:37-03:00"
-  },
-  {
-   "id": "1209b091c77c",
-   "titulo": "Infestação de pulgas força mudança de local de votação no Rio",
-   "resumo": "Uma infestação de pulgas levou à transferência de cerca de 3 mil eleitores para outro local de votação neste domingo, 25, em Jardim Sulacap, na zona oeste do Rio de Janeiro. O problema foi identificado no sábado, 24, durante a preparação da…",
-   "link": "https://oantagonista.com.br/brasil/infestacao-de-pulgas-forca-mudanca-de-local-de-votacao-no-rio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/689ceab9-d001-4c23-8871-8e887977afdd-scaled.jpg",
-   "data": "2026-10-25T13:06:44-03:00"
-  },
-  {
-   "id": "962b7af5de82",
-   "titulo": "Mais de 450 urnas são substituídas nas primeiras duas horas de votação",
-   "resumo": "Boletim do Tribunal Superior Eleitoral (TSE) informou que 467 urnas eletrônicas precisaram ser substituídas em todo o país neste domingo, 25, durante as primeiras duas horas na votação do segundo turno das eleições. + Leia mais notícias de …",
-   "link": "https://revistaoeste.com/politica/mais-de-450-urnas-sao-substituidas-nas-primeiras-duas-horas-de-votacao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/tse-1.jpg",
-   "data": "2026-10-25T13:03:39-03:00"
-  },
-  {
-   "id": "30e067feef15",
-   "titulo": "Eleitores vão cedo aos locais de votação no Rio, mesmo com chuva",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-cedo-aos-locais-de-votacao-no-rio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/im…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitores-vao-cedo-aos-locais-de-votacao-no-rio",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T12:59:00-03:00"
-  },
-  {
-   "id": "fcd5e32b2c3e",
-   "titulo": "Roberta Luchsinger declara voto em Flávio Bolsonaro",
-   "resumo": "Roberta Luchsinger (foto) declarou voto em Flávio Bolsonaro (PL) no segundo turno da eleição presidencial. Amiga de Fábio Luís Lula da Silva, o Lulinha, ela afirmou neste domingo, 25, em publicação no Instagram, que Lula não tem mais condiç…",
-   "link": "https://oantagonista.com.br/brasil/roberta-luchsinger-declara-voto-em-flavio-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Retrato-loiro-entre-cortinas-texturizadas.png",
-   "data": "2026-10-25T12:50:27-03:00"
-  },
-  {
-   "id": "0a73fbfb168f",
-   "titulo": "Tarcísio vota em SP e diz que Brasil “precisa de pacificação” após segundo turno",
-   "resumo": "Governador Reeleito de São Paulo, Tarcísio de Freitas disse que \"está otimista com governo que virá\". Leia mais na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-vota-em-sp-e-diz-que-brasil-precisa-de-pacificacao-apos-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25112753/Tarcisio-de-Freitas-EFE-Isaac-Fontana-960x540.jpg",
-   "data": "2026-10-25T12:48:17-03:00"
-  },
-  {
-   "id": "e33bd3790193",
-   "titulo": "TSE informa que 900 urnas foram substituídas até o meio-dia",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T12:44:00-03:00"
-  },
-  {
-   "id": "f08350507b52",
-   "titulo": "Briga em carreata pró-Flávio termina com um morto em MS",
-   "resumo": "Um homem morreu e outro ficou ferido após serem baleados na noite deste sábado, 24, em Bonito (MS) durante uma briga em uma carreata de apoio a Flávio Bolsonaro (PL). Os suspeitos são um adolescente e o pai dele, que fugiram após os disparo…",
-   "link": "https://oantagonista.com.br/brasil/briga-em-carreata-pro-flavio-termina-com-um-morto-em-ms/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Mato-Grosso-do-Sul.png",
-   "data": "2026-10-25T12:39:05-03:00"
-  },
-  {
-   "id": "674da7bfcf37",
-   "titulo": "Apesar das fortes chuvas, eleições seguem tranquilas em São Paulo",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apesar-das-fortes-chuvas-eleicoes-seguem-tranquilas-em-sao-paulo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apesar-das-fortes-chuvas-eleicoes-seguem-tranquilas-em-sao-paulo",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T12:31:00-03:00"
-  },
-  {
-   "id": "68e4841dba5a",
-   "titulo": "“Nem cogito a possibilidade de perder”, diz Nikolas sobre Flávio",
-   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) disse neste domingo, 25, que não considera a possibilidade de Flávio Bolsonaro (PL) perder a eleição presidencial para Lula (PT). Ao votar em Belo Horizonte, o parlamentar apostou em uma vitória d…",
-   "link": "https://oantagonista.com.br/brasil/nem-cogito-a-possibilidade-de-perder-diz-nikolas-sobre-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Nikolas.png",
-   "data": "2026-10-25T12:16:53-03:00"
-  },
-  {
    "id": "8152e4015511",
    "titulo": "Renan Santos se abstém de votar e intensifica ataques a Flávio Bolsonaro",
    "resumo": "Ex-candidato do Missão terminou o primeiro turno em quarto lugar e rejeitou apoiar Lula ou Flávio. Leia na Gazeta do Povo.",
@@ -443,69 +632,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/25121235/renan-santos-foto-renato-pizzutto-band-960x540.jpg",
    "data": "2026-10-25T12:12:52-03:00"
-  },
-  {
-   "id": "5375c34a04af",
-   "titulo": "Cármen Lúcia é novamente aplaudida ao votar em BH",
-   "resumo": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF), votou na manhã deste domingo, 25, no Colégio Santo Agostinho, na região centro-sul de Belo Horizonte (MG). Ela chegou ao local por volta das 8h10. + Leia mais notícias de Política …",
-   "link": "https://revistaoeste.com/politica/carmen-lucia-e-novamente-aplaudida-ao-votar-em-bh/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/carmen-1.jpg",
-   "data": "2026-10-25T12:11:20-03:00"
-  },
-  {
-   "id": "f00b8739613e",
-   "titulo": "“Nossa missão é ajudar Flávio a ser um grande presidente”, diz Tarcísio",
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), disse neste domingo, 25, que Flávio Bolsonaro (PL) precisa ser um “grande presidente da República” caso vença Lula (PT) no segundo turno. Após votar na capital paulista, Tarcísi…",
-   "link": "https://oantagonista.com.br/brasil/nossa-missao-e-ajudar-flavio-a-ser-um-grande-presidente-diz-tarcisio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Tarcisio2.png",
-   "data": "2026-10-25T12:02:45-03:00"
-  },
-  {
-   "id": "f10c1466afbb",
-   "titulo": "Fachin diz que voto da população deve ser respeitado pelos candidatos",
-   "resumo": "Presidente do STF afirma que candidatos devem reconhecer o resultado da eleição independente do resultado. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/fachin-voto-populacao-deve-ser-respeitado-candidatos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25113000/edson-fachin-foto-carlos-moura-stf-960x540.jpg",
-   "data": "2026-10-25T11:30:30-03:00"
-  },
-  {
-   "id": "1b13b1fb8272",
-   "titulo": "PF prende 4 por crimes eleitorais e RS registra mais ocorrências, diz MJ",
-   "resumo": "Balanço parcial de monitoramento de crimes eleitorais aponta que 32 ocorrências foram registradas em 12 estados. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pf-prende-4-crimes-eleitorais-rs-registra-mais-ocorrencias-mj/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25111214/pf-operacao-foto-marcelo-camargo-agencia-brasil-2-960x540.jpg",
-   "data": "2026-10-25T11:12:38-03:00"
-  },
-  {
-   "id": "8692b482fa3c",
-   "titulo": "Eleição opõe caminhos de segurança para o Brasil",
-   "resumo": "Conheça na Gazeta do Povo as propostas para a área da segurança pública feitas pelos candidatos Lula (PT) e Flávio Bolsonaro (PL).",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/eleicao-opoe-caminhos-de-seguranca-propostas-lula-flavio/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/22153010/flavio-lula-seguranca-960x540.jpg",
-   "data": "2026-10-25T11:01:28-03:00"
-  },
-  {
-   "id": "4394d0b87059",
-   "titulo": "Derrite aposta em “vitória grandiosa” de Flávio Bolsonaro ao votar em SP",
-   "resumo": "Senador eleito por São Paulo espera que candidato do PL amplie para mais de 5 milhões de votos a vantagem sobre Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/derrite-aposta-vitoria-grandiosa-flavio-bolsonaro-ao-votar-sp/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25105236/guilherme-derrite-foto-marina-ramos-camara-960x540.jpg",
-   "data": "2026-10-25T10:58:06-03:00"
-  },
-  {
-   "id": "68c67e49e2ff",
-   "titulo": "iPhone grátis, Lula falso e Bolsonaro da Shopee recheiam o anedotário da eleição",
-   "resumo": "Plano com iPhone grátis, Lula falso e Bolsonaro da Shopee: os episódios curiosos da eleição de 2026. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/curiosidades-eleicao-2026/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/23151609/ilustracao_eleicoes_2026_2134x1200-960x540.jpg",
-   "data": "2026-10-25T10:38:03-03:00"
   },
   {
    "id": "4eeb3bdf8eaf",
@@ -625,15 +751,6 @@
    "data": "2026-10-24T18:32:11-03:00"
   },
   {
-   "id": "0f84b2ba047f",
-   "titulo": "Confira o que mostra a pesquisa Gerp para presidente na véspera do 2º turno",
-   "resumo": "Pesquisa Gerp mostra como está a disputa para presidente da República na véspera do 2º turno das eleições de 2026. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/gerp-presidente-outubro-1026-vespera-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/23170435/pesquisa-presidente-20-960x540.jpg",
-   "data": "2026-10-24T18:00:08-03:00"
-  },
-  {
    "id": "41cc4f9e4261",
    "titulo": "A operação de Lula para recuperar votos e virar Minas no 2º turno",
    "resumo": "No 1º turno, Lula (PT) terminou quase cinco pontos atrás de Flávio Bolsonaro (PL) em Minas Gerais, segundo maior colégio eleitoral do Brasil",
@@ -686,15 +803,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/09/ministro-andre-mendonca-kn-durante-sessao-no-tribunal-superior-eleitoral-tse-metropoles-5-scaled.jpg",
    "data": "2026-10-23T17:51:37-03:00"
-  },
-  {
-   "id": "3f2034f36cbb",
-   "titulo": "Co-presidente do grupo de Doria doa R$ 2 mil para campanha de Lula",
-   "resumo": "Co-presidente do LIDE, grupo fundado por João Doria, ex-ministra Izabella Teixeira doou para a campanha à reeleição do presidente Lula",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/co-presidente-do-grupo-de-doria-doa-r-2-mil-para-campanha-de-lula",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/55592336663-5618166fb1-o.jpg",
-   "data": "2026-10-23T17:35:07-03:00"
   }
  ]
 }
