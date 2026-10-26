@@ -1,70 +1,457 @@
 {
- "atualizado": "2026-10-26T03:03:07.107900-03:00",
- "total": 74,
+ "atualizado": "2026-10-26T09:51:33.291105-03:00",
+ "total": 85,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "fb41a131ba74",
-   "titulo": "Flávio ficará sem mandato pela 1ª vez em 24 anos",
-   "resumo": "Senador deixará o Congresso em 2027 e perderá o foro em razão do cargo depois de ser derrotado por Lula na eleição presidencial",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-ficara-sem-mandato-pela-1a-vez-em-24-anos/",
+   "id": "65930d1aae2d",
+   "titulo": "Dólar dispara 12,52% e vai a R$ 5,60 após reeleição de Lula",
+   "resumo": "Candidato do PT teve 51,79% dos votos enquanto seu adversário, Flávio Bolsonaro, teve 48,21%",
+   "link": "https://www.poder360.com.br/brasil/dolar-dispara-1252-e-vai-a-r-560-apos-reeleicao-de-lula/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-26T03:00:41-03:00"
+   "data": "2026-10-26T09:49:43-03:00"
   },
   {
-   "id": "164c168f5f52",
-   "titulo": "Lula vira em duas capitais ante 2022, mas cede 280 cidades menores",
-   "resumo": "Rio de Janeiro e Macapá passaram a dar maioria ao petista; 245 dos municípios perdidos pelo presidente tiveram menos de 10.000 votos válidos",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-vira-em-duas-capitais-ante-2022-mas-cede-280-cidades-menores/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/cidades-viraram-trocou-marioria-22-out-2026-01-23-scaled.jpg",
-   "data": "2026-10-26T02:58:40-03:00"
+   "id": "5bf032be510a",
+   "titulo": "Mercado reage com pessimismo fiscal após vitória de Lula; Acompanhe as cotações",
+   "resumo": "Analistas veem pessimismo com política fiscal que pode aumentar juros por conta do risco. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/dolar-dispara-apos-vitoria-de-lula-acompanhe-a-reacao-do-mercado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26093938/ASPA-GRANDE-2026-10-26T093939.805-960x540.jpg",
+   "data": "2026-10-26T09:45:37-03:00"
   },
   {
-   "id": "5cccf095115b",
-   "titulo": "Lula ganha 2º turno em 2.875 cidades; Flávio, em 2.695",
-   "resumo": "Em 2022, petista havia levado 3.123 cidades, contra 2.445 de Jair Bolsonaro; veja mapas e compare os cenários em infográficos do Poder360",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-ganha-2o-turno-em-2-875-cidades-flavio-em-2-695/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/voto-cidades-2turno-parte1-20-out-2026-01-scaled.png",
-   "data": "2026-10-26T02:55:17-03:00"
-  },
-  {
-   "id": "bd45b1ba5718",
-   "titulo": "Líderes internacionais dão parabéns a Lula pela vitória",
-   "resumo": "Presidentes de Chile, Peru, México e Paraguai, além de ex-chefes de Estado, saudaram a vitória no 2º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lideres-internacionais-dao-parabens-a-lula-pela-vitoria/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/lideres-internacionais-parabenizam-lula-9.png",
-   "data": "2026-10-26T02:52:43-03:00"
-  },
-  {
-   "id": "a7f86af194b6",
-   "titulo": "Veja fotos da comemoração da 4ª eleição de Lula",
-   "resumo": "Petista celebrou vitória sobre Flávio Bolsonaro no hotel InterContinental, em São Paulo, e citou \"derrota da mentira\"",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/veja-fotos-da-comemoracao-da-4a-eleicao-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Lula-e-Alckimin-celebram-reeleicao-26-out-2026.jpg",
-   "data": "2026-10-26T02:51:07-03:00"
-  },
-  {
-   "id": "c72f5ce5081f",
-   "titulo": "Após vitória, Lula pede “democracia sempre” e “fascismo nunca mais”",
-   "resumo": "Presidente reeleito para o 4º mandato inédito comemorou vitória com ato na avenida Paulista, em São Paulo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/apos-vitoria-lula-pede-democracia-sempre-e-fascismo-nunca-mais/",
+   "id": "ee1e26335406",
+   "titulo": "Itaú anuncia compra da NeoSpace por quase R$ 3 bilhões",
+   "resumo": "Startup brasileira de inteligência artificial é especializada no desenvolvimento de grandes modelos fundacionais de dados",
+   "link": "https://www.poder360.com.br/poder-economia/itau-anuncia-compra-da-neospace-por-quase-r-3-bilhoes/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-26T02:50:47-03:00"
+   "data": "2026-10-26T09:35:15-03:00"
   },
   {
-   "id": "fe6528718d57",
-   "titulo": "Vantagem de Lula sobre Flávio foi maior que contra Jair e de Dilma X Aécio",
-   "resumo": "Presidente venceu por 4,4 milhões de votos; margem superou as registradas em 2022 e 2014, mas foi a 3ª menor em pontos percentuais desde 1989",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/vantagem-de-lula-sobre-flavio-foi-maior-que-contra-jair-e-de-dilma-x-aecio/",
+   "id": "a304366b64cc",
+   "titulo": "Lula ganhou mais votos do que Flávio Bolsonaro nas 20 cidades com maior queda de abstenção no 2º turno",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-ganhou-mais-votos-do-que-flavio-bolsonaro-nas-20-cidades-com-maior-queda-de-abstencao-no-2o-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/iDb809KjWhLDH1YC_2jMUEPbpIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/l/48OF7ORuqFpIjDJjYF3w/2026-10-26t054432z-137283973-rc2raoapbzm3-rtrmadp-3-brazil-election.jpg",
+   "data": "2026-10-26T09:35:04-03:00"
+  },
+  {
+   "id": "b6bbc8b7a8fa",
+   "titulo": "Relação com Trump e minerais críticos desafiam diplomacia de Lula no 4º mandato",
+   "resumo": "A reeleição do presidente Luiz Inácio Lula da Silva, neste domingo, 25, coloca a relação com os Estados Unidos, a disputa internacional por minerais críticos e a integração sul-americana entre os principais desafios da política externa bras…",
+   "link": "https://revistaoeste.com/politica/relacao-com-trump-e-minerais-criticos-desafiam-diplomacia-de-lula-no-4o-mandato/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-4.jpg",
+   "data": "2026-10-26T09:30:45-03:00"
+  },
+  {
+   "id": "2a86bd39b542",
+   "titulo": "Pesquisas não conseguiram captar virada de Lula",
+   "resumo": "Estudos mostravam uma diferença ainda pró-Flávio de 2 pontos percentuais na véspera da eleição; maior comparecimento nas regiões favoráveis ao petista e seu avanço nos maiores colégios eleitorais contribuíram para a virada",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pesquisas-nao-conseguiram-captar-virada-de-lula/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/vantagem-de-e-menor-maior-flavio-lula-2-turno-eleicoes-21-out-2026-certo_Artboard-1-copia-scaled.png",
-   "data": "2026-10-26T02:40:31-03:00"
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/pesquisas-nacionais-resultado-urnas-25-out-2026-01-scaled.png",
+   "data": "2026-10-26T09:23:41-03:00"
+  },
+  {
+   "id": "c8bb81256eaf",
+   "titulo": "Nikolas questiona eleição e diz que não reconhece vitória de Lula",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) afirmou, neste domingo, 25, que não reconhece a vitória do presidente Luiz Inácio Lula da Silva nas eleições presidenciais. Em vídeo publicado nas redes sociais depois da divulgação do resultado, …",
+   "link": "https://revistaoeste.com/politica/nikolas-questiona-eleicao-e-diz-que-nao-reconhece-vitoria-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Nikolas-Ferreira-5.jpg",
+   "data": "2026-10-26T09:18:21-03:00"
+  },
+  {
+   "id": "8d52bb5fa499",
+   "titulo": "Filho de Trump acusa imprensa dos EUA de silenciar sobre votação prorrogada no Brasil: “Tudo pela causa”",
+   "resumo": "Donald Trump Jr. repercutiu questionamentos de advogado sobre a determinação de Zanin de prorrogar o horário da votação do segundo turno",
+   "link": "https://www.gazetadopovo.com.br/mundo/filho-trump-acusa-imprensa-eua-silenciar-sobre-votacao-prorrogada-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/05154749/junior.usaid_-960x540.jpg",
+   "data": "2026-10-26T09:18:05-03:00"
+  },
+  {
+   "id": "780a03d9e63b",
+   "titulo": "Vitória de Lula é contra o autoritarismo, afirma ministro aposentado do STF",
+   "resumo": "Petista foi eleito no domingo presidente pela 4ª vez; OAB pede em nota que resultado eleitoral seja respeitado por todos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/vitoria-de-lula-e-contra-o-autoritarismo-afirma-ministro-aposentado-do-stf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-26T09:04:59-03:00"
+  },
+  {
+   "id": "39702eab8d86",
+   "titulo": "PL recusou apoio de advogados de direita à fiscalização eleitoral",
+   "resumo": "Partido teria alegado que projeto de treinamento e coordenação traria problemas à prestação de contas. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pl-recusou-apoio-de-advogados-de-direita-a-fiscalizacao-eleitoral/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26090127/ASPA-GRANDE-2026-10-26T090129.794-960x540.jpg",
+   "data": "2026-10-26T09:02:23-03:00"
+  },
+  {
+   "id": "4fea95d74931",
+   "titulo": "Lula vence, mas corre risco de ver sua sucessão virar drama shakespeariano",
+   "resumo": "Vitória nas urnas de Lula abre discussão para sucessão do petista em 2030, e corre o risco de ver disputa virar tragédia dentro do PT",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-vence-mas-corre-risco-de-sucessao-virar-drama-shakespeariano",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/04/lula-planaltina-8.jpeg",
+   "data": "2026-10-26T09:00:17-03:00"
+  },
+  {
+   "id": "1a16f65d55ff",
+   "titulo": "Conselheiro de Trump divulga discurso de Flávio em inglês",
+   "resumo": "Jason Miller compartilhou fala em que senador contesta derrota; filho do presidente dos EUA também criticou a prorrogação",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/conselheiro-de-trump-divulga-discurso-de-flavio-em-ingles/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Jason-Miller-Post.png",
+   "data": "2026-10-26T09:00:12-03:00"
+  },
+  {
+   "id": "de213ac47a98",
+   "titulo": "Veja em quantas cidades Lula e Flávio Bolsonaro venceram nos estados de SP, MG e RJ",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/veja-em-quantas-cidades-lula-e-flavio-bolsonaro-venceram-nos-estados-de-sp-mg-e-rj.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ejovm6AgZOCUNAmOkLCcGWS_7G8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/TrMo2VRt2lFazLWt5BvQ/montagem-horizontal-1280x720px-5-.jpg",
+   "data": "2026-10-26T08:53:44-03:00"
+  },
+  {
+   "id": "bd29b9ef5fb5",
+   "titulo": "Crusoé: Flávio ficará sem cargo público e sem foro privilegiado em 2027",
+   "resumo": "Derrotado por Lula (PT) no segundo turno, Flávio Bolsonaro (PL, foto) ficará sem um cargo público pela primeira vez em 24 anos. O mandato de Flávio como senador acabará em fevereiro de 2027, quando os senadores eleitos. O filho 01 de Jair B…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-flavio-ficara-sem-cargo-publico-e-sem-foro-privilegiado-em-2027/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-Bolsonaro.jpg",
+   "data": "2026-10-26T08:48:16-03:00"
+  },
+  {
+   "id": "6c1a6a81a81e",
+   "titulo": "Abstenção cai do 1º para o 2º turno: São Paulo lidera com 275 mil faltas a menos; veja ranking das cidades",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/abstencao-cai-do-1o-para-o-2o-turno-sao-paulo-lidera-com-275-mil-faltas-a-menos-veja-ranking-das-cidades.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png",
+   "data": "2026-10-26T08:47:49-03:00"
+  },
+  {
+   "id": "7d25c877d7e5",
+   "titulo": "Premiê da Espanha diz que vitória de Lula inicia “virada do progressismo global”",
+   "resumo": "Líderes europeus estão repercutindo a reeleição do presidente Luiz Inácio Lula da Silva (PT). Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/mundo/premie-espanha-diz-vitoria-lula-inicia-virada-progressismo-global/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/18142151/espanha.aposta-1-960x540.jpg",
+   "data": "2026-10-26T08:47:35-03:00"
+  },
+  {
+   "id": "cd7c4b8251fc",
+   "titulo": "Mercado reduz projeção da inflação para 5,19%",
+   "resumo": "Boletim Focus também reduziu as estimativas para o PIB e para o câmbio do dólar",
+   "link": "https://www.poder360.com.br/poder-economia/mercado-reduz-projecao-da-inflacao-para-519/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/boletim-focus-economia-26out2026-scaled.png",
+   "data": "2026-10-26T08:45:29-03:00"
+  },
+  {
+   "id": "561cfe710538",
+   "titulo": "Lula x Flávio Bolsonaro: veja no mapa quem venceu por local de votação e urna no 2º turno",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/lula-flavio-bolsonaro-2o-turno-eleicoes-presidencia-mapa-quem-venceu-secao-eleitoral.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/no5lJcnmDhF2u7PRhC7xHM--mp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/7/ZHZ0hhSs6QIWmPxQfi2g/mapasp2turno.png",
+   "data": "2026-10-26T08:39:48-03:00"
+  },
+  {
+   "id": "0bdd0ee5932e",
+   "titulo": "Depois de virada histórica, Lula precisa governar com partidos da Frente Ampla",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/26/depois-de-virada-historica-lula-precisa-governar-com-partidos-da-frente-ampla.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ykhl3x5ScekfDzV71CgHI3VwU70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/QuH3OFRdOLUXbTEEIVgw/55592121887-7e152e9827-o.jpg",
+   "data": "2026-10-26T08:39:02-03:00"
+  },
+  {
+   "id": "f6cb1fa8538e",
+   "titulo": "Eleições 2026: Caiado, Zema e Renan Santos repercutem vitória de Lula; Cury não se manifestou",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/caiado-zema-e-renan-santos-repercutem-vitoria-de-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/-Er8MlhDRjxCS3dt1U7BIxpiaxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Y/d5BjAWQQ6d72JD22Yk7g/fotojet-8-.jpg",
+   "data": "2026-10-26T08:38:07-03:00"
+  },
+  {
+   "id": "9b557f26519c",
+   "titulo": "Eduardo Bolsonaro pede que estrangeiros não reconheçam eleição",
+   "resumo": "Ex-deputado divulga vídeo em inglês e alega fraude sem apresentar provas no pleito em que Lula derrotou Flávio Bolsonaro",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-bolsonaro-pede-que-estrangeiros-nao-reconhecam-eleicao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-26T08:27:45-03:00"
+  },
+  {
+   "id": "85c83c231cbf",
+   "titulo": "Israel lembra acusações de genocídio feitas por Lula e diz que ele age contra o país",
+   "resumo": "O chanceler de Israel, Gideon Sa'ar, fez os comentários sobre Lula em resposta a um post de um líder da oposição",
+   "link": "https://www.gazetadopovo.com.br/mundo/israel-lembra-acusacoes-genocidio-feitas-lula-diz-ele-age-contra-pais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26082251/israel.lula_-1-960x540.jpg",
+   "data": "2026-10-26T08:23:48-03:00"
+  },
+  {
+   "id": "ab4ce418b98e",
+   "titulo": "Ministros do TSE avaliam que pedido de Flávio para anular segundo turno não deve prosperar",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/ministros-do-tse-avaliam-que-pedido-de-flavio-para-anular-segundo-turno-nao-deve-prosperar.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Xpgp_je9PNrg97CCzF7gsfN6M34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/T/yYhZxASAaXDZl9gzzrtg/montagem-horizontal-1280x720px-32-.jpg",
+   "data": "2026-10-26T08:21:59-03:00"
+  },
+  {
+   "id": "2e145b8ff8cd",
+   "titulo": "Quem foi a Carla Zambelli da campanha de Flávio Bolsonaro?",
+   "resumo": "Após a confirmação da vitória de Lula (PT), aliados de Flávio Bolsonaro (PL) tentavam entender como o senador passou de uma vantagem de 2,2 milhões de votos sobre o petista no primeiro turno para uma desvantagem de 4,4 milhões no segundo. N…",
+   "link": "https://oantagonista.com.br/brasil/quem-foi-a-carla-zambelli-da-campanha-de-flavio-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-23T230036.112.png",
+   "data": "2026-10-26T08:20:57-03:00"
+  },
+  {
+   "id": "23176f049292",
+   "titulo": "PSDB cumprimenta Lula, mas promete fazer as ‘críticas que julgar necessárias’",
+   "resumo": "O PSDB cumprimentou o presidente Lula (PT) pela reeleição ao quarto mandato. Em nota assinada por Aécio Neves, presidente nacional do partido, e Adolfo Viana, líder na Câmara, a legenda prometeu fazer as ‘críticas que julgar necessárias’, s…",
+   "link": "https://oantagonista.com.br/brasil/psdb-cumprimenta-lula-mas-promete-fazer-as-criticas-que-julgar-necessarias/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/55395392716_e959efa888_k.jpg",
+   "data": "2026-10-26T08:19:38-03:00"
+  },
+  {
+   "id": "b4b139aa213d",
+   "titulo": "Duda Salabert diz ter pedido apreensão do passaporte de Flávio",
+   "resumo": "Senador é investigado pela PF e ficará sem cargo eletivo pela 1ª vez em 24 anos a partir de fevereiro de 2027",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/duda-salabert-diz-ter-pedido-apreensao-do-passaporte-de-flavio/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Duda-Salabert-passaporte-flavio.png",
+   "data": "2026-10-26T08:18:40-03:00"
+  },
+  {
+   "id": "db971702845f",
+   "titulo": "Eduardo chama de ‘inaceitável’ vitória de Lula nas eleições",
+   "resumo": "O ex-deputado Eduardo Bolsonaro (PL) classificou como “inaceitável” a eleição presidencial deste domingo, 25. Em publicação no X, o político, que está vivendo nos Estados Unidos, reproduziu em inglês uma declaração de seu irmão Flávio Bolso…",
+   "link": "https://revistaoeste.com/politica/eduardo-chama-de-inaceitavel-vitoria-de-lula-nas-eleicoes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/eduardo_2.jpeg",
+   "data": "2026-10-26T08:13:37-03:00"
+  },
+  {
+   "id": "7839ba2b69cf",
+   "titulo": "Flávio perde votos em 6 Estados do 1º para o 2º turno",
+   "resumo": "A redução somada foi de 52.336 votos; senador do PL foi derrotado na disputa presidencial no domingo (25.out)",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-perde-votos-em-6-estados-do-1o-para-o-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/comparacao-votos-cidades-regioes-estados-2turno-21-out-2026-04-3-scaled.png",
+   "data": "2026-10-26T08:10:39-03:00"
+  },
+  {
+   "id": "b2c2304342b6",
+   "titulo": "PF continua com investigações sobre restrição ao transporte de eleitores",
+   "resumo": "A Polícia Federal (PF) deve continuar a apurar possíveis crimes eleitorais relacionados à oferta de transporte público durante o segundo turno das eleições presidenciais , realizado neste domingo, 25. As denúncias envolvem ocorrências na Ba…",
+   "link": "https://revistaoeste.com/politica/pf-continua-com-investigacoes-sobre-restricao-ao-transporte-de-eleitores/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/policia-federal.jpg",
+   "data": "2026-10-26T08:06:45-03:00"
+  },
+  {
+   "id": "ce9cc0be6a01",
+   "titulo": "TSE responde Flávio e diz que fiscais do PL não foram retirados da sala-cofre",
+   "resumo": "Corte diz que não há acesso ao local, mas alega que visitação do público a outras unidades permaneceu aberta. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-responde-flavio-e-diz-que-fiscais-nao-foram-retirados-da-sala-cofre/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26080414/ASPA-GRANDE-2026-10-26T080413.768-960x540.jpg",
+   "data": "2026-10-26T08:05:58-03:00"
+  },
+  {
+   "id": "12344312f239",
+   "titulo": "Lula amplia recorde de presidente mais velho a tomar posse no Brasil",
+   "resumo": "Reeleito neste domingo, 25, o presidente Luiz Inácio Lula da Silva vai ampliar o próprio recorde de chefe do Executivo mais velho a tomar posse no país. Ele assumirá o quarto mandato, em 5 de janeiro de 2027, com 81 anos. Nascido em 27 de o…",
+   "link": "https://revistaoeste.com/politica/lula-amplia-recorde-de-presidente-mais-velho-a-tomar-posse-no-brasil/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/pt.jpg",
+   "data": "2026-10-26T08:00:36-03:00"
+  },
+  {
+   "id": "85752058244d",
+   "titulo": "‘O líder político mais influente da América Latina freia avanço da direita’: imprensa mundial repercute reeleição de Lula",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/26/repercute-imprensa-internacional-reeleicao-lula-dia-seguinte.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/26EkLedZ1B4gr8qCrrqk2SmyDMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/b/MtXwLvR8AI7joMK40LtQ/design-sem-nome-23-.png",
+   "data": "2026-10-26T07:59:34-03:00"
+  },
+  {
+   "id": "443a0c4df95f",
+   "titulo": "Advogado de Trump pede investigação independente sobre eleição no Brasil: “Maior virada da história ou fraude”",
+   "resumo": "Advogado da Trump Media questionou determinação de Zanin para prorrogar votação até as 19 horas. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/mundo/advogado-trump-pede-investigacao-independente-sobre-eleicao-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26075157/deluca.repercussao-960x540.jpg",
+   "data": "2026-10-26T07:52:45-03:00"
+  },
+  {
+   "id": "ba93b588bc66",
+   "titulo": "Integrantes do PL prometem lutar por impeachment de Lula em 2027",
+   "resumo": "Integrantes do PL, partido de Jair e Flávio Bolsonaro, prometem atuar desde o início da próxima legislatura pela abertura de um processo de impeachment contra o presidente Lula (PT), reeleito neste domingo, 25. Saiba mais: Lulistas vão ao S…",
+   "link": "https://oantagonista.com.br/brasil/integrantes-do-pl-prometem-lutar-por-impeachment-de-lula-em-2027/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55612561019_fed8219e2e_3k.jpg",
+   "data": "2026-10-26T07:33:44-03:00"
+  },
+  {
+   "id": "301aa5819249",
+   "titulo": "Reeleito, Lula pode indicar mais 4 ministros para o STF no próximo mandato",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/26/reeleito-lula-pode-indicar-mais-4-ministros-para-o-stf-no-proximo-mandato.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/szELoMXrtGeMqy-qKM0C3mHs-Uw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/A/rZ3L7ZRnqWtVyaVk7KAA/55608792375-d10e7ca003-k.jpg",
+   "data": "2026-10-26T07:32:15-03:00"
+  },
+  {
+   "id": "30433040a1b4",
+   "titulo": "Renan Santos pede que direita não vá a atos pró-Flávio",
+   "resumo": "Ex-candidato à Presidência critica bolsonaristas e diz que apoiadores são usados como “bucha de canhão” por lideranças políticas",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-pede-que-direita-nao-va-a-atos-pro-flavio/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-26T07:32:07-03:00"
+  },
+  {
+   "id": "bedb3446d9f2",
+   "titulo": "Eduardo pede que vitória de Lula não seja reconhecida",
+   "resumo": "O ex-deputado federal Eduardo Bolsonaro (PL, foto) pediu, em inglês, pressão internacional para que o resultado da eleição presidencial vencida por Lula (PT) não seja reconhecido. “Esta é uma mensagem para vocês: não reconheçam estas eleiçõ…",
+   "link": "https://oantagonista.com.br/brasil/eduardo-pede-que-vitoria-de-lula-nao-seja-reconhecida/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Eduardo-Bolsonaro.jpg",
+   "data": "2026-10-26T07:19:52-03:00"
+  },
+  {
+   "id": "5ac08d31334c",
+   "titulo": "Lula vence em 13 Estados e vira em Minas, quebrando histórico eleitoral",
+   "resumo": "O presidente Luiz Inácio Lula da Silva venceu em 13 Estados e no exterior no segundo turno deste domingo, 25. Além disso, Minas Gerais foi o único Estado onde o petista reverteu o resultado da primeira etapa. A virada quebrou um histórico o…",
+   "link": "https://revistaoeste.com/politica/lula-vence-em-13-estados-e-vira-em-minas-quebrando-historico-eleitoral/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/sem_titulo-15.jpg",
+   "data": "2026-10-26T07:19:20-03:00"
+  },
+  {
+   "id": "2841bfed2d3a",
+   "titulo": "Justiça proíbe jornalista de abordar funcionários da escola de filha de Flávio Bolsonaro",
+   "resumo": "Conversas teriam alegado confirmação sobre agressões e pedido confirmação de funcionários. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/justica-proibe-jornalista-de-abordar-escola-da-filha-de-flavio-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26071638/ASPA-GRANDE-2026-10-26T071639.820-960x540.jpg",
+   "data": "2026-10-26T07:17:56-03:00"
+  },
+  {
+   "id": "bfe20df62261",
+   "titulo": "Lula tem de remanejar R$ 20 bi no Orçamento de 2027 para bancar promessas",
+   "resumo": "Reeleito neste domingo, 25, o presidente Luiz Inácio Lula da Silva terá de remanejar cerca de R$ 20 bilhões do Orçamento de 2027 para custear medidas anunciadas pelo governo nas últimas semanas. A estimativa é do Ministério do Planejamento …",
+   "link": "https://revistaoeste.com/politica/lula-tera-de-remanejar-r-20-bi-no-orcamento-de-2027-para-bancar-promessas/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-discurso-reeleicao-2.jpg",
+   "data": "2026-10-26T07:17:34-03:00"
+  },
+  {
+   "id": "d17b0653d337",
+   "titulo": "Após vitória de Lula, Gilmar afirma: “É tempo de união”",
+   "resumo": "Encerrado o segundo turno das eleições, o ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), defendeu na madrugada deste domingo para segunda uma nova etapa de “união, responsabilidade e compromisso institucional” no país e afirmou …",
+   "link": "https://oantagonista.com.br/brasil/apos-vitoria-de-lula-gilmar-afirma-e-tempo-de-uniao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55368557339_8d1bedcd1c_6k-scaled-e1790174030773.jpg",
+   "data": "2026-10-26T07:08:10-03:00"
+  },
+  {
+   "id": "723787761536",
+   "titulo": "TSE nega que fiscais do PL tenham sido retirados de sala-cofre",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) contestou nesta segunda-feira, 26, uma declaração do senador Flávio Bolsonaro (PL-RJ), derrotado no segundo turno da eleição presidencial. Em nota, a Corte afirmou que é falsa a alegação de que fiscais do…",
+   "link": "https://revistaoeste.com/politica/tse-nega-que-fiscais-do-pl-tenham-sido-retirados-de-sala-cofre/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/05/TSE-Jose-Cruz-Agencia-Brasil.jpg",
+   "data": "2026-10-26T07:03:24-03:00"
+  },
+  {
+   "id": "113bcf3378ed",
+   "titulo": "Em festa da vitória, Lula pede que público cante Hino da Independência",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-festa-da-vitoria-lula-pede-que-publico-cante-hino-da-independencia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-festa-da-vitoria-lula-pede-que-publico-cante-hino-da-independencia",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-26T07:02:00-03:00"
+  },
+  {
+   "id": "547043eb70df",
+   "titulo": "Sem Lula em 2030, aliados estimulam Dino a deixar STF e voltar à política",
+   "resumo": "Avaliação dos aliados de Flávio Dino é de que ministro do STF teria tudo para suceder Lula em 2030, quando petista não poderá se reeleger",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/sem-lula-em-2030-aliados-estimulam-dino-a-deixar-stf-e-voltar-a-politica",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2023/11/15120317/dino-e-lula.jpg",
+   "data": "2026-10-26T07:00:35-03:00"
+  },
+  {
+   "id": "c8462bdba39b",
+   "titulo": "Lulistas vão ao STF para impedir que Flávio Bolsonaro fuja do Brasil",
+   "resumo": "O deputado Otoni de Paula (MDB-RJ) e a deputada Duda Salabert (PDT-MG) ingressaram com petições ao Supremo Tribunal Federal (STF) para pedir a apreensão do passaporte do senador Flávio Bolsonaro (PL), candidato derrotado na disputa pela Pre…",
+   "link": "https://oantagonista.com.br/brasil/lulistas-vao-ao-stf-para-impedir-que-flavio-fuja-do-brasil/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/156a0214-d77d-4853-a232-544d6538dece-scaled.jpg",
+   "data": "2026-10-26T06:54:40-03:00"
+  },
+  {
+   "id": "3385a4c53d24",
+   "titulo": "Mapa da virada: onde Lula avançou e como mudou a votação de Flávio Bolsonaro entre o 1º e o 2º turno",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/mapa-virada-lula-flavio-bolsonaro-votos-primeiro-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/J6qsUmT1JABCN34E3bq67hkxl7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/3/hpUA5aRRKiGBxq2oGAAw/261026-mapa2-variacao-de-diferenca.png",
+   "data": "2026-10-26T06:27:09-03:00"
+  },
+  {
+   "id": "76d2ecd359ab",
+   "titulo": "35 mil votos foram registrados após as 17h; vantagem de Lula sobre Flávio Bolsonaro no Brasil foi de 4,4 milhões",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/votacao-presidente-lula-flavio-bolsonaro-apos-horario-segundo-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Xpgp_je9PNrg97CCzF7gsfN6M34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/T/yYhZxASAaXDZl9gzzrtg/montagem-horizontal-1280x720px-32-.jpg",
+   "data": "2026-10-26T06:22:15-03:00"
+  },
+  {
+   "id": "de9120907234",
+   "titulo": "Brasil elege 20 brancos, 6 pardos, 1 indígena e nenhum preto entre os 27 governadores",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/governadores-eleitos-raca-branco-pardo-indigena-negro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/idhjpdgT4b6ziZGiXpmQr-gagwE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/v/l0aaoAQgaJfJHHdUbKgQ/montagem-two-rows-1280x720px-1-.jpg",
+   "data": "2026-10-26T06:08:50-03:00"
+  },
+  {
+   "id": "5caf7284b496",
+   "titulo": "‘É uma tragédia socioeconômica’, diz presidente da Abrasel sobre escala 6×1",
+   "resumo": "O presidente-executivo da Associação Brasileira de Bares e Restaurantes (Abrasel) , Paulo Solmucci, classificou como uma “tragédia socioeconômica” a aprovação da proposta que acaba com a escala 6x1. Em entrevista a Oeste , ele afirmou que a…",
+   "link": "https://revistaoeste.com/politica/e-uma-tragedia-socioeconomica-diz-presidente-da-abrasel-sobre-escala-6x1/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/bar-restaurante-freepik-abrasel.jpg",
+   "data": "2026-10-26T05:31:00-03:00"
+  },
+  {
+   "id": "3a1ad5274b4f",
+   "titulo": "Fonteles ganha força para Fazenda no \"Lula 4\"; Camilo, para Casa Civil",
+   "resumo": "Nomeação de Rafael Fonteles e Camilo Santana para pastas importantes faria parte de um plano para projetá-los para sucessão de Lula em 2030",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/fonteles-ganha-forca-para-fazenda-no-lula-4-e-camilo-para-casa-civil",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/ex-ministro-camilo-santana-coordenador-da-campanha-a-reeleicao-do-presidente-luiz-inacio-lula-da-silva-coletiva-no-qg-da-campanha-metropoles-4-scaled.jpeg",
+   "data": "2026-10-26T05:00:41-03:00"
   },
   {
    "id": "65ba1e792883",
@@ -74,33 +461,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-5.jpg",
    "data": "2026-10-26T02:37:42-03:00"
-  },
-  {
-   "id": "da7b9afeb6f4",
-   "titulo": "Lula amplia recorde de tempo na Presidência pelo voto direto",
-   "resumo": "Petista poderá somar 16 anos e 4 dias no cargo; Vargas governou por mais tempo, mas a maior parte sem eleição direta",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-amplia-recorde-de-tempo-na-presidencia-pelo-voto-direto/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-26T02:32:54-03:00"
-  },
-  {
-   "id": "463586575a7f",
-   "titulo": "Zema diz que Lula aplicou “golpe à la Venezuela” na eleição",
-   "resumo": "Decisão de Zanin ampliou votação até as 19h; campanha de Flávio também pediu mais tempo em 19 cidades",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/zema-diz-que-lula-aplicou-golpe-a-la-venezuela-na-eleicao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-26T02:31:10-03:00"
-  },
-  {
-   "id": "dbb254e9bfd3",
-   "titulo": "Partidos reconhecem vitória de Lula",
-   "resumo": "O chefe do Executivo contou com 7 partidos de esquerda e centro-esquerda em sua aliança já no 1º turno",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/partidos-reconhecem-vitoria-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/MDB-reconhece-Lula.png",
-   "data": "2026-10-26T02:27:03-03:00"
   },
   {
    "id": "3bc599001c58",
@@ -121,33 +481,6 @@
    "data": "2026-10-26T02:00:51-03:00"
   },
   {
-   "id": "544d0d22fe5c",
-   "titulo": "Marçal contesta queda da abstenção: ‘Tem algum caroço nesse angu’",
-   "resumo": "O empresário Pablo Marçal contestou a redução da abstenção no segundo turno das eleições presidenciais e cobrou uma análise dos números divulgados pela Justiça Eleitoral. Em entrevista na noite de domingo, 25, associou suas dúvidas ao desem…",
-   "link": "https://revistaoeste.com/politica/marcal-contesta-queda-da-abstencao-tem-algum-caroco-nesse-angu/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/07/pablo-marcal-sbt-no-alvo.jpg",
-   "data": "2026-10-26T01:31:07-03:00"
-  },
-  {
-   "id": "206e98fd9a95",
-   "titulo": "Lula descarta imprensa na comunicação do novo mandato",
-   "resumo": "O presidente reeleito Luiz Inácio Lula da Silva anunciou que pretende deixar de depender da interpretação da imprensa para se comunicar com os brasileiros. A declaração ocorreu neste domingo, 25, durante a comemoração da vitória sobre Flávi…",
-   "link": "https://revistaoeste.com/politica/lula-descarta-imprensa-na-comunicacao-do-novo-mandato/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-paulista.jpg",
-   "data": "2026-10-26T01:30:39-03:00"
-  },
-  {
-   "id": "d782bc808da7",
-   "titulo": "Confira os números do 2º turno, com 100% da apuração concluída",
-   "resumo": "A apuração do segundo turno da disputa presidencial está conluída. De acordo com o Tribunal Superior Eleitoral (TSE) , 100% das sessões eleitorais estavam computadas à meia-noite desta segunda-feira, 26. Ao todo, foram 499.248 sessões apura…",
-   "link": "https://revistaoeste.com/politica/confira-os-numeros-do-2o-turno-com-100-da-apuracao-concluida/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/urna-eletronica-eleicoes-2026-clausula-de-barreira.jpg",
-   "data": "2026-10-26T00:49:56-03:00"
-  },
-  {
    "id": "e04b1bbf4d53",
    "titulo": "Flávio Bolsonaro diz que não reconhece resultado e vai pedir anulação da eleição",
    "resumo": "Em pronunciamento, Flávio Bolsonaro diz que não reconhece vitória de Lula e vai pedir anulação da eleição. Leia na Gazeta do Povo.",
@@ -155,15 +488,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/25233129/pronunciamento-Flavio-Bolsonaro-EFE-menor-960x540.jpg",
    "data": "2026-10-26T00:08:38-03:00"
-  },
-  {
-   "id": "9b9c61e92354",
-   "titulo": "Lula amplia votação em mais de 10 milhões de votos no 2º turno",
-   "resumo": "Lula da Silva (PT), reeleito presidente da República neste domingo, 25, ampliou sua votação em cerca de 10,2 milhões de votos entre o primeiro e o segundo turno das eleições presidenciais de 2026. O petista passou de 53,9 milhões de votos n…",
-   "link": "https://revistaoeste.com/politica/lula-amplia-votacao-em-mais-de-10-milhoes-de-votos-no-segundo-turno/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula_votacao.jpeg",
-   "data": "2026-10-25T23:59:25-03:00"
   },
   {
    "id": "06fca2851cc9",
@@ -238,15 +562,6 @@
    "data": "2026-10-25T23:38:50-03:00"
   },
   {
-   "id": "6ac61ea38bcc",
-   "titulo": "Abstenção tem maior queda entre turnos desde a redemocratização",
-   "resumo": "A abstenção no segundo turno da eleição presidencial de 2026 caiu para 19,21%, o menor porcentual registrado nessa etapa da disputa desde 2006. Segundo dados do Tribunal Superior Eleitoral (TSE), cerca de 30,4 milhões de brasileiros deixara…",
-   "link": "https://revistaoeste.com/politica/abstencao-cai-no-2o-turno-e-atinge-menor-nivel-desde-2006/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/abstencao-2026.jpeg",
-   "data": "2026-10-25T23:35:11-03:00"
-  },
-  {
    "id": "49455eb245da",
    "titulo": "“Vamos mudar o jeito de governar este país”, diz Lula",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vamos-mudar-o-jeito-de-governar-este-pais-diz-lula\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets…",
@@ -265,15 +580,6 @@
    "data": "2026-10-25T23:31:00-03:00"
   },
   {
-   "id": "ca6c6794c3d7",
-   "titulo": "Lula vence em eleição mais confusa dos últimos anos",
-   "resumo": "Lula virou sobre Flávio Bolsonaro para ser eleito presidente pela quarta vez. Veja o resultado do 2º turno das eleições na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-vence-em-eleicao-mais-confusa-dos-ultimos-anos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25210432/lula-eleicao-2-turno-960x540.jpg",
-   "data": "2026-10-25T23:24:11-03:00"
-  },
-  {
    "id": "486f0f24657c",
    "titulo": "O que mudou no mapa do Brasil que explica a virada de Lula",
    "resumo": "Mapa comparativo mostra como foi a votação para presidente da República no 1º e 2º turno por estado. Veja na Gazeta do Povo",
@@ -281,78 +587,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/25223346/eleicoes-2026-abres-materias-infospresidente-1Tx2T-960x540.jpg",
    "data": "2026-10-25T23:23:09-03:00"
-  },
-  {
-   "id": "d666832e944d",
-   "titulo": "República se fortalece quando reconhece e respeita a soberania popular, diz Fachin",
-   "resumo": "Neste domingo, 25, presidente do Supremo Tribunal Federal (STF), Edson Fachin, disse que \"a República se fortalece quando reconhece e respeita a soberania popular\". A fala ocorreu depois da divulgação do resultado da eleição, na qual o pres…",
-   "link": "https://revistaoeste.com/politica/republica-se-fortalece-quando-reconhece-e-respeita-a-soberania-popular-diz-fachin/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/img_4439.jpg.webp",
-   "data": "2026-10-25T23:23:02-03:00"
-  },
-  {
-   "id": "de5a05f82f15",
-   "titulo": "Diferença de votos na vitória de Lula sobre Flávio dificulta anulação da eleição",
-   "resumo": "Anulação da eleição depende de demonstração de prejuízo para Flávio Bolsonaro maior que os 4,4 milhões de votos que Lula obteve a mais.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/diferenca-de-votos-na-vitoria-de-lula-sobre-flavio-dificulta-anulacao-da-eleicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25230827/eleicao-derrota-flavio-lula-anulacao-stf-tse-960x540.jpg",
-   "data": "2026-10-25T23:21:59-03:00"
-  },
-  {
-   "id": "4101d2257776",
-   "titulo": "Após eleição, Fachin defende respeito ao resultado das urnas e “diálogo entre Poderes”",
-   "resumo": "Presidente do STF defende respeito ao resultado das urnas, diálogo institucional e atuação dos Poderes dentro dos limites da Constituição.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/stf-fachin-defende-respeito-resultado-urnas-dialogo-entre-poderes-eleicoes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25231022/fachin-eleicoes-960x540.jpg",
-   "data": "2026-10-25T23:18:57-03:00"
-  },
-  {
-   "id": "791f0a2167a5",
-   "titulo": "Flávio Bolsonaro supera Lula no Paraná com 62,6% dos votos válidos",
-   "resumo": "Com 99,9% da apuração concluída, Flávio soma 4,2 milhões de votos no Paraná, enquanto Lula registra 2,5 milhões. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/flavio-bolsonaro-supera-lula-no-parana-com-626-dos-votos-validos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25231616/55604047406_831cb1e4f6_6k-960x540.jpg",
-   "data": "2026-10-25T23:17:26-03:00"
-  },
-  {
-   "id": "f7e1629f04e1",
-   "titulo": "Lula ironiza adversário: ‘Bolsonaro só perde, porra’",
-   "resumo": "Ao discursar na noite deste domingo, 25, o presidente reeleito , Luiz Inácio Lula da Silva (PT), decidiu ironizar o seu adversário no segundo turno, o senador Flávio Bolsonaro (PL). \"Bolsonaro só perde, porra\", disse o petista. O discurso o…",
-   "link": "https://revistaoeste.com/politica/lula-ironiza-adversario-bolsonaro-so-perde-porra/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-discurso-reeleicao-2.jpg",
-   "data": "2026-10-25T23:06:09-03:00"
-  },
-  {
-   "id": "ff97eb37af76",
-   "titulo": "Nunes Marques diz que prorrogação da votação poderia ter comprometido “toda a eleição”",
-   "resumo": "Presidente do TSE afirma que liminar após as 17h provocou dificuldades técnicas e exigiu bloqueio de boletins de urna durante a apuração.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/nunes-marques-prorrogacao-votacao-comprometer-toda-eleicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25223714/nunes-marques-tse-3-960x540.jpg",
-   "data": "2026-10-25T22:59:17-03:00"
-  },
-  {
-   "id": "1ddf866eb6bc",
-   "titulo": "Motta e Alcolumbre reconhecem vitória de Lula e elogiam TSE",
-   "resumo": "Os presidentes da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), reconheceram neste domingo, 25, a vitória de Lula da Silva (PT) na eleição presidencial. Os dois participaram de uma entrevista c…",
-   "link": "https://revistaoeste.com/politica/motta-e-alcolumbre-reconhecem-vitoria-de-lula-e-elogiam-tse/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/alcolumbre_motta_lula.jpeg",
-   "data": "2026-10-25T22:58:52-03:00"
-  },
-  {
-   "id": "d9ae76af089a",
-   "titulo": "Lula reforça intenção de regular redes sociais e critica big techs após vitória",
-   "resumo": "Segundo Lula, as plataformas digitais tentaram interferir no resultado eleitoral e precisam responder por crimes cometidos na internet.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-reforca-intencao-de-regular-redes-sociais-e-critica-big-techs-apos-vitoria/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25232538/Design-sem-nome-21-960x540.jpg",
-   "data": "2026-10-25T22:56:57-03:00"
   },
   {
    "id": "17750069b86d",
@@ -371,15 +605,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-25T225319.691.png",
    "data": "2026-10-25T22:54:26-03:00"
-  },
-  {
-   "id": "f9456ea55f6b",
-   "titulo": "Nunes Marques critica decisão de Zanin de prorrogar votação e alerta para ‘hiperjudicialização’",
-   "resumo": "O presidente do Tribunal Superior Eleitoral (TSE) , ministro Kassio Nunes Marques, encerrou oficialmente o segundo turno das eleições 2026 neste domingo, 25, com um discurso em que confirmou a reeleição do presidente Luiz Inácio Lula da Sil…",
-   "link": "https://revistaoeste.com/politica/nunes-marques-critica-decisao-de-zanin-de-prorrogar-votacao-e-alerta-para-hiperjudicializacao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/nunes-marques.jpg",
-   "data": "2026-10-25T22:50:34-03:00"
   },
   {
    "id": "c7ede4d375e9",
@@ -427,15 +652,6 @@
    "data": "2026-10-25T22:36:20-03:00"
   },
   {
-   "id": "a9c0e2082082",
-   "titulo": "Lula promete regular redes e chama Flávio de “representante do milicianismo”",
-   "resumo": "Em primeiro discurso após a reeleição, o presidente Lula (PT) agradeceu neste domingo, 25, aos eleitores que foram às urnas e contribuíram para sua vitória sobre o senador Flávio Bolsonaro (PL) no segundo turno. O petista destacou a partici…",
-   "link": "https://oantagonista.com.br/brasil/lula-promete-regular-redes-e-chama-flavio-de-representante-do-milicianismo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-tela-2026-10-25-221443-1.png",
-   "data": "2026-10-25T22:35:43-03:00"
-  },
-  {
    "id": "0cccd9b716fb",
    "titulo": "“Parece um pesadelo”: aliados de Flávio lamentam resultado, mas veem chance no Congresso",
    "resumo": "Sanderson fala em “destruição” e perseguições, enquanto Salles classifica administração PT como incompetente. Leia na Gazeta do Povo.",
@@ -454,24 +670,6 @@
    "data": "2026-10-25T22:30:00-03:00"
   },
   {
-   "id": "a1317c1ca7a5",
-   "titulo": "“Pela segunda vez, salvou a democracia brasileira”, diz Alckmin a Lula",
-   "resumo": "O vice-presidente Geraldo Alckmin (PSB) afirmou neste domingo, 25, durante a celebração da vitória de Lula (PT), que o presidente “pela segunda vez” salvou a democracia brasileira. Em discurso ao lado do petista, Alckmin também agradeceu ao…",
-   "link": "https://oantagonista.com.br/brasil/pela-segunda-vez-salvou-a-democracia-brasileira-diz-alckmin-a-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/3edeb863-dc17-4056-85cc-bb34891081f2.jpg",
-   "data": "2026-10-25T22:25:37-03:00"
-  },
-  {
-   "id": "e70708654f88",
-   "titulo": "Em pronunciamento, Kassio chama prorrogação da votação de “inusitada”",
-   "resumo": "Em pronunciamento após a definição do resultado das eleições neste domingo, 25, o presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou que a prorrogação do horário de votação foi uma situação “inusitada” na históri…",
-   "link": "https://oantagonista.com.br/brasil/em-pronunciamento-kassio-chama-prorrogacao-da-votacao-de-inusitada/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-2026-10-25T222334.348.png",
-   "data": "2026-10-25T22:24:31-03:00"
-  },
-  {
    "id": "266d2df90b41",
    "titulo": "Com reeleição de Lula, Tarcísio sai como grande \"vencedor\" da direita",
    "resumo": "Após o clã Bolsonaro perder mais uma eleição para Lula, Tarcísio, reeleito governador, se torna o candidato natural da direita em 2030",
@@ -479,15 +677,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/design-sem-nome-2026-10-21t152929-112.png",
    "data": "2026-10-25T22:21:50-03:00"
-  },
-  {
-   "id": "e0eaa39614af",
-   "titulo": "Taxa de abstenção cai a 19,22% no segundo turno",
-   "resumo": "A taxa de abstenção no segundo turno das eleições caiu a 19,22%. O percentual corresponde a 30,5 milhões de pessoas que não foram votar neste domingo, 25. Esse é o menor nível de abstenção desde o pleito de 2006, quando a taxa foi de 18,99%…",
-   "link": "https://oantagonista.com.br/brasil/taxa-de-abstencao-cai-a-1922-no-segundo-turno/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/pzzb8876.jpg",
-   "data": "2026-10-25T22:20:32-03:00"
   },
   {
    "id": "ddb91938426b",
@@ -499,24 +688,6 @@
    "data": "2026-10-25T22:06:38-03:00"
   },
   {
-   "id": "e4c8bfa89c40",
-   "titulo": "“Maior exército democrático do mundo venceu”, diz Guimarães",
-   "resumo": "O ministro-chefe da Secretaria de Relações Institucionais, José Guimarães, celebrou neste domingo, 25, a reeleição de Lula (PT) e atribuiu o resultado à mobilização popular no segundo turno. Em publicação no X, também elogiou o deputado fed…",
-   "link": "https://oantagonista.com.br/brasil/maior-exercito-democratico-do-mundo-venceu-diz-guimaraes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55207603068_05ace39a70_k.jpg",
-   "data": "2026-10-25T21:58:36-03:00"
-  },
-  {
-   "id": "1e39b3793cc3",
-   "titulo": "“Que Deus tenha misericórdia do Brasil”, diz Sóstenes após vitória de Lula",
-   "resumo": "O líder do PL na Câmara dos Deputados, Sóstenes Cavalcante (RJ), reagiu neste domingo, 25, à vitória de Lula (PT) no segundo turno com uma mensagem curta nas redes sociais. “Que Deus tenha misericórdia do Brasil…”, escreveu o deputado após …",
-   "link": "https://oantagonista.com.br/brasil/que-deus-tenha-misericordia-do-brasil-diz-sostenes-apos-vitoria-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/12/img20251209121327917.jpg",
-   "data": "2026-10-25T21:53:40-03:00"
-  },
-  {
    "id": "57662cb4a12f",
    "titulo": "Esquerda fala em manter mobilização nas ruas mesmo com vitória de Lula",
    "resumo": "Após vitória de virada de Lula, lideranças de esquerda falam em manter mobilização na rua para intimidar contestação do resultado",
@@ -524,15 +695,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/paulista-lotada-ato-lula-24-outubro-2.jpg",
    "data": "2026-10-25T21:52:35-03:00"
-  },
-  {
-   "id": "60b523f062f1",
-   "titulo": "“Eu sei ler os sinais que as redes emitem”, diz Janones após vitória de Lula",
-   "resumo": "O deputado federal André Janones (Rede-MG) afirmou neste domingo, 25, após a vitória do presidente Lula (PT) no segundo turno, que soube interpretar os sinais das redes sociais ao longo da campanha. Em publicação no X, ele também provocou q…",
-   "link": "https://oantagonista.com.br/brasil/eu-sei-ler-os-sinais-que-as-redes-emitem-diz-janones-apos-vitoria-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Andre-Janones.jpg",
-   "data": "2026-10-25T21:50:21-03:00"
   },
   {
    "id": "fd6c755eb720",
@@ -544,24 +706,6 @@
    "data": "2026-10-25T21:49:18-03:00"
   },
   {
-   "id": "97c2f64ccb40",
-   "titulo": "Eleições 2026: veja o mapa dos governadores eleitos no 1º e 2º turno",
-   "resumo": "Mapa mostra quais governadores foram eleitos no 1º e 2º turno nas eleições de 2026. Saiba mais na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/mapa-governadores-eleitos-1o-2o-turno-eleicoes-2026/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25193425/eleicoes-2026-abres-materias-infosgovernadores-eleitos-todos-960x540.jpg",
-   "data": "2026-10-25T21:43:16-03:00"
-  },
-  {
-   "id": "e28a521a9d7c",
-   "titulo": "Derrota e inquéritos pressionam futuro de Flávio; irmão sugeriu que ele deixe o país",
-   "resumo": "Derrota acende o alerta sobre situação jurídica de Flávio Bolsonaro, que perderá imunidade parlamentar em 2027. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/derrota-e-inqueritos-pressionam-futuro-de-flavio-irmao-sugeriu-que-ele-deixe-o-pais/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/24205321/flavio-bolsonaro-4-960x540.jpg",
-   "data": "2026-10-25T21:42:38-03:00"
-  },
-  {
    "id": "6a6874f29d9e",
    "titulo": "Prorrogação da votação teve baixa procura e frustração de eleitores",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/prorrogacao-da-votacao-teve-baixa-procura-e-frustracao-de-eleitores\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -569,15 +713,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-25T21:38:00-03:00"
-  },
-  {
-   "id": "76fc89c24de2",
-   "titulo": "Lula vira votação com anúncios eleitoreiros e militância na rua",
-   "resumo": "Vitória final de Lula é conquistada depois de ele perder o 1º turno, apostar em pacote de medidas e rua mobilizada. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-vira-votacao-com-anuncios-eleitoreiros-militancia-na-rua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/22203726/lula-vitoria-segundo-turno-960x540.jpg",
-   "data": "2026-10-25T21:17:24-03:00"
   },
   {
    "id": "483d9f79b84a",
@@ -607,15 +742,6 @@
    "data": "2026-10-25T21:10:10-03:00"
   },
   {
-   "id": "fcce4d1bee03",
-   "titulo": "Lorenzo Pazolini vence o segundo turno e vai governar o Espírito Santo",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lorenzo-pazolini-vence-o-segundo-turno-e-vai-governar-o-espirito-santo",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-25T20:59:00-03:00"
-  },
-  {
    "id": "7c11bbb395f4",
    "titulo": "Ministro da Secom projeta vitória de Lula",
    "resumo": "Titular da Secom disse à coluna que petista “virou” a disputa contra Flávio Bolsonaro e demonstrou confiança no resultado",
@@ -641,33 +767,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/onibus-em-salvador.jpg",
    "data": "2026-10-25T15:04:31-03:00"
-  },
-  {
-   "id": "09014f4eb362",
-   "titulo": "Prefeito defende secretário alvo do TRE e diz que ele volta de Paris na 2ª",
-   "resumo": "À coluna, prefeito de Salvador disse que secretário que teve prisão decretada está na França a convite de Emmanuel Macron e volta na segunda",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/prefeito-defende-secretario-alvo-do-tre-e-diz-que-ele-volta-de-paris-na-2a",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2024/10/03185306/bruno-reis-prefeito-salvador.jpg",
-   "data": "2026-10-25T14:35:36-03:00"
-  },
-  {
-   "id": "c89a9e0f29df",
-   "titulo": "Campanha de Lula aposta em crescimento de votos no Nordeste com mobilização",
-   "resumo": "Governadores do Nordeste aliados de Lula reforçam transporte gratuito para facilitar deslocamento de eleitores até seus locais de votação",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/campanha-de-lula-aposta-em-crescimento-de-votos-no-nordeste-com-mobilizacao",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-5-1.jpg",
-   "data": "2026-10-25T06:00:28-03:00"
-  },
-  {
-   "id": "72d728700353",
-   "titulo": "Lula passa o chapéu no PT e arrecada mais de R$ 100 mil com aliados",
-   "resumo": "No segundo turno das eleições, Lula conseguiu arrecadar ao menos R$ 111,5 mil com doações de dirigentes, ex-ministros e outros aliados do PT",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-passa-o-chapeu-no-pt-e-arrecada-mais-de-r-100-mil-com-aliados",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/04/lula-2-1.jpg",
-   "data": "2026-10-25T05:00:41-03:00"
   }
  ]
 }
