@@ -1,115 +1,574 @@
 {
- "atualizado": "2026-10-27T07:27:01.718407-03:00",
- "total": 85,
+ "atualizado": "2026-10-27T13:29:07.880102-03:00",
+ "total": 89,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "f90cd1cf34f3",
-   "titulo": "Reação do mercado à vitória de Lula é a pior em 6 eleições",
-   "resumo": "A reeleição de Luiz Inácio Lula da Silva, no domingo 25, provocou uma forte reação do mercado financeiro. No primeiro pregão depois do resultado, nesta segunda-feira, 26, o Ibovespa recuou 13,88%, para 176.608 pontos. O dólar comercial subi…",
-   "link": "https://revistaoeste.com/politica/reacao-do-mercado-a-vitoria-de-lula-e-a-pior-em-6-eleicoes/",
+   "id": "2d135dca6cad",
+   "titulo": "Governo argentino nega que Flávio Bolsonaro tenha pedido asilo",
+   "resumo": "Porta-voz de Milei afirma que não há registro de entrada do senador, que descumpriu ordem do STF para entregar passaportes e segue sumido",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/governo-argentino-nega-que-flavio-bolsonaro-tenha-pedido-asilo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T13:24:26-03:00"
+  },
+  {
+   "id": "f87326b2e3ef",
+   "titulo": "Governo Milei diz que não vai se manifestar sobre vitória de Lula",
+   "resumo": "Porta-voz declarou que brasileiro não cumprimentou o argentino quando ele foi eleito, em novembro de 2023",
+   "link": "https://www.poder360.com.br/poder-internacional/governo-milei-diz-que-nao-vai-se-manifestar-sobre-vitoria-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/lula-milei-nov-2023.png",
+   "data": "2026-10-27T13:21:16-03:00"
+  },
+  {
+   "id": "97555516a8f1",
+   "titulo": "BC prepara mais regras contra superendividamento até o fim de 2026",
+   "resumo": "Relatório aponta que só 7,6% do consignado privado foi usado para trocar dívida cara; 20,3 milhões de devedores estão em risco",
+   "link": "https://www.poder360.com.br/poder-economia/bc-prepara-mais-regras-contra-superendividamento-ate-o-fim-de-2026/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T13:08:24-03:00"
+  },
+  {
+   "id": "477c595d5ffd",
+   "titulo": "Flávio descumpre ordem de Moraes e não entrega passaportes à PF",
+   "resumo": "Site \"Infobae\", da Argentina, diz que o senador cruzou a fronteira nesta 3ª feira (27.out) para pegar avião rumo aos EUA",
+   "link": "https://www.poder360.com.br/poder-justica/flavio-descumpre-ordem-de-moraes-e-nao-entrega-passaportes-a-pf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T12:56:36-03:00"
+  },
+  {
+   "id": "6b0e813a7bb7",
+   "titulo": "Ministro de Portos e Aeroportos defende manutenção do órgão em novo governo",
+   "resumo": "Tomé Franca afirma que pasta ganhou \"tamanho importante\" e que separação do Ministério dos Transportes foi bem-sucedida",
+   "link": "https://www.poder360.com.br/poder-governo/ministro-de-portos-e-aeroportos-defende-manutencao-do-orgao-em-novo-governo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T12:55:21-03:00"
+  },
+  {
+   "id": "93d53e29fd0a",
+   "titulo": "Flávio não entrega passaportes à PF depois de ordem de Moraes",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) não havia entregado seus passaportes à Polícia Federal (PF) até a manhã desta terça-feira, 27, depois de ser intimado a apresentar os documentos, por determinação do ministro Alexandre de Moraes , do Supre…",
+   "link": "https://revistaoeste.com/politica/flavio-nao-entrega-passaportes-a-pf-depois-de-ordem-de-moraes/",
    "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-1.jpg",
-   "data": "2026-10-27T07:10:34-03:00"
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio_debate.jpeg",
+   "data": "2026-10-27T12:52:05-03:00"
   },
   {
-   "id": "08051613264b",
-   "titulo": "José Antonio Kast irá à posse de Lula, diz governo chileno",
-   "resumo": "Presidente do Chile reconheceu vitória do petista e afirmou que trabalha por agenda comum entre os 2 países",
-   "link": "https://www.poder360.com.br/poder-internacional/jose-antonio-kast-ira-a-posse-de-lula-diz-governo-chileno/",
+   "id": "7563f52c0855",
+   "titulo": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/a…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-27T12:52:00-03:00"
+  },
+  {
+   "id": "c3b6a710f1b3",
+   "titulo": "Fux mantém veto às bets e convoca audiência pública",
+   "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF) , manteve válida a medida provisória (MP) do presidente Luiz Inácio Lula da Silva que proíbe o funcionamento das bets no Brasil. Em despacho desta segunda-feira, 26, o magistrado convoc…",
+   "link": "https://revistaoeste.com/politica/fux-mantem-veto-as-bets-e-convoca-audiencia-publica/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/11/Luiz-Fux.jpg",
+   "data": "2026-10-27T12:51:15-03:00"
+  },
+  {
+   "id": "27a5071c7943",
+   "titulo": "Governo Lula e PF acionam Argentina por possibilidade de Flávio deixar o Brasil",
+   "resumo": "Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/governo-lula-pf-acionam-argentina-risco-flavio-deixar-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27102923/flavio-bolsonaro-foto-andre-borges-efe-2-3-960x540.jpg",
+   "data": "2026-10-27T12:49:55-03:00"
+  },
+  {
+   "id": "9a7b24f7d802",
+   "titulo": "Moraes deve decretar prisão de Flávio em breve, apostam aliados do senador",
+   "resumo": "Aposta é de que ministro do STF Alexandre de Moraes decretará prisão preventiva de Flávio Bolsonaro após senador não entregar passaportes",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/moraes-deve-decretar-prisao-de-flavio-em-breve-apostam-aliados-do-senador",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-27-214629.jpg",
+   "data": "2026-10-27T12:41:44-03:00"
+  },
+  {
+   "id": "cecd71ce593a",
+   "titulo": "Argentina nega a entrada de Flávio Bolsonaro no país",
+   "resumo": "Órgão de imigração do governo de Javier Milei afirma não ter registro do senador do PL-RJ, contrariando notícias",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/argentina-nega-a-entrada-de-flavio-bolsonaro-no-pais/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/lideres-internacionais-parabenizam-lula-3.png",
-   "data": "2026-10-27T07:07:58-03:00"
+   "imagem": "",
+   "data": "2026-10-27T12:41:19-03:00"
   },
   {
-   "id": "6b387446294b",
-   "titulo": "Xi Jinping, da China, parabeniza Lula por reeleição e fala em 'relação mais proeminente' com Brasil",
+   "id": "6e6c0410e712",
+   "titulo": "PF cancela passaportes de Flávio",
+   "resumo": "A Polícia Federal (PF) cancelou nesta terça-feira, 27, a validade dos passaportes comum e diplomático do senador Flávio Bolsonaro (PL). O senador foi intimado na segunda, 26, a entregar seus passaportes e também impedido de deixar o país. E…",
+   "link": "https://oantagonista.com.br/brasil/pf-cancela-passaportes-de-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/0d7a1102.jpg-scaled.jpg",
+   "data": "2026-10-27T12:41:17-03:00"
+  },
+  {
+   "id": "3f27ca5f97b5",
+   "titulo": "Amazonas mantém tradição de votar no presidente eleito desde 1989",
+   "resumo": "Com a reeleição de Luiz Inácio Lula da Silva (PT) , o Amazonas manteve uma tradição registrada desde 1989: em todas as dez eleições presidenciais realizadas no período, o candidato mais votado no Estado também venceu a disputa nacional. O f…",
+   "link": "https://revistaoeste.com/politica/amazonas-mantem-tradicao-de-votar-no-presidente-eleito-desde-1989/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/bandeira-amazonas.jpg",
+   "data": "2026-10-27T12:40:29-03:00"
+  },
+  {
+   "id": "ba732fca720e",
+   "titulo": "Advogados confirmam que não localizaram Flávio para entregar passaportes e PF cancela documentos",
+   "resumo": "PF cancelou passaportes e alertou sistema global de monitoramento para a situação dos documentos do senador. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/advogados-confirmam-nao-localizaram-flavio-entregar-passaportes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27122141/flavio-bolsonaro-foto-antonio-lacerda-efe-1-960x540.jpg",
+   "data": "2026-10-27T12:36:21-03:00"
+  },
+  {
+   "id": "25d5318d12e2",
+   "titulo": "“Não esteve à altura de sua missão”, diz ex-juiz de Direito sobre Nunes Marques",
+   "resumo": "No programa Última Análise desta segunda-feira (26), os comentaristas falam de consequências da reeleição de Lula e articulação da direita.",
+   "link": "https://www.gazetadopovo.com.br/republica/nao-esteve-a-altura-diz-ex-juiz-de-direito-sobre-nunes-marques/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25223714/nunes-marques-tse-3-960x540.jpg",
+   "data": "2026-10-27T12:35:27-03:00"
+  },
+  {
+   "id": "30f1df3b1571",
+   "titulo": "Argentina nega que Flávio tenha entrado no país ou pedido asilo",
+   "resumo": "Governo Milei negou reportagem que apontou que Flávio teria entrado na Argentina para seguir rumo aos EUA. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/mundo/argentina-nega-flavio-tenha-entrado-pais-pedido-asilo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25230827/eleicao-derrota-flavio-lula-anulacao-stf-tse-960x540.jpg",
+   "data": "2026-10-27T12:34:31-03:00"
+  },
+  {
+   "id": "4eaf2646eb56",
+   "titulo": "Nikolas Ferreira sai das urnas cotado para Presidência e com “bancada própria” no Congresso",
+   "resumo": "Deputado recordista de votos, Nikolas Ferreira é cotado como futuro candidato a presidente, mas esbarra na idade. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/nikolas-ferreira-cotado-presidente-republica/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/26231354/Nikolas-futuro-candidato-presidente-960x540.jpg",
+   "data": "2026-10-27T12:24:45-03:00"
+  },
+  {
+   "id": "ced1d1bb8028",
+   "titulo": "Reginaldo Lopes quer mudar PEC do passe livre no transporte público",
+   "resumo": "O deputado federal Reginaldo Lopes (PT-MG) afirmou que pretende apresentar uma emenda à proposta de emenda à Constituição que prevê passe livre no transporte público aos fins de semana e feriados. Até o momento, porém, não há confirmação de…",
+   "link": "https://oantagonista.com.br/brasil/reginaldo-lopes-quer-mudar-pec-do-passe-livre-no-transporte-publico/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2022/07/img20220705150507734-scaled.jpg",
+   "data": "2026-10-27T12:18:09-03:00"
+  },
+  {
+   "id": "1e2d6cea2cbe",
+   "titulo": "“Onde está Flávio?” e “Flávio fugiu” têm pico nas buscas no Google",
+   "resumo": "Pesquisas disparam após site argentino relatar possível saída do senador do Brasil; paradeiro do candidato derrotado no 2º turno é desconhecido",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/onde-esta-flavio-e-flavio-fugiu-tem-pico-nas-buscas-no-google/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/flavio-fugiu-buscas-google-1-41.png",
+   "data": "2026-10-27T12:12:14-03:00"
+  },
+  {
+   "id": "4c3329f3ab34",
+   "titulo": "Urnas mostraram que Brasil quer segurança institucional, diz ministro",
+   "resumo": "Tomé Franca (Portos e Aeroportos) afirmou que Lula representa diálogo com o mundo e que país quer gestores com credibilidade",
+   "link": "https://www.poder360.com.br/poder-governo/urnas-mostraram-que-brasil-quer-seguranca-institucional-diz-ministro/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T12:10:08-03:00"
+  },
+  {
+   "id": "3628f90acea6",
+   "titulo": "Fazenda prepara projeto para perseguir centro da meta fiscal, diz Durigan",
+   "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira, 27, que o governo prepara novas medidas para perseguir o centro da meta fiscal e ampliar a capacidade de contingenciamento de despesas. Segundo ele, a proposta será encaminhad…",
+   "link": "https://oantagonista.com.br/brasil/fazenda-prepara-projeto-para-perseguir-centro-da-meta-fiscal-diz-durigan/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/dario-durigan-1.jpg",
+   "data": "2026-10-27T12:08:49-03:00"
+  },
+  {
+   "id": "86eedaebafa8",
+   "titulo": "Vendedores de lojas da Adidas e Cacau Show comemoram vitória de Lula",
+   "resumo": "Vídeo gravado no Manauara Shopping mostra funcionários celebrando a reeleição do petista no domingo (25.out)",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/vendedores-de-lojas-da-adidas-e-cacau-show-comemoram-vitoria-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-27T12:07:46-03:00"
+  },
+  {
+   "id": "0c5e2ce72acf",
+   "titulo": "Como a vitória de Lula comprometeu as perspectivas econômicas para o Brasil",
+   "resumo": "Reeleição de Lula derrubou bolsa, fez dólar e juros futuros dispararem e interrompeu melhora das expectativas após primeiro turno.",
+   "link": "https://www.gazetadopovo.com.br/economia/vitoria-lula-perspectivas-economicas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27115012/lula-perspectivas-economicas-960x540.jpg",
+   "data": "2026-10-27T12:05:22-03:00"
+  },
+  {
+   "id": "7ee9744e5a11",
+   "titulo": "Veja como foi o desempenho eleitoral de Lula nas capitais no 1º e no 2º turno e em comparação com 2022",
    "resumo": "",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/27/xi-jinping-da-china-parabeniza-lula-por-reeleicao.ghtml",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/lula-eleicao-desempenho-compare.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Tc7e2Z3ovwwoBonPiV7cqyZkES4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/0ShdjyTk2CEV7ls3BywA/whatsapp-image-2026-05-07-at-15.21.15.jpeg",
-   "data": "2026-10-27T06:52:30-03:00"
+   "imagem": "https://s2-g1.glbimg.com/g2khp9q8P1rJlyO3v11ewqVd6sg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/k/0sMLTIS3Wv8Av4y5G2GA/montagem-highlight-left-1280x720px.jpg",
+   "data": "2026-10-27T12:01:00-03:00"
   },
   {
-   "id": "150a7afdc2fa",
-   "titulo": "Governo fixa indenização mensal de R$ 17.562 a Dilma",
-   "resumo": "Portaria estabelece R$ 6,6 milhões em retroativos por perseguição durante a ditadura, com descontos de valores já recebidos",
-   "link": "https://www.poder360.com.br/poder-governo/governo-fixa-indenizacao-mensal-de-r-17-562-a-dilma/",
+   "id": "9457ada827e4",
+   "titulo": "Comissão da Câmara pedirá convocação de Roberta Luchsinger e diretor da PF",
+   "resumo": "Deputados da oposição querem esclarecimentos sobre relações da lobista e do diretor da PF com o governo Lula e o Banco Master. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/comissao-camara-convocacao-roberta-luchsinger-diretor-pf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20000620/Lula-Roberta-960x540.jpg",
+   "data": "2026-10-27T11:57:26-03:00"
+  },
+  {
+   "id": "b5b05cd0dcb4",
+   "titulo": "Governo Milei diz que não comentará vitória de Lula",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/27/governo-milei-diz-que-nao-comentara-vitoria-de-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
+   "data": "2026-10-27T11:57:00-03:00"
+  },
+  {
+   "id": "8ac170ce81a7",
+   "titulo": "Violência política: reta final das eleições tem denúncias de agressões pelo país; veja casos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/27/violencia-politica-reta-final-das-eleicoes-tem-denuncias-de-agressoes-pelo-pais-veja-casos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/zcqkpHziDToE0TrZIdNKlWDu5aQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/V/xQQnXXSlegnPe2jfF4qw/design-sem-nome-3-.png",
+   "data": "2026-10-27T11:55:57-03:00"
+  },
+  {
+   "id": "b682889a457a",
+   "titulo": "Flávio Bolsonaro descumpre prazo e não entrega passaporte à PF",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/27/flavio-bolsonaro-nao-entrega-passaporte-a-pf-e-descumpre-ordem-de-moraes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Uk2RglxRL-qGZbBuu__hZIMhgYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/4KdC9YRVSRg1jTfLkyGQ/2026-10-26t021129z-274404486-rc2paoad09nf-rtrmadp-3-brazil-election.jpg",
+   "data": "2026-10-27T11:55:44-03:00"
+  },
+  {
+   "id": "a51e79ac0914",
+   "titulo": "PF inicia nova ofensiva contra fundos de previdência que investiram bilhões no Master",
+   "resumo": "Investigadores focam em \"perigrinação\" de Vorcaro por estados e municípios e mapeiam ao menos R$ 4 bi em prejuízos. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/pf-inicia-nova-ofensiva-contra-fundos-de-previdencia-que-investiram-bilhoes-no-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27091303/ASPA-GRANDE-2026-10-27T091305.191-960x540.jpg",
+   "data": "2026-10-27T11:55:05-03:00"
+  },
+  {
+   "id": "dfb953c9760c",
+   "titulo": "Lindbergh desafia Flávio: “Grave um vídeo e prove que ainda está no Brasil”",
+   "resumo": "O deputado federal Lindbergh Farias (PT-RJ) desafiou nesta terça-feira, 27, o senador Flávio Bolsonaro (PL-RJ) a publicar imediatamente um vídeo para provar que permanece no Brasil. A cobrança ocorre enquanto a Polícia Federal (PF) verifica…",
+   "link": "https://oantagonista.com.br/brasil/lindbergh-desafia-flavio-grave-um-video-e-prove-que-ainda-esta-no-brasil/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55180591283_6b60bbf376_k.jpg",
+   "data": "2026-10-27T11:51:46-03:00"
+  },
+  {
+   "id": "d2f2ab2c7be0",
+   "titulo": "Paradeiro de Flávio é desconhecido após site relatar fuga do país",
+   "resumo": "De acordo com o \"Infobae\", da Argentina, o senador cruzou a fronteira para pegar um avião rumo aos Estados Unidos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/paradeiro-de-flavio-e-desconhecido-apos-site-relatar-fuga-do-pais/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-10-27T06:47:49-03:00"
+   "data": "2026-10-27T11:42:01-03:00"
   },
   {
-   "id": "09bf1f845cbc",
-   "titulo": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
-   "resumo": "Comissão de Indústria e Comércio vota o projeto de Lei complementar que altera o Marco Legal das Startups",
-   "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira-2/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T06:15:50-03:00"
+   "id": "e2eefab5be6b",
+   "titulo": "PT vai apoiar reeleição de Motta para ajudar na governabilidade de Lula",
+   "resumo": "O PT vai apoiar a reeleição do presidente da Câmara, Hugo Motta (Republicanos-PB), no próximo ano para ajudar na governabilidade do quarto mandato de Lula (PT). Deputados petistas ouvidos sob reserva por O Antagonista afirmam que a bancada …",
+   "link": "https://oantagonista.com.br/brasil/pt-vai-apoiar-reeleicao-de-motta-para-ajudar-na-governabilidade-de-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55265776871_1d111bdfd9_k.jpg",
+   "data": "2026-10-27T11:19:14-03:00"
   },
   {
-   "id": "376bf71a0452",
-   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-   "resumo": "Márcio Elias Rosa tem reuniões com representantes do Sinprifert e da Stellantis; Paulo Pereira dá entrevista",
-   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-13/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T06:15:43-03:00"
+   "id": "c6a56043b81b",
+   "titulo": "Ministério Público abre inquérito contra Pavanato por declarações sobre minorias",
+   "resumo": "O Ministério Público de São Paulo (MPSP) abriu inquérito para apurar suposta injúria e discriminação em declarações do deputado federal eleito Lucas Pavanato (PL-SP). Ele deu as declarações em entrevista à rádio Jovem Pan, em 6 de outubro. …",
+   "link": "https://revistaoeste.com/politica/ministerio-publico-abre-inquerito-contra-pavanato-por-declaracoes-sobre-minorias/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Pavanato.jpg",
+   "data": "2026-10-27T11:18:59-03:00"
   },
   {
-   "id": "27c2b09bcdca",
-   "titulo": "Restrição à prisão de eleitores termina nesta 3ª feira",
-   "resumo": "Código Eleitoral impede prisão de eleitores desde 5 dias antes do 2º turno; saiba as exceções da lei",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/restricao-a-prisao-de-eleitores-termina-nesta-3a-feira/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T06:00:58-03:00"
+   "id": "7d5a011dc57d",
+   "titulo": "Polícia Federal apura se Flávio deixou o Brasil rumo aos EUA",
+   "resumo": "A Polícia Federal (PF) investiga se o senador Flávio Bolsonaro (PL-RJ) deixou o Brasil para viajar aos Estados Unidos. A apuração começou depois de o site argentino Infobae publicar, nesta terça-feira, 27, que o parlamentar teria cruzado a …",
+   "link": "https://revistaoeste.com/politica/policia-federal-apura-se-flavio-deixou-o-brasil-rumo-aos-eua/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-7.jpg",
+   "data": "2026-10-27T11:17:35-03:00"
   },
   {
-   "id": "c7c70ec974c4",
-   "titulo": "Iniciativa privada é a única opção para Angra 3, diz setor nuclear",
-   "resumo": "Presidente da Associação de Atividades Nucleares defende conclusão da obra, uma das principais discussões do governo para Lula 4",
-   "link": "https://www.poder360.com.br/poder-energia/iniciativa-privada-e-a-unica-opcao-para-angra-3-diz-setor-nuclear/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/FLO9tateTAk/hqdefault.jpg",
-   "data": "2026-10-27T06:00:57-03:00"
+   "id": "8f052bb0f778",
+   "titulo": "Dino manda PF investigar suposto financiamento estrangeiro nas eleições",
+   "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal, determinou nesta terça-feira, 27, que a Polícia Federal apure suspeitas de interferência estrangeira nas eleições. Na decisão, o magistrado menciona a “intensificação dos indícios de inge…",
+   "link": "https://oantagonista.com.br/brasil/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-nas-eleicoes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530238541_4dec3839db_5k-scaled.jpg",
+   "data": "2026-10-27T11:16:08-03:00"
   },
   {
-   "id": "2d1589c10fc6",
-   "titulo": "Brasil precisará de energia nuclear para data centers, diz setor",
-   "resumo": "Presidente da Associação de Atividades Nucleares defende que fonte é a melhor forma de assegurar fornecimento nos centros de processamento",
-   "link": "https://www.poder360.com.br/poder-energia/brasil-precisara-de-energia-nuclear-para-data-centers-diz-setor/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/FLO9tateTAk/hqdefault.jpg",
-   "data": "2026-10-27T06:00:55-03:00"
+   "id": "57b67dc98ed6",
+   "titulo": "Ministério da Gestão diz que ainda não está definido se haverá CNU em 2027; decisão dependerá do Orçamento",
+   "resumo": "",
+   "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/27/ministerio-da-gestao-ainda-nao-sabe-se-havera-cpnu-em-2027-decisao-depende-do-orcamento.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/UI0Uw6_Cw3VQPQ1vg09MHOH-tKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/t/B/h8nPdcT3mw4Os6ykNuVQ/age20240818048.jpg",
+   "data": "2026-10-27T11:03:19-03:00"
   },
   {
-   "id": "b1871d08459c",
-   "titulo": "Saiba quais indicadores e balanços saem nesta 3ª feira",
-   "resumo": "São divulgados indicadores de estabilidade financeira, do setor da construção, além da publicação de balanços financeiros do 3º trimestre",
-   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-3a-feira-10/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/indicadores.png",
-   "data": "2026-10-27T06:00:46-03:00"
+   "id": "b9998e41c9d7",
+   "titulo": "Dino manda PF investigar suposto financiamento estrangeiro à campanha de Flávio",
+   "resumo": "Ministro acolheu argumentos do PT e Renan Santos e incluiu plataformas em novo inquérito. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/dino-manda-pf-investigar-suposto-financiamento-estrangeiro-a-campanha-de-flavio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27105755/ASPA-GRANDE-2026-10-27T105753.135-960x540.jpg",
+   "data": "2026-10-27T11:02:09-03:00"
   },
   {
-   "id": "2970d1dc4e08",
-   "titulo": "Aos 81 anos, Lula quer mostrar vigor e se aproximar dos jovens",
-   "resumo": "Lula foi reeleito com 51,79% dos votos em uma virada nunca antes vista; parte do sucesso se dá à intensificação da presença nas redes sociais",
-   "link": "https://www.poder360.com.br/poder-governo/aos-81-anos-lula-quer-mostrar-vigor-e-se-aproximar-dos-jovens/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/GUVXzW9zC90/hqdefault.jpg",
-   "data": "2026-10-27T06:00:45-03:00"
+   "id": "6ac0b5731e38",
+   "titulo": "PF apura se Flávio Bolsonaro deixou o Brasil pela fronteira com a Argentina",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/27/pf-flavio-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/juXDboYoRo0E8X466Xu7unU0Yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/0npTVKRMAAfhORz98zMQ/2026-10-26t022137z-995936666-rc2paoaxw1yt-rtrmadp-3-brazil-election.jpg",
+   "data": "2026-10-27T11:00:49-03:00"
   },
   {
-   "id": "3648a0a6bd96",
-   "titulo": "Tracking PoderData mostrou Lula e Flávio empatados na reta final",
-   "resumo": "Pesquisa diária teve os 2 candidatos empatados numericamente ou na margem de erro até véspera da eleição e muito próximos ao resultado final",
-   "link": "https://www.poder360.com.br/poder-pesquisas/tracking-poderdata-mostrou-lula-e-flavio-empatados-na-reta-final/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/tracking-poderdata-25out2026.png",
-   "data": "2026-10-27T06:00:35-03:00"
+   "id": "5fd074104f6b",
+   "titulo": "Crusoé: Deputada eleita orienta demissão de funcionários petistas",
+   "resumo": "Deputada estadual eleita no Paraná com 131.673 votos, a vereadora de Londrina Jéssica Ramos Moreno (PL, foto), a Jessicão, orientou no X a demissão de funcionários petistas. “Você tem uma empregada que é petista? DEMITA! Tem um funcionário …",
+   "link": "https://oantagonista.com.br/brasil/crusoe-deputada-eleita-orienta-demissao-de-funcionarios-petistas/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Jessicao-e-Flavio.jpg",
+   "data": "2026-10-27T10:50:24-03:00"
+  },
+  {
+   "id": "58c62fa4585b",
+   "titulo": "PT ocupa mais uma cadeira no Senado com eleição de Omar Aziz",
+   "resumo": "A eleição do senador Omar Aziz (PSD-AM) para o governo do Amazonas dará ao Partido dos Trabalhadores (PT) mais uma cadeira no Senado Federal a partir de 2027. Com a saída de Aziz para assumir o Executivo estadual, sua primeira suplente, Che…",
+   "link": "https://revistaoeste.com/politica/pt-ocupa-mais-uma-cadeira-no-senado-com-eleicao-de-omar-aziz/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/feira-livre-96.jpg",
+   "data": "2026-10-27T10:48:37-03:00"
+  },
+  {
+   "id": "9142694bc2d3",
+   "titulo": "Sites de radar mostram avião que levaria Flávio aos EUA parado na Argentina",
+   "resumo": "Avião que Flávio supostamente usaria para viajar aos EUA está parado em cidade da Argentina que faz fronteira com Brasil, segundo radares",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/suposto-aviao-que-levaria-flavio-esta-na-fronteira-mas-nao-decolou-aos-eua",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-debate-band-3.jpg",
+   "data": "2026-10-27T10:30:49-03:00"
+  },
+  {
+   "id": "c426425ddb4c",
+   "titulo": "Dino manda apurar suposto financiamento estrangeiro à campanha de Flávio",
+   "resumo": "Nesta terça-feira, 27, o ministro Flávio Dino, do Supremo Tribunal Federal (STF) , determinou que a Polícia Federal (PF) abra um inquérito para investigar suposto financiamento estrangeiro à campanha do senador Flávio Bolsonaro (PL-RJ). A d…",
+   "link": "https://revistaoeste.com/politica/dino-manda-pf-abrir-inquerito-sobre-suposto-financiamento-estrangeiro-a-campanha-de-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/02/Flavio-Dino-Lula.jpg",
+   "data": "2026-10-27T10:29:47-03:00"
+  },
+  {
+   "id": "10ebc95c5429",
+   "titulo": "'Imposto do pecado': governo deve enviar regras ao Congresso nesta semana, diz Durigan",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-diz-que-deve-enviar-nesta-semana-projeto-do-imposto-do-pecado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ChUmYO_MvMRlZI6N3oI7nA6AFCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/D8DofCRniIHB6Nti0XIg/55371248682-dc417a1a3e-k.jpg",
+   "data": "2026-10-27T10:29:40-03:00"
+  },
+  {
+   "id": "3434f12fcd05",
+   "titulo": "Justiça italiana adia audiência sobre extradição de Carla Zambelli",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/27/justica-italiana-faz-nova-audiencia-sobre-extradicao-de-carla-zambelli.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/eZAgfSGLqLfoz0peRWeJQXZqLhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/8/0Nw6aEQWAYXwgMgUnHHA/enq20230807021.jpg",
+   "data": "2026-10-27T10:28:28-03:00"
+  },
+  {
+   "id": "69a4cc370365",
+   "titulo": "Ala da PF avalia pedir a Moraes prisão preventiva de Flávio Bolsonaro",
+   "resumo": "Uma ala da Polícia Federal (PF) avalia pedir a prisão preventiva do senador Flávio Bolsonaro (PL) após o site argentino Infobae, o maior de notícias da Argentina, informar que o parlamentar teria fugido rumo aos Estados Unidos e diante da p…",
+   "link": "https://oantagonista.com.br/brasil/ala-da-pf-avalia-pedir-prisao-preventiva-de-flavio-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/enhance_upscale_image_01.png",
+   "data": "2026-10-27T10:18:25-03:00"
+  },
+  {
+   "id": "5be468ef6e62",
+   "titulo": "Líder chavista manda recado a María Corina após retorno e diz que Lula venceu “fascismo”",
+   "resumo": "Diosdado Cabello, ministro da Justiça da Venezuela, alfinetou a vencedora do Nobel da Paz de 2025 e comemorou vitória de Lula",
+   "link": "https://www.gazetadopovo.com.br/mundo/lider-chavista-manda-recado-maria-corina-apos-retorno-diz-lula-venceu-fascismo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27101441/venezuela.recado-960x540.jpg",
+   "data": "2026-10-27T10:15:27-03:00"
+  },
+  {
+   "id": "db44b2bdf51f",
+   "titulo": "Empresários aliados de Lula defendem que ele próprio faça acenos na área fiscal para tranquilizar o mercado financeiro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/27/empresarios-aliados-de-lula-defendem-que-ele-proprio-faca-acenos-na-area-fiscal-para-tranquilizar-o-mercado-financeiro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/lgd_W3CaQXkJKjdDCQHheTRH6dE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/H/onfsHnRcuXPRkoWQPEQw/55612373316-a3cb77e3cf-k.jpg",
+   "data": "2026-10-27T10:12:05-03:00"
+  },
+  {
+   "id": "f3e50376fa85",
+   "titulo": "Controle de imigração da Argentina diz que não tem registro da entrada de Flávio Bolsonaro no país",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/27/controle-de-imigracao-da-argentina-diz-que-nao-tem-registro-da-entrada-de-flavio-bolsonaro-no-pais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/juXDboYoRo0E8X466Xu7unU0Yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/0npTVKRMAAfhORz98zMQ/2026-10-26t022137z-995936666-rc2paoaxw1yt-rtrmadp-3-brazil-election.jpg",
+   "data": "2026-10-27T10:07:56-03:00"
+  },
+  {
+   "id": "5758d2a9d5c8",
+   "titulo": "Dino manda PF investigar suposto financiamento estrangeiro na campanha de Flávio Bolsonaro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/27/flavio-dino-determinaapuracao-sobre-possivel-interferencia-estrangeira-nas-eleicoes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/KC4qwCvEErqZUoEVcZLM72Ls3Ps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/79yCu2RACqJOM0RUeJBA/ministro-do-stf-flavio-dino.jpg",
+   "data": "2026-10-27T10:06:09-03:00"
+  },
+  {
+   "id": "59ca709af445",
+   "titulo": "Durigan anuncia projeto para cumprir centro da meta fiscal e pede 'racionalidade' do mercado",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ChvJldDk0ZWpc6fWlti1Z22nqhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/tzvofAQwiA20TOJ40rPQ/2026-06-25t044420z-1057932595-rc2q0ma2y8ua-rtrmadp-3-china-brazil.jpg",
+   "data": "2026-10-27T10:03:39-03:00"
+  },
+  {
+   "id": "ab1c6140e638",
+   "titulo": "Aliados e advogados tentam falar com Flávio, mas não conseguem contato",
+   "resumo": "Após notícias de que Flávio Bolsonaro teria fugido para a Argentina, aliados tentam contato com o senador, mas não conseguem",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/aliados-e-advogados-tentam-falar-com-flavio-mas-nao-conseguem-contato",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-6.jpeg",
+   "data": "2026-10-27T09:44:11-03:00"
+  },
+  {
+   "id": "f0580c51e65c",
+   "titulo": "PF apura se Flávio Bolsonaro fugiu do Brasil",
+   "resumo": "A Polícia Federal (PF) apura se Flávio Bolsonaro (PL, foto) fugiu do Brasil. O portal Infobae publicou nesta terça-feira, 27, que o candidato do PL à Presidência teria deixado o país rumo aos Estados Unidos e embarcado em um jato privado em…",
+   "link": "https://oantagonista.com.br/brasil/pf-apura-se-flavio-bolsonaro-fugiu-do-brasil/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/flavio-3.jpg",
+   "data": "2026-10-27T09:28:59-03:00"
+  },
+  {
+   "id": "aede007badfe",
+   "titulo": "PF mira deputado Marcelo Queiroz em operação sobre contratos de R$ 200 mi",
+   "resumo": "A Polícia Federal (PF) realizou nesta terça-feira, 27, a segunda fase da Operação Castratio, que voltou a mirar o deputado federal Marcelo Queiroz (PSDB). A investigação apura suspeitas de fraude em licitações de R$ 200 milhões para castraç…",
+   "link": "https://revistaoeste.com/politica/pf-mira-deputado-marcelo-queiroz-em-operacao-sobre-contratos-de-r-200-mi/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/marcelo-queiroz.jpg",
+   "data": "2026-10-27T09:13:57-03:00"
+  },
+  {
+   "id": "8367d16f9788",
+   "titulo": "Na berlinda por protestos violentos, esquerda da França tenta “colar” em Lula para vencer Le Pen",
+   "resumo": "Esquerda da França tenta usar a reeleição de Luiz Inácio Lula da Silva (PT) no Brasil como estratégia para sair das cordas",
+   "link": "https://www.gazetadopovo.com.br/mundo/esquerda-franca-tenta-colar-lula-vencer-le-pen/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27090902/lula.franca.esquerda-960x540.jpg",
+   "data": "2026-10-27T09:10:05-03:00"
+  },
+  {
+   "id": "e123b4e87ead",
+   "titulo": "Buscas por ‘Paraguai’ no Google crescem 900% com vitória de Lula",
+   "resumo": "As buscas pelo termo “Paraguai” no Google cresceram 900% nas últimas 24 horas até as 6h desta terça-feira, 27, diante da confirmação da vitória do presidente Luiz Inácio Lula da Silva (PT) no segundo turno das eleições. Os dados são do Goog…",
+   "link": "https://revistaoeste.com/politica/buscas-por-paraguai-no-google-crescem-900-com-vitoria-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/bandeira-do-paraguai.jpg",
+   "data": "2026-10-27T09:09:25-03:00"
+  },
+  {
+   "id": "c8f0c47eb501",
+   "titulo": "3° turno? TSE analisa mais de 20 ações contra Lula e Flávio depois da eleição",
+   "resumo": "Mesmo depois do encerramento do segundo turno das eleições gerais, com a vitória do presidente Luiz Inácio Lula da Silva (PT) sobre o senador Flávio Bolsonaro (PL), o Tribunal Superior Eleitoral (TSE) ainda deverá analisar mais de duas deze…",
+   "link": "https://revistaoeste.com/politica/3-turno-tse-analisa-mais-de-20-acoes-contra-lula-e-flavio-depois-da-eleicao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-14.jpg",
+   "data": "2026-10-27T09:07:03-03:00"
+  },
+  {
+   "id": "ed38aa732a7b",
+   "titulo": "Campanha nega que Flávio tenha deixado o Brasil rumo aos EUA",
+   "resumo": "A campanha de Flávio Bolsonaro (PL) à Presidência negou a O Antagonista que o filho de Jair Bolsonaro tenha deixado o Brasil rumo aos Estados Unidos, como publicou o Infobae nesta terça-feira, 27. Segundo o portal argentino, o senador brasi…",
+   "link": "https://oantagonista.com.br/brasil/campanha-nega-que-flavio-tenha-deixado-o-brasil-rumo-aos-eua/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-24-as-09.44.22.png",
+   "data": "2026-10-27T08:49:36-03:00"
+  },
+  {
+   "id": "d3e8cdf8f624",
+   "titulo": "Sergio Moro escolhe Fátima Gavioli para comandar a Educação do Paraná",
+   "resumo": "Fátima Gavioli é escolhida por Moro para comandar a Educação do Paraná, após passagem pela pasta em Rondônia e Goiás. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/sergio-moro-escolhe-fatima-gavioli-para-comandar-a-educacao-do-parana/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27083504/Fatima-Gavioli-960x540.jpg",
+   "data": "2026-10-27T08:36:09-03:00"
+  },
+  {
+   "id": "dfe57770fee1",
+   "titulo": "PF aciona autoridades da Argentina para checar possível viagem de Flávio",
+   "resumo": "Checagem da PF é feita após site da Argentina publicar notícia de que Flávio Bolsonaro teria cruzado a fronteira para viajar para os EUA",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/pf-aciona-autoridades-da-argentina-para-checar-possivel-viagem-de-flavio",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/03/whatsapp-image-2026-03-17-at-092702_3x2.jpg",
+   "data": "2026-10-27T08:16:23-03:00"
+  },
+  {
+   "id": "999a0e5ecc51",
+   "titulo": "Rogério Marinho nega que Flávio Bolsonaro tenha deixado o Brasil",
+   "resumo": "Site argentino publicou notícia de que Flávio teria deixado o Brasil pela fronteira com a Argentina e que viajaria para os Estados Unidos",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/rogerio-marinho-nega-que-flavio-bolsonaro-tenha-deixado-o-brasil",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/09/cats.jpg",
+   "data": "2026-10-27T07:44:03-03:00"
+  },
+  {
+   "id": "21357c126101",
+   "titulo": "Ditadura da Nicarágua parabeniza Lula: “Companheiro e irmão”",
+   "resumo": "O regime esquerdista da Nicarágua, liderado por Daniel Ortega e por sua esposa, Rosario Murillo, parabenizou Lula pela sua reeleição",
+   "link": "https://www.gazetadopovo.com.br/mundo/ditadura-da-nicaragua-parabeniza-lula-companheiro-irmao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27073421/nicaragua.lula_-960x540.jpg",
+   "data": "2026-10-27T07:35:18-03:00"
+  },
+  {
+   "id": "24af88767940",
+   "titulo": "A pressa da PF para pedir a apreensão do passaporte de Flávio",
+   "resumo": "A Polícia Federal (PF) pediu a apreensão do passaporte de Flávio Bolsonaro apenas sete minutos depois de o Tribunal Superior Eleitoral (TSE) confirmar a derrota do candidato à Presidência do PL no segundo turno. O ministro Alexandre de Mora…",
+   "link": "https://oantagonista.com.br/brasil/a-pressa-da-pf-para-pedir-a-apreensao-do-passaporte-de-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/foto-canva-5.png",
+   "data": "2026-10-27T07:31:11-03:00"
+  },
+  {
+   "id": "6f88cc1b3ba1",
+   "titulo": "Pavanato pede que apoiadores de Flávio não participem de atos “que não sejam oficiais”",
+   "resumo": "Deputado federal eleito também defendeu prudência em críticas nas redes sociais para evitar endurecimento de regras. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pavanato-pede-que-apoiadores-de-flavio-nao-participe-de-atos-que-nao-sejam-oficiais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27072632/ASPA-GRANDE-2026-10-27T072633.402-960x540.jpg",
+   "data": "2026-10-27T07:27:23-03:00"
   },
   {
    "id": "175d94dc4897",
@@ -121,24 +580,6 @@
    "data": "2026-10-27T05:00:53-03:00"
   },
   {
-   "id": "230c23ea0e27",
-   "titulo": "Abstenção cai em todas as 39 cidades da Grande SP; capital concentra cerca de 60% da redução",
-   "resumo": "",
-   "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/abstencao-cai-em-todas-as-39-cidades-da-grande-sp-capital-concentra-cerca-de-60percent-da-reducao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/IhXrgQwQJCO0s62-N7bt-oiGj7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/T/a0imOATs2lKa2s64BJgA/published-map.png",
-   "data": "2026-10-27T04:00:00-03:00"
-  },
-  {
-   "id": "65f6fa3a7043",
-   "titulo": "Denúncias de assédio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
-   "resumo": "",
-   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/denuncias-de-assedio-eleitoral-no-trabalho-outubro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg",
-   "data": "2026-10-27T03:30:00-03:00"
-  },
-  {
    "id": "ea9875c67b1e",
    "titulo": "Defesa de Vorcaro vislumbra cenário ruim para banqueiro com vitória de Lula",
    "resumo": "Leitura de advogados é de que, com reeleição de Lula, Vorcaro enfrentará governo, PF, PGR e uma parte do STF irritados com o banqueiro",
@@ -148,87 +589,6 @@
    "data": "2026-10-27T02:00:15-03:00"
   },
   {
-   "id": "09d19fd3d5d6",
-   "titulo": "O quarto mandato de Lula: vitória nas urnas e futuro do governo - O Assunto #1833",
-   "resumo": "",
-   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/27/o-quarto-mandato-de-lula-vitoria-nas-urnas-e-futuro-do-governo-o-assunto-1833.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/51CcpouQw7IreeHOXkC3sAmals0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/TJXkR1SICWBGOMDYQhHg/55611275172-6beb70942e-k.jpg",
-   "data": "2026-10-27T00:30:01-03:00"
-  },
-  {
-   "id": "82ca33c5dbd0",
-   "titulo": "Para facilitar aprovação, governistas defendem acelerar pautas no Congresso ainda em 2026",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/27/para-facilitar-aprovacao-governistas-defendem-acelerar-pautas-no-congresso-ainda-em-2026.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/gOBv1GAK-xoYBNnotn5yBlCSweU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/J/V8UGJOSoeQCUzBWTBY9Q/whatsapp-image-2026-10-26-at-19.09.14.jpeg",
-   "data": "2026-10-27T00:04:12-03:00"
-  },
-  {
-   "id": "29efaff603b0",
-   "titulo": "Eleições 2026: 12 municípios tiveram comparecimento superior a 90% nas urnas; veja a lista",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/eleicoes-2026-12-municipios-tiveram-comparecimento-superior-a-90percent-nas-urnas-veja-a-lista.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Sro8qK1BhieJHjlhIVFHd0klfP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/LBCkjlT6GIBLZa1IhOuQ/261026-info-municipios-com-mais-90-de-participacao-de-eleitores.jpg",
-   "data": "2026-10-27T00:00:02-03:00"
-  },
-  {
-   "id": "b933ff25bd5f",
-   "titulo": "Eleições 2026: Quanto custa a multa por não ter votado?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/eleicoes-2026-quanto-custa-a-multa-por-nao-ter-votado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/64LAcmjFJzfzfF2NG04EHPS-aEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/H/ngfcJmSHeAFujGIrBYKQ/globo-canal-5-20260710-2000-frame-65989.jpeg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
-   "id": "04a1f90735cc",
-   "titulo": "Emancipada há apenas 26 anos, cidade onde Nikolas gravou vídeo sobre o Nordeste tem grande influência do Sul e detém o 6º maior PIB da Bahia",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/emancipada-ha-apenas-26-anos-cidade-onde-nikolas-gravou-video-sobre-o-nordeste-tem-grande-influencia-do-sul-e-detem-o-6o-maior-pib-da-bahia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/OAXuPTNgyBIlN3_Iw5Qb3mdTuok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/j9QT2fTx69sy13zDV2Ww/imagem1.jpg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
-   "id": "4dbd608e3e43",
-   "titulo": "Eleições 2026: O que acontece se eu não pagar a multa eleitoral por não ter votado?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/eleicoes-2026-o-que-acontece-se-eu-nao-pagar-a-multa-eleitoral-por-nao-ter-votado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/73SFaUqQoYYQp9YggNOUWZ3L5nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/z/ok7jQvTn22Le7RwXXIaA/padrao-foto-texto-g1-2026-05-05t084007.274.jpg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
-   "id": "204a61385d30",
-   "titulo": "De escanteado a 'general' de Lula: quem é André Janones, protagonista da mobilização digital na campanha",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/de-escanteado-a-general-de-lula-quem-e-andre-janones-protagonista-da-mobilizacao-digital-na-campanha.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Y8LVk156CLeAd_S34Cw5O51Hl_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/Cwju4LRiWtazZkQkivwA/tn220261026014.jpg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
-   "id": "6f5a3da5a46d",
-   "titulo": "Milei é o único presidente da América do Sul a não reconhecer vitória de Lula",
-   "resumo": "",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/27/milei-e-o-unico-presidente-da-america-do-sul-a-nao-reconhecer-vitoria-de-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
-   "id": "a49e1e609775",
-   "titulo": "Eleições 2026: Posso recorrer de uma multa eleitoral?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/27/eleicoes-2026-posso-recorrer-de-uma-multa-eleitoral.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/1z3d3XIRkzGR3h5owsj3wMUJPdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/n/Jlco8hTOWAGBZguV8qxA/prazo-para-regularizar-situacao-eleitoral-esta-proximo.jpg",
-   "data": "2026-10-27T00:00:00-03:00"
-  },
-  {
    "id": "3442e7fcd9d0",
    "titulo": "CNBB parabeniza Lula e Alckmin, cobra pacificação do país e reforça defesa da vida",
    "resumo": "CNBB cobra de Lula e Alckmin \"gestos concretos de pacificação e de respeito às diferenças\". Leia na Gazeta do Povo.",
@@ -236,24 +596,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/15224301/cnbb-sede-960x540.jpg",
    "data": "2026-10-26T23:23:09-03:00"
-  },
-  {
-   "id": "9cf8a69ea755",
-   "titulo": "Instituto aponta 5 desafios para o governo Lula",
-   "resumo": "O Instituto Millenium apontou cinco desafios para o quarto mandato do presidente Lula da Silva (PT) : conter a dívida pública, enfrentar as facções criminosas, reduzir o endividamento das famílias, recuperar a confiança nas instituições e r…",
-   "link": "https://revistaoeste.com/politica/instituto-aponta-cinco-desafios-para-o-governo-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-sob-pressao.jpeg",
-   "data": "2026-10-26T23:21:31-03:00"
-  },
-  {
-   "id": "2c37d0d13ce7",
-   "titulo": "Itália nega extradição de Tagliaferro por dúvidas sobre imparcialidade no Brasil",
-   "resumo": "Para a corte italiana, a atuação de Moraes em diferentes etapas da investigação compromete a imparcialidade da ação contra Tagliaferro.",
-   "link": "https://www.gazetadopovo.com.br/republica/italia-nega-extradicao-de-tagliaferro-por-duvidas-sobre-imparcialidade-no-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/08/27110405/ASPA-GRANDE-2026-08-27T110352.231-960x540.jpg",
-   "data": "2026-10-26T22:53:54-03:00"
   },
   {
    "id": "91e1b59222ac",
@@ -292,24 +634,6 @@
    "data": "2026-10-26T21:38:00-03:00"
   },
   {
-   "id": "85a728054c14",
-   "titulo": "Falhas em sistema impedem eleitoras de votar",
-   "resumo": "Duas eleitoras foram impedidas de votar no segundo turno das eleições, realizado neste domingo, 25, depois que o sistema da Justiça Eleitoral indicou que seus votos já haviam sido registrados. Os casos ocorreram em Campinas e São Vicente, n…",
-   "link": "https://revistaoeste.com/politica/falhas-em-sistema-impedem-eleitoras-de-votar/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/sistema-eleitoral_eleitoras-nao-puderam-votar.jpg",
-   "data": "2026-10-26T21:33:29-03:00"
-  },
-  {
-   "id": "936acae27e93",
-   "titulo": "Polícia identifica mulher que fez saudação nazista após votação no Rio",
-   "resumo": "A Polícia Civil do Rio de Janeiro identificou Erica Marques Pinho, de 46 anos, como a mulher que fez uma saudação nazista nas proximidades de um local de votação em Botafogo, na zona sul do Rio, no último domingo, 25. O caso foi registrado …",
-   "link": "https://oantagonista.com.br/brasil/policia-identifica-mulher-que-fez-saudacao-nazista-apos-votacao-no-rio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-tela-2026-10-26-211318-1.png",
-   "data": "2026-10-26T21:14:55-03:00"
-  },
-  {
    "id": "4a0f319139d2",
    "titulo": "Augusto Cury reconhece vitória de Lula e pede governo sem revanchismo",
    "resumo": "Cury apoiou o senador Flávio Bolsonaro (PL) no segundo turno, mas condicionou o apoio ao cumprimento de compromissos.",
@@ -317,24 +641,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/08/30151002/AUGUSTO-CURY-1-960x540.jpg",
    "data": "2026-10-26T21:07:19-03:00"
-  },
-  {
-   "id": "c4a6580f5093",
-   "titulo": "Eleição de Lula não apaga escândalos do STF nem clamor por impeachment",
-   "resumo": "Após a eleição de Lula, direita terá no Senado sua principal aposta para promover o equilíbrio entre os Poderes.",
-   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/eleicao-de-lula-nao-apaga-escandalos-do-stf-nem-clamor-por-impeachment/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/15184944/senado-960x540.jpg",
-   "data": "2026-10-26T21:05:20-03:00"
-  },
-  {
-   "id": "149c088cd4b7",
-   "titulo": "Lula articula permanência de Motta e Alcolumbre no Congresso",
-   "resumo": "O presidente Luiz Inácio Lula da Silva recebeu os presidentes da Câmara , Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), no Palácio da Alvorada. O encontro ocorreu nesta segunda-feira, 26, um dia depois das eleições …",
-   "link": "https://revistaoeste.com/politica/lula-articula-permanencia-de-motta-e-alcolumbre-no-congresso/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-26-at-19.48.25.jpeg",
-   "data": "2026-10-26T21:00:26-03:00"
   },
   {
    "id": "04dd29259e93",
@@ -346,33 +652,6 @@
    "data": "2026-10-26T20:52:00-03:00"
   },
   {
-   "id": "a5438255fd97",
-   "titulo": "Cury, Caiado e Renan reconhecem vitória de Lula",
-   "resumo": "Os três candidatos que disputaram o primeiro turno da eleição presidencial e não chegaram à etapa final reconheceram a vitória de Luiz Inácio Lula da Silva (PT) . Ronaldo Caiado (PSD) e Renan Santos (Missão) se manifestaram na noite de domi…",
-   "link": "https://revistaoeste.com/politica/cury-caiado-e-renan-reconhecem-vitoria-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/caiado-renan-santos-cury-848x477-1.webp",
-   "data": "2026-10-26T20:51:53-03:00"
-  },
-  {
-   "id": "1a35ae34a5df",
-   "titulo": "Wall Street Journal vê vitória de Lula como revés para o Brasil e alerta para crise fiscal",
-   "resumo": "O jornal norte-americano The Wall Street Journal publicou um editorial com críticas à reeleição do presidente Luiz Inácio Lula da Silva. Sob o título “Os mercados não votam em Lula”, o conselho editorial atribuiu a queda das ações brasileir…",
-   "link": "https://revistaoeste.com/politica/wall-street-journal-ve-vitoria-de-lula-como-reves-para-o-brasil-e-alerta-para-crise-fiscal/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-2-1.jpg",
-   "data": "2026-10-26T20:51:17-03:00"
-  },
-  {
-   "id": "14a4532e8c90",
-   "titulo": "Sete cidades escolhem prefeitos em dia de eleição presidencial",
-   "resumo": "Eleitores de sete municípios brasileiros escolheram novos prefeitos e vice-prefeitos neste domingo, 25, durante o segundo turno da eleição presidencial . As eleições suplementares foram convocadas pela Justiça Eleitoral depois de decisões q…",
-   "link": "https://revistaoeste.com/politica/sete-cidades-escolhem-prefeitos-em-dia-de-eleicao-presidencial/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/prefeitos_eleicoes.jpeg",
-   "data": "2026-10-26T20:34:34-03:00"
-  },
-  {
    "id": "e796652214c1",
    "titulo": "Amorim diz que Trump está “mal informado” sobre eleições brasileiras",
    "resumo": "Celso Amorim afirmou que Trump está “mal informado” sobre as eleições brasileiras e acusa Meta de suposta tentativa de fraude eleitoral.",
@@ -380,15 +659,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/26203017/celso-amorim-960x540.jpg",
    "data": "2026-10-26T20:31:10-03:00"
-  },
-  {
-   "id": "8f791e2007e6",
-   "titulo": "Douglas Ruas reconhece vitória de Lula: “Infelizmente, não vencemos”",
-   "resumo": "O governador eleito do Rio de Janeiro, Douglas Ruas (PL), publicou um vídeo nesta segunda-feira, 26, no qual reconhece a vitória de Lula (PT) nas eleições presidenciais. Ruas afirmou que esteve ao lado de Flávio Bolsonaro (PL), mas que, “in…",
-   "link": "https://oantagonista.com.br/brasil/douglas-ruas-reconhece-vitoria-de-lula-infelizmente-nao-vencemos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Douglas-Ruas-e-Flavio-Bolsonaro.jpg",
-   "data": "2026-10-26T20:28:41-03:00"
   },
   {
    "id": "17816314c696",
@@ -409,15 +679,6 @@
    "data": "2026-10-26T20:05:50-03:00"
   },
   {
-   "id": "16beb8895a0c",
-   "titulo": "Justiça italiana nega extradição de Tagliaferro",
-   "resumo": "A Corte de Apelação de Catanzaro, na Itália, negou o pedido de extradição apresentado pelo Brasil contra Eduardo Tagliaferro, ex-assessor do ministro Alexandre de Moraes no Tribunal Superior Eleitoral (TSE). Segundo o Metrópoles, o Brasil s…",
-   "link": "https://oantagonista.com.br/brasil/justica-italiana-nega-extradicao-de-tagliaferro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Captura-de-Tela-2026-09-26-as-08.41.01-e1790423041258.png",
-   "data": "2026-10-26T20:00:18-03:00"
-  },
-  {
    "id": "9aa4e661c119",
    "titulo": "PL reconhece vitória de Lula, mas cobra explicações",
    "resumo": "Valdemar da Costa Neto reconheceu vitória de Lula no segundo turno, mas cobrou esclarecimentos. Leia na Gazeta do Povo.",
@@ -425,33 +686,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/26195209/pl-valdemar-costa-neto-960x540.jpg",
    "data": "2026-10-26T19:52:46-03:00"
-  },
-  {
-   "id": "86d16d733da1",
-   "titulo": "PL reconhece resultado da eleição, mas cobra esclarecimentos",
-   "resumo": "O Partido Liberal (PL) reconheceu, nesta segunda-feira, 26, o resultado da eleição presidencial proclamado pelo Tribunal Superior Eleitoral (TSE), que confirmou a vitória do presidente Luiz Inácio Lula da Silva (PT) sobre o senador Flávio B…",
-   "link": "https://revistaoeste.com/politica/pl-reconhece-resultado-da-eleicao-mas-cobra-esclarecimentos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/pl-valdemar-costa-neto.jpeg",
-   "data": "2026-10-26T19:45:08-03:00"
-  },
-  {
-   "id": "5200e679db0f",
-   "titulo": "PL reconhece vitória de Lula, mas reforça dúvidas sobre eleição",
-   "resumo": "O presidente nacional do PL, Valdemar Costa Neto, divulgou uma nota nesta segunda-feira, 26, reconhecendo a “dimensão do resultado presidencial”, que levou a vitória de Lula (PT) sobre Flávio Bolsonaro (PL). O dirigente, porém, afirmou que …",
-   "link": "https://oantagonista.com.br/brasil/pl-reconhece-vitoria-de-lula-mas-reforca-duvidas-sobre-eleicao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/55445261563_07f4cb40e8_6k-scaled.jpg",
-   "data": "2026-10-26T19:35:39-03:00"
-  },
-  {
-   "id": "9e28a155f1fa",
-   "titulo": "Flávio pedirá cassação da chapa de Lula e evita falar em anulação da eleição",
-   "resumo": "Senador reconheceu encerramento da eleição após sinalizar que contestaria resultado, mas pretende recorrer diretamente contra Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/26172459/flavio-bolsonaro-foto-andre-borges-efe-3-1-960x540.jpg",
-   "data": "2026-10-26T19:25:24-03:00"
   },
   {
    "id": "2a6af6160d83",
@@ -463,42 +697,6 @@
    "data": "2026-10-26T19:22:44-03:00"
   },
   {
-   "id": "b25a1d3b3f21",
-   "titulo": "CNBB parabeniza Lula, e cobra gestos de pacificação",
-   "resumo": "A Conferência Nacional dos Bispos do Brasil (CNBB) divulgou nesta segunda-feira, 26, uma carta parabenizando o presidente Lula (PT) pela reeleição, mas cobrou gestos concretos de pacificação e diálogo para superar a “polarização que atraves…",
-   "link": "https://oantagonista.com.br/brasil/cnbb-parabeniza-lula-e-cobra-gestos-de-pacificacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/cardeal-1.png",
-   "data": "2026-10-26T19:04:08-03:00"
-  },
-  {
-   "id": "d42b6699f6bb",
-   "titulo": "É perigoso se opor ao consórcio PT-STF",
-   "resumo": "Um dia depois da eleição presidencial, Flávio Bolsonaro recebeu uma ordem para entregar os passaportes. Deltan Dallagnol, por sua vez, ganhou um recado do PT: “Você é o próximo”. A ressaca eleitoral começou cedo para os adversários de Lula.…",
-   "link": "https://revistaoeste.com/politica/e-perigoso-se-opor-ao-consorcio-pt-stf/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/pt-1.jpg",
-   "data": "2026-10-26T18:46:43-03:00"
-  },
-  {
-   "id": "a1219f23d96b",
-   "titulo": "Flávio Bolsonaro diz ter sido intimado pela PF a entregar passaportes por ordem de Moraes",
-   "resumo": "Flávio Bolsonaro disse ter sido abordado pela PF quando deixava a casa do pai, o ex-presidente Jair Bolsonaro (PL).",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/11174833/flavio-bolsonaro-2-960x540.jpg",
-   "data": "2026-10-26T18:46:38-03:00"
-  },
-  {
-   "id": "87fc3028cb52",
-   "titulo": "Alckmin rebate declaração de Trump sobre eleição: “Totalmente equivocada”",
-   "resumo": "O vice-presidente reeleito, Geraldo Alckmin (PSB), rebateu nesta segunda-feira, 26, a declaração do presidente americano, Donald Trump, de que as eleições presidenciais parecem ter sido fraudadas. Segundo Alckmin, o país é um “exemplo” de “…",
-   "link": "https://oantagonista.com.br/brasil/alckmin-rebate-declaracao-de-trump-sobre-eleicao-totalmente-equivocada/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55366644054_e2b1f31edd_k.jpg",
-   "data": "2026-10-26T18:41:55-03:00"
-  },
-  {
    "id": "c3d5d19b2c93",
    "titulo": "Líderes estrangeiros reconhecem vitória e parabenizam Lula",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lideres-estrangeiros-reconhecem-vitoria-e-parabenizam-lula\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab…",
@@ -506,24 +704,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-26T18:33:00-03:00"
-  },
-  {
-   "id": "4ee45c421d76",
-   "titulo": "Flávio perdeu votos em 6 Estados do 1º para o 2º turno",
-   "resumo": "O senador Flávio Bolsonaro (PL) terminou o segundo turno da eleição presidencial de 2026 com menos votos do que no primeiro turno em seis Estados. A redução somada chegou a 52,3 mil votos, segundo dados do Tribunal Superior Eleitoral . As q…",
-   "link": "https://revistaoeste.com/politica/flavio-perdeu-votos-em-6-estados-do-1o-para-o-2o-turno/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-8.jpg",
-   "data": "2026-10-26T18:32:36-03:00"
-  },
-  {
-   "id": "a77796a6cfdd",
-   "titulo": "“É muito ruim para a democracia”, diz Janaina sobre decisão contra Flávio",
-   "resumo": "A vereadora Janaina Paschoal criticou nesta segunda-feira, 26, a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), de determinar a apreensão dos passaportes do senador Flávio Bolsonaro (PL-RJ) e proibi-lo de deixar…",
-   "link": "https://oantagonista.com.br/brasil/e-muito-ruim-para-a-democracia-diz-janaina-sobre-decisao-contra-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/08/54706334426_b0c1ce0d4c_k.jpg",
-   "data": "2026-10-26T18:21:05-03:00"
   },
   {
    "id": "81d0d2591378",
@@ -544,15 +724,6 @@
    "data": "2026-10-26T18:00:06-03:00"
   },
   {
-   "id": "c49c44b9ff0c",
-   "titulo": "Moraes proíbe Flávio de se comunicar com Willer Tomaz",
-   "resumo": "O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes proibiu nesta segunda-feira, 26, o senador Flávio Bolsonaro (PL-RJ) de se comunicar com o advogado Willer Tomaz. A decisão foi tomada no âmbito de um processo em que ambos são…",
-   "link": "https://oantagonista.com.br/brasil/moraes-proibe-flavio-de-se-comunicar-com-willer-tomaz/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Opera-Instantaneo_2026-10-20_202922_oglobo.globo_.com-1.png",
-   "data": "2026-10-26T17:58:46-03:00"
-  },
-  {
    "id": "7f02367b8735",
    "titulo": "Moraes manda Flávio entregar passaporte e o proíbe de deixar o país",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -571,15 +742,6 @@
    "data": "2026-10-26T17:54:00-03:00"
   },
   {
-   "id": "769c4f1ddde2",
-   "titulo": "Motorista apressado corta o trânsito, passando por cima da faixa zebrada para acessar a saída da rodovia, e recebe multa multiplicada por três",
-   "resumo": "O motorista apressado, que corta o trânsito passando por cima da faixa zebrada para acessar a saída da rodovia, toma uma cacetada no bolso. Essa manobra perigosa gera uma punição gravíssima, com valor multiplicado por três vezes. Por que es…",
-   "link": "https://oantagonista.com.br/brasil/motorista-apressado-corta-o-transito-passando-por-cima-da-faixa-zebrada-para-acessar-a-saida-da-rodovia-e-recebe-multa-multiplicada-por-tres/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Driver_passing_chevron_road_mark…_2K_20261023154005.jpg",
-   "data": "2026-10-26T17:53:00-03:00"
-  },
-  {
    "id": "5a5c46bb9cfd",
    "titulo": "Um dia após derrota, Nikolas deflagra ofensiva sobre governo Lula na Câmara",
    "resumo": "Após derrota de Flávio Bolsonaro, Nikolas Ferreira apresentou requerimentos cobrando explicações sobre atos do governo Lula na eleição",
@@ -587,24 +749,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/nikolas-entrevista-gadelha.jpg",
    "data": "2026-10-26T17:52:54-03:00"
-  },
-  {
-   "id": "490e167f59ac",
-   "titulo": "“Você é o próximo”: PT ameaça Dallagnol pelas redes e diz que vai cobrar Corte Eleitoral",
-   "resumo": "PT afirma que vai cobrar Corte Eleitoral para julgar recurso que pede anulação dos votos do senador eleito no Paraná. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/voce-e-o-proximo-pt-ameaca-dallagnol-pelas-redes-e-diz-que-vai-cobrar-corte-eleitoral/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/08103530/Deltan-eleicoes-2026-960x540.jpg",
-   "data": "2026-10-26T17:47:55-03:00"
-  },
-  {
-   "id": "dff38a54d863",
-   "titulo": "O papel de Janones e do Exército de Lula na vitória petista",
-   "resumo": "Deputado mineiro amplia presença da campanha do PT nas redes sociais e ganha destaque na reeleição de Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/o-papel-de-janones-e-do-exercito-de-lula-na-vitoria-petista/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/26142209/55606355271_90975efa5a_3k-960x540.jpg",
-   "data": "2026-10-26T17:40:58-03:00"
   },
   {
    "id": "1a76400efd93",
@@ -616,15 +760,6 @@
    "data": "2026-10-26T17:32:48-03:00"
   },
   {
-   "id": "86aded14b480",
-   "titulo": "O que explica os 10 milhões de votos a mais de Lula no 2º turno",
-   "resumo": "Queda na abstenção e nos votos brancos e nulos ajudam a explicar a virada de Lula sobre Flávio Bolsonaro. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/o-que-explica-10-milhoes-de-votos-a-mais-de-lula-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/26133905/lula-2-turno-virada-960x540.jpg",
-   "data": "2026-10-26T17:29:59-03:00"
-  },
-  {
    "id": "842c4df32dd6",
    "titulo": "PF registrou 86 casos de possíveis crimes eleitorais no 2º turno",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/pf-registrou-no-2o-turno-86-casos-de-possiveis-crimes-eleitorais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
@@ -634,42 +769,6 @@
    "data": "2026-10-26T17:29:00-03:00"
   },
   {
-   "id": "a313a5919148",
-   "titulo": "Crusoé: PT e aliados iniciam perseguição a rivais",
-   "resumo": "“Eu amo vocês“, disse Lula (foto), com sua voz rouca aos seus eleitores na Avenida Paulista, após o Tribunal Superior Eleitoral (TSE) declarar a sua vitória nas urnas no domingo, 25. O amor de Lula e dos petistas, contudo, é só para aqueles…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-pt-e-aliados-iniciam-perseguicao-a-rivais/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55612289141_d15996ab8b_3k-scaled-1.jpg",
-   "data": "2026-10-26T17:21:21-03:00"
-  },
-  {
-   "id": "645891958111",
-   "titulo": "Decisão de última hora de Zanin ampliou insegurança jurídica na eleição",
-   "resumo": "Decisão de última hora de Zanin sobre horário de votação ampliou insegurança jurídica na eleição. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/decisao-de-ultima-hora-de-zanin-ampliou-inseguranca-juridica-na-eleicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14080925/ASPA-GRANDE-2026-10-14T080922.133-960x540.jpg",
-   "data": "2026-10-26T17:10:20-03:00"
-  },
-  {
-   "id": "1ed83c2dd598",
-   "titulo": "Flávio Bolsonaro questiona resultado do segundo turno na Justiça",
-   "resumo": "Campanha de Flávio Bolsonaro entra na Justiça contra prorrogação da votação decidida por Zanin. Entenda os impactos da contestação do resultado eleitoral.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-resultado-do-segundo-turno-na-justica/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/26170343/ASPA-GRANDE-2026-10-26T080032.756-1-960x540.jpg",
-   "data": "2026-10-26T17:03:40-03:00"
-  },
-  {
-   "id": "2aca68a59d56",
-   "titulo": "Flávio diz ter sido intimado pela PF a entregar passaportes",
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ) afirmou nesta segunda-feira, 26, ter sido intimado pela Polícia Federal (PF) a entregar seus passaportes e impedido de deixar o país. Segundo o parlamentar, a intimação ocorreu na rua, após ele sair do con…",
-   "link": "https://oantagonista.com.br/brasil/flavio-diz-ter-sido-intimado-pela-pf-a-entregar-passaportes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55588375394_52964b8b07_k.jpg",
-   "data": "2026-10-26T17:01:48-03:00"
-  },
-  {
    "id": "748d7c2bd81a",
    "titulo": "Eleições 2026: oito partidos vão comandar 26 estados e o DF",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-oito-partidos-vao-comandar-26-estados-e-o-df\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/ab…",
@@ -677,15 +776,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-26T16:55:00-03:00"
-  },
-  {
-   "id": "1934b9de89a7",
-   "titulo": "Deputado eleito pelo PL propõe plebiscito para separar o Sul do Brasil",
-   "resumo": "Deputado eleito em SC propõe plebiscito sobre a separação dos estados do Sul e anuncia comitê para mobilizar parlamentares pela iniciativa.",
-   "link": "https://www.gazetadopovo.com.br/brasil/deputado-eleito-pelo-pl-propoe-plebiscito-para-separar-o-sul-do-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/26164218/Design-sem-nome-22-960x540.jpg",
-   "data": "2026-10-26T16:49:18-03:00"
   },
   {
    "id": "0532700c3613",
@@ -713,60 +803,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-26T15:14:00-03:00"
-  },
-  {
-   "id": "4281ad40d7da",
-   "titulo": "Lula recebe Motta e Alcolumbre após a vitória nas urnas",
-   "resumo": "Encontro do presidente Lula com Hugo Motta e Davi Alcolumbre está previsto para 16h30 da segunda-feira (26/10), em Brasília",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-recebe-motta-e-alcolumbre-apos-a-vitoria-nas-urnas",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/08/os-presidentes-luiz-inacio-lula-da-silva-da-republica-davi-alcolumbre-do-senado-e-hugo-motta-da-camara-dos-deputados-fazem-declaracao-no-palacio-da-alvorada-metropoles-3-1-scaled.jpg",
-   "data": "2026-10-26T14:46:09-03:00"
-  },
-  {
-   "id": "cf9f91b08801",
-   "titulo": "Em São Paulo, três municípios escolhem novos prefeitos",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sao-paulo-tres-municipios-escolhem-novos-prefeitos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/ass…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sao-paulo-tres-municipios-escolhem-novos-prefeitos",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-26T14:36:00-03:00"
-  },
-  {
-   "id": "d7779b8f7ad8",
-   "titulo": "Aliados organizam festa de aniversário para Lula na terça em Brasília",
-   "resumo": "Petistas preparam comemoração no Palácio da Alvorada dois dias após Lula conquistar o quarto mandato na Presidência",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/aliados-organizam-festa-de-aniversario-para-lula-na-terca-em-brasilia",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/presidente-luiz-inacio-lula-da-silva-eleicao-2026-metropoles-4-scaled.jpg",
-   "data": "2026-10-26T14:33:28-03:00"
-  },
-  {
-   "id": "ba62ec5175b7",
-   "titulo": "Após reeleição, Lula pretende tirar uns dias de férias",
-   "resumo": "Intenção de Lula, segundo aliados, é tirar cinco dias de férias no final da semana, o que incluiria o feriado de 2 de novembro",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/apos-reeleicao-lula-pretende-tirar-uns-dias-de-ferias",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/lula-apoiadores-campanha-votacao-sp4jpg.jpg",
-   "data": "2026-10-26T10:58:48-03:00"
-  },
-  {
-   "id": "4fea95d74931",
-   "titulo": "Lula vence, mas corre risco de ver sua sucessão virar drama shakespeariano",
-   "resumo": "Vitória nas urnas de Lula abre discussão para sucessão do petista em 2030, e corre o risco de ver disputa virar tragédia dentro do PT",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-vence-mas-corre-risco-de-sucessao-virar-drama-shakespeariano",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/04/lula-planaltina-8.jpeg",
-   "data": "2026-10-26T09:00:17-03:00"
-  },
-  {
-   "id": "547043eb70df",
-   "titulo": "Sem Lula em 2030, aliados estimulam Dino a deixar STF e voltar à política",
-   "resumo": "Avaliação dos aliados de Flávio Dino é de que ministro do STF teria tudo para suceder Lula em 2030, quando petista não poderá se reeleger",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/sem-lula-em-2030-aliados-estimulam-dino-a-deixar-stf-e-voltar-a-politica",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2023/11/15120317/dino-e-lula.jpg",
-   "data": "2026-10-26T07:00:35-03:00"
   }
  ]
 }
