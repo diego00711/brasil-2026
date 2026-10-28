@@ -1,16 +1,187 @@
 {
- "atualizado": "2026-10-27T22:14:14.411770-03:00",
- "total": 75,
+ "atualizado": "2026-10-28T05:20:24.252278-03:00",
+ "total": 77,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "1a3c581345ad",
-   "titulo": "Veja fotos e vídeos do aniversário de Lula com apoiadores no Alvorada",
-   "resumo": "Petista celebra 81 anos de idade nesta 3ª feira (27.out); ministros de Estado e políticos aliados também compareceram à festa",
-   "link": "https://www.poder360.com.br/poder-governo/veja-fotos-e-videos-do-aniversario-de-lula-com-apoiadores-no-alvorada/",
+   "id": "b93e525337ce",
+   "titulo": "Bloco de Netanyahu lidera apuração em Israel, mas sem maioria",
+   "resumo": "Com 72% das urnas apuradas, grupo do premiê tem 54 cadeiras; oposição soma 48 e partidos árabes, 18",
+   "link": "https://www.poder360.com.br/poder-internacional/bloco-de-netanyahu-lidera-apuracao-em-israel-mas-sem-maioria/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/T8pGupbktyU/hqdefault.jpg",
-   "data": "2026-10-27T22:07:15-03:00"
+   "imagem": "",
+   "data": "2026-10-28T04:52:35-03:00"
+  },
+  {
+   "id": "9a55f22da98f",
+   "titulo": "“Por mim, tudo bem”, diz Trump sobre Flávio Bolsonaro nos EUA",
+   "resumo": "Senador saiu do Brasil pela Argentina na 3ª feira; presidente dos EUA declara que “aprovaria” ida do congressista",
+   "link": "https://www.poder360.com.br/poder-internacional/por-mim-tudo-bem-diz-trump-sobre-flavio-bolsonaro-nos-eua/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-28T04:40:26-03:00"
+  },
+  {
+   "id": "a2409098829f",
+   "titulo": "Empresário chinês pilota moto sobre a água por mais de 40 km e quebra recorde mundial; veja o vídeo",
+   "resumo": "Um feito inacreditável chocou o mundo do automobilismo e provou que a obsessão humana pode superar as leis da física. Em 25 de outubro de 2026, o chinês Zhang Xue, fundador da ZXMOTO, atingiu o impossível ao pilotar uma motocicleta modifica…",
+   "link": "https://oantagonista.com.br/brasil/empresario-chines-pilota-moto-sobre-a-agua-por-mais-de-40-km-e-quebra-recorde-mundial-veja-o-video/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Empresario-chines-pilota-moto-sobre-a-agua-por-mais-de-40-km-e-quebra-recorde-mundial-veja-o-video.png",
+   "data": "2026-10-28T04:33:00-03:00"
+  },
+  {
+   "id": "22cd34149912",
+   "titulo": "Flávio cruzou a fronteira e pegou avião para o Equador, diz Migração argentina",
+   "resumo": "Segundo o órgão, o senador e a família entraram na Argentina às 22h50 de 3ª feira (27.out), embarcando 40 minutos depois em voo para Guayaquil",
+   "link": "https://www.poder360.com.br/poder-internacional/flavio-cruzou-a-fronteira-e-pegou-aviao-para-o-equador-diz-migracao-argentina/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/migracao-argentina-flavio-28out2026.png",
+   "data": "2026-10-28T03:07:54-03:00"
+  },
+  {
+   "id": "680c1b880369",
+   "titulo": "Flávio Bolsonaro desembarca nos Estados Unidos após proibição judicial",
+   "resumo": "Senador Flávio Bolsonaro descumpre ordem de Alexandre de Moraes, viaja pela Argentina e desembarca em Miami. Entenda a cronologia e as medidas do STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-desembarca-nos-estados-unidos-apos-proibicao-judicial/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/28020956/flavio-bolsonaro-5-1-960x540.jpg",
+   "data": "2026-10-28T02:09:49-03:00"
+  },
+  {
+   "id": "85ce27e2e0d3",
+   "titulo": "Ao fugir do Brasil, Flávio deixa o pai ainda mais vulnerável a Moraes",
+   "resumo": "Decisão de Flávio Bolsonaro de fugir para os Estados Unidos coloca Jair na mira de Alexandre de Moraes como proteção a impeachment",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/ao-fugir-do-brasil-flavio-deixa-o-pai-ainda-mais-vulneravel-a-moraes",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/09/ex-presidente-da-republica-Jair-Messias-Bolsonaro-concede-entrevista-exclusiva-ao-colunista-do-Metropoles-Igor-Gadelha-4.jpg",
+   "data": "2026-10-28T02:00:56-03:00"
+  },
+  {
+   "id": "ca0ae3321114",
+   "titulo": "Moraes ordena cancelamento de passaporte de Flávio Bolsonaro após eleições",
+   "resumo": "Alexandre de Moraes cancela passaporte de Flávio Bolsonaro minutos após as eleições. Senador viaja aos EUA e aliados denunciam perseguição política.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-ordena-cancelamento-de-passaporte-de-flavio-bolsonaro-apos-eleicoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/28012101/lula-com-flavio-bolsonaro-foto-renato-pizzutto-band-1-1-960x540.jpg",
+   "data": "2026-10-28T01:20:58-03:00"
+  },
+  {
+   "id": "182ad2af463b",
+   "titulo": "Erika Hilton pede a Moraes o bloqueio de contas de Flávio e da esposa",
+   "resumo": "Deputada Erika Hilton (PSOL-SP) pede bloqueio de bens e contas bancárias de Flávio e de sua esposa, Fernanda Bolsonaro.",
+   "link": "https://www.gazetadopovo.com.br/republica/erika-hilton-pede-a-moraes-o-bloqueio-de-contas-de-flavio-e-da-esposa/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/28002517/erika-hilton-960x540.jpg",
+   "data": "2026-10-28T00:26:59-03:00"
+  },
+  {
+   "id": "f8baeeefd7f8",
+   "titulo": "Após memes com Mao Tsé-Tung, marcas chinesas rompem com Mbappé",
+   "resumo": "Atacante do Real Madrid chamou ex-líder de “ditador chinês” e perdeu contratos com gigantes do setor de laticínios e bebidas",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/apos-memes-com-mao-tse-tung-marcas-chinesas-rompem-com-mbappe/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Mbappe-pede-desculpas-aos-fas-chineses-27-out-2026.png",
+   "data": "2026-10-28T00:20:13-03:00"
+  },
+  {
+   "id": "6eb5c5274eeb",
+   "titulo": "Valdemar e Michelle discutem futuro do PL após Flávio deixar o país",
+   "resumo": "Valdemar Costa Neto disse ter conversado com Michelle Bolsonaro sobre o futuro do partido e os desafios que terão pela frente.",
+   "link": "https://www.gazetadopovo.com.br/republica/valdemar-e-michelle-discutem-futuro-do-pl-apos-flavio-deixar-o-pais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27234902/valdemar-michelle-bolsonaro-960x540.jpg",
+   "data": "2026-10-27T23:50:53-03:00"
+  },
+  {
+   "id": "752483d1ff4d",
+   "titulo": "Flávio tem cidadania italiana desde 2023; PF não pode cancelar passaporte estrangeiro",
+   "resumo": "O passaporte italiano permite viagens internacionais mesmo após a PF cancelar os passaportes brasileiros de Flávio.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-tem-cidadania-italiana-desde-2023-pf-nao-pode-cancelar-passaporte-estrangeiro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/21150304/flavio-bolsonaro-foto-charles-vieira-campanha-flavio-960x540.jpg",
+   "data": "2026-10-27T23:37:51-03:00"
+  },
+  {
+   "id": "83db25ae0512",
+   "titulo": "Mega-Sena volta a acumular e prêmio vai a R$ 320 milhões",
+   "resumo": "O próximo concurso será na 4ª feira (28.out); a Caixa realiza a Mega Semana da Mega-Sena, com 5 sorteios consecutivos",
+   "link": "https://www.poder360.com.br/poder-brasil/mega-sena-volta-a-acumular-e-premio-vai-a-r-320-milhoes/",
+   "fonte": "Poder360",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707012&o=node",
+   "data": "2026-10-27T23:35:30-03:00"
+  },
+  {
+   "id": "742b944ce1fa",
+   "titulo": "Comboio deixou casa de Flávio na noite anterior à sua saída do Brasil",
+   "resumo": "Quatro carros saíram da residência às 19h42 e seguiram por caminhos diferentes; não se sabe se o senador ou familiares estavam nos veículos",
+   "link": "https://www.poder360.com.br/poder-justica/comboio-deixou-casa-de-flavio-na-noite-anterior-a-sua-saida-do-brasil/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/ShVcGrIXHdo/hqdefault.jpg",
+   "data": "2026-10-27T23:29:44-03:00"
+  },
+  {
+   "id": "c4c1bf4bd430",
+   "titulo": "Empresários dizem que vão demitir funcionários que votaram em Lula",
+   "resumo": "Publicações nas redes sociais incentivam dispensas por preferência política; prática é considerada discriminatória pela legislação trabalhista",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresarios-dizem-que-vao-demitir-funcionarios-que-votaram-em-lula/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/jessicao-publicacao-X-25.out_.2026.png",
+   "data": "2026-10-27T23:28:14-03:00"
+  },
+  {
+   "id": "98d6d1e5a6ad",
+   "titulo": "Apoiadores exaltam trajetória de Lula no seu aniversário de 81 anos",
+   "resumo": "Petista comemorou a data nesta 3ª feira (27.out), no Palácio da Alvorada, e distribuiu bolo entre a militância",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/apoiadores-exaltam-trajetoria-de-lula-no-seu-aniversario-de-81-anos/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/hT9uPJmkoxA/hqdefault.jpg",
+   "data": "2026-10-27T23:10:59-03:00"
+  },
+  {
+   "id": "2886e51fd27e",
+   "titulo": "PT, PCdoB e PV anunciam apoio à reeleição de Motta para presidente da Câmara",
+   "resumo": "PT, PCdoB e PV se unem a outros 12 partidos para apoiar a recondução de Motta ao comando da Câmara e isolar o PL.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-pcdob-e-pv-anunciam-apoio-a-reeleicao-de-motta-para-presidente-da-camara/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27230000/hugo-motta-960x540.jpg",
+   "data": "2026-10-27T23:02:30-03:00"
+  },
+  {
+   "id": "d97ddbf29dbc",
+   "titulo": "Nikolas critica Pedro Rousseff por pedir apreensão de seu passaporte",
+   "resumo": "Deputado diz que pedido busca dar visibilidade ao sobrinho da ex-presidente Dilma Rousseff",
+   "link": "https://www.poder360.com.br/poder-congresso/nikolas-critica-pedro-rousseff-por-pedir-apreensao-de-seu-passaporte/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/UqKfXmOD3XU/hqdefault.jpg",
+   "data": "2026-10-27T22:53:32-03:00"
+  },
+  {
+   "id": "e9e88d6abd88",
+   "titulo": "Líder da oposição apoia viagem de Flávio",
+   "resumo": "O líder da oposição na Câmara dos Deputados, Cabo Gilberto Silva (PL-PB) , declarou apoio a Flávio Bolsonaro (PL-RJ) diante da decisão do senador de deixar o país para pedir asilo político nos Estados Unidos devido a perseguição política. E…",
+   "link": "https://revistaoeste.com/politica/lider-da-oposicao-apoia-viagem-de-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/cabo-gilberto-silva_lider-da-oposicao_flavio.jpeg",
+   "data": "2026-10-27T22:39:06-03:00"
+  },
+  {
+   "id": "5e948ef3f9e2",
+   "titulo": "Fachin arquiva investigações contra Eduardo, Malafaia e Fiuza",
+   "resumo": "Presidente do STF acolhe pedido da PGR e extingue apurações contra ex-deputado, pastor e jornalista no inquérito das fake news",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-arquiva-investigacoes-contra-eduardo-malafaia-e-fiuza/",
+   "fonte": "Poder360",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707002&o=node",
+   "data": "2026-10-27T22:31:21-03:00"
+  },
+  {
+   "id": "7c52d40a35f7",
+   "titulo": "O que se sabe sobre a saída de Flávio Bolsonaro do Brasil após ordem de Moraes",
+   "resumo": "Flávio teria viajado à Argentina e seguido para os Estados Unidos após ser proibido por Moraes de deixar o país; veja a cronologia do caso.",
+   "link": "https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27220102/flavio-bolsonaro-5-960x540.jpg",
+   "data": "2026-10-27T22:08:52-03:00"
   },
   {
    "id": "a11e526c1cd2",
@@ -40,15 +211,6 @@
    "data": "2026-10-27T21:50:28-03:00"
   },
   {
-   "id": "a0781af2f60e",
-   "titulo": "Festa de 81 anos de Lula tem música nordestina e bolo para apoiadores",
-   "resumo": "Dois dias após a reeleição, presidente comemorou aniversário no Palácio da Alvorada ao lado de autoridades e militantes",
-   "link": "https://www.poder360.com.br/poder-governo/festa-de-81-anos-de-lula-tem-musica-nordestina-e-bolo-para-apoiadores/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Lula-Aniversario-81anos-Alvorada-1-1.jpg",
-   "data": "2026-10-27T21:48:40-03:00"
-  },
-  {
    "id": "7f537cae023d",
    "titulo": "Lincoln Gakiya aceitaria convite de Lula para comandar Segurança Pública",
    "resumo": "O promotor de Justiça Lincoln Gakiya, do Ministério Público de São Paulo (MP-SP) , afirmou que aceitaria integrar um eventual Ministério da Segurança Pública no governo do presidente reeleito Luiz Inácio Lula da Silva (PT). Em entrevista à …",
@@ -65,15 +227,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-27T21:41:00-03:00"
-  },
-  {
-   "id": "49e67d35e60e",
-   "titulo": "Empresa de ar-condicionado cobra Grêmio na Justiça",
-   "resumo": "A cobrança é feita por serviços de instalação e manutenção de aparelhos de ar-condicionado na Arena do Grêmio e no CT Luiz Carvalho",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/empresa-de-ar-condicionado-cobra-gremio-na-justica/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T21:32:30-03:00"
   },
   {
    "id": "c8058da57a67",
@@ -112,15 +265,6 @@
    "data": "2026-10-27T21:13:31-03:00"
   },
   {
-   "id": "718d0dbe2a00",
-   "titulo": "Presidente do PCO diz que Flávio é perseguido e que STF exerce ditadura",
-   "resumo": "Senador descumpriu ordem de Alexandre de Moraes para entregar passaportes e deixou o Brasil rumo aos EUA depois de derrota eleitoral",
-   "link": "https://www.poder360.com.br/poder-justica/presidente-do-pco-diz-que-flavio-e-perseguido-e-que-stf-exerce-ditadura/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T20:58:31-03:00"
-  },
-  {
    "id": "ac61434e36b6",
    "titulo": "Empresários anunciam fim de ações sociais com incertezas econômicas pós-vitória de Lula",
    "resumo": "Com reeleição de Lula (PT), empresários de diversas regiões do país decidiram encerrar ações sociais alegando incertezas no cenário econômico",
@@ -148,15 +292,6 @@
    "data": "2026-10-27T20:45:36-03:00"
   },
   {
-   "id": "f604a0db18ee",
-   "titulo": "Indústrias de MG cobram ajuste fiscal e alertam para incertezas",
-   "resumo": "Presidente da Fiemg vê “tempestade perfeita” para empresas com gastos públicos, escala 6 X 1 e reforma tributária",
-   "link": "https://www.poder360.com.br/poder-economia/industrias-de-mg-cobram-ajuste-fiscal-e-alertam-para-incertezas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T20:37:15-03:00"
-  },
-  {
    "id": "68e9b0a75a78",
    "titulo": "Polícia apura suposta encenação racista em ato pró-Flávio no RJ",
    "resumo": "A Polícia Civil do Rio investiga uma cena gravada no sábado, 24, na Barra da Tijuca, em que um homem negro, preso por correntes, transportava um homem branco nas costas durante manifestação a favor de Flávio Bolsonaro (PL-RJ). O caso está c…",
@@ -164,15 +299,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/17931318746ae105623955b_1793131874_3x2_lg-1.jpg",
    "data": "2026-10-27T20:36:23-03:00"
-  },
-  {
-   "id": "e536555891fb",
-   "titulo": "“Não é fuga, mas exílio”, dizem bolsonaristas sobre Flávio sair do país",
-   "resumo": "Senador não foi localizado nesta 3ª feira (27.out); Moraes havia determinado entrega de passaportes",
-   "link": "https://www.poder360.com.br/poder-justica/nao-e-fuga-mas-exilio-dizem-bolsonaristas-sobre-flavio-sair-do-pais/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Captura-de-Tela-2026-10-27-as-19.27.07.png",
-   "data": "2026-10-27T20:34:20-03:00"
   },
   {
    "id": "7c2054f90c01",
@@ -193,24 +319,6 @@
    "data": "2026-10-27T20:32:30-03:00"
   },
   {
-   "id": "5068201160b0",
-   "titulo": "Aneel aprova editais de leilões de baterias e conta fica com geradores",
-   "resumo": "Agência mantém obrigação de custeio para geradores, enquanto agentes do setor articulam no Congresso mudança na legislação",
-   "link": "https://www.poder360.com.br/poder-energia/aneel-aprova-editais-de-leiloes-de-baterias-e-conta-fica-com-geradores/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T20:25:04-03:00"
-  },
-  {
-   "id": "17e3448442d4",
-   "titulo": "Leia a cronologia dos fatos que levaram Flávio a deixar o Brasil",
-   "resumo": "De acordo com aliados, o senador saiu do Brasil rumo aos Estados Unidos; ele teve seus passaportes cancelados pela Polícia Federal",
-   "link": "https://www.poder360.com.br/poder-justica/leia-a-cronologia-dos-fatos-que-levaram-flavio-bolsonaro-deixar-o-brasil/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/qau1jd34rvY/hqdefault.jpg",
-   "data": "2026-10-27T20:23:02-03:00"
-  },
-  {
    "id": "47bb327468e4",
    "titulo": "Após chegar aos EUA, Flávio encontra o irmão Eduardo na Flórida",
    "resumo": "Após fuga do Brasil, Flávio Bolsonaro já está nos EUA e encontrou com seu irmão Eduardo Bolsonaro na Flórida",
@@ -229,24 +337,6 @@
    "data": "2026-10-27T20:18:14-03:00"
   },
   {
-   "id": "a8d9b26743b8",
-   "titulo": "Saiba quais autoridades estiveram no aniversário de Lula",
-   "resumo": "Presidente comemorou os 81 anos com ministros, políticos e militantes no Palácio da Alvorada",
-   "link": "https://www.poder360.com.br/poder-governo/saiba-quais-autoridades-estiveram-no-aniversario-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T20:16:31-03:00"
-  },
-  {
-   "id": "1a9e04b6813e",
-   "titulo": "Pesquisas de boca de urna mostram oposição à frente em Israel",
-   "resumo": "Levantamentos apontam vantagem do partido Likud, mas oposição depende de blocos árabes para alcançar maioria parlamentar",
-   "link": "https://www.poder360.com.br/poder-internacional/pesquisas-de-boca-de-urna-mostram-oposicao-a-frente-em-israel/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-27T20:14:43-03:00"
-  },
-  {
    "id": "9a8870c9f40e",
    "titulo": "Após vitória nas urnas, Lula vai retomar viagens internacionais",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-vitoria-nas-urnas-lula-vai-retomar-viagens-internacionais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
@@ -254,15 +344,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-27T20:09:00-03:00"
-  },
-  {
-   "id": "2a8dae104387",
-   "titulo": "Lula chama viagem de Flávio de “vergonhosa” e lembra da própria prisão na Lava Jato",
-   "resumo": "Lula comparou a viagem de Flávio aos EUA à própria postura durante a Lava Jato e voltou a atacar a família Bolsonaro.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-chama-viagem-de-flavio-de-vergonhosa-e-lembra-da-propria-prisao-na-lava-jato/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27191414/lula-12-960x540.jpg",
-   "data": "2026-10-27T19:58:54-03:00"
   },
   {
    "id": "99076b6b71ae",
@@ -373,15 +454,6 @@
    "data": "2026-10-27T18:47:30-03:00"
   },
   {
-   "id": "eb290b87e9aa",
-   "titulo": "Rogério Marinho cita surpresa com viagem de Flávio e questiona medidas de Moraes",
-   "resumo": "Coordenador da campanha diz desconhecer o paradeiro de Flávio, que viajou aos EUA apesar de decisão de Moraes que o proibia de deixar o país.",
-   "link": "https://www.gazetadopovo.com.br/republica/rogerio-marinho-cita-surpresa-com-viagem-de-flavio-e-questiona-medidas-de-moraes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27183612/rogerio-marinho-960x540.jpg",
-   "data": "2026-10-27T18:36:57-03:00"
-  },
-  {
    "id": "ace25f47df92",
    "titulo": "Bolsonarista propõe “marcar” lojas de petistas em Teresópolis",
    "resumo": "O advogado Klaus Fins, identificado como bolsonarista, pediu em vídeo que comerciantes de Teresópolis (RJ) simpatizantes do PT fixem uma estrela vermelha na entrada de seus estabelecimentos. Ele também defendeu que consumidores deixem de co…",
@@ -409,15 +481,6 @@
    "data": "2026-10-27T18:20:43-03:00"
   },
   {
-   "id": "a10df6094270",
-   "titulo": "Trump volta a falar sobre fraude na eleição brasileira: ‘Não pareceu nada bom’",
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, voltou a insinuar que houve fraude na eleição presidencial brasileira, vencida por Luiz Inácio Lula da Silva (PT) no último domingo, 25. Ao criticar os democratas norte-americanos, o republican…",
-   "link": "https://revistaoeste.com/politica/trump-volta-a-falar-sobre-fraude-na-eleicao-brasileira-nao-pareceu-nada-bom/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/donald-trump.jpg",
-   "data": "2026-10-27T18:20:10-03:00"
-  },
-  {
    "id": "199b23ffb7d3",
    "titulo": "Vice de Flávio Bolsonaro reconhece derrota e promete oposição no Congresso",
    "resumo": "Alfredo Gaspar, vice na chapa de Flávio, criticou o que chamou de “sistema” e afirmou que a campanha enfrentou obstáculos e perseguições.",
@@ -434,15 +497,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-2.jpeg",
    "data": "2026-10-27T17:58:37-03:00"
-  },
-  {
-   "id": "8613610316dd",
-   "titulo": "Flávio Bolsonaro é alvo de medidas judiciais e juristas apontam perseguição política",
-   "resumo": "Juristas alertam que série de medidas contra Flávio Bolsonaro podem o tornar um dissidente e não mais opositor.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-alvo-medidas-judiciais-juristas-apontam-perseguicao-politica/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/25233739/55542246223_217ec8541d_6k1-960x540.jpg",
-   "data": "2026-10-27T17:55:49-03:00"
   },
   {
    "id": "89e7c7c4fea2",
@@ -463,24 +517,6 @@
    "data": "2026-10-27T17:50:00-03:00"
   },
   {
-   "id": "27f011b10aa8",
-   "titulo": "Ex-ministro do STF diz que Supremo virou “arquipélago de 11 monocracias”",
-   "resumo": "Decisões monocráticas no STF: Rezek critica, Ayres Britto defende que são inevitáveis. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/brasil/fenalaw-decisoes-monocraticas-stf-rezek-britto-velloso/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27141718/Fenalaw-Francisco-Rezek-menor-960x540.jpg",
-   "data": "2026-10-27T17:48:11-03:00"
-  },
-  {
-   "id": "ce48dcf7223f",
-   "titulo": "PF relatou a Moraes risco de Flávio deixar o Brasil para longa permanência no exterior",
-   "resumo": "Investigadores apontaram indícios de possível fuga para o exterior, incluindo orientação de Eduardo Bolsonaro. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pf-relatou-moraes-risco-flavio-deixar-brasil-longa-permanencia-exterior/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27172438/flavio-bolsonaro-foto-isaac-fontana-efe-1-1-960x540.jpg",
-   "data": "2026-10-27T17:42:44-03:00"
-  },
-  {
    "id": "58c1e2046996",
    "titulo": "TSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-contabiliza-menos-de-35-mil-votos-apos-as-17h-no-2-turno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/…",
@@ -497,15 +533,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55528986812_d4fdf4f433_6k-scaled.jpg",
    "data": "2026-10-27T17:07:43-03:00"
-  },
-  {
-   "id": "36ddb0d53881",
-   "titulo": "“Conte com minha lealdade e amizade”, diz Alfredo Gaspar a Flávio",
-   "resumo": "O deputado Alfredo Gaspar (PL-AL), que foi candidato a vice-presidente na chapa de Flávio Bolsonaro (PL-RJ), manifestou solidariedade ao senador nesta terça-feira, 27, diante do que classificou como uma “perseguição implacável”. Em publicaç…",
-   "link": "https://oantagonista.com.br/brasil/conte-com-minha-lealdade-e-amizade-diz-alfredo-gaspar-a-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/image-40-1.png",
-   "data": "2026-10-27T16:56:38-03:00"
   },
   {
    "id": "d7d8e76f6778",
@@ -641,15 +668,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/03/whatsapp-image-2026-03-17-at-092702_3x2.jpg",
    "data": "2026-10-27T08:16:23-03:00"
-  },
-  {
-   "id": "999a0e5ecc51",
-   "titulo": "Rogério Marinho nega que Flávio Bolsonaro tenha deixado o Brasil",
-   "resumo": "Site argentino publicou notícia de que Flávio teria deixado o Brasil pela fronteira com a Argentina e que viajaria para os Estados Unidos",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/rogerio-marinho-nega-que-flavio-bolsonaro-tenha-deixado-o-brasil",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/cats.jpg",
-   "data": "2026-10-27T07:44:03-03:00"
   },
   {
    "id": "6f88cc1b3ba1",
