@@ -1,8 +1,260 @@
 {
- "atualizado": "2026-10-29T21:51:34.247863-03:00",
- "total": 89,
+ "atualizado": "2026-10-30T04:01:38.417717-03:00",
+ "total": 90,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "1e16e913cbf7",
+   "titulo": "Fachin devolve investigação dos descontos do INSS a Mendonça",
+   "resumo": "No caso do Banco Master, o processo continuará sob a guarda da presidência do STF",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-devolve-investigacao-dos-descontos-do-inss-a-mendonca/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-30T03:47:57-03:00"
+  },
+  {
+   "id": "d2eeca7ee387",
+   "titulo": "Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
+   "resumo": "",
+   "link": "https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/8knS3uAVAL2UhQTQc353cCQekQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/Pcq4ZwSjKEW4dNAzQjdQ/fotojet-2026-10-29t175929.498.jpg",
+   "data": "2026-10-30T03:00:00-03:00"
+  },
+  {
+   "id": "3a0e97d19ff7",
+   "titulo": "Base bolsonarista teme ficar em sinuca de bico entre Flávio e STF",
+   "resumo": "Preocupação de bolsonaristas é de que, pressionados por Flávio, precisem optar entre ser taxado de \"traidor\" da direita ou virar alvo do STF",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/base-bolsonarista-teme-ficar-em-sinuca-de-bico-entre-flavio-e-stf",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/03/captura-de-tela-2026-03-24-180657-e1778858564772.jpg",
+   "data": "2026-10-30T02:00:10-03:00"
+  },
+  {
+   "id": "7aebe0650502",
+   "titulo": "Parlamentares de esquerda movem série de ações no STF contra lideranças da direita",
+   "resumo": "Entenda a ofensiva judicial de parlamentares do PT e PSOL contra Flávio Bolsonaro e Nikolas Ferreira no STF, incluindo pedidos de prisão e bloqueio de bens.",
+   "link": "https://www.gazetadopovo.com.br/republica/parlamentares-de-esquerda-movem-serie-de-acoes-no-stf-contra-liderancas-da-direita/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30013500/nikolas-flavio-segundo-turno-1-960x540.jpg",
+   "data": "2026-10-30T01:34:46-03:00"
+  },
+  {
+   "id": "83f2422e9f35",
+   "titulo": "Uma torre romana reapareceu sob uma fortaleza medieval exatamente onde viajantes do século XVII diziam que ela deveria estar",
+   "resumo": "Uma torre romana de quase dois mil anos foi identificada a aproximadamente quatro metros de profundidade em Alba Iulia, na Romênia. A descoberta revelou parte da entrada principal do antigo acampamento militar de Apulum, posteriormente inco…",
+   "link": "https://oantagonista.com.br/brasil/uma-torre-romana-reapareceu-sob-uma-fortaleza-medieval-exatamente-onde-viajantes-do-seculo-xvii-diziam-que-ela-deveria-estar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Archaeologists_excavating_Roman_…_9a1ce6fc1.jpg",
+   "data": "2026-10-30T00:43:00-03:00"
+  },
+  {
+   "id": "970226a0534d",
+   "titulo": "A posição do Brasil no mundo com a reeleição de Lula - O Assunto #1836",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+   "data": "2026-10-30T00:30:01-03:00"
+  },
+  {
+   "id": "01231d9853a5",
+   "titulo": "Vorcaro diz que pretendia deixar a gestão do Banco Master",
+   "resumo": "Empresário afirmou que planejava sair da presidência em uma reorganização com o BRB e cogitava Paulo Henrique Costa para o cargo",
+   "link": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-pretendia-deixar-a-gestao-do-banco-master/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/XOoNHpvbYQY/hqdefault.jpg",
+   "data": "2026-10-30T00:29:31-03:00"
+  },
+  {
+   "id": "67a7a6bc789c",
+   "titulo": "Defesa de Daniel Vorcaro apresenta laudo técnico que pode anular mensagens contra Moraes",
+   "resumo": "Laudo pericial da defesa de Daniel Vorcaro aponta alterações em celular apreendido. Entenda como isso pode anular provas e favorecer Alexandre de Moraes.",
+   "link": "https://www.gazetadopovo.com.br/republica/defesa-de-daniel-vorcaro-apresenta-laudo-tecnico-que-pode-anular-mensagens-contra-moraes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30001215/ASPA-GRANDE-2026-10-27T091305.191-1-960x540.jpg",
+   "data": "2026-10-30T00:12:11-03:00"
+  },
+  {
+   "id": "625f570cfb70",
+   "titulo": "Vorcaro nega à PF promessa de imóveis a ex-presidente do BRB",
+   "resumo": "Empresário disse que apartamentos serviriam de moradia caso Paulo Henrique Costa assumisse cargo no conglomerado formado pelos bancos",
+   "link": "https://www.poder360.com.br/poder-justica/vorcaro-nega-a-pf-promessa-de-imoveis-a-ex-presidente-do-brb/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/lNhl7fiJ2p0/hqdefault.jpg",
+   "data": "2026-10-30T00:05:13-03:00"
+  },
+  {
+   "id": "110f0619343c",
+   "titulo": "Senadores de partidos de esquerda traçam estratégias para fazer frente à bancada recorde do PL",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/30/senado-esquerda-bancada-recorde-do-pl.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/rFAu_yQfxw9mqQ4JUkrgPn9uBzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/8/mP99gpTWyme7gW6ySwCg/55574161310-5a5ac7dc92-k.jpg",
+   "data": "2026-10-30T00:00:01-03:00"
+  },
+  {
+   "id": "f0772d57abf4",
+   "titulo": "Carta de Flávio Bolsonaro e fuga do Brasil geram críticas até entre aliados e movimentam direita para 2030",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/30/repercussao-carta-de-flavio-bolsonaro-e-fuga-do-brasil.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Y8LVk156CLeAd_S34Cw5O51Hl_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/Cwju4LRiWtazZkQkivwA/tn220261026014.jpg",
+   "data": "2026-10-30T00:00:00-03:00"
+  },
+  {
+   "id": "87a5f0d2c1ed",
+   "titulo": "Entre veteranos e novos nomes, Nordeste marca presença no entorno de Lula; veja aliados",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/30/entre-veteranos-e-novos-nomes-nordeste-marca-presenca-no-entorno-de-lula-veja-aliados.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/WL0okTy_Ajk_p8B4mHI7Gr7YH_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/W/DMFqNATHK5ArY4vgpysw/whatsapp-image-2026-10-25-at-22.47.45.jpeg",
+   "data": "2026-10-30T00:00:00-03:00"
+  },
+  {
+   "id": "b1b2ce01374c",
+   "titulo": "Lula 4 aposta em pragmatismo para lidar com Trump, contornar atritos com Milei e ampliar alianças no mundo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/30/lula-4-aposta-em-pragmatismo-para-lidar-com-trump-contornar-atritos-com-milei-e-ampliar-aliancas-no-mundo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/G7fA--PKCHcQynmeRqbyIc_6-7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/DVHrj1RfAqUQogKPAaUA/bbc.webp",
+   "data": "2026-10-30T00:00:00-03:00"
+  },
+  {
+   "id": "97023b55d2e1",
+   "titulo": "Vorcaro compara negociação com o BRB à compra de uma casa",
+   "resumo": "Ex-banqueiro usou analogia para defender que venda de carteiras de crédito ao BRB não foi concluída",
+   "link": "https://www.poder360.com.br/poder-justica/vorcaro-compara-negociacao-com-o-brb-a-compra-de-uma-casa/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/eH7KIXRVyz4/hqdefault.jpg",
+   "data": "2026-10-29T23:53:47-03:00"
+  },
+  {
+   "id": "0abb5fc70b8d",
+   "titulo": "Defesa de Bolsonaro pede autorização para visita de Rogério Marinho",
+   "resumo": "Defesa de Bolsonaro pediu autorização a Moraes para uma visita do senador Rogério Marinho, que coordenou a campanha de Flávio.",
+   "link": "https://www.gazetadopovo.com.br/republica/defesa-de-bolsonaro-pede-autorizacao-para-visita-de-rogerio-marinho/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/29234747/rogerio-marinho-1-960x540.jpg",
+   "data": "2026-10-29T23:49:27-03:00"
+  },
+  {
+   "id": "c1b0dfb9bd01",
+   "titulo": "Washington Post critica Judiciário brasileiro e alerta para riscos à democracia",
+   "resumo": "O The Washington Post publicou nesta quarta-feira, 28, um editorial crítico à atuação do Judiciário brasileiro, especialmente do Supremo Tribunal Federal (STF) e do ministro Alexandre de Moraes . O jornal alerta que a concentração de podere…",
+   "link": "https://revistaoeste.com/politica/iwashington-post-i-critica-judiciario-brasileiro-e-alerta-para-riscos-a-democracia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Judiciario_Moraes-e-o-problema-WP.jpeg",
+   "data": "2026-10-29T23:47:22-03:00"
+  },
+  {
+   "id": "2af0cea48066",
+   "titulo": "Vorcaro culpa investigação por crise no BRB e nega prejuízo",
+   "resumo": "Ex-banqueiro afirma em depoimento que liquidação e sua prisão provocaram perda de credibilidade e saques bilionários no BRB",
+   "link": "https://www.poder360.com.br/poder-justica/vorcaro-culpa-investigacao-por-crise-no-brb-e-nega-prejuizo/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/bz1Qgq64uw0/hqdefault.jpg",
+   "data": "2026-10-29T23:24:34-03:00"
+  },
+  {
+   "id": "d358ce85f211",
+   "titulo": "Multiplan tem lucro de R$ 383,2 milhões no 3º tri, alta de 73,3%",
+   "resumo": "Receita líquida avançou 37% e vendas nos shoppings subiram 5,9%",
+   "link": "https://www.poder360.com.br/poder-economia/multiplan-tem-lucro-de-r-3832-milhoes-no-3o-tri-alta-de-733/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-29T23:22:18-03:00"
+  },
+  {
+   "id": "28c8b8312002",
+   "titulo": "Vorcaro diz que seu celular virou uma “maldição”",
+   "resumo": "Fundador do Banco Master disse que mensagens extraídas do aparelho foram descontextualizadas na investigação",
+   "link": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-seu-celular-virou-uma-maldicao/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/-F9LZ86298g/hqdefault.jpg",
+   "data": "2026-10-29T22:52:43-03:00"
+  },
+  {
+   "id": "2252ab7c4c4c",
+   "titulo": "Fonteles nega conversa com Lula sobre cargos e descarta articulação para a Fazenda",
+   "resumo": "Rafael Fonteles, governador do Piauí, nega ter discutido cargos com Lula e afirma desconhecer visita do petista ao estado.",
+   "link": "https://www.gazetadopovo.com.br/republica/fonteles-nega-conversa-com-lula-sobre-cargos-e-descarta-articulacao-para-a-fazenda/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/29224044/fonteles-Lula-960x540.jpg",
+   "data": "2026-10-29T22:51:45-03:00"
+  },
+  {
+   "id": "a780833d3b94",
+   "titulo": "Assista à íntegra do depoimento de Vorcaro à PF",
+   "resumo": "Empresário nega responsabilidade por crise no BRB e foi questionado sobre operações de crédito e celulares",
+   "link": "https://www.poder360.com.br/poder-justica/assista-a-integra-do-depoimento-de-vorcaro-a-pf/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/VqlO6jdv-cU/hqdefault.jpg",
+   "data": "2026-10-29T22:45:06-03:00"
+  },
+  {
+   "id": "d23dff8cfdd8",
+   "titulo": "Vale lucra US$ 1,25 bi no 3º trimestre, queda anual de 53%",
+   "resumo": "Mesmo com ferro em queda, aumento nas vendas de níquel e avanço nos preços do cobre amenizaram desvalorização",
+   "link": "https://www.poder360.com.br/poder-economia/vale-lucra-us-125-bi-no-3o-trimestre-queda-anual-de-53/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-29T22:45:00-03:00"
+  },
+  {
+   "id": "8ceefb1c6b35",
+   "titulo": "Binance congela US$ 2,54 bi após suspeita de ataque hacker",
+   "resumo": "Empresa suspendeu saques temporariamente; Tether e Circle também bloquearam ativos em coordenação com autoridades",
+   "link": "https://www.poder360.com.br/poder-economia/binance-congela-us-254-bi-apos-possivel-ataque-hacker/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Ataque-hacker-a-Binance-29-out-2026.png",
+   "data": "2026-10-29T22:37:21-03:00"
+  },
+  {
+   "id": "90f4a815912b",
+   "titulo": "Hatch de entrada com motor 1.0 e 84 cv reúne 4 airbags, controle de estabilidade e plataforma usada em modelos mais caros",
+   "resumo": "Um carro de entrada pode ter mecânica simples sem abrir mão de recursos eletrônicos de segurança. O Volkswagen Polo Track 2026 utiliza motor 1.0 MPI flex e câmbio manual de cinco marchas, porém já sai com quatro airbags, controle de estabil…",
+   "link": "https://oantagonista.com.br/brasil/hatch-de-entrada-com-motor-1-0-e-84-cv-reune-4-airbags-controle-de-estabilidade-e-plataforma-usada-em-modelos-mais-caros/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/Volkswagen_Polo_on_asphalt_202608032033.jpg",
+   "data": "2026-10-29T22:33:00-03:00"
+  },
+  {
+   "id": "e000e51ed960",
+   "titulo": "Justiça obriga Meta a excluir posts que estimulam demissão por divergência política",
+   "resumo": "Justiça do Trabalho também obrigou a Meta a divulgar um comunicado sobre a ilegalidade do assédio eleitoral nas relações de emprego.",
+   "link": "https://www.gazetadopovo.com.br/republica/justica-obriga-meta-a-excluir-posts-que-estimulam-demissao-por-divergencia-politica/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16182702/meta-facebook-instagram-whatsapp-960x540.jpg",
+   "data": "2026-10-29T22:06:04-03:00"
+  },
+  {
+   "id": "9a69bd161dbe",
+   "titulo": "Flávio Bolsonaro articula pedido de asilo político nos Estados Unidos",
+   "resumo": "Senador Flávio Bolsonaro prepara pedido de asilo político nos EUA alegando perseguição do Judiciário brasileiro e buscando apoio do governo Donald Trump.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-articula-pedido-de-asilo-politico-nos-estados-unidos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/29215823/flavio-bolsonaro-chega-estados-unidos-1-960x540.jpg",
+   "data": "2026-10-29T21:58:19-03:00"
+  },
+  {
+   "id": "5d34bcae4916",
+   "titulo": "Fachin fica com o Master; INSS volta a Mendonça",
+   "resumo": "O presidente do Supremo Tribunal Federal, Edson Fachin, deu destinos diferentes a dois conjuntos de investigações que estavam paralisados na Presidência da Corte desde setembro. Em decisão desta quinta-feira, 29, os autos sobre fraudes no I…",
+   "link": "https://oantagonista.com.br/brasil/fachin-fica-com-o-master-inss-volta-a-mendonca/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530105173_e31ecd10b8_6k-scaled.jpg",
+   "data": "2026-10-29T21:57:05-03:00"
+  },
+  {
+   "id": "fbaab3a0db8c",
+   "titulo": "Jair Renan desmente que tenha virado réu",
+   "resumo": "O deputado eleito Jair Renan Bolsonaro (PL-SC) desmentiu nesta quinta-feira, 29, a informação de que teria se tornado réu por suspeita de lavagem de dinheiro. A informação havia sido publicada pelo jornalista Renato Souza, do jornal Correio…",
+   "link": "https://oantagonista.com.br/brasil/jair-renan-desmente-que-tenha-virado-reu/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/capa-noticia-2133x1200-8.jpg",
+   "data": "2026-10-29T21:56:13-03:00"
+  },
   {
    "id": "ee681bd737d5",
    "titulo": "Fachin devolve inquéritos do INSS a Mendonça, mas mantém caso Master na Presidência",
@@ -10,16 +262,7 @@
    "link": "https://www.gazetadopovo.com.br/republica/fachin-devolve-inqueritos-do-inss-a-mendonca-mas-mantem-caso-master/",
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/29205147/mendonca-relator-inss-960x540.jpg",
-   "data": "2026-10-29T21:47:47-03:00"
-  },
-  {
-   "id": "bb1615f1d608",
-   "titulo": "Vorcaro diz estar preso há quase 1 ano por negócio que não ocorreu",
-   "resumo": "Fundador do Master negou fraude nas operações com o BRB e pediu avaliação dos ativos entregues ao banco",
-   "link": "https://www.poder360.com.br/poder-justica/vorcaro-diz-estar-preso-ha-quase-1-ano-por-negocio-que-nao-ocorreu/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T21:44:58-03:00"
+   "data": "2026-10-29T21:49:43-03:00"
   },
   {
    "id": "e6312f2a3852",
@@ -29,42 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/19120446/nikolas-flavio-segundo-turno-960x540.jpg",
    "data": "2026-10-29T21:33:54-03:00"
-  },
-  {
-   "id": "b6f3dfd579b7",
-   "titulo": "Defesa de Vorcaro diz que celular teve alterações na PF",
-   "resumo": "Documento enviado ao STF questiona confiabilidade de provas; defesa alega manuseio sem registro enquanto sob custódia",
-   "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-diz-que-celular-teve-alteracoes-na-pf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T21:31:52-03:00"
-  },
-  {
-   "id": "80bfaf24808a",
-   "titulo": "Deputado italiano pede investigação sobre cidadania de Flávio",
-   "resumo": "Angelo Bonelli questiona rapidez na concessão dos documentos também a Eduardo e Carlos; senador usou passaporte italiano para ir aos EUA",
-   "link": "https://www.poder360.com.br/poder-internacional/deputado-italiano-pede-investigacao-sobre-cidadania-de-flavio/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/publicacao-angelo-bonelli-flavio-passaporte-taliano-29.out_.2026.png",
-   "data": "2026-10-29T21:18:01-03:00"
-  },
-  {
-   "id": "6ce438b800bd",
-   "titulo": "Morre aos 86 anos Patrick Stewart, ator de “Star Trek” e “X-Men”",
-   "resumo": "Britânico interpretou o capitão Jean-Luc Picard e o professor Charles Xavier nos filmes; morte foi anunciada pela família nesta 5ª feira (29.out)",
-   "link": "https://www.poder360.com.br/poder-cultura/morre-aos-86-anos-patrick-stewart-ator-de-star-trek-e-x-men/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T21:15:46-03:00"
-  },
-  {
-   "id": "3e3fd799b947",
-   "titulo": "PF investiga desvio de R$ 75 milhões no TCE-MT",
-   "resumo": "Operação prendeu o presidente do tribunal e afastou 3 conselheiros; PF investiga contratos superfaturados e suspeitas de lavagem de dinheiro",
-   "link": "https://www.poder360.com.br/poder-justica/pf-investiga-desvio-de-r-75-milhoes-no-tce-mt/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T21:10:46-03:00"
   },
   {
    "id": "3a55754a4bb1",
@@ -103,15 +310,6 @@
    "data": "2026-10-29T20:51:01-03:00"
   },
   {
-   "id": "5c350b92c189",
-   "titulo": "Quem é Sérgio Ricardo, presidente do TCE-MT preso pela PF",
-   "resumo": "Ex-deputado estadual, conselheiro é investigado em operação que apura suspeitas de desvios de recursos públicos",
-   "link": "https://www.poder360.com.br/poder-justica/quem-e-sergio-ricardo-presidente-do-tce-mt-preso-pela-pf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T20:50:25-03:00"
-  },
-  {
    "id": "75251838e1e7",
    "titulo": "Intelbras demite funcionário que sugeriu fuzilamento das filhas de Flávio",
    "resumo": "A Intelbras , empresa de tecnologia de Santa Catarina, anunciou nesta quinta-feira, 29, a demissão de Caio Anjo Fernandes. O ex-funcionário publicou no X uma mensagem que faz referência ao fuzilamento das duas filhas do senador Flávio Bolso…",
@@ -139,15 +337,6 @@
    "data": "2026-10-29T20:11:19-03:00"
   },
   {
-   "id": "a5dca55a1551",
-   "titulo": "Intel tem queda de 18% no lucro e reporta US$ 3,3 bilhões no 3º tri",
-   "resumo": "Receita líquida da companhia cresceu 20,9% em relação ao mesmo trimestre de 2025",
-   "link": "https://www.poder360.com.br/poder-economia/intel-tem-queda-de-18-no-lucro-e-reporta-us-33-bilhoes-no-3o-tri/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T20:10:59-03:00"
-  },
-  {
    "id": "fb211d26e39e",
    "titulo": "PT amplia ofensiva contra opositores com pedidos de apreensão de passaportes",
    "resumo": "Integrantes do Partido dos Trabalhadores (PT) intensificaram a ofensiva judicial contra adversários políticos depois do segundo turno das eleições , realizado no último domingo, 25. Em quatro dias, representantes da legenda apresentaram ou …",
@@ -157,24 +346,6 @@
    "data": "2026-10-29T19:59:56-03:00"
   },
   {
-   "id": "8853fb445ace",
-   "titulo": "CMN amplia limites de crédito para Estados, DF e municípios em 2026",
-   "resumo": "O limite global anual autorizado passa de R$ 28,625 bilhões para R$ 30,625 bilhões, alta de R$ 2 bilhões",
-   "link": "https://www.poder360.com.br/poder-economia/cmn-amplia-limites-de-credito-para-estados-df-e-municipios-em-2026/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T19:56:57-03:00"
-  },
-  {
-   "id": "0ccea163043e",
-   "titulo": "Jogo inspirado em Mario reúne Flávio, Lula e Polícia Federal",
-   "resumo": "“Corre Flávio” faz referência à fuga do senador do Brasil e usa elementos do clássico da Nintendo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/jogo-inspirado-em-mario-reune-flavio-lula-e-policia-federal/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T19:49:12-03:00"
-  },
-  {
    "id": "5ee85ec27d29",
    "titulo": "“Cheiro de pizza no ar”, diz Marinho sobre caso Master",
    "resumo": "O senador Rogério Marinho (PL-RN) afirmou nesta quinta-feira, 29, que o sistema estaria se protegendo no caso Master após as eleições presidenciais. O ex-coordenador da campanha de Flávio Bolsonaro à Presidência compartilhou uma reportagem …",
@@ -182,15 +353,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55528643231_aeb1002b14_o-scaled-e1791298528987.jpg",
    "data": "2026-10-29T19:46:57-03:00"
-  },
-  {
-   "id": "bcfae3421101",
-   "titulo": "MPT processa Meta em R$ 50 milhões por posts de assédio eleitoral",
-   "resumo": "Órgão pede retirada de publicações em até 24 horas e suspensão de perfis que incentivarem demissões por convicção política",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpt-processa-meta-em-r-50-milhoes-por-posts-de-assedio-eleitoral/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-29T19:40:10-03:00"
   },
   {
    "id": "83eb5b8420fc",
@@ -310,33 +472,6 @@
    "data": "2026-10-29T18:01:57-03:00"
   },
   {
-   "id": "c867232c7fd8",
-   "titulo": "Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição",
-   "resumo": "Especialistas em imigração e analistas internacionais consideram provável que Flávio Bolsonaro obtenha o asilo político de Donald Trump.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-reune-argumentos-para-pedir-asilo-nos-eua-e-mostrar-que-sofre-perseguicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/28220332/flavio-bolsonaro-chega-estados-unidos-960x540.jpg",
-   "data": "2026-10-29T17:57:13-03:00"
-  },
-  {
-   "id": "4893e6c74744",
-   "titulo": "Rui Falcão pede investigação sobre repasses a Flávio Bolsonaro",
-   "resumo": "O deputado federal Rui Falcão (PT-SP) pediu à Procuradoria-Geral da República (PGR), nesta quarta-feira, 21, a abertura de investigação criminal contra o senador Flávio Bolsonaro (PL-RJ) e o advogado Edvaldo Nilo de Almeida, integrante do C…",
-   "link": "https://oantagonista.com.br/brasil/rui-falcao-pede-investigacao-sobre-repasses-a-flavio-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2023/02/Rui-Falcao-1-scaled.jpg",
-   "data": "2026-10-29T17:41:56-03:00"
-  },
-  {
-   "id": "c4511fa415ac",
-   "titulo": "Crusoé: Zanatta denuncia “golpe” do voto distrital misto",
-   "resumo": "A deputada federal reeleita Júlia Zanatta (PL-SC) criticou nesta quinta, 29, a discussão sobre a criação de uma Proposta de Emenda à Constituição (PEC) para mudar o sistema eleitoral brasileiro do modelo proporcional para o distrital misto.…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-zanatta-denuncia-golpe-do-voto-distrital-misto/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/julia-zanatta-1.jpg",
-   "data": "2026-10-29T17:41:23-03:00"
-  },
-  {
    "id": "f3587aa896ee",
    "titulo": "MP de São Paulo pede condenação de Renato Cariani por tráfico de drogas e lavagem de dinheiro",
    "resumo": "O Ministério Público de São Paulo (MP-SP) pediu à Justiça a condenação do influenciador digital e empresário Renato Cariani por tráfico de insumos químicos destinados à fabricação de drogas, associação para o tráfico e lavagem de dinheiro. …",
@@ -355,15 +490,6 @@
    "data": "2026-10-29T17:26:10-03:00"
   },
   {
-   "id": "afc579af0475",
-   "titulo": "Bia Kicis diz que oposição vai trabalhar para reduzir alíquota da CBS",
-   "resumo": "A deputada federal e senadora eleita Bia Kicis (PL-DF) afirmou nesta quinta-feira, 29, que a oposição pretende trabalhar para reduzir a alíquota de referência de 11,3% da Contribuição sobre Bens e Serviços (CBS), aprovada pelo Tribunal de C…",
-   "link": "https://oantagonista.com.br/brasil/bia-kicis-diz-que-oposicao-vai-trabalhar-para-reduzir-aliquota-da-cbs-1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Wesley-Amaral-Camara-dos-Deputados-scaled-1.jpg",
-   "data": "2026-10-29T17:20:08-03:00"
-  },
-  {
    "id": "d84d0315af65",
    "titulo": "Vorcaro nega danos ao BRB e diz que rombo bilionário foi causado pela investigação: 'Banco vive de credibilidade'",
    "resumo": "",
@@ -371,15 +497,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/4mgP-BLmOEN-GZDIG2oQXznFBC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/tKA3WvRZ23D9gA1d2RKA/vorcaro-depoe.png",
    "data": "2026-10-29T17:14:56-03:00"
-  },
-  {
-   "id": "67bbd86a6c89",
-   "titulo": "IBJR contesta estimativa de que bets tiraram R$ 143 bilhões do comércio",
-   "resumo": "O Instituto Brasileiro de Jogo Responsável (IBJR) contestou os dados divulgados pela Associação Brasileira de Supermercados (ABRAS) sobre o aumento das compras de alimentos após a restrição às apostas on-line. Para o instituto, os números n…",
-   "link": "https://oantagonista.com.br/brasil/ibjr-contesta-estimativa-de-que-bets-tiraram-r-143-bilhoes-do-comercio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/melhores-bets-copa-do-mundo-app-1.jpg",
-   "data": "2026-10-29T17:14:41-03:00"
   },
   {
    "id": "6db59b6b1c74",
@@ -427,15 +544,6 @@
    "data": "2026-10-29T17:01:00-03:00"
   },
   {
-   "id": "5314f275f460",
-   "titulo": "Janones deve continuar na Câmara em vez de assumir ministério no Lula 4",
-   "resumo": "Deputado comandante do \"Exército do Lula\" diz que pode ser mais útil no Congresso, onde a direita terá maioria em 2027. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/janones-deve-continuar-camara-em-vez-de-assumir-ministerio-lula-4/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29170013/lula-com-andre-janones-foto-ricardo-stuckert-secom-1-960x540.jpg",
-   "data": "2026-10-29T17:00:45-03:00"
-  },
-  {
    "id": "594e23d35994",
    "titulo": "PT ameaça romper com Motta caso PL entre no bloco de apoio à reeleição",
    "resumo": "O Partido dos Trabalhadores (PT) ameaçou deixar o bloco de apoio à reeleição do presidente da Câmara dos Deputados , Hugo Motta (Republicanos-PB), caso o Partido Liberal (PL) ingresse na aliança. O PL negocia uma aproximação com o parlament…",
@@ -454,69 +562,6 @@
    "data": "2026-10-29T16:39:52-03:00"
   },
   {
-   "id": "11acca624f59",
-   "titulo": "Polícia Federal prende presidente do TCE-MT por suspeita de desvio milionário",
-   "resumo": "Em menos de dez meses de 2025, o TCE-MT depositou R$ 15,4 milhões nas contas do presidente da Corte, Sérgio Ricardo, segundo a investigação.",
-   "link": "https://www.gazetadopovo.com.br/republica/policia-federal-prende-presidente-do-tce-mt-por-suspeita-de-desvio-milionario/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29163045/Design-sem-nome-24-960x540.jpg",
-   "data": "2026-10-29T16:35:13-03:00"
-  },
-  {
-   "id": "059a1f12eb10",
-   "titulo": "Lula considera escolher uma mulher para assumir a Defesa",
-   "resumo": "O presidente Luiz Inácio Lula da Silva busca uma mulher para assumir o Ministério da Defesa no próximo mandato, depois de José Mucio Monteiro pedir para deixar o cargo. Segundo apuração do portal CNN Brasil , três nomes estão em discussão: …",
-   "link": "https://revistaoeste.com/politica/lula-considera-escolher-uma-mulher-para-assumir-a-defesa/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/lula-2.jpg",
-   "data": "2026-10-29T16:32:04-03:00"
-  },
-  {
-   "id": "6b6665d6bd4b",
-   "titulo": "Rui Costa defende distanciamento do governo sobre viagem de Flávio aos EUA",
-   "resumo": "Senador eleito pelo PT afirma que eventual saída irregular do parlamentar para os EUA deve ser tratada pela Justiça. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/rui-costa-defende-distanciamento-governo-viagem-flavio-eua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29162944/rui-costa-foto-antonio-cruz-agencia-brasil-960x540.jpg",
-   "data": "2026-10-29T16:30:07-03:00"
-  },
-  {
-   "id": "cf6db1f69d34",
-   "titulo": "Governo quer manter pragmatismo com EUA e Argentina e não pretende reagir à fuga de Flávio Bolsonaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/29/governo-quer-manter-pragmatismo-com-eua-e-argentina-e-nao-pretende-reagir-a-fuga-de-flavio-bolsonaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
-   "data": "2026-10-29T16:28:41-03:00"
-  },
-  {
-   "id": "978f01c8389d",
-   "titulo": "É #FAKE que governo Lula 'bloqueou' Gás do Povo e Bolsa Família após eleições de 2026",
-   "resumo": "",
-   "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/29/e-fake-que-governo-lula-bloqueou-gas-do-povo-e-bolsa-familia-apos-eleicoes-de-2026.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Chl1Hm-8h3trSXqj90zVZbncspw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/b/NohOSxSyqRyJISwReOKA/valegas26.jpg",
-   "data": "2026-10-29T15:52:54-03:00"
-  },
-  {
-   "id": "efb475e720b1",
-   "titulo": "Fachin arquiva investigações no Supremo e encerra frentes do inquérito das fake news",
-   "resumo": "O ministro Edson Fachin decidiu arquivar cinco investigações do inquérito das fake news por falta de provas e prescrição. Entenda as mudanças no STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-arquiva-investigacoes-no-supremo-e-encerra-frentes-do-inquerito-das-fake-news/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29154357/ASPA-GRANDE-2026-10-29T112252.182-1-960x540.jpg",
-   "data": "2026-10-29T15:43:54-03:00"
-  },
-  {
-   "id": "1ebb5b23a2cb",
-   "titulo": "Lula vira em 3 regiões metropolitanas e cresce mais de 30% em outras 6 do 1º para o 2º turno; Flávio perde votos em 7",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/29/desempenho-lual-flavio-bolsonaro-regioes-metropolitanas.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/1GnhEh4E0SoSRg8qziLXXHypnhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/eiEQioRUSFbCBng6wiag/fotojet-3-.jpg",
-   "data": "2026-10-29T15:36:31-03:00"
-  },
-  {
    "id": "588b15bd2ae9",
    "titulo": "A eleição acabou: é hora de direita, esquerda e Judiciário baixarem armas",
    "resumo": "É hora de respeitar o resultado das urnas, baixar as armas e entender que a disputa eleitoral tem regras que devem ser respeitadas por todos",
@@ -524,33 +569,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/flavio-e-lula.jpeg",
    "data": "2026-10-29T15:25:48-03:00"
-  },
-  {
-   "id": "56f723e5b830",
-   "titulo": "Déficit das estatais federais sobe para R$ 8,5 bilhões até setembro e bate novo recorde",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/29/deficit-das-estatais-federais-sobe-para-r-85-bilhoes-ate-setembro-e-bate-novo-recorde.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/H2e5E3P-6DipIgK6sjDR7jDt3NI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/G/tFk5h7RlGIUkJSKpzlZQ/djavan-barbosa-7634.jpg",
-   "data": "2026-10-29T14:40:35-03:00"
-  },
-  {
-   "id": "8a0cbd8e9fa5",
-   "titulo": "Contas públicas têm déficit de R$ 5,5 bilhões em setembro; dívida soma 82,9% do PIB, maior nível em cinco anos e meio",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/29/contas-publicas-tem-deficit-de-r-55-bilhoes-em-setembro-divida-segue-em-829percent-do-pib-maior-nivel-desde-2021.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/NEQ5QEmQq3hq1aMUuCI-32mEg_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/L/m/xJ33noQUurvxa9pzqgig/dinheiro-4.jpeg",
-   "data": "2026-10-29T14:11:14-03:00"
-  },
-  {
-   "id": "30445b453f10",
-   "titulo": "Inadimplência e endividamento das famílias são recorde em setembro, informa Banco Central",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/3cQNzedkttriUNo4fsHhDT1c1LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/K/2/v1Hah4RB2k6xAfgDhanQ/canal-4-28-frame-219279.jpeg",
-   "data": "2026-10-29T14:02:47-03:00"
   },
   {
    "id": "f10fc70374ea",
@@ -713,15 +731,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/historico-de-viagem-2-jpg.jpeg",
    "data": "2026-10-28T11:17:43-03:00"
-  },
-  {
-   "id": "fc2f38c473f2",
-   "titulo": "Edinho diz que PT defende voto em lista, mas pode negociar distrital misto",
-   "resumo": "Presidente do PT, Edinho Silva diz que sigla prefere adoção do voto em lista, mas que topa negociar com o Centrão modelo distrital misto",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/edinho-diz-que-pt-defende-voto-em-lista-mas-pode-negociar-distrital-misto",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/08/presidente-nacional-do-pt-edinho-silva-metropoles-14-scaled.jpg",
-   "data": "2026-10-28T10:06:02-03:00"
   },
   {
    "id": "9bdb02067469",
