@@ -1,8 +1,206 @@
 {
- "atualizado": "2026-10-31T02:27:41.087940-03:00",
- "total": 85,
+ "atualizado": "2026-10-31T09:14:46.916666-03:00",
+ "total": 84,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "5617ad45319c",
+   "titulo": "Amazônia emite mais CO₂ do que absorve, aponta estudo",
+   "resumo": "Pesquisa do Inpe publicada na revista Nature analisou 15 anos de dados e identificou as queimadas como principal fonte de emissões de carbono na região",
+   "link": "https://www.poder360.com.br/poder-sustentavel/amazonia-emite-mais-co%e2%82%82-do-que-absorve-aponta-estudo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T09:00:33-03:00"
+  },
+  {
+   "id": "7282a7ad2cb3",
+   "titulo": "Embrapa cria galinheiro para prevenir doenças em comunidades indígenas",
+   "resumo": "Modelo custa R$ 18.000, abriga até 100 aves e busca melhorar a produção de ovos e reduzir riscos de gripe aviária no Pantanal",
+   "link": "https://www.poder360.com.br/poder-agro/embrapa-cria-galinheiro-para-prevenir-doencas-em-comunidades-indigenas/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/galinheiro-embrapa-1.jpg",
+   "data": "2026-10-31T08:50:31-03:00"
+  },
+  {
+   "id": "f80d0a50f1f7",
+   "titulo": "Presidente do TCE-MT sacou R$ 15 milhões em dinheiro vivo, diz PF",
+   "resumo": "O presidente do Tribunal de Contas de Mato Grosso (TCE-MT), Sérgio Ricardo de Almeida, sacou R$ 15,6 milhões em espécie em dez meses de 2025, segundo relatório da Polícia Federal. Preso na última quinta-feira, 29, ele é suspeito de comandar…",
+   "link": "https://oantagonista.com.br/brasil/presidente-do-tce-mt-sacou-r-15-milhoes-em-dinheiro-vivo-diz-pf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Sergio-Ricardo-TCE-MT.jpg",
+   "data": "2026-10-31T08:35:45-03:00"
+  },
+  {
+   "id": "318ee779c319",
+   "titulo": "Exército treina militares para enfrentar ameaças químicas e nucleares",
+   "resumo": "Curso de 24 semanas reuniu brasileiros e estrangeiros e incluiu simulações de contaminação e preparação para a Copa do Mundo Feminina de 2027",
+   "link": "https://www.poder360.com.br/poder-brasil/exercito-treina-militares-para-enfrentar-ameacas-quimicas-e-nucleares/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/exercito-curso-ameaca-nuclear-2.jpg",
+   "data": "2026-10-31T08:30:29-03:00"
+  },
+  {
+   "id": "848e803441e6",
+   "titulo": "Vieira e Rubio marcam reunião bilateral antes da cúpula do G20",
+   "resumo": "O ministro das Relações Exteriores, Mauro Vieira, e o secretário de Estado dos Estados Unidos, Marco Rubio, combinaram uma reunião bilateral antes da Cúpula de Líderes do G20, prevista para dezembro. Os dois conversaram nesta sexta-feira, 3…",
+   "link": "https://revistaoeste.com/politica/vieira-e-rubio-marcam-reuniao-bilateral-antes-da-cupula-do-g20/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Marco-Rubio-e-Mauro-Vieira-se-encontraram-durante-reuniao-do-G20-em-Atlanta-e1793405773986.webp",
+   "data": "2026-10-31T08:30:00-03:00"
+  },
+  {
+   "id": "d7f68cea2c88",
+   "titulo": "Dieta à base de vegetais contribui para perda de peso, diz estudo",
+   "resumo": "Estudo com 244 adultos mostrou que uma dieta vegana com pouca gordura favoreceu a perda de peso em 16 semanas",
+   "link": "https://www.poder360.com.br/poder-saude/dieta-a-base-de-vegetais-contribui-para-perda-de-peso-diz-estudo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T08:20:26-03:00"
+  },
+  {
+   "id": "79d78f7c7b36",
+   "titulo": "Moraes manda prender eletricista condenado pelo 8/1",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a prisão do eletricista Willian Fonseca Amorim (foto), de 50 anos, condenado a 14 anos por participação nos atos do 8 de Janeiro. A ordem foi enviada à Polícia Fe…",
+   "link": "https://oantagonista.com.br/brasil/moraes-manda-prender-eletricista-condenado-pelo-8-1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Willian-Fonseca-Amorim.png",
+   "data": "2026-10-31T08:18:29-03:00"
+  },
+  {
+   "id": "1877a5de77ee",
+   "titulo": "Marinho diz que não pretende ser chefe de gabinete de Lula",
+   "resumo": "Apesar da declaração, ministro afirma que está à disposição do presidente para cumprir qualquer missão em 2027",
+   "link": "https://www.poder360.com.br/poder-governo/marinho-diz-que-nao-pretende-ser-chefe-de-gabinete-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T08:13:24-03:00"
+  },
+  {
+   "id": "0335634c9f9b",
+   "titulo": "Exército fortalece emprego operacional do Sistema de Mísseis e Foguetes",
+   "resumo": "Curso capacitou oficiais superiores em Formosa (GO) para o planejamento de longo alcance com o Sistema Astros",
+   "link": "https://www.poder360.com.br/poder-brasil/exercito-fortalece-emprego-operacional-do-sistema-de-misseis-e-foguetes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T08:10:07-03:00"
+  },
+  {
+   "id": "c83eaf3c9300",
+   "titulo": "Ibovespa cai 9,88% em outubro; dólar turismo e comercial avançam 5%",
+   "resumo": "Bolsa tem o pior desempenho entre 13 indicadores; moeda norte-americana lidera ganhos no mês depois de reeleição de Lula",
+   "link": "https://www.poder360.com.br/poder-economia/ibovespa-cai-988-em-outubro-dolar-turismo-e-comercial-avancam-5/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/indicadores-outubro-2026-1-scaled.png",
+   "data": "2026-10-31T08:08:39-03:00"
+  },
+  {
+   "id": "9490f5eeec2b",
+   "titulo": "Chanceler de Milei nega pedido de explicações do Brasil sobre Flávio",
+   "resumo": "O chanceler argentino, Pablo Quirno, negou que o governo de Javier Milei tenha recebido um pedido de explicações do Brasil sobre a passagem de Flávio Bolsonaro (PL-RJ) pela Argentina antes de seguir para os Estados Unidos. A negativa contra…",
+   "link": "https://oantagonista.com.br/brasil/chanceler-de-milei-nega-pedido-de-explicacoes-do-brasil-sobre-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/55418340502_0e1c4e90de_k-e1785236368368.jpg",
+   "data": "2026-10-31T08:04:33-03:00"
+  },
+  {
+   "id": "e3ca954bf000",
+   "titulo": "Petrobras inova na produção sustentável de combustível de aviação",
+   "resumo": "Avanços na Reduc resultaram em recertificação internacional do SAF, com menor pegada de carbono no setor",
+   "link": "https://www.poder360.com.br/poder-energia/petrobras-inova-na-producao-sustentavel-de-combustivel-de-aviacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T08:00:35-03:00"
+  },
+  {
+   "id": "e4863a33709f",
+   "titulo": "O vício da miséria",
+   "resumo": "Quando tinha 20 anos, deparei-me com uma das situações mais delicadas em que me envolvi. Uma amiga muito querida, alguém por quem nutria um apreço muito grande, tinha acabado de terminar pela segunda vez um relacionamento em que seu parceir…",
+   "link": "https://revistaoeste.com/politica/o-vicio-da-miseria/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Miseria.png",
+   "data": "2026-10-31T08:00:00-03:00"
+  },
+  {
+   "id": "52b8b2b21702",
+   "titulo": "B3 perde R$ 948,8 bilhões em valor de mercado em uma semana",
+   "resumo": "Valor de mercado das companhias listadas caiu 16,41% de 23 a 30 de outubro, depois da reeleição de Lula",
+   "link": "https://www.poder360.com.br/poder-economia/b3-perde-r-9488-bilhoes-em-valor-de-mercado-em-uma-semana/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T07:57:51-03:00"
+  },
+  {
+   "id": "17c1eb8a9143",
+   "titulo": "Projeto proíbe taxa para acesso a praias, rios e cachoeiras",
+   "resumo": "A regra atinge a administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos municípios",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-proibe-taxa-para-acesso-a-praias-rios-e-cachoeiras/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T07:50:54-03:00"
+  },
+  {
+   "id": "bf7dc61000f2",
+   "titulo": "Lula já procurou o PSD, diz Kassab",
+   "resumo": "O presidente do PSD, Gilberto Kassab (foto), afirmou que o governo Lula já procurou seu partido para discutir uma aproximação no quarto mandato. Segundo ele, o petista precisará sinalizar ao centro e adotar medidas econômicas que garantam e…",
+   "link": "https://oantagonista.com.br/brasil/lula-ja-procurou-o-psd-diz-kassab/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/55061836951_f56abee387_k.jpg",
+   "data": "2026-10-31T07:44:12-03:00"
+  },
+  {
+   "id": "9a27ff4b8044",
+   "titulo": "Advogado Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/31/advogado-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-que-disputou-com-richarlison.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/WzVIbw3ALVP-DksEK3MLXNkpSbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/VgwJBLQ7WDqtSP1IVA5A/whatsapp-image-2026-10-22-at-15.17.19-1-.jpeg",
+   "data": "2026-10-31T07:33:54-03:00"
+  },
+  {
+   "id": "8411196ce843",
+   "titulo": "A disputa pelos melhores gabinetes da Câmara",
+   "resumo": "Procurar um imóvel costuma exigir algumas escolhas. É preciso olhar o tamanho, a localização, a distância do trabalho, a facilidade de acesso e, naturalmente, verificar se há banheiro. Na Câmara dos Deputados , a procura pelo endereço onde …",
+   "link": "https://revistaoeste.com/politica/a-disputa-pelos-melhores-enderecos-da-camara/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/01/anexo-iv-camara-deputados-brasil-01.jpg",
+   "data": "2026-10-31T07:30:00-03:00"
+  },
+  {
+   "id": "6e48f7f65b20",
+   "titulo": "Moraes manda soltar desembargador acusado de vazar operação da PF",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira, 30, a soltura do desembargador federal Macário Ramos Júdice Neto, preso desde dezembro de 2025. Ele ficará sujeito a medidas cautelares, inclui…",
+   "link": "https://oantagonista.com.br/brasil/moraes-manda-soltar-desembargador-acusado-de-vazar-operacao-da-pf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-31-as-07.15.20.png",
+   "data": "2026-10-31T07:20:56-03:00"
+  },
+  {
+   "id": "252c2f8157ca",
+   "titulo": "Flávio acusa Moraes de perseguição e diz que perdeu para “o sistema”, não para Lula",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ), derrotado por Lula (PT) no segundo turno da eleição presidencial, afirmou que deixou o Brasil por se sentir perseguido pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Em sua primeira…",
+   "link": "https://oantagonista.com.br/brasil/flavio-acusa-moraes-de-perseguicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio.png",
+   "data": "2026-10-31T07:07:31-03:00"
+  },
+  {
+   "id": "5ef38a532570",
+   "titulo": "Para Centrão, Motta pode ajudar Alcolumbre a se reeleger no Senado",
+   "resumo": "Caciques do Centrão avaliam que Hugo Motta pode convencer partidos de seu \"blocão\" a também apoiarem Davi Alcolumbre no Senado",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/para-centrao-motta-pode-ajudar-alcolumbre-a-se-reeleger-no-senado",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/02/03145830/Motta-e-Alcolumbre.jpeg",
+   "data": "2026-10-31T05:00:19-03:00"
+  },
+  {
+   "id": "b64c3e2fe6b0",
+   "titulo": "Lula promete ser mais rigoroso na negociação de ministérios com Centrão",
+   "resumo": "Segundo aliados, presidente Lula vai exigir, previamente, que cada partido do Centrão diga quantos votos poderá dar ao governo no Congresso",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-promete-ser-mais-rigoroso-na-negociacao-de-ministerios-com-centrao",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/presidente-lula-durante-reuniao-emergencial-para-debater-os-desdobramentos-do-segundo-turno-da-campanha-eleitoral-em-brasilia-metropoles-7-scaled.jpg",
+   "data": "2026-10-31T05:00:04-03:00"
+  },
   {
    "id": "e10bb40b1ce3",
    "titulo": "Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA",
@@ -20,24 +218,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/31005751/ASPA-GRANDE-2026-10-28T072947.427-1-960x540.jpg",
    "data": "2026-10-31T00:57:46-03:00"
-  },
-  {
-   "id": "6b72032e8ba5",
-   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
-   "resumo": "Senador relata saída do Brasil, questiona eleição e diz que pode disputar novamente a Presidência",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-1o-video-de-flavio-bolsonaro-nos-eua/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/AIlL6yDAnqw/hqdefault.jpg",
-   "data": "2026-10-31T00:15:39-03:00"
-  },
-  {
-   "id": "c424570eeb50",
-   "titulo": "Lula envia comitiva de ministros ao MS por ameaças a indígenas",
-   "resumo": "Decisão vem em decorrência de relatos de violência registrados depois do 2º turno das eleições; governo já acionou a Força Nacional",
-   "link": "https://www.poder360.com.br/poder-governo/lula-envia-comitiva-de-ministros-ao-ms-por-ameacas-a-indigenas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-31T00:03:29-03:00"
   },
   {
    "id": "d8132a149102",
@@ -67,24 +247,6 @@
    "data": "2026-10-31T00:00:00-03:00"
   },
   {
-   "id": "41e352047ad4",
-   "titulo": "Leia a íntegra da nota do PT sobre a mobilização popular nas eleições",
-   "resumo": "Partido agradeceu militância e traçou objetivos para novo mandato de Lula",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-da-nota-do-pt-sobre-a-mobilizacao-popular-nas-eleicoes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T23:32:56-03:00"
-  },
-  {
-   "id": "7f33dbaaf18b",
-   "titulo": "PT destaca importância de mobilização popular para vitória de Lula",
-   "resumo": "Executiva nacional atribuiu resultado à participação social e traçou diretrizes para o novo governo",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-destaca-importancia-de-mobilizacao-popular-para-vitoria-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T23:01:33-03:00"
-  },
-  {
    "id": "b303d20dbfa5",
    "titulo": "BYD pede a Lula acordo com a China para transferência de tecnologia",
    "resumo": "BYD quer que o governo Lula negocie com a China a transferência de tecnologia para ampliar a fabricação de baterias no Brasil.",
@@ -92,42 +254,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/30192821/Design-sem-nome-26-960x540.jpg",
    "data": "2026-10-30T22:57:08-03:00"
-  },
-  {
-   "id": "4081f8c0e9cc",
-   "titulo": "Bolsas dos EUA fecham em forte queda com tombo da tecnologia",
-   "resumo": "Balanços de Intel e Amazon frustram mercado; Nasdaq recua 2,86% e temores com IA pressionam o setor de tecnologia",
-   "link": "https://www.poder360.com.br/poder-economia/bolsas-dos-eua-fecham-em-forte-queda-com-tombo-da-tecnologia/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Bolsa-de-valores-norte-americana-finaliza-em-queda-30-out-2026.png",
-   "data": "2026-10-30T22:56:09-03:00"
-  },
-  {
-   "id": "d25a7011ec9d",
-   "titulo": "Flávio diz que fugiu sem avisar aliados para “não dar errado”",
-   "resumo": "Marinho recebeu mensagem do senador dizendo que iria “dar um tempo”; Valdemar afirmou que Flávio se despediu de Jair Bolsonaro, mas depois recuou dizendo que o ex-presidente não sabia da viagem",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-fugiu-sem-avisar-aliados-para-nao-dar-errado/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/begE6WTyJjY/hqdefault.jpg",
-   "data": "2026-10-30T22:46:37-03:00"
-  },
-  {
-   "id": "b243f2e39a59",
-   "titulo": "Michelle vira porta-voz de Bolsonaro e diz que momento é de “união”",
-   "resumo": "Texto pede fim à procura por culpados pela derrota de Flávio à Presidência",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-vira-porta-voz-de-bolsonaro-e-diz-que-momento-e-de-uniao/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/story-michelle.png",
-   "data": "2026-10-30T22:46:00-03:00"
-  },
-  {
-   "id": "43223b90aa6f",
-   "titulo": "Flávio fala em perseguição de Moraes e anuncia reação jurídica",
-   "resumo": "Dos EUA, senador criticou a decisão do STF e afirmou que está com a mulher e as filhas",
-   "link": "https://www.poder360.com.br/poder-justica/flavio-fala-em-perseguicao-de-moraes-e-anuncia-reacao-juridica/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T22:36:53-03:00"
   },
   {
    "id": "c65bc4575730",
@@ -157,15 +283,6 @@
    "data": "2026-10-30T22:04:41-03:00"
   },
   {
-   "id": "2f174853ab34",
-   "titulo": "Sarney mostra rotina de recuperação depois de cirurgia",
-   "resumo": "Ex-presidente, 96 anos, recebeu alta hospitalar em 17 de outubro e segue em recuperação",
-   "link": "https://www.poder360.com.br/poder-gente/sarney-mostra-rotina-de-recuperacao-depois-de-cirurgia/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/4aGkHaikmPE/hqdefault.jpg",
-   "data": "2026-10-30T22:03:14-03:00"
-  },
-  {
    "id": "b7708918d54f",
    "titulo": "Gonet defende apreensão de celular de jornalista que citou Dino",
    "resumo": "O procurador-geral da República, Paulo Gonet, deu parecer favorável à busca que resultou na apreensão do celular do jornalista Luís Pablo Almeida, autor de reportagem sobre o uso de carros do Tribunal de Justiça do Maranhão pelo ministro Fl…",
@@ -173,15 +290,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/paulo-gonet-senado-e1762954519538-628x353-1.jpg",
    "data": "2026-10-30T22:01:42-03:00"
-  },
-  {
-   "id": "6b72563772a9",
-   "titulo": "Dos EUA, Flávio sugere disputar nova eleição presidencial antes de 2030",
-   "resumo": "Em 1ª aparição em vídeo após fugir do Brasil, senador cita quase 60 milhões de votos e fala em nova candidatura",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/dos-eua-flavio-sugere-disputar-nova-eleicao-presidencial-antes-de-2030/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T22:01:21-03:00"
   },
   {
    "id": "84e0a0f55eb7",
@@ -373,24 +481,6 @@
    "data": "2026-10-30T18:04:03-03:00"
   },
   {
-   "id": "21f1bf2090d9",
-   "titulo": "Flávio contou com ajuda de ex-agente do Mossad para deixar o país?",
-   "resumo": "O plano de fuga do senador Flávio Bolsonaro (PL-RJ) rumo aos Estados Unidos, após o segundo turno das eleições, contou com a participação de um ex-agente israelense naturalizado norte-americano que já trabalhou no Mossad, a agência de intel…",
-   "link": "https://oantagonista.com.br/brasil/flavio-contou-com-ajuda-de-ex-agente-do-mossad-para-deixar-o-pais/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55590211891_c19ec0dc68_6k-scaled-e1792332059207.jpg",
-   "data": "2026-10-30T18:00:02-03:00"
-  },
-  {
-   "id": "131c7c1973a4",
-   "titulo": "Crusoé: PL convoca bancada para discutir presidência da Câmara",
-   "resumo": "O Partido Liberal (PL) convocou seus deputados federais para uma reunião na próxima terça-feira, 3, às 18h, na sede da sigla, em Brasília, para discutir a eleição para a presidência da Câmara dos Deputados e a distribuição de cargos na Casa…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-pl-convoca-bancada-para-discutir-presidencia-da-camara/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/sostenes-e-deputados-1.jpg",
-   "data": "2026-10-30T17:58:02-03:00"
-  },
-  {
    "id": "a72228776bc1",
    "titulo": "Oito abusos eleitorais de Lula que não foram contidos pela Justiça",
    "resumo": "O TSE teve oportunidade de travar oito abusos de Lula durante a campanha e não fez. Leia na Gazeta do Povo.",
@@ -398,60 +488,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/26194235/Lula-e-Alcmin-1-960x540.jpg",
    "data": "2026-10-30T17:45:00-03:00"
-  },
-  {
-   "id": "1e21882675fb",
-   "titulo": "Fala de Haddad sobre boicote a empresas volta a repercutir após ação do PT",
-   "resumo": "Uma declaração de Fernando Haddad em defesa do boicote a empresas por razões políticas voltou a repercutir após parlamentares do PT acionarem órgãos de investigação contra listas que identificam comerciantes e trabalhadores como apoiadores …",
-   "link": "https://oantagonista.com.br/brasil/fala-de-haddad-sobre-boicote-a-empresas-volta-a-repercutir-apos-acao-do-pt/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/fernando-haddad-tvpop.jpeg",
-   "data": "2026-10-30T17:32:24-03:00"
-  },
-  {
-   "id": "967bad3d2a43",
-   "titulo": "Setor produtivo vê nova ameaça de aumento de impostos em possível IOF",
-   "resumo": "Doze frentes parlamentares e 12 entidades do setor produtivo divulgaram um manifesto contra a possibilidade de o governo federal instituir a cobrança de Imposto sobre Operações Financeiras (IOF) sobre títulos usados para financiar os setore…",
-   "link": "https://oantagonista.com.br/brasil/setor-produtivo-ve-nova-ameaca-de-aumento-de-impostos-em-possivel-iof/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/agronegocio-balanco-abril-2026.jpg",
-   "data": "2026-10-30T17:18:04-03:00"
-  },
-  {
-   "id": "2b40fcd3e3d3",
-   "titulo": "Nikolas e Tarcísio compartilham mensagem de Michelle em defesa de aliados",
-   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) e o governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos), compartilharam nesta sexta-feira, 30, uma publicação da senadora eleita Michelle Bolsonaro (PL) em que relata tristeza do …",
-   "link": "https://oantagonista.com.br/brasil/nikolas-e-tarcisio-compartilham-mensagem-de-michelle-em-defesa-de-aliados/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Tarcisio-de-Freitas-maior-1.jpg",
-   "data": "2026-10-30T16:53:28-03:00"
-  },
-  {
-   "id": "f8de4de95a24",
-   "titulo": "Ex-sócio acusa Vorcaro de orientar respostas falsas a auditores",
-   "resumo": "O ex-sócio de Daniel Vorcaro no Banco Master, Augusto Ferreira Lima, afirmou à Polícia Federal que o ex-banqueiro tinha conhecimento detalhado das operações de crédito consignado da instituição e centralizava decisões operacionais, financei…",
-   "link": "https://oantagonista.com.br/brasil/ex-socio-acusa-vorcaro-de-orientar-respostas-falsas-a-auditores/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/bank-master-brasil_1774965139880.jpg",
-   "data": "2026-10-30T16:51:48-03:00"
-  },
-  {
-   "id": "c844c7aefc15",
-   "titulo": "Hugo Motta busca apoio do PT para aprovar reforma política",
-   "resumo": "O presidente da Câmara dos Deputados , Hugo Motta (Republicanos-PB), pretende conversar com o presidente Luiz Inácio Lula da Silva (PT) na próxima semana para garantir o apoio do PT à reforma política. A informação é do jornal O Estado de S…",
-   "link": "https://revistaoeste.com/politica/hugo-motta-busca-apoio-do-pt-para-aprovar-reforma-politica/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/motta_discurso.jpeg",
-   "data": "2026-10-30T16:09:53-03:00"
-  },
-  {
-   "id": "9bc353e64bbf",
-   "titulo": "STF nega pedido de Filipe Martins para deixar regime fechado",
-   "resumo": "O ministro Dias Toffoli, do Supremo Tribunal Federal (STF) , rejeitou um pedido da defesa de Filipe Martins , ex-assessor internacional de Jair Bolsonaro (PL), para que ele passasse ao regime semiaberto. Martins foi condenado pela 1ª Turma …",
-   "link": "https://revistaoeste.com/politica/stf-nega-pedido-de-filipe-martins-para-deixar-regime-fechado/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/12_ed301.jpg",
-   "data": "2026-10-30T16:04:06-03:00"
   },
   {
    "id": "cbde5e3a2aef",
@@ -470,15 +506,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/btAGsbt0cjDKY4KHirneFXomrWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/jKls5oRfmgnYHRX5JY7w/img-4416-4.jpg",
    "data": "2026-10-30T15:40:48-03:00"
-  },
-  {
-   "id": "a1400eb1d324",
-   "titulo": "Deputado propõe CPMI para investigar influenciadores nas eleições",
-   "resumo": "O deputado federal Capitão Alden (PL-BA) anunciou nesta sexta-feira, 30, a elaboração de um requerimento para criar uma Comissão Parlamentar Mista de Inquérito (CPMI). O objetivo é apurar o possível uso de recursos públicos federais para fi…",
-   "link": "https://revistaoeste.com/politica/deputado-propoe-cpmi-para-investigar-influenciadores-nas-eleicoes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/05/CPI-CAPITAO-ALDEN.jpeg",
-   "data": "2026-10-30T14:59:47-03:00"
   },
   {
    "id": "6531a4cc9b0f",
@@ -560,15 +587,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-30T08:20:00-03:00"
-  },
-  {
-   "id": "7b142f354d6e",
-   "titulo": "Governo Lula não quer transformar em crise ajuda da Casa Branca para fuga de Flávio Bolsonaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/30/governo-lula-nao-quer-transformar-em-crise-ajuda-da-casa-branca-para-fuga-de-flavio-bolsonaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/HwAH8lrwXnGEgMC8AqjpamFWLks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/qr8EnFQoyi0qj7bSbOFg/2026-05-07t200956z-762434998-rc2k4la11tpf-rtrmadp-3-usa-trump-brazil.jpg",
-   "data": "2026-10-30T08:09:37-03:00"
   },
   {
    "id": "66c9359d9b23",
@@ -724,15 +742,6 @@
    "data": "2026-10-29T05:00:14-03:00"
   },
   {
-   "id": "4308e0f32e49",
-   "titulo": "Lula manda emissários procurarem Centrão",
-   "resumo": "Um dos caciques do Centrão já procurados por emissários do presidente Lula (PT) foi o presidente nacional do PSD, Gilberto Kassab",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-manda-emissarios-procurarem-o-centrao",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/presidente-luiz-inacio-lula-da-silva-eleicao-2026-metropoles-11-scaled.jpg",
-   "data": "2026-10-29T02:00:18-03:00"
-  },
-  {
    "id": "945e84b90af7",
    "titulo": "Coordenador de campanha do PL admite não ter prova de fraude eleitoral",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/coordenador-de-campanha-do-pl-admite-nao-ter-prova-de-fraude-eleitoral\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
@@ -742,15 +751,6 @@
    "data": "2026-10-28T20:08:00-03:00"
   },
   {
-   "id": "c85b32f597d9",
-   "titulo": "Chefe da CCJ e Alcolumbre discutem “pacificação” e redução de penas do 8/1",
-   "resumo": "À coluna, presidente da CCJ do Senado relatou ter conversado com Davi Alcolumbre nesta semana sobre iniciativa para pacificar o país",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/chefe-da-ccj-e-alcolumbre-discutem-pacificacao-e-reducao-de-penas-do-8-1",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/11/04130743/senador-otto-alencar-psb-ba.jpg",
-   "data": "2026-10-28T19:47:25-03:00"
-  },
-  {
    "id": "9129ab158d18",
    "titulo": "Em carta golpista, Flávio agradece Milei e Trump por apoio para fuga",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-carta-golpista-flavio-agradece-milei-e-trump-por-apoio-para-fuga\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -758,15 +758,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-28T18:22:00-03:00"
-  },
-  {
-   "id": "9bdb02067469",
-   "titulo": "TSE arredonda percentual de votos e PSOL/Rede supera cláusula de barreira",
-   "resumo": "Precedente pode cobrir diferença de até 11,8 mil votos em São Paulo, maior colégio eleitoral do país. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/tse-arredonda-percentual-de-votos-e-psol-rede-supera-clausula-de-barreira/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/28072136/ASPA-GRANDE-2026-10-28T072135.313-960x540.jpg",
-   "data": "2026-10-28T07:22:03-03:00"
   }
  ]
 }
