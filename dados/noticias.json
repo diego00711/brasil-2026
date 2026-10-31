@@ -1,15 +1,267 @@
 {
- "atualizado": "2026-10-30T20:39:51.190146-03:00",
- "total": 84,
+ "atualizado": "2026-10-31T02:27:41.087940-03:00",
+ "total": 85,
  "fontes_com_falha": [],
  "noticias": [
   {
+   "id": "e10bb40b1ce3",
+   "titulo": "Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA",
+   "resumo": "Dos EUA, Flávio Bolsonaro prevê crise econômica no governo Lula, fala sobre possível nova eleição antes de 2030 e anuncia apoio a Rogério Marinho no Senado.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/31020006/flavio-bolsonaro-fuga-eua-1-960x540.jpg",
+   "data": "2026-10-31T01:59:57-03:00"
+  },
+  {
+   "id": "90359758b3fb",
+   "titulo": "Flávio Bolsonaro lidera oposição a partir dos Estados Unidos após ordem do STF",
+   "resumo": "Senador Flávio Bolsonaro lidera oposição a partir dos EUA após ordem de Moraes. Entenda os ganhos, os riscos pessoais e os limites da atuação do parlamentar.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-lidera-oposicao-a-partir-dos-estados-unidos-apos-ordem-do-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/31005751/ASPA-GRANDE-2026-10-28T072947.427-1-960x540.jpg",
+   "data": "2026-10-31T00:57:46-03:00"
+  },
+  {
+   "id": "6b72032e8ba5",
+   "titulo": "Assista ao 1º vídeo de Flávio Bolsonaro nos EUA",
+   "resumo": "Senador relata saída do Brasil, questiona eleição e diz que pode disputar novamente a Presidência",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/assista-ao-1o-video-de-flavio-bolsonaro-nos-eua/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/AIlL6yDAnqw/hqdefault.jpg",
+   "data": "2026-10-31T00:15:39-03:00"
+  },
+  {
+   "id": "c424570eeb50",
+   "titulo": "Lula envia comitiva de ministros ao MS por ameaças a indígenas",
+   "resumo": "Decisão vem em decorrência de relatos de violência registrados depois do 2º turno das eleições; governo já acionou a Força Nacional",
+   "link": "https://www.poder360.com.br/poder-governo/lula-envia-comitiva-de-ministros-ao-ms-por-ameacas-a-indigenas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T00:03:29-03:00"
+  },
+  {
+   "id": "d8132a149102",
+   "titulo": "MAPA: Como votaram os municípios com maior presença evangélica no Brasil",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/31/mapa-eleicoes-2026-municipios-com-maior-presenca-evangelica.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/NKo4qFfDMjWOVU10pq3zH5S7UvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/G/Yrm4ajTmysTXQ0NeXbVA/montagem-horizontal-1280x720px-20-.jpg",
+   "data": "2026-10-31T00:00:00-03:00"
+  },
+  {
+   "id": "caaa840e2ed1",
+   "titulo": "Reforma tributária: novo imposto sobre consumo pode ficar acima de 30% e superar o de países ricos; veja a comparação",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/10/31/reforma-tributaria-novo-imposto-sobre-consumo-pode-ficar-acima-de-30percent-e-superar-o-de-paises-ricos-veja-a-comparacao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/cc9sqBOh_akIJGU2hP1a32GAeRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/7/vQlYAJR8Gws6GhsXmlOA/g1-supermercado-condenado-produtos-improprios.jpg",
+   "data": "2026-10-31T00:00:00-03:00"
+  },
+  {
+   "id": "a38f977f0fa3",
+   "titulo": "Novo segue sem reconhecer resultado das eleições; 27 partidos validam vitória de Lula",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/31/novo-segue-sem-reconhecer-resultado-das-eleicoes-27-partidos-validam-vitoria-de-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/JtCO2hAkWYek8N7ikL-MkoUxspA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/N/tpT9XySzCWBnAIctjH9A/29jnac803-frame-3539.jpeg",
+   "data": "2026-10-31T00:00:00-03:00"
+  },
+  {
+   "id": "41e352047ad4",
+   "titulo": "Leia a íntegra da nota do PT sobre a mobilização popular nas eleições",
+   "resumo": "Partido agradeceu militância e traçou objetivos para novo mandato de Lula",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-da-nota-do-pt-sobre-a-mobilizacao-popular-nas-eleicoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-30T23:32:56-03:00"
+  },
+  {
+   "id": "7f33dbaaf18b",
+   "titulo": "PT destaca importância de mobilização popular para vitória de Lula",
+   "resumo": "Executiva nacional atribuiu resultado à participação social e traçou diretrizes para o novo governo",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-destaca-importancia-de-mobilizacao-popular-para-vitoria-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-30T23:01:33-03:00"
+  },
+  {
+   "id": "b303d20dbfa5",
+   "titulo": "BYD pede a Lula acordo com a China para transferência de tecnologia",
+   "resumo": "BYD quer que o governo Lula negocie com a China a transferência de tecnologia para ampliar a fabricação de baterias no Brasil.",
+   "link": "https://www.gazetadopovo.com.br/republica/byd-pede-a-lula-acordo-com-a-china-para-transferencia-de-tecnologia/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30192821/Design-sem-nome-26-960x540.jpg",
+   "data": "2026-10-30T22:57:08-03:00"
+  },
+  {
+   "id": "4081f8c0e9cc",
+   "titulo": "Bolsas dos EUA fecham em forte queda com tombo da tecnologia",
+   "resumo": "Balanços de Intel e Amazon frustram mercado; Nasdaq recua 2,86% e temores com IA pressionam o setor de tecnologia",
+   "link": "https://www.poder360.com.br/poder-economia/bolsas-dos-eua-fecham-em-forte-queda-com-tombo-da-tecnologia/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/Bolsa-de-valores-norte-americana-finaliza-em-queda-30-out-2026.png",
+   "data": "2026-10-30T22:56:09-03:00"
+  },
+  {
+   "id": "d25a7011ec9d",
+   "titulo": "Flávio diz que fugiu sem avisar aliados para “não dar errado”",
+   "resumo": "Marinho recebeu mensagem do senador dizendo que iria “dar um tempo”; Valdemar afirmou que Flávio se despediu de Jair Bolsonaro, mas depois recuou dizendo que o ex-presidente não sabia da viagem",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-fugiu-sem-avisar-aliados-para-nao-dar-errado/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/begE6WTyJjY/hqdefault.jpg",
+   "data": "2026-10-30T22:46:37-03:00"
+  },
+  {
+   "id": "b243f2e39a59",
+   "titulo": "Michelle vira porta-voz de Bolsonaro e diz que momento é de “união”",
+   "resumo": "Texto pede fim à procura por culpados pela derrota de Flávio à Presidência",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-vira-porta-voz-de-bolsonaro-e-diz-que-momento-e-de-uniao/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/story-michelle.png",
+   "data": "2026-10-30T22:46:00-03:00"
+  },
+  {
+   "id": "43223b90aa6f",
+   "titulo": "Flávio fala em perseguição de Moraes e anuncia reação jurídica",
+   "resumo": "Dos EUA, senador criticou a decisão do STF e afirmou que está com a mulher e as filhas",
+   "link": "https://www.poder360.com.br/poder-justica/flavio-fala-em-perseguicao-de-moraes-e-anuncia-reacao-juridica/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-30T22:36:53-03:00"
+  },
+  {
+   "id": "c65bc4575730",
+   "titulo": "Ala do STF defende julgamento da Lei da Dosimetria ainda em 2026",
+   "resumo": "Uma ala de ministros do Supremo Tribunal Federal (STF) defende que as ações que questionam a constitucionalidade da Lei da Dosimetria sejam julgadas ainda neste ano, antes do recesso do Judiciário, em dezembro. Segundo reportagem de O Globo…",
+   "link": "https://revistaoeste.com/politica/ala-do-stf-defende-julgamento-da-lei-da-dosimetria-ainda-em-2026/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Fachin_Dosimetria.jpeg",
+   "data": "2026-10-30T22:33:14-03:00"
+  },
+  {
+   "id": "53bed8982994",
+   "titulo": "Itamaraty atrasa salários e repasses a postos no exterior",
+   "resumo": "Servidores de embaixadas e consulados brasileiros receberam nesta semana um comunicado de que o governo federal não liberaria, nesta sexta-feira, 30, os recursos destinados ao pagamento de salários e ao custeio das unidades no exterior. Seg…",
+   "link": "https://revistaoeste.com/politica/itamaraty-atrasa-salarios-e-repasses-a-postos-no-exterior/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/image-2026-04-24-121523.jpg",
+   "data": "2026-10-30T22:06:25-03:00"
+  },
+  {
+   "id": "7d631fbace1c",
+   "titulo": "Ministro Dias Toffoli mantém Filipe Martins em regime de prisão fechado",
+   "resumo": "Ministro Dias Toffoli rejeita petição de Filipe Martins por inépcia. Defesa do ex-assessor prepara revisão criminal para questionar pena de 21 anos.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministro-dias-toffoli-mantem-filipe-martins-em-regime-de-prisao-fechado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30220446/54973440801_7f5e481933_k-2-960x540.jpg",
+   "data": "2026-10-30T22:04:41-03:00"
+  },
+  {
+   "id": "2f174853ab34",
+   "titulo": "Sarney mostra rotina de recuperação depois de cirurgia",
+   "resumo": "Ex-presidente, 96 anos, recebeu alta hospitalar em 17 de outubro e segue em recuperação",
+   "link": "https://www.poder360.com.br/poder-gente/sarney-mostra-rotina-de-recuperacao-depois-de-cirurgia/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/4aGkHaikmPE/hqdefault.jpg",
+   "data": "2026-10-30T22:03:14-03:00"
+  },
+  {
+   "id": "b7708918d54f",
+   "titulo": "Gonet defende apreensão de celular de jornalista que citou Dino",
+   "resumo": "O procurador-geral da República, Paulo Gonet, deu parecer favorável à busca que resultou na apreensão do celular do jornalista Luís Pablo Almeida, autor de reportagem sobre o uso de carros do Tribunal de Justiça do Maranhão pelo ministro Fl…",
+   "link": "https://oantagonista.com.br/brasil/gonet-defende-apreensao-de-celular-de-jornalista-que-citou-din/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/paulo-gonet-senado-e1762954519538-628x353-1.jpg",
+   "data": "2026-10-30T22:01:42-03:00"
+  },
+  {
+   "id": "6b72563772a9",
+   "titulo": "Dos EUA, Flávio sugere disputar nova eleição presidencial antes de 2030",
+   "resumo": "Em 1ª aparição em vídeo após fugir do Brasil, senador cita quase 60 milhões de votos e fala em nova candidatura",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/dos-eua-flavio-sugere-disputar-nova-eleicao-presidencial-antes-de-2030/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-30T22:01:21-03:00"
+  },
+  {
+   "id": "84e0a0f55eb7",
+   "titulo": "Dos EUA, Flávio prevê crise econômica de Lula e fala em possível eleição antes de 2030",
+   "resumo": "Flávio Bolsonaro relacionou o desgaste econômico do governo Lula à possibilidade de uma nova eleição presidencial antes de 2030.",
+   "link": "https://www.gazetadopovo.com.br/republica/dos-eua-flavio-preve-crise-economica-de-lula-e-fala-em-possivel-eleicao-antes-de-2030/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27214422/flavio-bolsonaro-fuga-eua-960x540.jpg",
+   "data": "2026-10-30T21:59:22-03:00"
+  },
+  {
+   "id": "56e28629ae7f",
+   "titulo": "Tribunal analisa supostos abusos da chapa de Lula na corrida eleitoral de 2026",
+   "resumo": "Entenda as 15 ações no TSE que apuram se a chapa de Lula usou a máquina pública para vencer as eleições de 2026 e os riscos de cassação do mandato.",
+   "link": "https://www.gazetadopovo.com.br/republica/tribunal-analisa-supostos-abusos-da-chapa-de-lula-na-corrida-eleitoral-de-2026/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30214843/Lula-e-Alcmin-1-1-960x540.jpg",
+   "data": "2026-10-30T21:48:38-03:00"
+  },
+  {
+   "id": "575c2f94d665",
+   "titulo": "Flávio fala em disputar a Presidência antes de 2030",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) afirmou, nesta sexta-feira, 30, que poderá disputar a Presidência da República antes de 2030, data marcada para as próximas eleições. A declaração ocorreu durante sua primeira transmissão ao vivo desde a c…",
+   "link": "https://revistaoeste.com/politica/flavio-fala-em-disputar-a-presidencia-antes-de-2030/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/flavio-live-instagram.jpg",
+   "data": "2026-10-30T21:35:12-03:00"
+  },
+  {
+   "id": "197f9c1cccb6",
+   "titulo": "Flávio Bolsonaro diz que fuga “não é sinal de fraqueza”",
+   "resumo": "Flávio Bolsonaro (PL), derrotado por Luiz Inácio Lula da Silva (PT) no segundo turno de domingo, 25, afirmou nesta sexta-feira, 30 que deixar o Brasil não representa fraqueza. A declaração foi dada em transmissão ao vivo no Instagram, a par…",
+   "link": "https://oantagonista.com.br/brasil/flavio-bolsonaro-diz-que-fuga-nao-e-sinal-de-fraqueza/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Posse-presidencial-diante-da-bandeira-brasileira-1.png",
+   "data": "2026-10-30T21:32:55-03:00"
+  },
+  {
+   "id": "c4e7693de39d",
+   "titulo": "Laudo sobre celular de Vorcaro pode beneficiar Moraes",
+   "resumo": "Um laudo pericial contratado pela defesa de Daniel Vorcaro, fundador do Banco Master, pode abrir uma saída jurídica para o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) . O documento levanta dúvidas sobre a integridade dos…",
+   "link": "https://revistaoeste.com/politica/laudo-sobre-celular-de-vorcaro-pode-beneficiar-moraes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/moraes-7.jpg",
+   "data": "2026-10-30T21:28:04-03:00"
+  },
+  {
+   "id": "4b84f8eb82b7",
+   "titulo": "Jovem é esfaqueada no pescoço no RN; polícia apura motivação política",
+   "resumo": "A Polícia Civil do Rio Grande do Norte prendeu em flagrante Eduardo Ronald Ferreira, 18, suspeito de ferir com faca o pescoço da namorada, Clara Thaís Silva Maia, também de 18 anos, em Umarizal. A corporação investiga se o ataque tem relaçã…",
+   "link": "https://oantagonista.com.br/brasil/jovem-e-esfaqueada-no-pescoco-no-rn-policia-apura-motivacao-politica/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Opera-Instantaneo_2026-10-30_211351_oglobo.globo_.com-1.png",
+   "data": "2026-10-30T21:15:13-03:00"
+  },
+  {
+   "id": "8b95a4b174f9",
+   "titulo": "Papel de Flávio nos EUA na oposição a Lula e STF envolve ganhos, riscos e limites",
+   "resumo": "Para analistas, nos EUA, Flávio Bolsonaro poderá denunciar de forma mais livre abusos no Brasil, mas orientação da oposição fica limitada.",
+   "link": "https://www.gazetadopovo.com.br/republica/papel-de-flavio-nos-eua-na-oposicao-a-lula-e-stf-envolve-ganhos-riscos-e-limites/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/28072946/ASPA-GRANDE-2026-10-28T072947.427-960x540.jpg",
+   "data": "2026-10-30T20:55:00-03:00"
+  },
+  {
+   "id": "be1184de18f4",
+   "titulo": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/5OubqFDYfKCE4M5ffopwEIEDHVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/r/Ahprk2S0eA6oIrLzfHkg/whatsapp-image-2026-10-26-at-15.39.12.jpeg",
+   "data": "2026-10-30T20:34:19-03:00"
+  },
+  {
    "id": "d65cec671f4a",
-   "titulo": "Mauro Vieira e Marco Rubio se encontram no G20 e acertam reunião em novembro",
+   "titulo": "Mauro Vieira e Marco Rubio se encontram nos EUA e acertam reunião antes da cúpula do G20",
    "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/10/30/mauro-vieira-e-marco-rubio-se-encontram-no-g20-e-acertam-reuniao-em-novembro.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/6S0vHljxqkaE49B00WRVtg79JDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/5yo09ZSpe9BKa6ir7KBA/whatsapp-image-2026-10-30-at-20.02.53.jpeg",
+   "imagem": "https://s2-g1.glbimg.com/MqrLkHi6wYGxLau5AAVjPsr301M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/E0x2uDTAetbYAqytWgIw/montagem-horizontal-1200px-7-.jpg",
    "data": "2026-10-30T20:22:42-03:00"
   },
   {
@@ -29,24 +281,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2024/04/53331448657_dc1254895d_k-e1713217746253.jpg",
    "data": "2026-10-30T20:19:34-03:00"
-  },
-  {
-   "id": "a5f47fdbd57d",
-   "titulo": "Justiça condena Sérgio Maurício por transfobia contra Erika Hilton",
-   "resumo": "Narrador terá de pagar R$ 10 mil à deputada federal e publicar retratação nas redes sociais; cabe recurso",
-   "link": "https://www.poder360.com.br/poder-justica/justica-condena-sergio-mauricio-por-transfobia-contra-erika-hilton/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T20:12:40-03:00"
-  },
-  {
-   "id": "fbf6017fc5eb",
-   "titulo": "Kings League anuncia 8 patrocinadores para torneio de 2026",
-   "resumo": "Ações das marcas na Kings Cup envolvem desde regras das partidas e mídias até experiências na arena comercial",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/kings-league-anuncia-8-patrocinadores-para-torneio-de-2026/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T19:59:32-03:00"
   },
   {
    "id": "ba12cd80338f",
@@ -85,15 +319,6 @@
    "data": "2026-10-30T19:05:43-03:00"
   },
   {
-   "id": "59798e62ddd8",
-   "titulo": "Votação antecipada nos EUA tem recorde de 48 mi de eleitores",
-   "resumo": "Democratas lideram adesão inicial em Estados decisivos para o Congresso",
-   "link": "https://www.poder360.com.br/poder-internacional/votacao-antecipada-nos-eua-tem-recorde-de-48-mi-de-eleitores/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T19:05:34-03:00"
-  },
-  {
    "id": "1ef9c4a1b498",
    "titulo": "Governo Lula cobra Meta sobre remoção de perfis nas eleições",
    "resumo": "O governo Lula , por meio da Secretaria Nacional do Consumidor (Senacon), notificou a Meta, responsável pelo Instagram e Facebook, para exigir informações sobre contas e publicações removidas ou restringidas durante as eleições de 2026. O p…",
@@ -101,15 +326,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Governo-censura-Meta.jpeg",
    "data": "2026-10-30T18:58:41-03:00"
-  },
-  {
-   "id": "fabda61aeca9",
-   "titulo": "Bolsa tem 5ª maior queda desde Plano Real após reeleição de Lula",
-   "resumo": "Ibovespa despenca 18,12% na semana, iguala perda de 2001 e dólar sobe 9,03%; analistas alertam para efeitos sobre PIB e inflação",
-   "link": "https://www.poder360.com.br/poder-economia/bolsa-tem-5a-maior-queda-desde-plano-real-apos-reeleicao-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/bolsa-cai-e-dolar-sobe-apos-reeleicao-de-lula-30-out-2026-01-scaled.png",
-   "data": "2026-10-30T18:56:20-03:00"
   },
   {
    "id": "cf7a5d29eaff",
@@ -139,51 +355,6 @@
    "data": "2026-10-30T18:32:34-03:00"
   },
   {
-   "id": "1d2fa8673739",
-   "titulo": "Alcolumbre marca votação da PEC da Segurança para 3ª feira",
-   "resumo": "Texto é uma das prioridades do governo Lula no Congresso; votação foi adiada depois de divergências sobre a redução da maioridade penal",
-   "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-marca-votacao-da-pec-da-seguranca-para-3a-feira/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T18:30:12-03:00"
-  },
-  {
-   "id": "54b830d4456f",
-   "titulo": "PM apreende carro ligado a Toguro e encontra R$ 100 mil",
-   "resumo": "Influenciador publicou vídeos sobre os valores de honestidade e caráter nas redes sociais depois da ocorrência; dinheiro foi devolvido após esclarecimentos",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/pm-apreende-carro-ligado-a-toguro-e-encontra-r-100-mil/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-30-10-2026-as-16.22.jpeg",
-   "data": "2026-10-30T18:24:53-03:00"
-  },
-  {
-   "id": "624e993d0941",
-   "titulo": "“Teremos novas eleições muito antes”, diz Figueiredo sobre Flávio em 2030",
-   "resumo": "Aliado do senador declara que o eleitorado voltará a votar no sobrenome \"Bolsonaro\" antes do próximo pleito regular e condiciona a \"eleições limpas\"",
-   "link": "https://www.poder360.com.br/poder-eleicoes/teremos-novas-eleicoes-muito-antes-diz-figueiredo-sobre-flavio-em-2030/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Imagem-30-10-2026-as-17.14.jpeg",
-   "data": "2026-10-30T18:17:25-03:00"
-  },
-  {
-   "id": "f7585f7f9815",
-   "titulo": "Grupos inspirados no “Exército do Lula” crescem no exterior",
-   "resumo": "Canais de apoio a líderes de Argentina, França e Espanha somaram 249.000 integrantes em 2 dias",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/grupos-inspirados-no-exercito-do-lula-crescem-no-exterior/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-30T18:11:16-03:00"
-  },
-  {
-   "id": "bf800aea8bb1",
-   "titulo": "Mulher pede no Senado direitos para IA que considera “companheiro”",
-   "resumo": "Mulher buscou Defensoria e agora tenta no portal e-Cidadania que sistemas conscientes sejam reconhecidos legalmente no Brasil",
-   "link": "https://www.poder360.com.br/poder-brasil/mulher-pede-no-senado-direitos-para-ia-que-considera-companheiro/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Captura-de-Tela-2026-10-30-as-16.54.42.png",
-   "data": "2026-10-30T18:10:03-03:00"
-  },
-  {
    "id": "053c8998c25c",
    "titulo": "Peritos da PF rebatem laudo da defesa de Vorcaro",
    "resumo": "Peritos federais rebatem defesa de Vorcaro e afirmam que alterações em registros digitais não indicam adulteração de prova.",
@@ -200,15 +371,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/08/28170315/54973440801_7f5e481933_k-2-960x540.jpg",
    "data": "2026-10-30T18:04:03-03:00"
-  },
-  {
-   "id": "932675520f43",
-   "titulo": "Dólar sobe 1,05%, a R$ 5,444; Ibovespa cai 0,75%",
-   "resumo": "Bolsa tem 5ª queda seguida e fecha aos 167.921,80 pontos; moeda dos EUA acumula alta na semana",
-   "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-105-a-r-5444-ibovespa-cai-075/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/valor-dolar-trajetoria-diaria-30-out-2026-01-scaled.png",
-   "data": "2026-10-30T18:02:39-03:00"
   },
   {
    "id": "21f1bf2090d9",
@@ -274,42 +436,6 @@
    "data": "2026-10-30T16:51:48-03:00"
   },
   {
-   "id": "f2542f4e8645",
-   "titulo": "Lula pode encontrar Trump em próximas reuniões de chefes de Estado",
-   "resumo": "Diplomacia brasileira estaria tentando negociar encontro em cúpulas na Ásia ou nos Estados Unidos, em novembro ou dezembro. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-pode-encontrar-trump-proximas-reunioes-chefes-de-estado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30164659/lula-com-donald-trump-foto-ricardo-stuckert-secom-960x540.jpg",
-   "data": "2026-10-30T16:47:18-03:00"
-  },
-  {
-   "id": "eb66433edb93",
-   "titulo": "Itamaraty cobra explicações da Argentina sobre passagem de Flávio pelo país vizinho rumo aos EUA",
-   "resumo": "Itamaraty pediu esclarecimentos à diplomacia argentina sobre a passagem de Flávio Bolsonaro pelo país antes de seguir para os Estados Unidos.",
-   "link": "https://www.gazetadopovo.com.br/republica/itamaraty-cobra-explicacoes-da-argentina-sobre-passagem-de-flavio-pelo-pais-vizinho-rumo-aos-eua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30162748/imagem_2026-10-30_162744641-960x540.jpg",
-   "data": "2026-10-30T16:43:17-03:00"
-  },
-  {
-   "id": "6aee93fdc20c",
-   "titulo": "Crusoé: PM do Piauí impõe censura a policiais após Lula cogitar governador para ministério",
-   "resumo": "Após o governador reeleito do Piauí, Rafael Fonteles (PT, foto), passar a ser cotado como um eventual ministro do governo Lula, a Polícia Militar do Piauí endureceu regras para o uso de redes sociais por seus integrantes e estabeleceu uma s…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-pm-do-piaui-impoe-censura-a-policiais-apos-lula-cogitar-governador-para-ministerio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/capa-noticia-2133x1200-8.jpg",
-   "data": "2026-10-30T16:37:02-03:00"
-  },
-  {
-   "id": "6ed24d6dd736",
-   "titulo": "Relator quer votar regulamentação das big techs ainda neste ano",
-   "resumo": "Deputado pretende articular aprovação antes da posse de novos deputados e senadores de maioria da oposição em 2027. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/relator-quer-votar-regulamentacao-big-techs-ainda-neste-ano/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30162503/redes-sociais-foto-unsplash-960x540.jpg",
-   "data": "2026-10-30T16:25:47-03:00"
-  },
-  {
    "id": "c844c7aefc15",
    "titulo": "Hugo Motta busca apoio do PT para aprovar reforma política",
    "resumo": "O presidente da Câmara dos Deputados , Hugo Motta (Republicanos-PB), pretende conversar com o presidente Luiz Inácio Lula da Silva (PT) na próxima semana para garantir o apoio do PT à reforma política. A informação é do jornal O Estado de S…",
@@ -337,24 +463,6 @@
    "data": "2026-10-30T16:01:26-03:00"
   },
   {
-   "id": "13df8a199884",
-   "titulo": "Moraes mantém minuta do golpe como prova sob custódia da PF",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira, 30, que a chamada minuta do golpe, apreendida na casa do ex-ministro da Justiça Anderson Torres, permaneça sob custódia da Polícia Federal (PF)…",
-   "link": "https://oantagonista.com.br/brasil/moraes-mantem-minuta-do-golpe-como-prova-sob-custodia-da-pf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55529954291_a3e38e85bc_4k-1-scaled.jpg",
-   "data": "2026-10-30T15:48:51-03:00"
-  },
-  {
-   "id": "85aaefe1d96f",
-   "titulo": "Passageiro senta no banco traseiro e deixa o cinto solto porque a viagem é curta: a obrigação vale para quem dirige e para quem está atrás",
-   "resumo": "A distância até o destino não altera uma das principais regras de segurança no trânsito. O cinto de segurança é obrigatório para motoristas e passageiros, inclusive no banco traseiro, mesmo em percursos de poucos minutos. Pelo Código de Trâ…",
-   "link": "https://oantagonista.com.br/brasil/passageiro-senta-no-banco-traseiro-e-deixa-o-cinto-solto-porque-a-viagem-e-curta-a-obrigacao-vale-para-quem-dirige-e-para-quem-esta-atras/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Passenger_not_wearing_seatbelt_73601c55.jpg",
-   "data": "2026-10-30T15:48:00-03:00"
-  },
-  {
    "id": "c884e1dbc4a7",
    "titulo": "Após críticas de aliados, Michelle diz que Bolsonaro pediu para direita se unir e não buscar culpados",
    "resumo": "",
@@ -362,15 +470,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/btAGsbt0cjDKY4KHirneFXomrWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/jKls5oRfmgnYHRX5JY7w/img-4416-4.jpg",
    "data": "2026-10-30T15:40:48-03:00"
-  },
-  {
-   "id": "e913b0355c37",
-   "titulo": "TRE-DF apura transporte de urnas em caminhonete com adesivo do PT",
-   "resumo": "Segundo o Tribunal Superior Eleitoral (TSE), o episódio ocorrido no Distrito Federal não comprometeu os resultados da votação.",
-   "link": "https://www.gazetadopovo.com.br/republica/tre-df-apura-transporte-de-urnas-em-caminhonete-com-adesivo-do-pt/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30152511/Design-sem-nome-25-960x540.jpg",
-   "data": "2026-10-30T15:36:35-03:00"
   },
   {
    "id": "a1400eb1d324",
@@ -398,60 +497,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/eu1Dd3Q2T3rj9cJefAgk9j42hVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/V/VdZRDESyOwNlL4ToSMuA/design-sem-nome-2026-10-28t114802.810.jpg",
    "data": "2026-10-30T14:54:14-03:00"
-  },
-  {
-   "id": "2392b920ea83",
-   "titulo": "Michelle Bolsonaro pede união entre apoiadores",
-   "resumo": "A senadora eleita Michelle Bolsonaro (PL-DF) publicou, na tarde desta sexta-feira, 30, uma mensagem sobre o momento político vivido pelo grupo de Jair Bolsonaro. Nos stories do Instagram, ela pediu união entre os apoiadores e afirmou que o …",
-   "link": "https://revistaoeste.com/politica/michelle-bolsonaro-pede-uniao-entre-apoiadores/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/michelle.jpg",
-   "data": "2026-10-30T14:21:02-03:00"
-  },
-  {
-   "id": "e3aa69d54d7a",
-   "titulo": "CNJ obriga cartórios a registrar contexto de ação policial em certidões de óbito",
-   "resumo": "Resolução permite uso de reportagens como indício e abrange mortes indiretas ou por omissão. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/cnj-obriga-cartorios-a-registrar-contexto-de-acao-policial-em-certidoes-de-obito/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30134736/ASPA-GRANDE-2026-10-30T134733.218-960x540.jpg",
-   "data": "2026-10-30T13:46:29-03:00"
-  },
-  {
-   "id": "c4300637d782",
-   "titulo": "Câmara de SP define comissão que vai analisar impeachment de Nunes",
-   "resumo": "O vereador Rubinho Nunes (União Brasil) foi eleito presidente da comissão especial da Câmara Municipal de São Paulo responsável por analisar o pedido de impeachment do prefeito Ricardo Nunes (MDB) . O vereador Major Palumbo (PP) foi escolhi…",
-   "link": "https://revistaoeste.com/politica/camara-de-sp-define-comissao-que-vai-analisar-iimpeachment-i-de-nunes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/11/ricardo-nunes-pf.jpg",
-   "data": "2026-10-30T13:44:03-03:00"
-  },
-  {
-   "id": "ced3fbe59aa1",
-   "titulo": "Voo de Flávio a Miami custou US$ 150 mil, diz empresário",
-   "resumo": "O voo que levou o senador Flávio Bolsonaro (PL-RJ) a Miami, nos Estados Unidos, custou US$ 150 mil (cerca de R$ 806 mil). O dono da Baires Fly — empresa argentina proprietária do jato —, Luis Grande, revelou o dado em entrevista à agência d…",
-   "link": "https://revistaoeste.com/politica/voo-de-flavio-a-miami-custou-us-150-mil-diz-empresario/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/2026-10-28T164152Z_767953955_RC2ECOARS7SH_RTRMADP_3_BRAZIL-USA.jpg",
-   "data": "2026-10-30T13:01:00-03:00"
-  },
-  {
-   "id": "a9091f85be88",
-   "titulo": "Ex-presidente do BRB diz que Ibaneis ordenou venda de ações ao Master",
-   "resumo": "O ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa afirmou à Polícia Federal (PF) que o então governador do Distrito Federal, Ibaneis Rocha (MDB), determinou a estruturação de uma operação para vender ações da instituição públi…",
-   "link": "https://revistaoeste.com/politica/ex-presidente-do-brb-diz-que-ibaneis-ordenou-venda-de-acoes-ao-master/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/feira-livre-25.jpg",
-   "data": "2026-10-30T12:58:45-03:00"
-  },
-  {
-   "id": "c10b83e0f421",
-   "titulo": "Democratas questionam Rubio sobre ida de Flávio aos EUA",
-   "resumo": "Carta a Rubio questiona como o Departamento de Estado coordenou a concessão dos vistos a Flávio e família e se pasta ajudou na ida aos EUA",
-   "link": "https://www.gazetadopovo.com.br/mundo/democratas-questionam-rubio-sobre-ida-de-flavio-aos-eua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29115232/wsj.editorial-960x540.jpg",
-   "data": "2026-10-30T12:47:27-03:00"
   },
   {
    "id": "3bdab036ba09",
@@ -526,15 +571,6 @@
    "data": "2026-10-30T08:09:37-03:00"
   },
   {
-   "id": "3b71f8eaabf4",
-   "titulo": "Ao se radicalizar, Flávio Bolsonaro se isola e perde apoio até de aliados",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/flavio-bolsonaro-se-isola-e-perde-apoio-ate-de-aliados.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/X5vLWSgLKY85OL4yJ_H2htMLOTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/0NDxevQTS9I08TgAMGlg/2026-10-28t162830z-1795241932-rc2ecoa4orf6-rtrmadp-3-brazil-usa.jpg",
-   "data": "2026-10-30T07:55:06-03:00"
-  },
-  {
    "id": "66c9359d9b23",
    "titulo": "Ala do PL abre diálogo com Motta para evitar que partido fique isolado",
    "resumo": "Negociação com Hugo Motta tem sido conduzida por deputados da ala mais pragmática do PL e visa evitar que a sigla fique isolada na Câmara",
@@ -553,15 +589,6 @@
    "data": "2026-10-30T05:00:26-03:00"
   },
   {
-   "id": "d2eeca7ee387",
-   "titulo": "Flávio Bolsonaro nos EUA: relembre a relação de afinidade e distância entre o senador e Trump",
-   "resumo": "",
-   "link": "https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8knS3uAVAL2UhQTQc353cCQekQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/Pcq4ZwSjKEW4dNAzQjdQ/fotojet-2026-10-29t175929.498.jpg",
-   "data": "2026-10-30T03:00:00-03:00"
-  },
-  {
    "id": "3a0e97d19ff7",
    "titulo": "Base bolsonarista teme ficar em sinuca de bico entre Flávio e STF",
    "resumo": "Preocupação de bolsonaristas é de que, pressionados por Flávio, precisem optar entre ser taxado de \"traidor\" da direita ou virar alvo do STF",
@@ -569,24 +596,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/03/captura-de-tela-2026-03-24-180657-e1778858564772.jpg",
    "data": "2026-10-30T02:00:10-03:00"
-  },
-  {
-   "id": "970226a0534d",
-   "titulo": "A posição do Brasil no mundo com a reeleição de Lula - O Assunto #1836",
-   "resumo": "",
-   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
-   "data": "2026-10-30T00:30:01-03:00"
-  },
-  {
-   "id": "110f0619343c",
-   "titulo": "Senadores de partidos de esquerda traçam estratégias para fazer frente à bancada recorde do PL",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/30/senado-esquerda-bancada-recorde-do-pl.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/rFAu_yQfxw9mqQ4JUkrgPn9uBzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/8/mP99gpTWyme7gW6ySwCg/55574161310-5a5ac7dc92-k.jpg",
-   "data": "2026-10-30T00:00:01-03:00"
   },
   {
    "id": "357cf3ed0b02",
