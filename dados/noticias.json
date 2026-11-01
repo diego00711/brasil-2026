@@ -1,8 +1,269 @@
 {
- "atualizado": "2026-11-01T11:59:41.918617-03:00",
- "total": 86,
+ "atualizado": "2026-11-01T16:34:46.464639-03:00",
+ "total": 85,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "a1004fc33361",
+   "titulo": "PF realiza operação no Rio contra o narcotráfico internacional",
+   "resumo": "Materiais para o transporte de drogas e pinos com cocaína foram encontrados em imóvel em Copacabana",
+   "link": "https://www.poder360.com.br/poder-brasil/pf-realiza-operacao-no-rio-contra-o-narcotrafico-internacional/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T16:26:59-03:00"
+  },
+  {
+   "id": "8da3c77a7a66",
+   "titulo": "Flávio Bolsonaro vira alvo de ações por suspensão de salário",
+   "resumo": "A fuga de Flávio Bolsonaro (PL-RJ) do Brasil após perder a eleição presidencial para Lula desencadeou uma série de iniciativas para suspender o pagamento de seu salário e de outras verbas públicas. Uma ação popular na Justiça Federal, um pe…",
+   "link": "https://oantagonista.com.br/brasil/flavio-bolsonaro-vira-alvo-de-acoes-por-suspensao-de-salario/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/156a0214-d77d-4853-a232-544d6538dece-scaled.jpg",
+   "data": "2026-11-01T16:26:39-03:00"
+  },
+  {
+   "id": "0fd5fd0f5969",
+   "titulo": "Câmara banca bebidas alcoólicas para deputada do PT nos EUA",
+   "resumo": "A Câmara dos Deputados bancou despesas com bebidas alcoólicas da deputada federal Carol Dartora (PT-PR) durante viagem oficial a Nova York, nos Estados Unidos. O Parlamento descumpriu as normas internas da Casa legislativa. O uso do dinheir…",
+   "link": "https://revistaoeste.com/politica/camara-banca-bebidas-alcoolicas-para-deputada-do-pt-nos-eua/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/PT.jpg",
+   "data": "2026-11-01T16:26:07-03:00"
+  },
+  {
+   "id": "d0e3340fa38f",
+   "titulo": "Trump promete US$ 15 bi para agricultores às vésperas das eleições",
+   "resumo": "Estados agrícolas são tradicionalmente republicanos, mas pode haver virada democrata",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-promete-us-15-bi-para-agricultores-as-vesperas-das-eleicoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T16:17:25-03:00"
+  },
+  {
+   "id": "a4aea8a60b19",
+   "titulo": "Stéfano Ribeiro Ferri: ‘Imposto sobre transferência de imóveis: os desafios que ainda precisam ser enfrentados’",
+   "resumo": "(*) por Stéfano Ribeiro Ferri A recente decisão do Supremo Tribunal Federal (STF) sobre a imunidade do Imposto sobre a Transmissão de Bens Imóveis (ITBI) na integralização de capital social representa um avanço para a estruturação de operaç…",
+   "link": "https://revistaoeste.com/politica/imposto-sobre-transferencia-de-imoveis-os-desafios-que-ainda-precisam-ser-enfrentados/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Imposto.png",
+   "data": "2026-11-01T16:00:00-03:00"
+  },
+  {
+   "id": "0694ea70b0b2",
+   "titulo": "Fux inclui Saúde e Justiça em debate sobre proibição das bets",
+   "resumo": "O ministro Luiz Fux (foto), do Supremo Tribunal Federal (STF), autorizou os ministérios da Saúde e da Justiça e Segurança Pública a participar da audiência pública sobre apostas esportivas, marcada para a próxima terça-feira, 3. A decisão t…",
+   "link": "https://oantagonista.com.br/brasil/fux-inclui-saude-e-justica-em-debate-sobre-proibicao-das-bets/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55546720946_cffcff9e4c_3k-e1790688785825.jpg",
+   "data": "2026-11-01T15:59:53-03:00"
+  },
+  {
+   "id": "68685bde26c5",
+   "titulo": "Janja posta Lula em visita a recinto de reabilitação de araras",
+   "resumo": "Animais foram devolvidos à Granja do Torto neste ano, depois de um período no Zoológico de Brasília",
+   "link": "https://www.poder360.com.br/poder-gente/janja-posta-lula-em-visita-a-recinto-de-reabilitacao-de-araras/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T15:49:19-03:00"
+  },
+  {
+   "id": "9f0051b12369",
+   "titulo": "Cleitinho desafia políticos pró-boicote a abrir mão do salário",
+   "resumo": "Senador criticou representantes da direita e da esquerda que incentivam a demissão de trabalhadores por divergências eleitorais",
+   "link": "https://www.poder360.com.br/poder-brasil/cleitinho-desafia-politicos-pro-boicote-a-abrir-mao-do-salario/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T15:47:56-03:00"
+  },
+  {
+   "id": "3a6341783a83",
+   "titulo": "PT usa vídeo de idosos carregados para votar no segundo turno para comemorar vitória de Lula",
+   "resumo": "Publicação resgata imagens da chamada “tropa das vós e dos vôs”, mobilizada pela campanha para reduzir a abstenção.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-usa-video-de-idosos-carregados-para-votar-no-segundo-turno-para-comemorar-vitoria-de-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/25230529/lula-pt-vermelho--960x540.jpg",
+   "data": "2026-11-01T15:39:40-03:00"
+  },
+  {
+   "id": "6f96797ed63f",
+   "titulo": "Papa Leão 14 pede esforços de paz entre Rússia e Ucrânia",
+   "resumo": "“Espero que a cooperação fortaleça a vontade de dialogar e conduza a novas iniciativas para a paz”, disse o pontífice",
+   "link": "https://www.poder360.com.br/poder-internacional/papa-leao-14-pede-esforcos-de-paz-entre-russia-e-ucrania/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T15:31:16-03:00"
+  },
+  {
+   "id": "fac9d106b03b",
+   "titulo": "Boulos distorce dados e alimenta desinformação sobre diesel, diz Tarcísio",
+   "resumo": "Mais cedo, o ministro de Lula criticou o governador de SP pelo aumento do preço dos combustíveis, aprovado por todos os Estados",
+   "link": "https://www.poder360.com.br/poder-economia/boulos-distorce-dados-e-alimenta-desinformacao-sobre-diesel-diz-tarcisio/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/aAMbyR_CjEQ/hqdefault.jpg",
+   "data": "2026-11-01T15:19:06-03:00"
+  },
+  {
+   "id": "7c1b9d2b4733",
+   "titulo": "Petrobras aumenta querosene de aviação em 7,2%",
+   "resumo": "Reajuste eleva preço do combustível em R$ 0,45 por litro; estatal atribui alta à valorização internacional e tensões geopolíticas.",
+   "link": "https://www.gazetadopovo.com.br/economia/petrobras-aumenta-querosene-de-aviacao-em-7/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/29154456/petrobras-foto-fernando-frazao-agencia-brasil-960x540.jpg",
+   "data": "2026-11-01T15:03:10-03:00"
+  },
+  {
+   "id": "bd674e58da63",
+   "titulo": "Fumaça de queimadas agrava problemas respiratórios e leva Santarém (PA) a decretar emergência",
+   "resumo": "A fumaça provocada pelas queimadas em Santarém, no oeste do Pará, aumentou a procura por atendimento médico em razão de problemas respiratórios. Dados do Instituto Nacional de Pesquisas Espaciais (Inpe), divulgados pelo Ministério do Meio A…",
+   "link": "https://revistaoeste.com/politica/fumaca-de-queimadas-agrava-problemas-respiratorios-e-leva-santarem-pa-a-decretar-emergencia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Santarem-Destaque.jpg",
+   "data": "2026-11-01T15:00:12-03:00"
+  },
+  {
+   "id": "2ba7add57da8",
+   "titulo": "Boulos critica cobrança por ajuste fiscal: “Chantagem do mercado”",
+   "resumo": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos (PSOL), rejeitou a pressão por um ajuste fiscal no próximo governo Lula. Em entrevista à Folha, ele classificou as cobranças do mercado por cortes de gastos como uma “chantagem…",
+   "link": "https://oantagonista.com.br/brasil/boulos-critica-cobranca-por-ajuste-fiscal-chantagem-do-mercado/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55353098109_cd41eb0d71_k.jpg",
+   "data": "2026-11-01T14:59:18-03:00"
+  },
+  {
+   "id": "04159d979253",
+   "titulo": "PT volta a celebrar reeleição com vídeo da “tropa das vós e dos vôs”",
+   "resumo": "Lula virou a disputa contra Flávio no 2º turno após obter mais de 10,4 milhões de votos e terminar com 51,78%",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/pt-volta-a-celebrar-reeleicao-com-video-da-tropa-das-vos-e-dos-vos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T14:39:43-03:00"
+  },
+  {
+   "id": "278255f18942",
+   "titulo": "A conta das promessas de Lula no MEC",
+   "resumo": "A conta das promessas de campanha do presidente Luiz Inácio Lula da Silva começou a ser apresentada. O Ministério da Educação ( MEC ) vai precisar de um aporte bilionário para transformar o palanque em realidade. Para ter uma ideia, apenas …",
+   "link": "https://revistaoeste.com/politica/a-conta-das-promessas-de-lula-no-mec/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Lula-1.jpg",
+   "data": "2026-11-01T14:35:26-03:00"
+  },
+  {
+   "id": "9a42f1b5d6c5",
+   "titulo": "Ministro de Lula diz que família Bolsonaro virou “fardo político” para Trump",
+   "resumo": "Ministro critica presidente americano e os Bolsonaro após Marco Rubio negar participação dos EUA na saída de Flávio do Brasil.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-familia-bolsonaro-virou-fardo-politico-para-trump/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/08112814/jose-guimaraes-foto-mario-agra-camara-960x540.jpg",
+   "data": "2026-11-01T14:27:13-03:00"
+  },
+  {
+   "id": "d464783bdf3e",
+   "titulo": "Comando Vermelho cobra taxa para vender água em cidade do Ceará onde Lula teve 79% dos votos",
+   "resumo": "Moradores de Banabuiú, no interior do Ceará, enfrentam filas para comprar água mineral depois que comerciantes suspenderam as vendas por causa de ameaças do Comando Vermelho (CV). A facção criminosa passou a exigir pagamentos semanais para …",
+   "link": "https://revistaoeste.com/politica/comando-vermelho-cobra-taxa-para-vender-agua-em-cidade-do-ceara-onde-lula-teve-79-dos-votos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Comando-Vermelho-Destaque.jpg",
+   "data": "2026-11-01T14:23:36-03:00"
+  },
+  {
+   "id": "f77a0e572a2c",
+   "titulo": "Direita perde eleições por ignorar a ‘guerra cultural’, afirma deputado",
+   "resumo": "O deputado estadual Claudio Branchieri (PL-RS) afirmou que a direita brasileira perdeu as eleições presidenciais porque concentrou a campanha em indicadores econômicos e deixou de disputar espaços na cultura. Em vídeo divulgado neste sábado…",
+   "link": "https://revistaoeste.com/politica/direita-perde-eleicoes-por-ignorar-a-guerra-cultural-afirma-deputado/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Guerra-cultural.jpg",
+   "data": "2026-11-01T13:58:41-03:00"
+  },
+  {
+   "id": "4241e86a9b0d",
+   "titulo": "Causa da morte de Tancredo Neves pode ser desvendada",
+   "resumo": "Depois de mais de 40 anos da morte de Tancredo Neves, a Justiça Federal autorizou seus familiares a consultar documentos mantidos sob sigilo sobre o atendimento médico recebido pelo presidente eleito em 1985. A decisão foi tomada por unanim…",
+   "link": "https://revistaoeste.com/politica/causa-da-morte-de-tancredo-neves-pode-ser-desvendada/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Tancredo.jpg",
+   "data": "2026-11-01T13:51:33-03:00"
+  },
+  {
+   "id": "f3b287505fc6",
+   "titulo": "Governo fala em crime político e envia Força Nacional para proteger indígenas",
+   "resumo": "Mobilização prevê 145 agentes em três comunidades; dois servidores são afastados após ameaças de envenenamento da água.",
+   "link": "https://www.gazetadopovo.com.br/republica/governo-fala-em-crime-politico-e-envia-forca-nacional-para-proteger-indigenas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/01134114/WhatsApp-Image-2026-11-01-at-13.40.09-960x540.jpeg",
+   "data": "2026-11-01T13:48:01-03:00"
+  },
+  {
+   "id": "457443c3f681",
+   "titulo": "PT publica vídeo em que relembra uma semana da vitória nas eleições",
+   "resumo": "As imagens mostram momentos de Lula, aliados e apoiadores com bandeiras do partido e do Brasil",
+   "link": "https://www.poder360.com.br/poder-eleicoes/pt-publica-video-em-que-relembra-uma-semana-da-vitoria-nas-eleicoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T13:37:58-03:00"
+  },
+  {
+   "id": "fae2143cdeba",
+   "titulo": "Boulos critica Tarcísio por preço do diesel, mas ignora aumento de petistas",
+   "resumo": "Alta do ICMS foi aprovada por conselho presidido pelo ministro da Fazenda, Dario Durigan",
+   "link": "https://www.poder360.com.br/poder-economia/boulos-critica-tarcisio-por-preco-do-diesel-mas-ignora-aumento-de-petistas/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/aAMbyR_CjEQ/hqdefault.jpg",
+   "data": "2026-11-01T13:26:11-03:00"
+  },
+  {
+   "id": "1a9008b7bd83",
+   "titulo": "Lula retoma maratona internacional com viagens a 4 países até dezembro",
+   "resumo": "O presidente Luiz Inácio Lula da Silva deve retomar em novembro a agenda de viagens internacionais, reduzida durante o período eleitoral. Até dezembro, estão previstos compromissos em quatro países, entre eles uma passagem pela Ásia e uma n…",
+   "link": "https://revistaoeste.com/politica/lula-retoma-maratona-internacional-com-viagens-a-4-paises-ate-dezembro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/01/janja-lula-e-militares-viagem-aviao-desembarque.jpg",
+   "data": "2026-11-01T13:23:45-03:00"
+  },
+  {
+   "id": "dd08852a5d37",
+   "titulo": "Idosa completa 65 anos sem nunca ter trabalhado com carteira assinada, acredita que ficará sem nenhuma renda na velhice e descobre que pode solicitar um benefício assistencial de u",
+   "resumo": "Entenda como solicitar pelo Meu INSS e quais condições podem impedir a concessão The post Idosa completa 65 anos sem nunca ter trabalhado com carteira assinada, acredita que ficará sem nenhuma renda na velhice e descobre que pode solicitar …",
+   "link": "https://oantagonista.com.br/brasil/idosa-completa-65-anos-sem-nunca-ter-trabalhado-com-carteira-assinada-acredita-que-ficara-sem-nenhuma-renda-na-velhice-e-descobre-que-pode-solicitar-um-beneficio-assistencial-de-um-salario-minimo/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Woman_receiving_social_service_g…_b657957e.jpg",
+   "data": "2026-11-01T13:23:00-03:00"
+  },
+  {
+   "id": "611fc7d28cf2",
+   "titulo": "Petrobras eleva preço do querosene de aviação em 7,2%",
+   "resumo": "É o 4º aumento consecutivo em contexto de alta do preço do Brent e redução do refino na Rússia e na Ucrânia",
+   "link": "https://www.poder360.com.br/poder-economia/petrobras-eleva-preco-do-querosene-de-aviacao-em-72/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T13:14:45-03:00"
+  },
+  {
+   "id": "0f3d064cefcc",
+   "titulo": "Youtuber pró-Lula estimula petistas a incendiar igrejas evangélicas e a queimar bandeira de Israel",
+   "resumo": "O youtuber Helder Maldonado, do canal Galãs Feios, estimulou apoiadores do presidente Luiz Inácio Lula da Silva a incendiar bandeiras de Israel presentes em igrejas evangélicas. A declaração consta em vídeo que circula nas redes sociais des…",
+   "link": "https://revistaoeste.com/politica/youtuber-pro-lula-estimula-petistas-a-incendiar-igrejas-evangelicas-e-a-queimar-bandeira-de-israel/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Jornalista-pro-Lula.webp",
+   "data": "2026-11-01T13:04:47-03:00"
+  },
+  {
+   "id": "ea1778c55faa",
+   "titulo": "André Fini Terçarolli: ‘Nega-se o ingresso, concede-se a investigação’",
+   "resumo": "(*) André Fini Terçarolli Uma ação sobre a atuação de municípios brasileiros na Justiça estrangeira acabou servindo de porta de entrada para uma investigação sobre a eleição presidencial. A decisão do ministro Flávio Dino na ADPF 1.178 expõ…",
+   "link": "https://revistaoeste.com/politica/nega-se-o-ingresso-concede-se-a-investigacao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/dino-petrobras.jpeg",
+   "data": "2026-11-01T13:00:00-03:00"
+  },
+  {
+   "id": "80cc5aae9590",
+   "titulo": "Crusoé: Petista quer impor teto ao valor cobrado por bancos por empréstimos",
+   "resumo": "Um projeto de lei apresentado pelo deputado Paulo Teixeira (PT-SP) na Câmara dos Deputados estabelece um limite para o custo total das operações de crédito destinadas a pessoas físicas. Pelo texto, o consumidor não poderá ser obrigado a pag…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-petista-quer-impor-teto-ao-valor-cobrado-por-bancos-por-emprestimos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/09/54780273064_e1c7103d49_6k-scaled.jpg",
+   "data": "2026-11-01T12:00:40-03:00"
+  },
   {
    "id": "7d9dc92305cf",
    "titulo": "Relator de ações contra Flávio, Dino se firma como herdeiro de Gilmar e Moraes no STF",
@@ -11,51 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/30144608/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf-960x540.jpg",
    "data": "2026-11-01T11:43:06-03:00"
-  },
-  {
-   "id": "633a0b79034b",
-   "titulo": "Mega-Sena acumula, e prêmio vai a R$ 46 milhões",
-   "resumo": "Ninguém acertou as 6 dezenas sorteadas neste domingo (1º nov); próximo concurso será realizado na 4ª feira",
-   "link": "https://www.poder360.com.br/poder-brasil/eis-os-numeros-sorteados-do-concurso-3-080-da-mega-sena/",
-   "fonte": "Poder360",
-   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707012&o=node",
-   "data": "2026-11-01T11:35:39-03:00"
-  },
-  {
-   "id": "e8181445c413",
-   "titulo": "Rio de Janeiro registra 211 casos de Mpox em 2026",
-   "resumo": "São 77% mais casos do que em todo o ano de 2025, quando 119 foram confirmados",
-   "link": "https://www.poder360.com.br/poder-saude/rio-de-janeiro-registra-211-casos-de-mpox-em-2026/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T11:32:57-03:00"
-  },
-  {
-   "id": "4dfc407109c7",
-   "titulo": "Centrão quer mudar regra eleitoral para frear avanço do PL",
-   "resumo": "Preocupados com o avanço do Partido Liberal (PL) na Câmara dos Deputados , líderes do centrão articulam uma mudança no sistema eleitoral. A proposta prevê a adoção do voto distrital misto a partir de 2034, com regras de transição para as el…",
-   "link": "https://revistaoeste.com/politica/centrao-quer-mudar-regra-eleitoral-para-frear-avanco-do-pl/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Motta-voto-distrital.jpg",
-   "data": "2026-11-01T11:30:17-03:00"
-  },
-  {
-   "id": "ef6719160208",
-   "titulo": "Trump tem 2ª derrota em ação contra “WSJ” sobre carta a Epstein",
-   "resumo": "Justiça arquivou processo por difamação; jornal divulgou que nome do presidente estava em cartão de aniversário ao empresário",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-tem-2a-derrota-em-acao-contra-wsj-sobre-carta-a-epstein/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T11:17:41-03:00"
-  },
-  {
-   "id": "fa71a8ce0d6e",
-   "titulo": "Democratas superam republicanos em pesquisas a 2 dias de pleito nos EUA",
-   "resumo": "Média do agregador RealClearPolling mostra Partido Democrata com 40,2% de avaliação favorável; \"midterms\" serão na 3ª feira",
-   "link": "https://www.poder360.com.br/poder-internacional/democratas-superam-republicanos-em-pesquisas-a-2-dias-de-pleito-nos-eua/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T11:14:57-03:00"
   },
   {
    "id": "76a490cc0af5",
@@ -67,15 +283,6 @@
    "data": "2026-11-01T11:14:20-03:00"
   },
   {
-   "id": "43af3f980f9a",
-   "titulo": "Opep+ mantém metas de produção de petróleo em dezembro",
-   "resumo": "É a 3ª manutenção seguida das cotas acordadas em setembro; as negociações agora se concentram nos valores para 2027",
-   "link": "https://www.poder360.com.br/poder-energia/opep-mantem-metas-de-producao-de-petroleo-em-dezembro/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/opep-tabela-dezembro.png",
-   "data": "2026-11-01T10:50:38-03:00"
-  },
-  {
    "id": "5e7e83573f48",
    "titulo": "Lula retoma agenda internacional",
    "resumo": "Lula (PT) confirmou presença na cúpula do G20, em Miami, nos Estados Unidos, nos dias 14 e 15 de dezembro. Será a primeira ocasião em que o petista participará de um evento com Donald Trump desde a eleição brasileira. Durante a campanha, o …",
@@ -83,33 +290,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/07/55255464883_e5e65a46ed_k.jpg",
    "data": "2026-11-01T10:23:20-03:00"
-  },
-  {
-   "id": "2cd373582b49",
-   "titulo": "Estudantes convocam protestos contra Flávio em 9 Estados",
-   "resumo": "Organizado pela UNE, ato \"Brasil com S\" faz referência à carta que o senador escreveu após fugir para os EUA",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/estudantes-convocam-protestos-contra-flavio-em-9-estados/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T10:21:16-03:00"
-  },
-  {
-   "id": "272c520c075c",
-   "titulo": "308 deputados foram eleitos em 2026 num sistema informal de voto distrital",
-   "resumo": "Esse grupo tem 50% ou mais dos votos em até 10 cidades; dado demonstra que representantes na Câmara atuam em regiões geográficas delimitadas, e não em todo o Estado",
-   "link": "https://www.poder360.com.br/poder-eleicoes/308-deputados-foram-eleitos-em-2026-num-sistema-informal-de-voto-distrital/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/concentracao-votos-deputados-30-out-2026-1-1.png",
-   "data": "2026-11-01T10:00:42-03:00"
-  },
-  {
-   "id": "e084780e5851",
-   "titulo": "Distrital misto trava “puxadores”, mas mantém desequilíbrio entre UFs",
-   "resumo": "Proposta que altera o sistema de escolha de deputados e vereadores e cria distritos eleitorais ganhou força entre partidos de centro",
-   "link": "https://www.poder360.com.br/poder-eleicoes/distrital-misto-trava-voos-solos-mas-mantem-desequilibrio-entre-ufs/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/concentracao-votos-deputados-30-out-2026-1.png",
-   "data": "2026-11-01T10:00:26-03:00"
   },
   {
    "id": "145207703cff",
@@ -139,24 +319,6 @@
    "data": "2026-11-01T09:53:00-03:00"
   },
   {
-   "id": "02463cc1fad2",
-   "titulo": "Binance repõe US$ 6 bilhões dos ativos roubados e retoma saques",
-   "resumo": "Corretora usou recursos próprios para comprar tokens de substituição; FBI diz que ataque hacker veio da Coreia do Norte",
-   "link": "https://www.poder360.com.br/poder-internacional/binance-repoe-us-6-bilhoes-dos-ativos-roubados-e-retoma-saques/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/X-Binance-29out2026.png",
-   "data": "2026-11-01T09:36:59-03:00"
-  },
-  {
-   "id": "90600de83c60",
-   "titulo": "Truta amarela supera linhagem selvagem no peso de abate",
-   "resumo": "Peixe fruto do cruzamento com linhagem albina atinge 300g no longo prazo, ultrapassando os 237g da variedade comum",
-   "link": "https://www.poder360.com.br/poder-sustentavel/truta-amarela-supera-linhagem-selvagem-no-peso-de-abate/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T09:00:12-03:00"
-  },
-  {
    "id": "e7b2ec50d42b",
    "titulo": "Novo diz ter ganhado filiados após contestar vitória de Lula",
    "resumo": "O Novo afirma ter conquistado 2,2 mil novos filiados em 24 horas após anunciar que não reconhece a vitória de Lula (PT) na eleição presidencial. A legenda atribui o crescimento à repercussão do posicionamento, que contraria o reconhecimento…",
@@ -164,15 +326,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/foto-canva-11.png",
    "data": "2026-11-01T08:54:51-03:00"
-  },
-  {
-   "id": "b0bcfe855265",
-   "titulo": "Acordo Mercosul-EFTA zera tarifas e amplia acesso de produtos brasileiros à Noruega",
-   "resumo": "O Acordo de Livre Comércio entre o Mercosul e a Associação Europeia de Livre Comércio (EFTA) começa a valer neste domingo, 1º, nas relações entre Brasil e Noruega. Esse tratado elimina tarifas de importação sobre diferentes produtos brasile…",
-   "link": "https://revistaoeste.com/politica/acordo-mercosul-efta-zera-tarifas-e-amplia-acesso-de-produtos-brasileiros-a-noruega/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/int3-exportacoes-do-agronegocio-brasileiro.webp",
-   "data": "2026-11-01T08:53:43-03:00"
   },
   {
    "id": "1eb849e74a0a",
@@ -193,42 +346,6 @@
    "data": "2026-11-01T08:32:57-03:00"
   },
   {
-   "id": "b3acd5d1fa31",
-   "titulo": "A eleição presidencial: 3 observações e uma sugestão",
-   "resumo": "Sobre o resultado da eleição presidencial, faço três observações e uma sugestão. A primeira observação é a de que o Tribunal Superior Eleitoral passou a ser, efetivamente, uma casa de tertúlias acadêmicas. O TSE estabeleceu as regras da ele…",
-   "link": "https://revistaoeste.com/politica/a-eleicao-presidencial-3-observacoes-e-uma-sugestao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Eleicao.png",
-   "data": "2026-11-01T08:00:00-03:00"
-  },
-  {
-   "id": "22fdce9da1f7",
-   "titulo": "Carlos relata preocupação com saúde de Jair Bolsonaro após visita",
-   "resumo": "Carlos Bolsonaro afirmou neste sábado, 31, que o pai, Jair Bolsonaro, voltou a ter crises de soluço. Após visitar o ex-presidente, o senador eleito também relatou preocupação com o aumento do volume abdominal do pai. Após visitá-lo por cerc…",
-   "link": "https://oantagonista.com.br/brasil/carlos-relata-preocupacao-com-saude-de-jair-bolsonaro-apos-visita/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/Captura-de-Tela-2026-02-15-as-09.34.02-e1771158963902.png",
-   "data": "2026-11-01T07:56:47-03:00"
-  },
-  {
-   "id": "6fd601dffdd6",
-   "titulo": "Colocar uma folha de louro sob um prato branco no final de outubro: por que é recomendado e como fazer",
-   "resumo": "Uma folha de louro e um prato branco são os dois elementos de um ritual popular realizado em 31 de outubro para atrair prosperidade, abundância financeira e novas oportunidades em novembro. A tradição chama atenção pela simplicidade e pelo …",
-   "link": "https://oantagonista.com.br/brasil/colocar-uma-folha-de-louro-sob-um-prato-branco-no-final-de-outubro-por-que-e-recomendado-e-como-fazer/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Colocar-uma-folha-de-louro-sob-um-prato-branco-no-final-de-outubro-por-que-e-recomendado-e-como-fazer.jpg",
-   "data": "2026-11-01T07:53:00-03:00"
-  },
-  {
-   "id": "657d1ed01c84",
-   "titulo": "Márcio Coimbra na Crusoé: Fronteiras da democracia",
-   "resumo": "A história diplomática brasileira tem em Washington um de seus pilares fundadores e mais estáveis. Desde o pioneirismo americano ao reconhecer a independência do Brasil, a relação entre as duas nações tem sido pautada por um pragmatismo mad…",
-   "link": "https://oantagonista.com.br/brasil/marcio-coimbra-na-crusoe-fronteiras-da-democracia/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/caminhada-de-flavio.jpg",
-   "data": "2026-11-01T07:08:00-03:00"
-  },
-  {
    "id": "865999ab2ac4",
    "titulo": "A lição das redes que Lula deve levar para o quarto mandato",
    "resumo": "Aliados apostam que presidente Lula manterá, no novo governo, a comunicação direta pelas redes que adotou durante o segundo turno",
@@ -236,33 +353,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/lula-andre-janones-1.jpg",
    "data": "2026-11-01T07:00:55-03:00"
-  },
-  {
-   "id": "a8356eb44ff2",
-   "titulo": "A bússola do centrão",
-   "resumo": "O centrão chega às negociações para o quarto mandato de Luiz Inácio Lula da Silva com duas frentes abertas: a participação no governo e a preservação da influência no Congresso . Enquanto dirigentes de partidos que apoiaram Flávio Bolsonaro…",
-   "link": "https://revistaoeste.com/politica/bussola-do-centrao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Bussola-entre-Congresso-e-Planalto.png",
-   "data": "2026-11-01T07:00:00-03:00"
-  },
-  {
-   "id": "44ac7af3d93f",
-   "titulo": "Por ordem da Lei de Trânsito 13.927, terão a CNH suspensa os motoristas que recusarem a fazer o teste de álcool zero",
-   "resumo": "Uma atitude durante uma fiscalização de trânsito pode custar muito mais do que uma multa. Na província de Buenos Aires, na Argentina, a Lei 13.927 determina que motoristas flagrados dirigindo após consumir álcool podem ter a CNH suspensa te…",
-   "link": "https://oantagonista.com.br/brasil/por-ordem-da-lei-de-transito-13-927-terao-a-cnh-suspensa-os-motoristas-que-recusarem-a-fazer-o-teste-de-alcool-zero/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Por-ordem-da-Lei-de-Transito-13.927-terao-a-CNH-suspensa-os-motoristas-que-recusarem-a-fazer-o-teste-de-alcool-zero.jpg",
-   "data": "2026-11-01T06:33:00-03:00"
-  },
-  {
-   "id": "c76d74bc8b2f",
-   "titulo": "Lagoa que secou completamente em 2018 volta a atingir cerca de 90% da capacidade no Chile após anos de recuperação",
-   "resumo": "Depois de desaparecer durante a seca de 2018, a água voltou a ocupar a Laguna de Aculeo, em Paine, no Chile, com a retomada das chuvas na região. Em outubro de 2026, a prefeitura informou uma recuperação próxima de 90% da capacidade, enquan…",
-   "link": "https://oantagonista.com.br/brasil/lagoa-que-secou-completamente-em-2018-volta-a-atingir-cerca-de-90-da-capacidade-no-chile-apos-anos-de-recuperacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Laguna_de_Aculeo_in_spring_1699a939.jpg",
-   "data": "2026-11-01T06:03:00-03:00"
   },
   {
    "id": "d8f35b76fc98",
@@ -301,15 +391,6 @@
    "data": "2026-11-01T01:03:38-03:00"
   },
   {
-   "id": "4448318bb340",
-   "titulo": "Trump diz que Flávio pode ficar nos EUA pelo tempo que quiser",
-   "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou neste sábado, 31, que o senador Flávio Bolsonaro (PL) pode permanecer no país “quanto tempo quiser”. O republicano falou com jornalistas em seu clube, Mar-a-Lago, em Palm Beach, na Flór…",
-   "link": "https://revistaoeste.com/politica/trump-diz-que-flavio-pode-ficar-nos-eua-pelo-tempo-que-quiser/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Trump-com-Flavio.jpeg",
-   "data": "2026-11-01T00:12:02-03:00"
-  },
-  {
    "id": "2de0ee87b856",
    "titulo": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
    "resumo": "",
@@ -346,24 +427,6 @@
    "data": "2026-10-31T21:02:22-03:00"
   },
   {
-   "id": "9a1ae00032ab",
-   "titulo": "Flávio pede que Alexandre de Moraes deixe investigação",
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ) apresentou três petições ao Supremo Tribunal Federal (STF) na noite de sexta-feira, 30. Em duas delas, pede que o ministro Alexandre de Moraes deixe de atuar na investigação sobre sua relação com o advogad…",
-   "link": "https://revistaoeste.com/politica/flavio-pede-que-alexandre-de-moraes-deixe-investigacao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-bolsonaro.jpg",
-   "data": "2026-10-31T20:07:18-03:00"
-  },
-  {
-   "id": "811620a8bb3f",
-   "titulo": "Desarmamento unilateral",
-   "resumo": "Igor Gadelha, colunista do Metrópoles, decretou o armistício. Passada a eleição, escreveu ele, “é hora de respeitar o resultado das urnas, baixar as armas”. O apelo tem três destinatários: a esquerda vitoriosa, a direita derrotada e o Judic…",
-   "link": "https://revistaoeste.com/politica/desarmamento-unilateral/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Desarmamento.jpg",
-   "data": "2026-10-31T20:00:00-03:00"
-  },
-  {
    "id": "ddaa703115cb",
    "titulo": "Flávio Bolsonaro organiza saída estratégica do Brasil rumo aos Estados Unidos",
    "resumo": "Entenda a logística de jatos e veículos que levou Flávio Bolsonaro aos EUA e os questionamentos sobre o apoio de governos estrangeiros na operação.",
@@ -382,24 +445,6 @@
    "data": "2026-10-31T19:07:09-03:00"
   },
   {
-   "id": "7c5dcc31d0db",
-   "titulo": "Aumenta a procura de médicos brasileiros por trabalho nos EUA depois da reeleição de Lula",
-   "resumo": "A procura de médicos brasileiros por oportunidades de residência e trabalho nos Estados Unidos aumentou depois da reeleição do presidente Luiz Inácio Lula da Silva, no último domingo, 25. Segundo a RD Medicine, empresa especializada na prep…",
-   "link": "https://revistaoeste.com/politica/aumenta-a-procura-de-medicos-brasileiros-por-trabalho-nos-eua-depois-da-reeleicao-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Medicos.png",
-   "data": "2026-10-31T19:00:00-03:00"
-  },
-  {
-   "id": "176e6100f6fc",
-   "titulo": "Ação popular pede suspensão de salário de Flávio no Senado",
-   "resumo": "Uma ação popular protocolada na Justiça Federal solicita a interrupção imediata do pagamento de salário e verbas públicas ao senador Flávio Bolsonaro (PL-RJ). O processo foi distribuído para a 6ª Vara Federal do Rio de Janeiro. + Entenda ma…",
-   "link": "https://revistaoeste.com/politica/acao-popular-pede-suspensao-de-salario-de-flavio-no-senado/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Flavio-1.jpg",
-   "data": "2026-10-31T18:47:44-03:00"
-  },
-  {
    "id": "d741c3fd2284",
    "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
@@ -407,24 +452,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-31T18:24:00-03:00"
-  },
-  {
-   "id": "f42187bc94a4",
-   "titulo": "Carlos Bolsonaro visita o pai e relata preocupação com sua saúde",
-   "resumo": "O senador eleito Carlos Bolsonaro (PL-SC) visitou o pai, o ex-presidente Jair Bolsonaro, neste sábado, 31, e relatou preocupação com seu estado de saúde. Em um vídeo publicado depois do encontro, Carlos também reafirmou o apoio à candidatur…",
-   "link": "https://revistaoeste.com/politica/carlos-bolsonaro-visita-o-pai-e-relata-preocupacao-com-sua-saude/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/carlos-pl.jpeg",
-   "data": "2026-10-31T18:06:57-03:00"
-  },
-  {
-   "id": "3f7e7078cb51",
-   "titulo": "Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA",
-   "resumo": "Segundo Rubio, Trump garantiu que, se Flávio fosse para os EUA, teria autorização para permanecer no país. Veja na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/mundo/marco-rubio-afirma-que-governo-trump-nao-auxiliou-flavio-a-ir-para-eua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/31171313/Marco-Rubio-960x540.jpg",
-   "data": "2026-10-31T17:22:25-03:00"
   },
   {
    "id": "79bcecff7e11",
@@ -443,15 +470,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/30161541/thumb-gazeta-agora_cortes-1-10-960x540.jpg",
    "data": "2026-10-31T15:37:43-03:00"
-  },
-  {
-   "id": "5b90dee25a04",
-   "titulo": "A estratégia de Flávio para sair do Brasil: veículos de apoio e jatos alternativos",
-   "resumo": "Jornal argentino diz que operação teria mobilizado agentes americanos, veículos de apoio e aeronaves particulares.",
-   "link": "https://www.gazetadopovo.com.br/republica/a-estrategia-de-flavio-para-sair-do-brasil-veiculos-de-apoio-e-jatos-alternativos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30090232/ASPA-GRANDE-2026-10-30T090231.106-960x540.jpg",
-   "data": "2026-10-31T15:25:45-03:00"
   },
   {
    "id": "8fce88f12031",
@@ -479,15 +497,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg",
    "data": "2026-10-31T15:09:41-03:00"
-  },
-  {
-   "id": "e56d9e5ece77",
-   "titulo": "Polícia Federal deixa ministros do STF fora de indiciamentos do caso Master",
-   "resumo": "PF apresenta primeiro indiciamento do caso Banco Master focando em Daniel Vorcaro e fraudes com o BRB. Ministros do STF ficam fora desta fase da investigação.",
-   "link": "https://www.gazetadopovo.com.br/republica/policia-federal-deixa-ministros-do-stf-fora-de-indiciamentos-do-caso-master/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/31150004/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-1-960x540.jpg",
-   "data": "2026-10-31T15:00:00-03:00"
   },
   {
    "id": "dac3f33bc54b",
@@ -758,24 +767,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/rogerio-marinho.jpg",
    "data": "2026-10-29T16:39:52-03:00"
-  },
-  {
-   "id": "588b15bd2ae9",
-   "titulo": "A eleição acabou: é hora de direita, esquerda e Judiciário baixarem armas",
-   "resumo": "É hora de respeitar o resultado das urnas, baixar as armas e entender que a disputa eleitoral tem regras que devem ser respeitadas por todos",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-eleicao-acabou-e-hora-de-direita-esquerda-e-judiciario-baixarem-armas",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-e-lula.jpeg",
-   "data": "2026-10-29T15:25:48-03:00"
-  },
-  {
-   "id": "6fdad05151ec",
-   "titulo": "A estratégia de Alcolumbre para lidar com Flávio",
-   "resumo": "Davi Alcolumbre decidiu não dar palco à carta golpista de Flávio Bolsonaro e só pretende reagir se atuação do senador nos EUA escalar",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-estrategia-de-alcolumbre-para-lidar-com-flavio",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/08/07171654/imagem_materia-1-7.jpg",
-   "data": "2026-10-29T12:20:53-03:00"
   }
  ]
 }
