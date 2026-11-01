@@ -1,16 +1,205 @@
 {
- "atualizado": "2026-10-31T18:26:52.991206-03:00",
- "total": 87,
+ "atualizado": "2026-10-31T22:01:17.751375-03:00",
+ "total": 88,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "0951a0b78a26",
-   "titulo": "Justiça rejeita ação de Trump sobre reportagem ligada a Epstein",
-   "resumo": "Um juiz federal dos Estados Unidos rejeitou em caráter definitivo a ação de difamação movida por Donald Trump contra o The Wall Street Journal, Rupert Murdoch e jornalistas do veículo. O presidente pedia US$ 10 bilhões (cerca de R$ 54 bilhõ…",
-   "link": "https://oantagonista.com.br/brasil/justica-rejeita-acao-de-trump-sobre-reportagem-ligada-a-epstein/",
+   "id": "1d9c916c8174",
+   "titulo": "Fazendeiro decide dividir suas terras em pequenos lotes para os quatro filhos e descobre que nem mesmo o proprietário pode desmembrar uma área rural em qualquer tamanho que desejar",
+   "resumo": "Ernesto quer repartir a fazenda entre seus quatro filhos, reservando um terreno para cada um. Neste relato hipotético, ele chega ao cartório com a divisão desenhada e ouve falar da fração mínima de parcelamento. A intenção familiar é legíti…",
+   "link": "https://oantagonista.com.br/?p=2180193",
    "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Trump.jpg",
-   "data": "2026-10-31T18:22:55-03:00"
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Fazendeiro-decide-dividir-suas-terras-em-pequenos-lotes-para-os-quatro-filhos-e-descobre-que-nem-mesmo-o-proprietario-pode-desmembrar-uma-area-rural-em-qualquer-tamanho-que-deseja.jpg",
+   "data": "2026-10-31T22:01:14.109452-03:00"
+  },
+  {
+   "id": "b4c0e450a964",
+   "titulo": "Sedã da Nissan tem motor 1.8 de até 126 cv, tanque de 52 litros e porta-malas de 467 litros",
+   "resumo": "O sedã da Nissan conhecido como Tiida Sedan 2013 tem 467 litros de porta-malas, espaço que chama atenção para viagens e compras de quem usa o carro todos os dias. Seu motor 1.8 flex chega a 126 cv com etanol e o tanque leva 52 litros. Como …",
+   "link": "https://oantagonista.com.br/?p=2180866",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Manual_gear_selector_in_car_f12ad3f9.jpg",
+   "data": "2026-10-31T22:01:14.108794-03:00"
+  },
+  {
+   "id": "fb65eb8a5af0",
+   "titulo": "Tabata defende Alckmin na Fazenda e admite disputar SP em 2028",
+   "resumo": "Deputada do PSB apoia vice-presidente para comandar a economia no Lula 4 e diz que voltar a concorrer à Prefeitura de São Paulo é desejo seu e do partido",
+   "link": "https://www.poder360.com.br/poder-congresso/tabata-defende-alckmin-na-fazenda-e-admite-disputar-sp-em-2028/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T21:57:07-03:00"
+  },
+  {
+   "id": "4be425bfeb8f",
+   "titulo": "Direita sem Bolsonaro é oportunismo, diz Gilson Machado",
+   "resumo": "Ex-ministro critica políticos que buscam protagonismo na direita após a fuga de Flávio Bolsonaro para os Estados Unidos",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/direita-sem-bolsonaro-e-oportunismo-diz-gilson-machado/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/h1kdbtOXf2Y/hqdefault.jpg",
+   "data": "2026-10-31T21:45:36-03:00"
+  },
+  {
+   "id": "08c259042f80",
+   "titulo": "Alemanha tem saques depois de manifestação por educação",
+   "resumo": "Jovens da Geração Z foram às ruas para pedir mais investimentos e redução do custo de vida",
+   "link": "https://www.poder360.com.br/poder-internacional/alemanha-tem-saques-depois-de-manifestacao-por-educacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T21:41:07-03:00"
+  },
+  {
+   "id": "f6de21e364ae",
+   "titulo": "Reino Unido orienta famílias a manter estoques de emergência",
+   "resumo": "Campanha \"Be Ready\" do governo britânico lista alimentos, água e itens básicos para enfrentar eventos extremos",
+   "link": "https://www.poder360.com.br/poder-internacional/reino-unido-orienta-familias-a-manter-estoques-de-emergencia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T21:22:42-03:00"
+  },
+  {
+   "id": "af327a46b20f",
+   "titulo": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
+   "resumo": "Denúncias de violência política na região cresceram desde o 2º turno das eleições presidenciais",
+   "link": "https://www.poder360.com.br/poder-sustentavel/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T21:18:58-03:00"
+  },
+  {
+   "id": "fce1ecef116e",
+   "titulo": "Idoso ganha certificado do Exército do Lula e reação viraliza",
+   "resumo": "A gravação foi compartilhada na conta pessoal do presidente Lula no Instagram e por aliados do petista",
+   "link": "https://www.poder360.com.br/poder-brasil/idoso-ganha-certificado-do-exercito-do-lula-e-reacao-viraliza/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/EI2k-nBA_ZI/hqdefault.jpg",
+   "data": "2026-10-31T21:13:23-03:00"
+  },
+  {
+   "id": "610b74ea9203",
+   "titulo": "MEC aciona PF sobre ameaças a estudantes por “divergências políticas”",
+   "resumo": "Ministério acionou a Polícia Federal depois de registros de intimidações, preconceito e exposição de menores em redes sociais",
+   "link": "https://www.poder360.com.br/poder-economia/mec-aciona-pf-sobre-ameacas-a-estudantes-por-divergencias-politicas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T21:05:49-03:00"
+  },
+  {
+   "id": "3da61965d4b5",
+   "titulo": "Segurança lidera cobranças da população por ações concretas e vira dívida dos eleitos",
+   "resumo": "Municipalização, inteligência, coordenação e asfixia financeira: especialistas apontam prioridades contra violência para os políticos eleitos",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/como-politicos-eleitos-podem-contribuir-para-brasil-mais-seguro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/16134543/brasil-decente-11-960x540.jpg",
+   "data": "2026-10-31T21:05:15-03:00"
+  },
+  {
+   "id": "db7d0391ca3a",
+   "titulo": "Perseguição a Flávio fortalece esforço da direita para presidir Senado",
+   "resumo": "Viagem de Flávio Bolsonaro aos EUA pode enfraquecer base governista na disputa da presidência do Senado. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/republica/perseguicao-a-flavio-fortalece-esforco-da-direita-para-presidir-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/06150003/Rogerio-Marinho-960x540.jpg",
+   "data": "2026-10-31T21:02:22-03:00"
+  },
+  {
+   "id": "20d22b28a9c9",
+   "titulo": "Kassab diz que Lula procurou PSD para novo governo",
+   "resumo": "Presidente do partido condiciona apoio a medidas econômicas e postura de \"unificação\" do petista",
+   "link": "https://www.poder360.com.br/poder-partidos-politicos/kassab-diz-que-lula-procurou-psd-para-novo-governo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T20:49:40-03:00"
+  },
+  {
+   "id": "17e1f131c0aa",
+   "titulo": "Boulos diz ser “chantagem” pressão do mercado por ajuste fiscal",
+   "resumo": "Em entrevista à \"Folha\", ministro defendeu cortes em privilégios, como desonerações fiscais de R$ 600 bilhões",
+   "link": "https://www.poder360.com.br/poder-economia/boulos-diz-ser-chantagem-pressao-do-mercado-por-ajuste-fiscal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T20:16:28-03:00"
+  },
+  {
+   "id": "bdc807354f7f",
+   "titulo": "Vereador do PT propõe declarar Flávio “persona non grata” em SP",
+   "resumo": "Moção apresentada pelo vereador Dheison Silva tem caráter político e simbólico e não estabelece restrições jurídicas",
+   "link": "https://www.poder360.com.br/poder-brasil/vereador-do-pt-propoe-declarar-flavio-persona-non-grata-em-sp/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-10-31T20:10:21-03:00"
+  },
+  {
+   "id": "9a1ae00032ab",
+   "titulo": "Flávio pede que Alexandre de Moraes deixe investigação",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) apresentou três petições ao Supremo Tribunal Federal (STF) na noite de sexta-feira, 30. Em duas delas, pede que o ministro Alexandre de Moraes deixe de atuar na investigação sobre sua relação com o advogad…",
+   "link": "https://revistaoeste.com/politica/flavio-pede-que-alexandre-de-moraes-deixe-investigacao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/flavio-bolsonaro.jpg",
+   "data": "2026-10-31T20:07:18-03:00"
+  },
+  {
+   "id": "811620a8bb3f",
+   "titulo": "Desarmamento unilateral",
+   "resumo": "Igor Gadelha, colunista do Metrópoles, decretou o armistício. Passada a eleição, escreveu ele, “é hora de respeitar o resultado das urnas, baixar as armas”. O apelo tem três destinatários: a esquerda vitoriosa, a direita derrotada e o Judic…",
+   "link": "https://revistaoeste.com/politica/desarmamento-unilateral/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Desarmamento.jpg",
+   "data": "2026-10-31T20:00:00-03:00"
+  },
+  {
+   "id": "e139de486cc6",
+   "titulo": "Amigo de Flávio tem outros imóveis em Angra além de casa disputada com Richarlison",
+   "resumo": "O advogado Willer Tomaz, investigado por suspeita de lavagem de dinheiro em inquérito que também envolve Flávio Bolsonaro (PL-RJ) e tramita no Supremo Tribunal Federal (STF), possui seis imóveis em ilhas de Angra dos Reis, na Costa Verde fl…",
+   "link": "https://oantagonista.com.br/brasil/amigo-de-flavio-tem-outros-imoveis-em-angra-alem-de-casa-disputada-com-richarlison/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Opera-Instantaneo_2026-10-20_202922_oglobo.globo_.com-1.png",
+   "data": "2026-10-31T19:47:08-03:00"
+  },
+  {
+   "id": "ddaa703115cb",
+   "titulo": "Flávio Bolsonaro organiza saída estratégica do Brasil rumo aos Estados Unidos",
+   "resumo": "Entenda a logística de jatos e veículos que levou Flávio Bolsonaro aos EUA e os questionamentos sobre o apoio de governos estrangeiros na operação.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-organiza-saida-estrategica-do-brasil-rumo-aos-estados-unidos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/31192643/ASPA-GRANDE-2026-10-30T090231.106-2-960x540.jpg",
+   "data": "2026-10-31T19:26:40-03:00"
+  },
+  {
+   "id": "c303a1086787",
+   "titulo": "Chilli Beans entra com recuperação extrajudicial para renegociar dívida de R$ 340 milhões",
+   "resumo": "Empresa de óculos e relógios apresenta plano para renegociar dívida de R$ 340 milhões com credores. Veja na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/economia/chilli-beans-entra-com-recuperacao-extrajudicial-para-renegociar-divida-de-r-340-milhoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/31190513/pexels-sunglasses-1284392-960x540.jpg",
+   "data": "2026-10-31T19:07:09-03:00"
+  },
+  {
+   "id": "7c5dcc31d0db",
+   "titulo": "Aumenta a procura de médicos brasileiros por trabalho nos EUA depois da reeleição de Lula",
+   "resumo": "A procura de médicos brasileiros por oportunidades de residência e trabalho nos Estados Unidos aumentou depois da reeleição do presidente Luiz Inácio Lula da Silva, no último domingo, 25. Segundo a RD Medicine, empresa especializada na prep…",
+   "link": "https://revistaoeste.com/politica/aumenta-a-procura-de-medicos-brasileiros-por-trabalho-nos-eua-depois-da-reeleicao-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Medicos.png",
+   "data": "2026-10-31T19:00:00-03:00"
+  },
+  {
+   "id": "176e6100f6fc",
+   "titulo": "Ação popular pede suspensão de salário de Flávio no Senado",
+   "resumo": "Uma ação popular protocolada na Justiça Federal solicita a interrupção imediata do pagamento de salário e verbas públicas ao senador Flávio Bolsonaro (PL-RJ). O processo foi distribuído para a 6ª Vara Federal do Rio de Janeiro. + Entenda ma…",
+   "link": "https://revistaoeste.com/politica/acao-popular-pede-suspensao-de-salario-de-flavio-no-senado/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Flavio-1.jpg",
+   "data": "2026-10-31T18:47:44-03:00"
+  },
+  {
+   "id": "d741c3fd2284",
+   "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-10-31T18:24:00-03:00"
   },
   {
    "id": "2d68e7fd447d",
@@ -20,15 +209,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/WhatsApp-Image-2026-10-29-at-15.03.43-1.jpeg",
    "data": "2026-10-31T18:10:53-03:00"
-  },
-  {
-   "id": "a2d22af3cc43",
-   "titulo": "Defesa Civil alerta para chuva forte em Belo Horizonte",
-   "resumo": "Aviso prevê pancadas, raios e ventos de 50 km/h até 1º de novembro na capital mineira",
-   "link": "https://www.poder360.com.br/poder-brasil/defesa-civil-alerta-para-chuva-forte-em-belo-horizonte/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-31T18:08:06-03:00"
   },
   {
    "id": "f42187bc94a4",
@@ -58,42 +238,6 @@
    "data": "2026-10-31T18:00:00-03:00"
   },
   {
-   "id": "609350b5c938",
-   "titulo": "Chilli Beans entra com pedido de recuperação extrajudicial",
-   "resumo": "Marca de óculos e acessórios tenta negociar dívida de R$ 340 milhões com credores",
-   "link": "https://www.poder360.com.br/poder-economia/chilli-beans-entra-com-pedido-de-recuperacao-extrajudicial/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-31T17:59:41-03:00"
-  },
-  {
-   "id": "33e0d4ef22c7",
-   "titulo": "Ex-ministro Adolfo Sachsida lança site com análises políticas",
-   "resumo": "Economista diz que iniciativa serve para fortalecer “valores conservadores e liberais”; Carlos Bolsonaro comentou nas redes sociais",
-   "link": "https://www.poder360.com.br/poder-gente/ex-ministro-adolfo-sachsida-lanca-site-com-analises-politicas/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/Captura-de-Tela-2026-10-31-as-16.58.17.png",
-   "data": "2026-10-31T17:39:38-03:00"
-  },
-  {
-   "id": "a8bb4dff06db",
-   "titulo": "Janones critica disputa por vitória de Lula: “A vaidade é uma merda”",
-   "resumo": "Deputado diz que a esquerda ignora a força da direita no Congresso ao discutir quem foi mais decisivo para a reeleição do presidente",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-critica-disputa-por-vitoria-de-lula-a-vaidade-e-uma-merda/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/publicacao-jannones-X.png",
-   "data": "2026-10-31T17:28:42-03:00"
-  },
-  {
-   "id": "0e5288a95278",
-   "titulo": "Acordo Mercosul-UE eleva exportações brasileiras em 21%",
-   "resumo": "Comércio entre blocos foi impulsionado pela redução de tarifas e teve alta de produtos agropecuários e industriais",
-   "link": "https://www.poder360.com.br/poder-economia/acordo-mercosul-ue-eleva-exportacoes-brasileiras-em-21/",
-   "fonte": "Poder360",
-   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1707345&o=node",
-   "data": "2026-10-31T17:26:53-03:00"
-  },
-  {
    "id": "3f7e7078cb51",
    "titulo": "Marco Rubio nega que governo Trump tenha auxiliado Flávio a ir para os EUA",
    "resumo": "Segundo Rubio, Trump garantiu que, se Flávio fosse para os EUA, teria autorização para permanecer no país. Veja na Gazeta do Povo",
@@ -101,24 +245,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/31171313/Marco-Rubio-960x540.jpg",
    "data": "2026-10-31T17:22:25-03:00"
-  },
-  {
-   "id": "e22b89c6f6a0",
-   "titulo": "Protestos na França terminam com confrontos em grandes cidades",
-   "resumo": "Atos contra o custo de vida e a sobrecarga dos serviços públicos reuniram 320 mil pessoas neste sábado (31.out), segundo o governo",
-   "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-terminam-com-confrontos-em-grandes-cidades/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/p-DykoLZLUI/hqdefault.jpg",
-   "data": "2026-10-31T17:12:34-03:00"
-  },
-  {
-   "id": "485faefeae5e",
-   "titulo": "Carlos visita Bolsonaro e reforça apoio a Marinho para presidir Senado",
-   "resumo": "Senador eleito relata volta das crises de soluço do pai e preocupação com sua saúde; Rogério Marinho disputará a presidência da Casa Alta contra Alcolumbre",
-   "link": "https://www.poder360.com.br/poder-congresso/carlos-visita-bolsonaro-e-reforca-apoio-a-marinho-para-presidir-senado/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/zw_tjApur-I/hqdefault.jpg",
-   "data": "2026-10-31T17:01:33-03:00"
   },
   {
    "id": "1008675641cc",
@@ -130,40 +256,13 @@
    "data": "2026-10-31T17:00:06-03:00"
   },
   {
-   "id": "54c23492653e",
-   "titulo": "Solano Ribeiro morre aos 87 anos em São Paulo",
-   "resumo": "Produtor e crítico musical que lançou Elis Regina e Chico Buarque em festivais de MPB estava internado e enfrentava um câncer",
-   "link": "https://www.poder360.com.br/poder-gente/solano-ribeiro-morre-aos-87-anos-em-sao-paulo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/velorio-solano-ribeiro-morte-87-anos-instragram-filha-solana-31out2026.png",
-   "data": "2026-10-31T16:52:10-03:00"
-  },
-  {
-   "id": "309f72ae19ae",
-   "titulo": "Binance diz que já repôs 90% das criptomoedas roubadas",
-   "resumo": "Corretora suspendeu os saques como parte das medidas para conter os danos e afirmou que planeja retomá-los até domingo",
-   "link": "https://www.poder360.com.br/poder-economia/binance-diz-que-ja-repos-90-das-criptomoedas-roubadas/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/10/X-Binance-29out2026.png",
-   "data": "2026-10-31T16:47:20-03:00"
-  },
-  {
-   "id": "e57d3fe12562",
+   "id": "4cae102e4064",
    "titulo": "Dois motores turbo e uma diferença que aparece no posto: este SUV pode fazer 11,5 km/l na cidade com gasolina, mas a versão mais potente consome mais",
    "resumo": "Uma diferença de meio quilômetro por litro parece pequena em um único trajeto, mas pode pesar na rotina de abastecimento. No Chevrolet Tracker 2027, o motor 1.0 turbo registra até 11,5 km/l na cidade com gasolina, enquanto o 1.2 turbo chega…",
-   "link": "https://oantagonista.com.br/brasil/dois-motores-turbo-e-uma-diferenca-que-aparece-no-posto-este-suv-pode-fazer-115-km-l-na-cidade-com-gasolina-mas-a-versao-mais-potente-consome-mais/",
+   "link": "https://oantagonista.com.br/?p=2180965",
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Chevrolet_Tracker_parked_on_street_20260926050420.jpg",
    "data": "2026-10-31T16:38:00-03:00"
-  },
-  {
-   "id": "e44051750de3",
-   "titulo": "Senador propõe dedução de despesas veterinárias no IR",
-   "resumo": "Projeto permitiria deduzir até R$ 2.275,08 por ano em gastos com a saúde de cães e gatos",
-   "link": "https://www.poder360.com.br/poder-brasil/senador-propoe-deducao-de-despesas-veterinarias-no-ir/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-10-31T16:34:23-03:00"
   },
   {
    "id": "79bcecff7e11",
@@ -191,15 +290,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/live-de-flavio.png",
    "data": "2026-10-31T15:37:12-03:00"
-  },
-  {
-   "id": "2d56bdc030cb",
-   "titulo": "Fazendeiro decide dividir suas terras em pequenos lotes para os quatro filhos e descobre que nem mesmo o proprietário pode desmembrar uma área rural em qualquer tamanho que desejar",
-   "resumo": "Ernesto quer repartir a fazenda entre seus quatro filhos, reservando um terreno para cada um. Neste relato hipotético, ele chega ao cartório com a divisão desenhada e ouve falar da fração mínima de parcelamento. A intenção familiar é legíti…",
-   "link": "https://oantagonista.com.br/brasil/fazendeiro-decide-dividir-suas-terras-em-pequenos-lotes-para-os-quatro-filhos-e-descobre-que-nem-mesmo-o-proprietario-pode-desmembrar-uma-area-rural-em-qualquer-tamanho-que-desejar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Fazendeiro-decide-dividir-suas-terras-em-pequenos-lotes-para-os-quatro-filhos-e-descobre-que-nem-mesmo-o-proprietario-pode-desmembrar-uma-area-rural-em-qualquer-tamanho-que-deseja.jpg",
-   "data": "2026-10-31T15:33:29-03:00"
   },
   {
    "id": "5b90dee25a04",
@@ -346,15 +436,6 @@
    "data": "2026-10-31T12:03:00-03:00"
   },
   {
-   "id": "bbe289305a7e",
-   "titulo": "Moraes manda transferir Bacellar para presídio no Rio",
-   "resumo": "Rodrigo Bacellar, ex-presidente da Assembleia Legislativa do Rio (Alerj), será transferido da penitenciária federal de Mossoró (RN) para uma unidade no Rio de Janeiro. A mudança foi autorizada pelo ministro Alexandre de Moraes, do Supremo T…",
-   "link": "https://oantagonista.com.br/brasil/moraes-manda-transferir-bacellar-para-presidio-no-rio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/12/26112025_162803OrdemdoDia_26_11_2025_ThiagoLontra-27-scaled.jpg",
-   "data": "2026-10-31T11:53:14-03:00"
-  },
-  {
    "id": "144224edff7e",
    "titulo": "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -391,15 +472,6 @@
    "data": "2026-10-31T10:58:54-03:00"
   },
   {
-   "id": "fcc3b047485c",
-   "titulo": "Ações pedem suspensão de salário de Flávio Bolsonaro após sua saída do Brasil",
-   "resumo": "Diferentes frentes acionaram a Justiça e o Senado para interromper pagamentos, auxílios e verbas de gabinete a Flávio Bolsonaro.",
-   "link": "https://www.gazetadopovo.com.br/republica/acoes-pedem-suspensao-de-salario-de-flavio-bolsonaro-apos-sua-saida-do-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30090232/ASPA-GRANDE-2026-10-30T090231.106-960x540.jpg",
-   "data": "2026-10-31T10:45:39-03:00"
-  },
-  {
    "id": "a664c3500903",
    "titulo": "Alcolumbre marca votação da PEC da Segurança Pública para terça-feira",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-da-seguranca-publica-para-terca-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e…",
@@ -418,42 +490,6 @@
    "data": "2026-10-31T10:10:06-03:00"
   },
   {
-   "id": "353b36ea8fee",
-   "titulo": "Ibovespa perde 18% na semana da reeleição de Lula; dólar dispara 9%",
-   "resumo": "O Ibovespa acumulou queda de cerca de 18% na semana seguinte à reeleição do presidente Luiz Inácio Lula da Silva. No mesmo período, o dólar à vista subiu mais de 9%, em meio à revisão das expectativas dos investidores para a economia brasil…",
-   "link": "https://revistaoeste.com/politica/ibovespa-perde-18-na-semana-da-reeleicao-de-lula-dolar-dispara-9/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/11/many-us-dollars-banknotes-scaled.jpg",
-   "data": "2026-10-31T09:27:00-03:00"
-  },
-  {
-   "id": "fe982f59fa52",
-   "titulo": "Fachin quer colocar fim no inquérito das fake news ainda em 2026",
-   "resumo": "Presidente do STF recebeu 12 mil páginas e 104 procedimentos do inquérito das fake news. Oito já foram encerrados.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-quer-colocar-fim-no-inquerito-das-fake-news-ainda-em-2026/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27173027/fachin-stf-3-960x540.jpg",
-   "data": "2026-10-31T09:20:30-03:00"
-  },
-  {
-   "id": "848e803441e6",
-   "titulo": "Vieira e Rubio marcam reunião bilateral antes da cúpula do G20",
-   "resumo": "O ministro das Relações Exteriores, Mauro Vieira, e o secretário de Estado dos Estados Unidos, Marco Rubio, combinaram uma reunião bilateral antes da Cúpula de Líderes do G20, prevista para dezembro. Os dois conversaram nesta sexta-feira, 3…",
-   "link": "https://revistaoeste.com/politica/vieira-e-rubio-marcam-reuniao-bilateral-antes-da-cupula-do-g20/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Marco-Rubio-e-Mauro-Vieira-se-encontraram-durante-reuniao-do-G20-em-Atlanta-e1793405773986.webp",
-   "data": "2026-10-31T08:30:00-03:00"
-  },
-  {
-   "id": "e4863a33709f",
-   "titulo": "O vício da miséria",
-   "resumo": "Quando tinha 20 anos, deparei-me com uma das situações mais delicadas em que me envolvi. Uma amiga muito querida, alguém por quem nutria um apreço muito grande, tinha acabado de terminar pela segunda vez um relacionamento em que seu parceir…",
-   "link": "https://revistaoeste.com/politica/o-vicio-da-miseria/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Miseria.png",
-   "data": "2026-10-31T08:00:00-03:00"
-  },
-  {
    "id": "9a27ff4b8044",
    "titulo": "Advogado Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
    "resumo": "",
@@ -461,15 +497,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/WzVIbw3ALVP-DksEK3MLXNkpSbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/VgwJBLQ7WDqtSP1IVA5A/whatsapp-image-2026-10-22-at-15.17.19-1-.jpeg",
    "data": "2026-10-31T07:33:54-03:00"
-  },
-  {
-   "id": "8411196ce843",
-   "titulo": "A disputa pelos melhores gabinetes da Câmara",
-   "resumo": "Procurar um imóvel costuma exigir algumas escolhas. É preciso olhar o tamanho, a localização, a distância do trabalho, a facilidade de acesso e, naturalmente, verificar se há banheiro. Na Câmara dos Deputados , a procura pelo endereço onde …",
-   "link": "https://revistaoeste.com/politica/a-disputa-pelos-melhores-enderecos-da-camara/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/01/anexo-iv-camara-deputados-brasil-01.jpg",
-   "data": "2026-10-31T07:30:00-03:00"
   },
   {
    "id": "5ef38a532570",
@@ -488,15 +515,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/presidente-lula-durante-reuniao-emergencial-para-debater-os-desdobramentos-do-segundo-turno-da-campanha-eleitoral-em-brasilia-metropoles-7-scaled.jpg",
    "data": "2026-10-31T05:00:04-03:00"
-  },
-  {
-   "id": "e10bb40b1ce3",
-   "titulo": "Flávio Bolsonaro projeta fim antecipado do governo Lula e atua dos EUA",
-   "resumo": "Dos EUA, Flávio Bolsonaro prevê crise econômica no governo Lula, fala sobre possível nova eleição antes de 2030 e anuncia apoio a Rogério Marinho no Senado.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-projeta-fim-antecipado-do-governo-lula-e-atua-dos-eua/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/31020006/flavio-bolsonaro-fuga-eua-1-960x540.jpg",
-   "data": "2026-10-31T01:59:57-03:00"
   },
   {
    "id": "d8132a149102",
@@ -713,15 +731,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/28184649/Michelle-Bia-Kicis-Valdemar-960x540.jpg",
    "data": "2026-10-29T17:05:46-03:00"
-  },
-  {
-   "id": "a9752a6409ce",
-   "titulo": "MPT vai à Justiça e pede R$ 50 milhões da Meta por assédio eleitoral",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mpt-vai-justica-pede-rs-50-milhoes-da-meta-por-assedio-eleitoral\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mpt-vai-justica-pede-rs-50-milhoes-da-meta-por-assedio-eleitoral",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-29T17:01:00-03:00"
   },
   {
    "id": "41cd326a299c",
