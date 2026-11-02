@@ -1,8 +1,134 @@
 {
- "atualizado": "2026-11-01T20:31:38.295524-03:00",
+ "atualizado": "2026-11-02T02:52:43.395655-03:00",
  "total": 83,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "4d3a40d3d6b5",
+   "titulo": "Hugo Motta acelera acordos para manter comando da Câmara em 2027",
+   "resumo": "Hugo Motta busca alianças com 15 partidos para garantir a presidência da Câmara em 2027 e conter o avanço do PL. Entenda as negociações nos bastidores.",
+   "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-acelera-acordos-para-manter-comando-da-camara-em-2027/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/02020039/motta-pl-presidencia-960x540.jpg",
+   "data": "2026-11-02T02:00:25-03:00"
+  },
+  {
+   "id": "ec5dedf4692d",
+   "titulo": "Flávio Bolsonaro questiona imparcialidade da Justiça e critica emissora de TV",
+   "resumo": "O senador Flávio Bolsonaro publicou a Nota ao Brasil onde denuncia perseguição política, critica o STF e explica recusa de entrevista à Rede Globo.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-questiona-imparcialidade-da-justica-e-critica-emissora-de-tv/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/02002910/flavio-bolsonaro-fuga-eua-1-960x540.jpg",
+   "data": "2026-11-02T00:29:06-03:00"
+  },
+  {
+   "id": "08981ace89b2",
+   "titulo": "Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/s2IyKXU4bxZ6pKwobPxN2_aOHPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/w/llmiKrRe63KcVLWOtlzw/55591942863-1c52361d4f-b.jpg",
+   "data": "2026-11-02T00:00:00-03:00"
+  },
+  {
+   "id": "69d79737a543",
+   "titulo": "Janones diz que estado de ‘democracia mitigada’ foi necessário para vencer eleição",
+   "resumo": "Janones diz que estado de 'democracia mitigada' foi necessário para vencer eleição. Leia mais na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/janones-diz-que-estado-de-democracia-mitigada-foi-necessario-para-vencer-eleicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/29170013/lula-com-andre-janones-foto-ricardo-stuckert-secom-1-960x540.jpg",
+   "data": "2026-11-01T23:40:37-03:00"
+  },
+  {
+   "id": "408358a4a444",
+   "titulo": "Boulos é criticado por não citar a esquerda ao falar do ICMS do diesel",
+   "resumo": "Ministro criticou Tarcísio por aumento do imposto, mas não citou que medida foi aprovada em conjunto com Estados administrados pela esquerda",
+   "link": "https://www.poder360.com.br/poder-economia/boulos-e-criticado-por-nao-citar-a-esquerda-ao-falar-do-icms-do-diesel/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/sYCQO3V3XNI/hqdefault.jpg",
+   "data": "2026-11-01T23:37:32-03:00"
+  },
+  {
+   "id": "f0ba95625381",
+   "titulo": "Zé Trovão disputará comando da Câmara se PL não escolher candidato",
+   "resumo": "O deputado federal Zé Trovão (PL-SC) afirmou neste domingo, 1º, que pretende disputar a Presidência da Câmara dos Deputados em 2027 caso o PL não apresente um candidato para a disputa. Em vídeo publicado no Instagram, o parlamentar declarou…",
+   "link": "https://revistaoeste.com/politica/ze-trovao-anuncia-candidatura-a-camara-se-pl-nao-anunciar-ninguem/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/img20251008142253092.jpg",
+   "data": "2026-11-01T23:35:44-03:00"
+  },
+  {
+   "id": "37b482d6ef81",
+   "titulo": "Zé Trovão anuncia candidatura à presidência da Câmara contra Motta",
+   "resumo": "Deputado afirma que disputará o comando da Casa se o PL não apresentar candidato para a eleição",
+   "link": "https://www.poder360.com.br/poder-congresso/ze-trovao-anuncia-candidatura-a-presidencia-da-camara-contra-motta/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/VIklSugA8Ds/hqdefault.jpg",
+   "data": "2026-11-01T22:59:34-03:00"
+  },
+  {
+   "id": "f5d60ad13696",
+   "titulo": "Não vou ser ministro do governo Lula, diz Janones",
+   "resumo": "Reeleito em 2026, deputado afirmou que ficará na Câmara \"representando o povo\"",
+   "link": "https://www.poder360.com.br/poder-governo/nao-vou-ser-ministro-do-governo-lula-diz-janones/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T22:53:23-03:00"
+  },
+  {
+   "id": "101fef5056f4",
+   "titulo": "PF apura se Flávio saiu do Brasil em avião de amigo advogado",
+   "resumo": "De acordo a \"TV Globo\", uma das linhas de investigação indica que o senador pegou um voo de Brasília para San Fernando, na Argentina, na manhã de 27 de outubro, em aeronave de Willer Tomaz, investigado pela Justiça",
+   "link": "https://www.poder360.com.br/poder-justica/pf-apura-se-flavio-saiu-do-brasil-em-aviao-de-amigo-advogado/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/infografico-flavio-bolsonaro-voo-argentina-willer-tomaz-scaled.png",
+   "data": "2026-11-01T22:15:02-03:00"
+  },
+  {
+   "id": "fdfb8bdccb55",
+   "titulo": "Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara",
+   "resumo": "Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/avanco-do-pl-pressiona-hugo-motta-e-leva-partidos-a-antecipar-disputa-pela-camara/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30183318/motta-pl-presidencia-960x540.jpg",
+   "data": "2026-11-01T21:59:19-03:00"
+  },
+  {
+   "id": "5e85a11e0ae5",
+   "titulo": "Incêndio atinge apartamento no centro de SP",
+   "resumo": "Fogo atingiu unidade no 6º andar de um prédio residencial; causa do incêndio é desconhecida",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/incendio-atinge-apartamento-no-centro-de-sp/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T21:34:21-03:00"
+  },
+  {
+   "id": "8c2a4cb24415",
+   "titulo": "Avião cai e mata 9 nos EUA; assista",
+   "resumo": "Vídeo mostra o momento em que a aeronave atinge o solo e provoca uma explosão em uma área residencial na Flórida",
+   "link": "https://www.poder360.com.br/poder-internacional/aviao-cai-e-mata-9-nos-eua-assista/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-01T20:59:30-03:00"
+  },
+  {
+   "id": "355e463950d6",
+   "titulo": "Eduardo Bolsonaro agradece a Trump por apoio a Flávio",
+   "resumo": "Eduardo Bolsonaro (PL-SP) publicou neste domingo, 1º, um vídeo em que agradece ao presidente dos Estados Unidos, Donald Trump, por manifestar apoio a seu irmão, o senador Flávio Bolsonaro (PL-RJ) . Na gravação, o ex-deputado afirmou que o r…",
+   "link": "https://revistaoeste.com/politica/eduardo-bolsonaro-agradece-a-trump-por-apoio-a-flavio/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/Policia-Federal-x-Eduardo-Bolsonaro.jpeg",
+   "data": "2026-11-01T20:48:30-03:00"
+  },
+  {
+   "id": "87c615d072d5",
+   "titulo": "Nota de Flávio aponta perseguição e fala sobre condição para dar entrevista a emissora",
+   "resumo": "Senador diz que emissora desistiu de entrevista após exigir exibição sem cortes. Flávio anuncia série de entrevistas.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/31020006/flavio-bolsonaro-fuga-eua-1-960x540.jpg",
+   "data": "2026-11-01T20:28:09-03:00"
+  },
   {
    "id": "c601092a5b0f",
    "titulo": "“Globo” recusa entrevista sem cortes porque tem medo, diz Flávio",
@@ -42,7 +168,7 @@
   {
    "id": "cefc3095f077",
    "titulo": "Casos de violência política quadruplicam em outubro no Disque 100",
-   "resumo": "Comunicações foram encaminhadas ao Ministério da Justiça; plataforma recebeu 90 denúncias do tipo de 1º a 25 de outubro",
+   "resumo": "Comunicações foram encaminhadas ao Ministério da Justiça; plataforma recebeu 90 casos do tipo de 1º a 25 de outubro",
    "link": "https://www.poder360.com.br/poder-eleicoes-2026/casos-de-violencia-politica-quadruplicam-em-outubro-no-disque-100/",
    "fonte": "Poder360",
    "imagem": "",
@@ -81,7 +207,7 @@
    "resumo": "Internautas interpretaram fala como uma referência ao senador Flávio Bolsonaro, que fugiu do país depois de perder as eleições",
    "link": "https://www.poder360.com.br/poder-gente/padre-faz-critica-durante-missa-nem-todos-tem-jatinho-para-fugir/",
    "fonte": "Poder360",
-   "imagem": "",
+   "imagem": "https://i.ytimg.com/vi/z3Nb3sHO9sk/hqdefault.jpg",
    "data": "2026-11-01T19:27:26-03:00"
   },
   {
@@ -166,33 +292,6 @@
    "data": "2026-11-01T17:48:27-03:00"
   },
   {
-   "id": "4bb94291e29d",
-   "titulo": "Maior erro da minha vida, diz Felipe Neto sobre publicidade de bets",
-   "resumo": "Youtuber classificou as apostas esportivas como um “câncer social” em publicação na rede social X",
-   "link": "https://www.poder360.com.br/poder-brasil/maior-erro-da-minha-vida-diz-felipe-neto-sobre-publicidade-de-bets/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-X-Felipe-Neto.png",
-   "data": "2026-11-01T17:34:07-03:00"
-  },
-  {
-   "id": "2f91d2e201d4",
-   "titulo": "Fux inclui ministérios da Saúde e da Justiça em audiência sobre bets",
-   "resumo": "Decisão atende a pedido da AGU, que argumentou que lista de participantes concentrava clubes de futebol e empresas de apostas",
-   "link": "https://www.poder360.com.br/poder-justica/fux-inclui-ministerios-da-saude-e-da-justica-em-audiencia-sobre-bets/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T17:31:47-03:00"
-  },
-  {
-   "id": "7137d2cabd88",
-   "titulo": "Leia o que Trump disse até agora sobre as eleições no Brasil",
-   "resumo": "Norte-americano criticou diversas vezes o pleito brasileiro, chamando-o, sem provas, de \"fraudulento\"",
-   "link": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/pjVq-HJcfsk/hqdefault.jpg",
-   "data": "2026-11-01T17:30:28-03:00"
-  },
-  {
    "id": "be7cf2d870f2",
    "titulo": "Fuga de Flávio mobilizou agentes americanos na Argentina, diz jornal",
    "resumo": "Agentes americanos assumiram temporariamente o controle de boa parte do aeroporto de Puerto Iguazú, na Argentina, para facilitar a fuga do senador Flávio Bolsonaro (PL-RJ) para os Estados Unidos, segundo reportagem do jornal Clarín. A opera…",
@@ -202,24 +301,6 @@
    "data": "2026-11-01T17:22:04-03:00"
   },
   {
-   "id": "e4c0d2ad07ba",
-   "titulo": "Chef Julio Ritta rebate Nikolas e defende ação social em vídeo",
-   "resumo": "Fundador do Cozinheiros do Bem critica deputado depois de ele ironizar a perda de patrocinadores e doadores da iniciativa",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/chef-julio-ritta-rebate-nikolas-e-defende-acao-social-em-video/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T17:15:01-03:00"
-  },
-  {
-   "id": "1cbdf6b96c25",
-   "titulo": "Juíza rejeita ação de Trump para barrar resultado da eleição no Alasca",
-   "resumo": "Governo dos EUA buscava impedir a oficialização de uma eventual derrota do senador republicano Dan Sullivan no Estado",
-   "link": "https://www.poder360.com.br/poder-internacional/juiza-rejeita-acao-de-trump-para-barrar-resultado-da-eleicao-no-alasca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T17:08:12-03:00"
-  },
-  {
    "id": "d85ae03a83bf",
    "titulo": "Denúncias de violência política quadriplicam em outubro no Disque 100",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -227,15 +308,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-01T17:06:00-03:00"
-  },
-  {
-   "id": "2ec850ae69b5",
-   "titulo": "“Nenhum programa social será extinto nesse país”, diz Lula",
-   "resumo": "Presidente afirma que pode criar novas iniciativas ou melhorar aquelas que já existem",
-   "link": "https://www.poder360.com.br/poder-governo/nenhum-programa-social-sera-extinto-nesse-pais-diz-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-01T17:04:43-03:00"
   },
   {
    "id": "bd1f9df6a68f",
@@ -337,24 +409,6 @@
    "data": "2026-11-01T14:27:13-03:00"
   },
   {
-   "id": "d464783bdf3e",
-   "titulo": "Comando Vermelho cobra taxa para vender água em cidade do Ceará onde Lula teve 79% dos votos",
-   "resumo": "Moradores de Banabuiú, no interior do Ceará, enfrentam filas para comprar água mineral depois que comerciantes suspenderam as vendas por causa de ameaças do Comando Vermelho (CV). A facção criminosa passou a exigir pagamentos semanais para …",
-   "link": "https://revistaoeste.com/politica/comando-vermelho-cobra-taxa-para-vender-agua-em-cidade-do-ceara-onde-lula-teve-79-dos-votos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Comando-Vermelho-Destaque.jpg",
-   "data": "2026-11-01T14:23:36-03:00"
-  },
-  {
-   "id": "f77a0e572a2c",
-   "titulo": "Direita perde eleições por ignorar a ‘guerra cultural’, afirma deputado",
-   "resumo": "O deputado estadual Claudio Branchieri (PL-RS) afirmou que a direita brasileira perdeu as eleições presidenciais porque concentrou a campanha em indicadores econômicos e deixou de disputar espaços na cultura. Em vídeo divulgado neste sábado…",
-   "link": "https://revistaoeste.com/politica/direita-perde-eleicoes-por-ignorar-a-guerra-cultural-afirma-deputado/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Guerra-cultural.jpg",
-   "data": "2026-11-01T13:58:41-03:00"
-  },
-  {
    "id": "f3b287505fc6",
    "titulo": "Governo fala em crime político e envia Força Nacional para proteger indígenas",
    "resumo": "Mobilização prevê 145 agentes em três comunidades; dois servidores são afastados após ameaças de envenenamento da água.",
@@ -371,15 +425,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Woman_receiving_social_service_g…_b657957e.jpg",
    "data": "2026-11-01T13:23:00-03:00"
-  },
-  {
-   "id": "7d9dc92305cf",
-   "titulo": "Relator de ações contra Flávio, Dino se firma como herdeiro de Gilmar e Moraes no STF",
-   "resumo": "Em menos de três anos no STF, Flávio Dino já acumulou decisões controversas, embates e poder associados ao modelo de Gilmar e Moraes.",
-   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30144608/relator-dark-horse-dino-herdeiro-gilmar-moraes-stf-960x540.jpg",
-   "data": "2026-11-01T11:43:06-03:00"
   },
   {
    "id": "145207703cff",
@@ -427,15 +472,6 @@
    "data": "2026-11-01T04:00:00-03:00"
   },
   {
-   "id": "2a4424d77605",
-   "titulo": "Ida de Flávio Bolsonaro aos Estados Unidos impulsiona direita na eleição do Senado",
-   "resumo": "Saiba como a viagem de Flávio Bolsonaro e as decisões do STF reorganizam a disputa pela presidência do Senado em 2027 e fortalecem o nome de Rogério Marinho.",
-   "link": "https://www.gazetadopovo.com.br/republica/ida-de-flavio-bolsonaro-aos-estados-unidos-impulsiona-direita-na-eleicao-do-senado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/01010342/Rogerio-Marinho-960x540.jpg",
-   "data": "2026-11-01T01:03:38-03:00"
-  },
-  {
    "id": "2de0ee87b856",
    "titulo": "Câmara quer mudar a forma de eleição dos deputados; entenda o novo modelo em discussão",
    "resumo": "",
@@ -443,15 +479,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/gkhfJqnrkbXfckz5I845SuQRo6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Z/1lJXysT92CdtkffHsZBg/img20261015153521759.jpg",
    "data": "2026-11-01T00:00:00-03:00"
-  },
-  {
-   "id": "ec9d08adde0b",
-   "titulo": "Trump afirma que Flávio pode ficar nos EUA “quanto tempo quiser”",
-   "resumo": "Presidente dos Estados Unidos, Donald Trump, voltou a mencionar a ida de Flávio Bolsonaro aos EUA. Leia mais na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/mundo/trump-afirma-que-flavio-pode-ficar-nos-eua-quanto-tempo-quiser/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/31223129/Trump-960x540.jpg",
-   "data": "2026-10-31T22:36:57-03:00"
   },
   {
    "id": "3da61965d4b5",
@@ -479,15 +506,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-10-31T16:15:00-03:00"
-  },
-  {
-   "id": "d7203f2ef01c",
-   "titulo": "Resumo da semana: O que Trump vai cobrar de Lula no encontro em Miami",
-   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
-   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-o-que-trump-vai-cobrar-de-lula-no-encontro-em-miami/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30161541/thumb-gazeta-agora_cortes-1-10-960x540.jpg",
-   "data": "2026-10-31T15:37:43-03:00"
   },
   {
    "id": "8fce88f12031",
@@ -643,15 +661,6 @@
    "data": "2026-10-30T18:33:03-03:00"
   },
   {
-   "id": "1908713beaa9",
-   "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para a próxima terça-feira",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/30/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-a-proxima-terca-feira.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/2fm___ApJmuajRCamqJ1fK-tPJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/wyqZWHSta0xEg8kdTcxw/55575673214-c10290253d-k.jpg",
-   "data": "2026-10-30T18:32:34-03:00"
-  },
-  {
    "id": "a72228776bc1",
    "titulo": "Oito abusos eleitorais de Lula que não foram contidos pela Justiça",
    "resumo": "O TSE teve oportunidade de travar oito abusos de Lula durante a campanha e não fez. Leia na Gazeta do Povo.",
@@ -740,15 +749,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/jair-e-flavio-bolsonaro-metropoles-2-scaled.jpg",
    "data": "2026-10-30T05:00:26-03:00"
-  },
-  {
-   "id": "3a0e97d19ff7",
-   "titulo": "Base bolsonarista teme ficar em sinuca de bico entre Flávio e STF",
-   "resumo": "Preocupação de bolsonaristas é de que, pressionados por Flávio, precisem optar entre ser taxado de \"traidor\" da direita ou virar alvo do STF",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/base-bolsonarista-teme-ficar-em-sinuca-de-bico-entre-flavio-e-stf",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/03/captura-de-tela-2026-03-24-180657-e1778858564772.jpg",
-   "data": "2026-10-30T02:00:10-03:00"
   }
  ]
 }
