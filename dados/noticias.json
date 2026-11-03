@@ -1,8 +1,143 @@
 {
- "atualizado": "2026-11-02T20:27:39.147639-03:00",
- "total": 77,
+ "atualizado": "2026-11-03T03:37:25.925399-03:00",
+ "total": 79,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "28f7cfadc880",
+   "titulo": "Lula convida Motta e Alcolumbre para viagens à Turquia e às Filipinas",
+   "resumo": "Lula convidou presidentes da Câmara e do Senado para acompanhá-lo nas viagens internacionais que fará à Turquia e às Filipinas em novembro",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-convida-motta-e-alcolumbre-para-viagens-a-turquia-e-as-filipinas",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/08/os-presidentes-luiz-inacio-lula-da-silva-da-republica-davi-alcolumbre-do-senado-e-hugo-motta-da-camara-dos-deputados-fazem-declaracao-no-palacio-da-alvorada-metropoles-5-1-scaled.jpg",
+   "data": "2026-11-03T02:00:20-03:00"
+  },
+  {
+   "id": "981063a11394",
+   "titulo": "EUA: Trump em xeque nas eleições de meio de mandato - O Assunto #1837",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/03/eua-trump-em-xeque-nas-eleicoes-de-meio-de-mandato-o-assunto-1837.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Lv-3U8URt_n76OGl2GcYiTITh0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/q/XP2iyWRFemZ3yBhHnowA/afp-20250930-77ax7hx-v2-midres-deadlineforcongresstoadoptbudgetandavoidshutdown.jpg",
+   "data": "2026-11-03T00:30:00-03:00"
+  },
+  {
+   "id": "35d27e4b1c89",
+   "titulo": "Senado deve votar nesta terça PEC da Segurança Pública",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-deve-votar-nesta-terca-pec-da-seguranca-publica.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/02p_OF8810XtqXbk0SN7NCy9-Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/yPDrWCRMOuo3KZv0zBxQ/edicao-imagens-g1-2026-10-15t071017.344.png",
+   "data": "2026-11-03T00:00:01-03:00"
+  },
+  {
+   "id": "a8004c5763e8",
+   "titulo": "Janones convoca argentinos para vencer Milei; assista ao vídeo",
+   "resumo": "Deputado encontrou Sergio Massa para apoiar oposição argentina com estratégias digitais da campanha de Lula",
+   "link": "https://www.poder360.com.br/poder-eleicoes/janones-convoca-argentinos-para-vencer-milei-assista-ao-video/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/ZUNdEnpj9k4/hqdefault.jpg",
+   "data": "2026-11-02T23:13:27-03:00"
+  },
+  {
+   "id": "6b99e9ba818f",
+   "titulo": "EUA atacam a ilha iraniana de Qeshm, no estreito de Ormuz",
+   "resumo": "Ofensiva integra estratégia de ataques de menor escala e sem anúncio público de Washington",
+   "link": "https://www.poder360.com.br/poder-internacional/eua-atacam-a-ilha-iraniana-de-qeshm-no-estreito-de-ormuz/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-02T22:45:29-03:00"
+  },
+  {
+   "id": "12dc0f7083cf",
+   "titulo": "Janones se reúne com Kirchner e leva estratégia digital à Argentina",
+   "resumo": "Deputado também se encontrou com Sergio Massa para compartilhar estratégias digitais usadas na campanha de reeleição de Lula",
+   "link": "https://www.poder360.com.br/poder-internacional/janones-se-reune-com-kirchner-e-leva-estrategia-digital-a-argentina/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/andre-janones-com-cristina-kirchner-2.nov_.2026.png",
+   "data": "2026-11-02T22:40:37-03:00"
+  },
+  {
+   "id": "dc0ac78a0182",
+   "titulo": "Cláusula de desempenho: 16 partidos superam barreira em 2026",
+   "resumo": "Dezesseis dos 30 partidos registrados no Brasil cumpriram a cláusula de desempenho nas eleições de 2026. As siglas terão acesso aos recursos do Fundo Partidário e ao tempo de propaganda gratuita no rádio e na televisão a partir de 2027. As …",
+   "link": "https://revistaoeste.com/politica/clausula-de-desempenho-16-partidos-superam-barreira-em-2026/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Partidos_PL_Valdemar-Costa-Neto.jpeg",
+   "data": "2026-11-02T22:37:41-03:00"
+  },
+  {
+   "id": "13ce5d3d08d3",
+   "titulo": "Exército mobiliza mais de 1.200 militares em exercício no RJ",
+   "resumo": "Manobra Escolar 2026 reúne 140 viaturas e 4 aeronaves em atividades de treinamento em 4 municípios do Sul Fluminense",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/exercito-mobiliza-mais-de-1-200-militares-em-exercicio-no-rj/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Manobrao-2026.jpeg",
+   "data": "2026-11-02T22:19:06-03:00"
+  },
+  {
+   "id": "cd800b7dcbcb",
+   "titulo": "Pai de Vorcaro volta a pedir soltura ao STF por problemas de saúde",
+   "resumo": "A defesa de Henrique Vorcaro, pai do ex-banqueiro Daniel Vorcaro, voltou a pedir ao Supremo Tribunal Federal (STF), nesta segunda-feira, 2, a revogação de sua prisão preventiva ou a substituição da medida por prisão domiciliar. Os advogados…",
+   "link": "https://revistaoeste.com/politica/pai-de-vorcaro-volta-a-pedir-soltura-ao-stf-por-problemas-de-saude/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/captura-de-tela-2026-05-14-as-07.26.36.jpg",
+   "data": "2026-11-02T22:02:04-03:00"
+  },
+  {
+   "id": "2d8c304e03cc",
+   "titulo": "Direita terá dificuldade de conter STF se não impedir reeleição de Alcolumbre",
+   "resumo": "Sem tirar Davi Alcolumbre do comando do Senado, direita terá dificuldade para fiscalizar ministros e avançar reformas sobre o STF.",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/direita-dificuldade-conter-stf-impedir-reeleicao-alcolumbre/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/28145507/direita-dificuldade-conter-stf-impedir-reeleicao-alcolumbre2-960x540.jpg",
+   "data": "2026-11-02T21:59:03-03:00"
+  },
+  {
+   "id": "b9ba3fab55c2",
+   "titulo": "Governo herda lista de cobranças sociais enquanto mercado cobra corte de gastos",
+   "resumo": "Presidente eleito herda lista de cobranças sociais enquanto mercado cobra corte de gastos. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/governo-herda-lista-de-cobrancas-sociais-enquanto-mercado-cobra-corte-de-gastos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30132735/ChatGPT-Image-16-de-set.-de-2026-13_38_00-960x540.jpg",
+   "data": "2026-11-02T21:56:09-03:00"
+  },
+  {
+   "id": "403695a1c1ca",
+   "titulo": "Gleisi volta a atacar mercado e recua na defesa do tabelamento de juros",
+   "resumo": "Após defender artigo que propõe tabelar taxa de juros, Gleisi afirma que conversar não significa adotar propostas. Veja na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/republica/gleisi-volta-a-atacar-mercado-e-recua-na-defesa-do-tabelamento-de-juros/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/02214539/Gleisi-Hoffman-960x540.jpg",
+   "data": "2026-11-02T21:51:15-03:00"
+  },
+  {
+   "id": "d59062457774",
+   "titulo": "Cobrança por ajuste fiscal é ‘chantagem do mercado’, diz Boulos",
+   "resumo": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos (Psol), classificou como “chantagem do mercado” a pressão por medidas de ajuste fiscal no próximo mandato do presidente Lula da Silva (PT) . Em recente entrevista ao jornal Fol…",
+   "link": "https://revistaoeste.com/politica/cobranca-por-ajuste-fiscal-e-chantagem-do-mercado-diz-boulos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Boulos_populismo.jpeg",
+   "data": "2026-11-02T21:33:55-03:00"
+  },
+  {
+   "id": "1bc5cc9526e1",
+   "titulo": "Defesa de Flávio pede devolução de passaportes",
+   "resumo": "A defesa do senador Flávio Bolsonaro (PL-RJ) protocolou recurso no Supremo Tribunal Federal (STF) nesta segunda-feira, 2, contra a decisão do ministro Alexandre de Moraes que determinou a entrega de seus passaportes. Os advogados endereçara…",
+   "link": "https://revistaoeste.com/politica/defesa-de-flavio-pede-devolucao-de-passaportes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/15_ed347.jpg",
+   "data": "2026-11-02T20:42:32-03:00"
+  },
+  {
+   "id": "a0bc043a52a4",
+   "titulo": "Governo Lula aguarda eleições nos EUA para definir relação bilateral",
+   "resumo": "O governo do presidente Luiz Inácio Lula da Silva acompanha as eleições de meio de mandato — midterms — dos Estados Unidos e espera o resultado do pleito para definir os próximos passos da relação bilateral. A votação, marcada para esta ter…",
+   "link": "https://revistaoeste.com/politica/governo-lula-aguarda-eleicoes-nos-eua-para-definir-relacao-bilateral/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/G4LR-DnXsAAiw9x.jpeg",
+   "data": "2026-11-02T20:29:12-03:00"
+  },
   {
    "id": "c99d6d0170d8",
    "titulo": "Janones visita Cristina Kirchner para lançar “Ejército del peronismo” contra reeleição de Milei",
@@ -139,24 +274,6 @@
    "data": "2026-11-02T17:35:10-03:00"
   },
   {
-   "id": "b9dec25567ea",
-   "titulo": "Defesa de Vorcaro pede audiência no STF sobre pedidos pendentes",
-   "resumo": "Advogados devem ser recebidos por juiz auxiliar da Presidência do Supremo; ex-banqueiro está preso preventivamente",
-   "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-audiencia-no-stf-sobre-pedidos-pendentes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-02T17:34:16-03:00"
-  },
-  {
-   "id": "fefe1c554843",
-   "titulo": "Voo faz pouso de emergência em Budapeste após ameaça de bomba",
-   "resumo": "Aeronave da Wizz Air voava de Londres para Sofia, na Bulgária; Força Aérea da Hungria escoltou o avião até o pouso",
-   "link": "https://www.poder360.com.br/poder-internacional/voo-faz-pouso-de-emergencia-em-budapeste-apos-ameaca-de-bomba/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-02T17:31:23-03:00"
-  },
-  {
    "id": "4b225fa6b978",
    "titulo": "Desembargador assume governo de MS após licença de governador e vice",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
@@ -175,24 +292,6 @@
    "data": "2026-11-02T17:20:30-03:00"
   },
   {
-   "id": "cfa04ae97aae",
-   "titulo": "Distribuição de água no Ceará tem escolta após ameaças",
-   "resumo": "Facção levou comerciantes a suspender vendas no interior do Estado; operação conta com apoio da Cagece e da polícia",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/distribuicao-de-agua-no-ceara-tem-escolta-apos-ameacas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-02T17:19:18-03:00"
-  },
-  {
-   "id": "dba5442045fe",
-   "titulo": "Trump pede à Suprema Corte dos EUA bloqueio de votos na Califórnia",
-   "resumo": "Governo norte-americano questiona cidadania de 20.000 eleitores e tenta suspender contagem a 1 dia da eleição",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-pede-a-suprema-corte-dos-eua-bloqueio-de-votos-na-california/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-02T17:05:54-03:00"
-  },
-  {
    "id": "6f02d6de3454",
    "titulo": "Lindbergh culpa o mercado pela pressão sobre os juros",
    "resumo": "O deputado federal Lindbergh Farias (PT-RJ) encontrou no mercado financeiro um responsável pela turbulência registrada após a reeleição do presidente Lula (PT). Em publicação nas redes sociais nesta segunda-feira, 2, o petista acusou invest…",
@@ -209,15 +308,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/ChvJldDk0ZWpc6fWlti1Z22nqhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/tzvofAQwiA20TOJ40rPQ/2026-06-25t044420z-1057932595-rc2q0ma2y8ua-rtrmadp-3-china-brazil.jpg",
    "data": "2026-11-02T16:31:51-03:00"
-  },
-  {
-   "id": "c4be27c7874f",
-   "titulo": "Janones leva ‘técnicas’ da campanha de Lula a opositor de Milei",
-   "resumo": "O deputado federal André Janones (Rede-MG) se reuniu nesta segunda-feira, 2, em Buenos Aires, com Sergio Massa, ex-ministro da Economia da Argentina e derrotado por Javier Milei no segundo turno de 2023. O encontro teve como objetivo compar…",
-   "link": "https://revistaoeste.com/politica/janones-leva-tecnicas-da-campanha-de-lula-a-opositor-de-milei/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/image-1.jpg",
-   "data": "2026-11-02T16:31:35-03:00"
   },
   {
    "id": "cb4ac09a630e",
@@ -274,15 +364,6 @@
    "data": "2026-11-02T15:13:05-03:00"
   },
   {
-   "id": "b65668ef5044",
-   "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública",
-   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), colocou na pauta de plenário a votação da PEC da Segurança Pública, em meio à articulação governista para aprovar o texto sem a redução da maioridade penal a partir de 14 anos para crimes …",
-   "link": "https://revistaoeste.com/politica/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/06/54596959463_1a5d2fc184_o.jpg",
-   "data": "2026-11-02T15:08:29-03:00"
-  },
-  {
    "id": "b0299c3bd814",
    "titulo": "Congresso começa a discutir como pagar a conta de Lula nesta terça",
    "resumo": "O presidente Lula (PT) passou a campanha anunciando benefícios, programas e medidas de estímulo ao consumo. Agora, a lista de compromissos chega à mesa do Congresso, que terá de discutir como acomodar as despesas no Orçamento de 2027. A Com…",
@@ -292,24 +373,6 @@
    "data": "2026-11-02T15:06:17-03:00"
   },
   {
-   "id": "504f13884f9e",
-   "titulo": "Deputados criticam nova classificação de Desenhos Bíblicos da Record",
-   "resumo": "Deputados estaduais e federais usaram as redes sociais para criticar a decisão do Ministério da Justiça de elevar a classificação indicativa do programa Record Kids: Desenhos Bíblicos para 12 anos. Os parlamentares classificaram a medida co…",
-   "link": "https://revistaoeste.com/politica/deputados-criticam-nova-classificacao-de-desenhos-biblicos-da-record/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/desenho-biblico-record-kids.jpg",
-   "data": "2026-11-02T14:45:13-03:00"
-  },
-  {
-   "id": "562abc14f790",
-   "titulo": "Vorcaro pede liberdade ao acionar órgão internacional de direitos humanos",
-   "resumo": "A defesa de Daniel Vorcaro, fundador do Banco Master, acionou a Comissão Interamericana de Direitos Humanos (CIDH) , vinculada à Organização dos Estados Americanos, para pedir a liberdade provisória do ex-banqueiro. Os advogados alegam que …",
-   "link": "https://revistaoeste.com/politica/vorcaro-pede-liberdade-ao-acionar-orgao-internacional-de-direitos-humanos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/vorcaro_editor.jpeg",
-   "data": "2026-11-02T14:09:28-03:00"
-  },
-  {
    "id": "6b14e39134d7",
    "titulo": "Por que Edir Macedo rejeita o lema “Deus, Pátria e Família”",
    "resumo": "Declaração de bispo da Universal foi feita no dia do segundo turno, mas ganhou repercussão nas redes sociais neste fim de semana.",
@@ -317,15 +380,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/16140311/ASPA-GRANDE-2026-09-16T140324.048-960x540.jpg",
    "data": "2026-11-02T13:53:59-03:00"
-  },
-  {
-   "id": "44a4c8ea847a",
-   "titulo": "Governo Lula prevê aumento de 34% em verba da EBC para 2027",
-   "resumo": "O governo do presidente Luiz Inácio Lula da Silva quer aumentar em 34% o orçamento de despesas discricionárias da Empresa Brasil de Comunicação (EBC) em 2027. Essas verbas — recursos que não são obrigatórios por lei e podem ser geridos livr…",
-   "link": "https://revistaoeste.com/politica/governo-lula-preve-aumento-de-34-em-verba-da-ebc-para-2027/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/lula-2.jpg",
-   "data": "2026-11-02T13:36:04-03:00"
   },
   {
    "id": "58922fa9718e",
@@ -461,24 +515,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/29170013/lula-com-andre-janones-foto-ricardo-stuckert-secom-1-960x540.jpg",
    "data": "2026-11-01T23:40:37-03:00"
-  },
-  {
-   "id": "fdfb8bdccb55",
-   "titulo": "Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara",
-   "resumo": "Avanço do PL pressiona Hugo Motta e leva partidos a antecipar disputa pela Câmara. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/avanco-do-pl-pressiona-hugo-motta-e-leva-partidos-a-antecipar-disputa-pela-camara/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30183318/motta-pl-presidencia-960x540.jpg",
-   "data": "2026-11-01T21:59:19-03:00"
-  },
-  {
-   "id": "87c615d072d5",
-   "titulo": "Nota de Flávio aponta perseguição e fala sobre condição para dar entrevista a emissora",
-   "resumo": "Senador diz que emissora desistiu de entrevista após exigir exibição sem cortes. Flávio anuncia série de entrevistas.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-diz-que-aceitou-dar-entrevista-mas-pediu-a-emissora-exibicao-sem-cortes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/31020006/flavio-bolsonaro-fuga-eua-1-960x540.jpg",
-   "data": "2026-11-01T20:28:09-03:00"
   },
   {
    "id": "1c09c292de3c",
@@ -661,15 +697,6 @@
    "data": "2026-10-31T10:10:06-03:00"
   },
   {
-   "id": "9a27ff4b8044",
-   "titulo": "Advogado Willer Tomaz tem outras cinco casas em ilhas de Angra além da disputada com Richarlison",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/10/31/advogado-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-que-disputou-com-richarlison.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/WzVIbw3ALVP-DksEK3MLXNkpSbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/VgwJBLQ7WDqtSP1IVA5A/whatsapp-image-2026-10-22-at-15.17.19-1-.jpeg",
-   "data": "2026-10-31T07:33:54-03:00"
-  },
-  {
    "id": "5ef38a532570",
    "titulo": "Para Centrão, Motta pode ajudar Alcolumbre a se reeleger no Senado",
    "resumo": "Caciques do Centrão avaliam que Hugo Motta pode convencer partidos de seu \"blocão\" a também apoiarem Davi Alcolumbre no Senado",
@@ -686,15 +713,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/presidente-lula-durante-reuniao-emergencial-para-debater-os-desdobramentos-do-segundo-turno-da-campanha-eleitoral-em-brasilia-metropoles-7-scaled.jpg",
    "data": "2026-10-31T05:00:04-03:00"
-  },
-  {
-   "id": "d8132a149102",
-   "titulo": "MAPA: Como votaram os municípios com maior presença evangélica no Brasil",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/31/mapa-eleicoes-2026-municipios-com-maior-presenca-evangelica.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/NKo4qFfDMjWOVU10pq3zH5S7UvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/G/Yrm4ajTmysTXQ0NeXbVA/montagem-horizontal-1280x720px-20-.jpg",
-   "data": "2026-10-31T00:00:00-03:00"
   }
  ]
 }
