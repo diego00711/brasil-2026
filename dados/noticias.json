@@ -1,34 +1,466 @@
 {
- "atualizado": "2026-11-03T17:56:54.096940-03:00",
- "total": 74,
+ "atualizado": "2026-11-03T22:16:02.496323-03:00",
+ "total": 77,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "96cf8c0da44c",
-   "titulo": "Padilha diz que “briga” contra as bets também é por torcedores",
-   "resumo": "Em audiência no STF, ministro da Saúde disse que o problema das apostas afeta todas as classes sociais, inclusive dirigentes dos times",
-   "link": "https://www.poder360.com.br/poder-governo/padilha-diz-que-briga-contra-as-bets-tambem-e-por-torcedores/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/Q9kpu7eERKg/hqdefault.jpg",
-   "data": "2026-11-03T17:55:19-03:00"
+   "id": "a888537a06c0",
+   "titulo": "Senado aprova PEC da Segurança Pública sem a redução da maioridade penal",
+   "resumo": "Senado aprova PEC da Segurança Pública, mas redução da maioridade penal fica de fora em meio a impasse entre governistas e oposição.",
+   "link": "https://www.gazetadopovo.com.br/republica/senado-aprova-pec-seguranca-publica-sem-reducao-da-maioridade-penal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03190328/alcolumbre-camilo-marinho-960x540.jpg",
+   "data": "2026-11-03T21:55:26-03:00"
   },
   {
-   "id": "4ffcee4b042d",
-   "titulo": "Internautas criticam fala do presidente do Fluminense em defesa das bets",
-   "resumo": "Mattheus Montenegro comparou o endividamento de famílias ao desemprego que pode atingir trabalhadores do setor",
-   "link": "https://www.poder360.com.br/poder-justica/internautas-criticam-fala-do-presidente-do-fluminense-em-defesa-das-bets/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/SCgyHU3pPPg/hqdefault.jpg",
-   "data": "2026-11-03T17:49:38-03:00"
-  },
-  {
-   "id": "eebbdab021d6",
-   "titulo": "Preso por elo com o PCC, vereador do PT pede licença da Câmara de São Paulo",
-   "resumo": "O vereador paulistano Senival Moura pediu afastamento de suas atribuições da Câmara Municipal de São Pauo. A solicitação ocorreu na tarde desta terça-feira, 3. Filiado ao Partido dos Trabalhadores (PT), o político está preso sob suspeita de…",
-   "link": "https://revistaoeste.com/politica/preso-por-elo-com-o-pcc-vereador-do-pt-pede-licenca-da-camara-de-sao-paulo/",
+   "id": "7f7ebb2d6540",
+   "titulo": "Groenlândia ratifica acordo de segurança com os EUA",
+   "resumo": "O Parlamento da Groenlândia ratificou nesta terça-feira, 3, um acordo de segurança firmado com os Estados Unidos e a Dinamarca. A votação terminou com 16 votos favoráveis e sete abstenções. O documento amplia a presença militar norte-americ…",
+   "link": "https://revistaoeste.com/politica/groenlandia-ratifica-acordo-de-seguranca-com-os-eua/",
    "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/senival-moura-pt-pcc.jpg",
-   "data": "2026-11-03T17:49:09-03:00"
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/parlamento-da-groelandia.jpeg",
+   "data": "2026-11-03T21:43:54-03:00"
+  },
+  {
+   "id": "010af8d4f4ff",
+   "titulo": "Boicote? Fortaleza cancela show de Jorge & Mateus no réveillon",
+   "resumo": "A Prefeitura de Fortaleza desfez o contrato com a dupla sertaneja Jorge & Mateus para a festa de réveillon de 2027. O prefeito Evandro Leitão (PT) comunicou a decisão na noite desta terça-feira, 3. A apresentação havia sido anunciada em 27 …",
+   "link": "https://oantagonista.com.br/brasil/boicote-fortaleza-cancela-show-de-jorge-mateus-no-reveillon/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/facebook-compartilhamento-1.jpg",
+   "data": "2026-11-03T21:41:29-03:00"
+  },
+  {
+   "id": "df4e5bc349c0",
+   "titulo": "Davi Alcolumbre acena com anistia a Bolsonaro para garantir comando do Senado",
+   "resumo": "Davi Alcolumbre propõe anistia a Bolsonaro e condenados do 8 de janeiro para tentar reeleição no Senado, mas enfrenta forte resistência do PT e do STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/davi-alcolumbre-acena-com-anistia-a-bolsonaro-para-garantir-comando-do-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03214057/Davi-Alcolumbre-960x540.jpg",
+   "data": "2026-11-03T21:40:51-03:00"
+  },
+  {
+   "id": "b9cbcf8b5da2",
+   "titulo": "Com aprovação da PEC da Segurança, Lula diz que criará ministério",
+   "resumo": "Texto foi apresentado pelo ex-ministro da Justiça Ricardo Lewandowski e aprovado nesta 3ª feira (3.nov) pelo Senado",
+   "link": "https://www.poder360.com.br/poder-governo/com-aprovacao-da-pec-da-seguranca-lula-diz-que-criara-ministerio/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-pec-seguranca-x.png",
+   "data": "2026-11-03T21:38:55-03:00"
+  },
+  {
+   "id": "c15394ef41dd",
+   "titulo": "Nikolas defende candidatura própria do PL à Presidência da Câmara",
+   "resumo": "O deputado federal reeleito Nikolas Ferreira (PL-MG) defendeu nesta terça-feira, 3, que o PL lance uma candidatura própria à Presidência da Câmara dos Deputados. Nikolas argumentou que a sigla não deve abrir mão de sua identidade ideológica…",
+   "link": "https://oantagonista.com.br/brasil/nikolas-defende-candidatura-propria-do-pl-a-presidencia-da-camara/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/nikolas-melhor.jpg",
+   "data": "2026-11-03T21:21:44-03:00"
+  },
+  {
+   "id": "9aa82f7e392c",
+   "titulo": "PT articula expulsão de grupo com aval de Lula",
+   "resumo": "O presidente nacional do PT, Edinho Silva , articula o afastamento ou a expulsão de integrantes de uma ala do partido conhecida como \"centrão petista\". A iniciativa tem o aval de Lula da Silva e está relacionada à insatisfação com dirigente…",
+   "link": "https://revistaoeste.com/politica/pt-articula-expulsao-de-grupo-com-aval-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Edinho-Silva_presidente-do-PT.jpeg",
+   "data": "2026-11-03T21:18:17-03:00"
+  },
+  {
+   "id": "e936a987513a",
+   "titulo": "Justiça de SP proíbe Meta de usar conteúdo jornalístico para treinar IA",
+   "resumo": "Liminar fixa multa diária de R$ 1 milhão em caso de descumprimento e determina manutenção dos perfis dos veículos nas plataformas",
+   "link": "https://www.poder360.com.br/poder-justica/justica-de-sp-proibe-meta-de-usar-conteudo-jornalistico-para-treinar-ia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T21:17:19-03:00"
+  },
+  {
+   "id": "2273e4b349b2",
+   "titulo": "Nos EUA, Flávio vota a favor da PEC da Segurança",
+   "resumo": "Nos Estados Unidos, Flávio Bolsonaro participou da votação da PEC da Segurança Pública de forma remota. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/nos-eua-flavio-vota-a-favor-da-pec-da-seguranca/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03211448/flavio-bolsonaro-960x540.jpg",
+   "data": "2026-11-03T21:15:51-03:00"
+  },
+  {
+   "id": "5480af9eadbd",
+   "titulo": "Poderoso do Centrão, Arthur Lira já se movimenta para ter protagonismo no Senado",
+   "resumo": "O ex-presidente da Câmara Arthur Lira (PP-AL) já se movimenta para influir na sucessão do Senado, antes mesmo de tomar posse em 2027.",
+   "link": "https://www.gazetadopovo.com.br/vozes/silvio-ribas/poderoso-do-centrao-arthur-lira-ja-se-movimenta-para-ter-protagonismo-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2023/06/19112010/Arthur-Lira-660x372.jpg",
+   "data": "2026-11-03T21:15:34-03:00"
+  },
+  {
+   "id": "9fe6a481819c",
+   "titulo": "Vorcaro escolheu Oeste como alvo: ‘Passou de todos os limites’",
+   "resumo": "Daniel Vorcaro incluiu Oeste na lista de veículos de imprensa que tentou censurar por publicarem reportagens sobre o escândalo do Banco Master. Em 30 de abril de 2025, o então dono da instituição financeira discutiu com Ana Matos, diretora …",
+   "link": "https://revistaoeste.com/politica/vorcaro-escolheu-oeste-como-alvo-passou-de-todos-os-limites/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Master.png",
+   "data": "2026-11-03T21:12:34-03:00"
+  },
+  {
+   "id": "fc6bbece415c",
+   "titulo": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/QCDe4xs61d9cdpABN6JNyye9QOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/rg9TG0SKOtFWAqwCBEMg/55629449422-9300271c3f-k.jpg",
+   "data": "2026-11-03T21:09:27-03:00"
+  },
+  {
+   "id": "7513e0c798ba",
+   "titulo": "Janones defende Marina Ruy Barbosa na redes sociais após críticas",
+   "resumo": "Deputado saiu em defesa da atriz depois de repercussão de críticas por posicionamento nas eleições de 2026",
+   "link": "https://www.poder360.com.br/poder-gente/janones-defende-marina-ruy-barbosa-na-redes-sociais-apos-ataques/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-03-11-2026-as-19.02.jpeg",
+   "data": "2026-11-03T21:03:53-03:00"
+  },
+  {
+   "id": "a5f9ebd1c813",
+   "titulo": "Quarto mandato de Lula começa sob risco de crise de crédito por dívida crescente",
+   "resumo": "Contas do governo em caos: crise de crédito pode encarecer financiamentos, dificultar empréstimos e pesar no bolso das famílias.",
+   "link": "https://www.gazetadopovo.com.br/economia/crise-credito-quarto-mandato-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/29145234/crise-de-credito-lula-reeleito-brasilia-960x540.jpg",
+   "data": "2026-11-03T21:00:00-03:00"
+  },
+  {
+   "id": "0a63cda31809",
+   "titulo": "Gabrielli diz ser contra limitar juros, mas elogia André Lara Resende",
+   "resumo": "Coordenador do programa de governo Lula negou defender redução de 13,75% para 7,5% em 12 meses, mas disse ser favorável à criação do conselho fiscal e monetário proposto por Lara Resende",
+   "link": "https://www.poder360.com.br/poder-economia/sergio-gabrielli-diz-ser-contra-limitar-juros-mas-elogia-andre-lara-resende/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T20:55:46-03:00"
+  },
+  {
+   "id": "925e42482359",
+   "titulo": "Aprovados dos Bombeiros cobram liberação de vagas pela Fazenda",
+   "resumo": "Grupo pede despacho para ampliar de 120 para 356 as incorporações em 2026; documento ainda depende de outras etapas",
+   "link": "https://www.poder360.com.br/poder-economia/aprovados-dos-bombeiros-cobram-liberacao-de-vagas-pela-fazenda/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T20:43:06-03:00"
+  },
+  {
+   "id": "8000957e30d4",
+   "titulo": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+   "resumo": "Caso a Meta utilize conteúdos da imprensa brasileira sem autorização, o juiz fixou multa diária de R$ 1 milhão. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/20113441/ASPA-GRANDE-2026-10-20T113437.112-960x540.jpg",
+   "data": "2026-11-03T20:40:16-03:00"
+  },
+  {
+   "id": "dcafde27b9e5",
+   "titulo": "Lula comemora aprovação da PEC da Segurança Pública e reforça criação de ministério",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/lula-comemora-aprovacao-da-pec-da-seguranca-publica.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ZKH2Q7lvfvNwYqE7Nb5YE7Xxxvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/5/bsSdg6QZSCTLDJf4BeZQ/55587352288-1646f0bda4-k.jpg",
+   "data": "2026-11-03T20:39:00-03:00"
+  },
+  {
+   "id": "b118d050de1f",
+   "titulo": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-03T20:36:00-03:00"
+  },
+  {
+   "id": "e44e8bbf447c",
+   "titulo": "Marinho vê “precedente perigoso” na retirada da redução da maioridade penal",
+   "resumo": "Senador critica manobra regimental que excluiu o tema da PEC da Segurança Pública; proposta foi aprovada por unanimidade nos 2 turnos",
+   "link": "https://www.poder360.com.br/poder-congresso/marinho-ve-precedente-perigoso-na-retirada-da-reducao-da-maioridade-penal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T20:28:04-03:00"
+  },
+  {
+   "id": "4a3e91da12fc",
+   "titulo": "Alcolumbre promete votar redução da maioridade penal após decisão da Câmara",
+   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), afirmou nesta terça-feira, 3, que a Casa votará a redução da maioridade penal um dia após a Câmara dos Deputados deliberar sobre uma proposta que trata do assunto. O anúncio foi feito após…",
+   "link": "https://oantagonista.com.br/brasil/alcolumbre-promete-votar-reducao-da-maioridade-penal-apos-decisao-da-camara/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591802936_48ff5c60aa_k.jpg",
+   "data": "2026-11-03T20:23:19-03:00"
+  },
+  {
+   "id": "eea72f9b3a87",
+   "titulo": "Suspeito por chutar idoso cumpre pena por matar carroceiro a flechada",
+   "resumo": "A Polícia Civil de São Paulo solicitou à Justiça a prisão temporária de Denis Young Kim, suspeito de agredir um idoso de 79 anos em Osasco (SP). Ele cumpria em regime aberto, desde setembro de 2025, a pena de 14 anos de prisão imposta pelo …",
+   "link": "https://oantagonista.com.br/brasil/suspeito-por-chutar-idoso-cumpre-pena-por-matar-carroceiro-a-flechada/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-03_201932_oglobo.globo_.com-1.png",
+   "data": "2026-11-03T20:20:41-03:00"
+  },
+  {
+   "id": "19a2409bf530",
+   "titulo": "Novo terá candidatura própria à presidência da Câmara, diz Van Hattem",
+   "resumo": "Para a presidência do Senado, deputado afirmou que partido apoiará Rogério Marinho",
+   "link": "https://www.poder360.com.br/poder-congresso/novo-tera-candidatura-propria-a-presidencia-da-camara-diz-van-hattem/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/B_8LrnByrVk/hqdefault.jpg",
+   "data": "2026-11-03T20:16:37-03:00"
+  },
+  {
+   "id": "23d13af0c54e",
+   "titulo": "Governo volta atrás e libera “Desenhos Bíblicos” para todas as idades",
+   "resumo": "Ministério da Justiça havia atribuído classificação de 12 anos à produção da “Record” e recomendado exibição após as 20h",
+   "link": "https://www.poder360.com.br/poder-governo/governo-volta-atras-e-libera-desenhos-biblicos-para-todas-as-idades/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T20:13:11-03:00"
+  },
+  {
+   "id": "a8b9874a5ca7",
+   "titulo": "Lula força retirada da proposta para reduzir maioridade penal",
+   "resumo": "Encaminhamento passou por 38 a 36 votos –um placar apertado, mas uma vitória do Palácio do Planalto; PEC foi aprovada em 2 turnos",
+   "link": "https://www.poder360.com.br/poder-congresso/senado-retira-reducao-da-maioridade-penal-da-pec-da-seguranca/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T20:03:59-03:00"
+  },
+  {
+   "id": "2468a7b13a02",
+   "titulo": "Senado conclui votação da PEC da Segurança; veja como ficou texto",
+   "resumo": "Senado aprova PEC da Segurança Pública; texto vai a promulgação O Senado aprovou nesta terça-feira (3) a proposta de emenda à Constituição (PEC) da Segurança Pública. O texto insere na Constituição Federal o Sistema Único de Segurança Públi…",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-conclui-votacao-da-pec-da-seguranca-veja-como-ficou-texto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-03T20:02:19-03:00"
+  },
+  {
+   "id": "e1c830f87704",
+   "titulo": "Fórum Brasileiro de Segurança Pública celebra aprovação da PEC da Segurança, mas diz que texto não resolve problemas estruturais",
+   "resumo": "",
+   "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/03/forum-brasileiro-de-seguranca-publica-celebra-aprovacao-da-pec-da-seguranca-mas-diz-que-texto-nao-resolve-problemas-estruturais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/eljn9XEoellYKVMbKRNhOzCyEtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/v/lkl0EMRDeNAe0rHbXaoA/globo-canal-4-20261014-2000-frame-4401.jpeg",
+   "data": "2026-11-03T19:48:07-03:00"
+  },
+  {
+   "id": "f22babafc0d5",
+   "titulo": "Como votou cada senador na PEC da Segurança Pública",
+   "resumo": "Senado aprovou a PEC da Segurança Pública, sem a redução da maioridade penal. Veja como votou cada senador.",
+   "link": "https://www.gazetadopovo.com.br/republica/como-votou-cada-senador-na-pec-da-seguranca-publica/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03193729/como-votou-senador-pec-seguranca-960x540.jpg",
+   "data": "2026-11-03T19:47:21-03:00"
+  },
+  {
+   "id": "c9b3d7e60bb3",
+   "titulo": "Cidade que deu 65% dos votos a Lula usa papelão para imobilizar perna de paciente",
+   "resumo": "Um paciente com fraturas no pé teve a perna imobilizada com pedaços de papelão durante atendimento na rede pública de saúde de Currais Novos, no Rio Grande do Norte . O caso foi denunciado pela imprensa local e divulgado no último dia 30 pe…",
+   "link": "https://revistaoeste.com/politica/cidade-que-deu-64-dos-votos-a-lula-usa-papelao-para-imobilizar-perna-de-paciente/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Papelao_Currais-Novos_RN.jpeg",
+   "data": "2026-11-03T19:46:20-03:00"
+  },
+  {
+   "id": "595a8974419d",
+   "titulo": "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-03T19:39:00-03:00"
+  },
+  {
+   "id": "c8dbc83835fe",
+   "titulo": "Sem redução da maioridade penal, Senado aprova PEC da Segurança Pública",
+   "resumo": "O Senado aprovou nesta terça-feira, 3, a Proposta de Emenda à Constituição (PEC) da Segurança Pública. O texto recebeu 75 votos favoráveis e nenhum contrário no segundo turno, depois de ter sido aprovado por 73 votos a zero na primeira etap…",
+   "link": "https://revistaoeste.com/politica/sem-reducao-da-maioridade-penal-senado-aprova-pec-da-seguranca-publica/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/55592453670_27dea7cfc1_b.jpg",
+   "data": "2026-11-03T19:38:06-03:00"
+  },
+  {
+   "id": "28e073c0d3a7",
+   "titulo": "Saiba o que disseram ministros de Lula em audiência sobre bets no STF",
+   "resumo": "Jorge Messias, Wellington Lima e Silva e Alexandre Padilha participaram da sessão e defenderam medida que proibiu apostas no Brasil",
+   "link": "https://www.poder360.com.br/poder-governo/saiba-o-que-disseram-ministros-de-lula-em-audiencia-sobre-bets-no-stf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-03T19:37:15-03:00"
+  },
+  {
+   "id": "2775e1d57c3c",
+   "titulo": "Senado aprova PEC da Segurança sem maioridade de 14 anos e dá vitória a Lula",
+   "resumo": "O Senado aprovou nesta terça-feira, 3, em dois turnos, a chamada PEC da Segurança Pública, uma das prioridades do governo Lula (PT) no Congresso. A aprovação representa uma primeira vitória do Planalto, que mobilizou seus líderes ao longo d…",
+   "link": "https://oantagonista.com.br/brasil/senado-aprova-pec-da-seguranca-sem-maioridade-de-14-anos-e-da-vitoria-a-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/senado-federal-2-1.jpg",
+   "data": "2026-11-03T19:24:48-03:00"
+  },
+  {
+   "id": "1353c28949c9",
+   "titulo": "Governo recua e libera desenho bíblico para todas as idades",
+   "resumo": "O Ministério da Justiça e Segurança Pública (MJSP) decidiu nesta terça-feira, 3, de ofício, rever a classificação indicativa de 12 anos atribuída pelo governo do presidente Lula (PT) ao programa “Desenhos Bíblicos” exibidos pela Record. Com…",
+   "link": "https://oantagonista.com.br/brasil/governo-recua-e-libera-desenho-biblico-para-todas-as-idades/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-03-192114-1.png",
+   "data": "2026-11-03T19:23:23-03:00"
+  },
+  {
+   "id": "145ad3ae25b4",
+   "titulo": "Senado aprova PEC da Segurança Pública por unanimidade em 1º turno",
+   "resumo": "Em votação relâmpago, o Senado aprovou por unanimidade, nesta terça-feira, 3, em primeiro turno, o texto-base da Proposta de Emenda à Constituição (PEC) da Segurança Pública. Ao todo, 73 senadores votaram a favor, sem votos contrários. A ap…",
+   "link": "https://revistaoeste.com/politica/senado-aprova-pec-da-seguranca-publica-por-unanimidade-em-1o-turno/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Alcolumbre.jpg",
+   "data": "2026-11-03T19:23:14-03:00"
+  },
+  {
+   "id": "4e474ea739d4",
+   "titulo": "PEC da Segurança Pública: como votaram senadores e partidos nos dois turnos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/03/pec-seguranca-publica-como-votaram-senadores-partidos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/gFZKuQ3RgsTLwAWK52g0mZ-LjDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/j/16IpkgQaiGiWUbvNQB1Q/55592375485-2a38b60110-o.jpg",
+   "data": "2026-11-03T19:06:21-03:00"
+  },
+  {
+   "id": "0ab67c1ee4aa",
+   "titulo": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto vai a promulgação",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-aprova-pec-da-seguranca-publica.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tbHM40DIE9F1uU7X_R7ITOROy90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/b/92v6B3QnquY6MmEWFq1A/55589016257-bf1cd3ae7e-o.jpg",
+   "data": "2026-11-03T19:06:13-03:00"
+  },
+  {
+   "id": "068bee7803af",
+   "titulo": "Senado retira discussão sobre maioridade penal da PEC da Segurança",
+   "resumo": "O Senado aprovou nesta terça-feira, 3, por 38 votos a 36, com uma abstenção, a retirada da discussão sobre a redução da maioridade penal da Proposta de Emenda à Constituição (PEC) da Segurança Pública. A decisão permite que o tema seja anal…",
+   "link": "https://revistaoeste.com/politica/senado-retira-discussao-sobre-maioridade-penal-da-pec-da-seguranca/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Senad.jpg",
+   "data": "2026-11-03T19:05:12-03:00"
+  },
+  {
+   "id": "d52daf164f8f",
+   "titulo": "Governabilidade de Lula exigirá negociação e acordos além da Esplanada",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/governabilidade-de-lula-exigira-negociacao-e-acordos-alem-da-esplanada\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/governabilidade-de-lula-exigira-negociacao-e-acordos-alem-da-esplanada",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-03T19:05:00-03:00"
+  },
+  {
+   "id": "caa6604fbbcf",
+   "titulo": "Após pressão, governo Lula recua e restabelece classificação livre de desenhos bíblicos",
+   "resumo": "Ao justificar a revisão, o ministério afirmou que a transmissão de histórias bíblicas constitui uma manifestação cultural.",
+   "link": "https://www.gazetadopovo.com.br/republica/apos-pressao-governo-lula-recua-e-restabelece-classificacao-livre-de-desenhos-biblicos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03185525/Design-sem-nome-27-960x540.jpg",
+   "data": "2026-11-03T19:01:22-03:00"
+  },
+  {
+   "id": "1f1041150e41",
+   "titulo": "Flávio registra presença no Senado mesmo dos EUA",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) registrou presença nesta terça-feira, 3, na sessão plenária do Senado que discute a Proposta de Emenda à Constituição (PEC) da Segurança Pública. O ex-candidato à Presidência está nos Estados Unidos desde …",
+   "link": "https://oantagonista.com.br/brasil/flavio-registra-presenca-no-senado-mesmo-dos-eua/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/enhance_upscale_image_01-2-1.png",
+   "data": "2026-11-03T18:57:21-03:00"
+  },
+  {
+   "id": "cada58914e29",
+   "titulo": "Senado Federal decide votar PEC da Segurança sem discutir redução da maioridade penal",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-federal-decide-votar-pec-da-seguranca-sem-discutir-reducao-da-maioridade-penal.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/hSWM__7Sk8uw5I-5Isqal7YCMwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/D/X46BXWRDu5GBtRQnjATg/55630660960-279b9cd611-4k.jpg",
+   "data": "2026-11-03T18:52:31-03:00"
+  },
+  {
+   "id": "d37e9c937779",
+   "titulo": "Justiça eleitoral retoma serviços ao eleitor",
+   "resumo": "O cadastro eleitoral voltou a funcionar em todo o Brasil nesta terça-feira, 3. Permaneceu suspenso desde 7 de maio em razão dos preparativos para as eleições de 2026. Com a reabertura, a Justiça Eleitoral retomou o atendimento aos cidadãos …",
+   "link": "https://revistaoeste.com/politica/justica-eleitoral-retoma-servicos-ao-eleitor/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Just-El.jpg",
+   "data": "2026-11-03T18:41:13-03:00"
+  },
+  {
+   "id": "1204a08a96c9",
+   "titulo": "Defesa de Vorcaro volta a pedir revogação da prisão preventiva ao STF",
+   "resumo": "Os advogados do ex-banqueiro Daniel Vorcaro se reuniram nesta terça-feira, 3, com um juiz auxiliar do gabinete do presidente do Supremo Tribunal Federal (STF), Edson Fachin. Segundo o portal Metrópoles, a defesa apontou excesso de prazo na …",
+   "link": "https://oantagonista.com.br/brasil/defesa-de-vorcaro-volta-a-pedir-revogacao-da-prisao-preventiva-ao-stf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Daniel-Vorcaro-imprensa.jpg",
+   "data": "2026-11-03T18:39:03-03:00"
+  },
+  {
+   "id": "61e7ce92fa2c",
+   "titulo": "Fux arquiva ação que tentava anular rejeição de Messias ao STF",
+   "resumo": "Fux apontou que a advogada da entidade que apresentou a ação está com a inscrição cancelada na OAB. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/fux-arquiva-acao-que-tentava-anular-rejeicao-de-messias-ao-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03183731/luiz-fux-stf-960x540.jpg",
+   "data": "2026-11-03T18:38:21-03:00"
+  },
+  {
+   "id": "866f841f5887",
+   "titulo": "Valdemar reage à ofensiva sobre Michelle e diz que vai filiar Damares ao PL",
+   "resumo": "À coluna, Valdemar Costa Neto chamou de \"bobagem\" articulação do Republicanos para filiar Michelle e disse que PL que filiará Damares Alves",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/valdemar-reage-a-ofensiva-sobre-michelle-e-diz-que-vai-filiar-damares-ao-pl",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/11/cerimonia-de-transmissao-de-cargo-a-nova-presidente-do-PL-Mulher-Michelle-Bolsonaro-em-brasilia-21.jpg",
+   "data": "2026-11-03T18:24:07-03:00"
+  },
+  {
+   "id": "c5d847af6ad8",
+   "titulo": "Senador alerta para ‘ditadura do Judiciário’ e cobra STF para destravar dosimetria",
+   "resumo": "O líder do MDB no Senado, Eduardo Braga (AM), cobrou nesta terça-feira, 3, uma solução do Supremo Tribunal Federal (STF) para o impasse sobre a Lei da Dosimetria, aprovada pelo Congresso Nacional. Durante a votação da Proposta de Emenda à C…",
+   "link": "https://revistaoeste.com/politica/senador-alerta-para-ditadura-do-judiciario-e-cobra-stf-para-destravar-dosimetria/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/eduardobraga-mdbam.jpg",
+   "data": "2026-11-03T18:10:45-03:00"
+  },
+  {
+   "id": "e6c0c3997978",
+   "titulo": "Fux defende banimento das apostas online",
+   "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), se manifestou nesta terça-feira, 3, de forma contrária às plataformas de apostas online, as bets, e defendeu que elas sejam banidas do país. Fux é relator no Supremo de várias ações so…",
+   "link": "https://oantagonista.com.br/brasil/fux-defende-banimento-das-apostas-online/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55549422900_2901aba5d8_4k-scaled-e1790675608729.jpg",
+   "data": "2026-11-03T18:09:54-03:00"
+  },
+  {
+   "id": "474753b33173",
+   "titulo": "Tereza Cristina mantém candidatura ao Senado e busca dissidentes",
+   "resumo": "A senadora Tereza Cristina (PP-MS) mantém a candidatura à presidência do Senado e busca ampliar o apoio entre integrantes do Centrão e dissidentes do PL. A ex-ministra da Agricultura pretende enfrentar a reeleição de Davi Alcolumbre (União-…",
+   "link": "https://revistaoeste.com/politica/tereza-cristina-mantem-candidatura-ao-senado-e-busca-dissidentes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Tereza-Crstina_Senado.jpeg",
+   "data": "2026-11-03T18:09:21-03:00"
+  },
+  {
+   "id": "7d6b77c69a3a",
+   "titulo": "Flávio tenta votar PEC da Segurança direto dos EUA, mas enfrenta problemas",
+   "resumo": "Aliados dizem que Flávio Bolsonaro tenta participar da sessão que vota a PEC da Segurança, mas seu celular novo está bloqueado pelo Senado",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/flavio-tenta-votar-pec-da-seguranca-dos-eua-mas-enfrenta-problemas",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/flavio-bolsonaro-1-1.jpeg",
+   "data": "2026-11-03T18:01:37-03:00"
+  },
+  {
+   "id": "651ed3d81472",
+   "titulo": "Nos EUA, Flávio Bolsonaro registra presença em sessão do Senado que discute a PEC da Segurança Pública",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/03/nos-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/lGhCgsp14lWIV4r1M1fReyHhYsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/z/2lXiwxS6iBBB5eqAB2fA/design-sem-nome-2026-10-28t113746.983.jpg",
+   "data": "2026-11-03T18:00:36-03:00"
   },
   {
    "id": "d864cd9bff29",
@@ -40,51 +472,6 @@
    "data": "2026-11-03T17:40:02-03:00"
   },
   {
-   "id": "6baab1c4435f",
-   "titulo": "Presidente do Fluminense cita “drama do desemprego” ao defender bets",
-   "resumo": "Mattheus Montenegro comparou desemprego no futebol ao endividamento de famílias; declaração foi criticada por internautas",
-   "link": "https://www.poder360.com.br/poder-justica/presidente-do-fluminense-cita-drama-do-desemprego-ao-defender-bets/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/SCgyHU3pPPg/hqdefault.jpg",
-   "data": "2026-11-03T17:39:45-03:00"
-  },
-  {
-   "id": "fc6bbece415c",
-   "titulo": "ASSISTA: Senado discute a PEC da Segurança Pública; texto pode ser votado ainda hoje",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/QCDe4xs61d9cdpABN6JNyye9QOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/rg9TG0SKOtFWAqwCBEMg/55629449422-9300271c3f-k.jpg",
-   "data": "2026-11-03T17:38:15-03:00"
-  },
-  {
-   "id": "7d15a1d57c02",
-   "titulo": "Quem é Edinho para expulsar alguém do PT, diz Quaquá",
-   "resumo": "Vice-presidente do Partido dos Trabalhadores também sugere que doações para o diretório da sigla em Araraquara (SP) foram para a campanha de Edinho Silva a deputado federal",
-   "link": "https://www.poder360.com.br/poder-partidos-politicos/quem-e-edinho-para-expulsar-alguem-do-pt-diz-quaqua/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T17:27:20-03:00"
-  },
-  {
-   "id": "623c7a1b66ab",
-   "titulo": "Tereza Cristina mantém candidatura à presidência do Senado",
-   "resumo": "Senadora do PP é vista como 3ª via e pode atrair votos de dissidentes de Rogério Marinho, o que beneficiaria Davi Alcolumbre",
-   "link": "https://www.poder360.com.br/poder-congresso/tereza-cristina-mantem-candidatura-a-presidencia-do-senado/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T17:25:33-03:00"
-  },
-  {
-   "id": "d8c046437cc1",
-   "titulo": "PEC da Segurança: Senado começa análise em meio a impasse sobre maioridade penal",
-   "resumo": "O Senado começou na tarde desta terça-feira, 3, a análise da PEC da Segurança Pública, com a leitura do relatório pelo senador Rogério Carvalho (PT-SE). A discussão ocorre em meio à articulação do governo Lula para impedir a inclusão da red…",
-   "link": "https://revistaoeste.com/politica/pec-da-seguranca-senado-comeca-analise-em-meio-a-impasse-sobre-maioridade-penal/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/55592453670_27dea7cfc1_b.jpg",
-   "data": "2026-11-03T17:17:44-03:00"
-  },
-  {
    "id": "b6bef2421fdc",
    "titulo": "Ruas se reúne com Zanin para discutir ação sobre segundo turno no Rio",
    "resumo": "O presidente da Assembleia Legislativa do Rio de Janeiro (Alerj) e governador eleito do estado, Douglas Ruas (PL), se reuniu nesta terça-feira, 3, com o ministro do Supremo Tribunal Federal (STF) Cristiano Zanin para tratar da ação do PSD q…",
@@ -94,24 +481,6 @@
    "data": "2026-11-03T17:17:41-03:00"
   },
   {
-   "id": "5ebcf3a84b26",
-   "titulo": "João Jorge oficializa candidatura à presidência da Câmara de SP",
-   "resumo": "O vice-presidente da Câmara Municipal de São Paulo , João Jorge (MDB), oficializou nesta segunda-feira, 2, sua candidatura à presidência da Casa. A eleição da Mesa Diretora está marcada para 15 de dezembro. O vencedor comandará o Legislativ…",
-   "link": "https://revistaoeste.com/politica/joao-jorge-oficializa-candidatura-a-presidencia-da-camara-de-sp/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/joao-jorge-vereador-mdb.jpg",
-   "data": "2026-11-03T17:13:28-03:00"
-  },
-  {
-   "id": "0fd203ec712f",
-   "titulo": "Mega da Virada terá prêmio estimado em R$ 1 bilhão",
-   "resumo": "Jogos podem ser registrados até 31 de dezembro; sorteio será em 1º de janeiro de 2027",
-   "link": "https://www.poder360.com.br/poder-brasil/mega-da-virada-tera-premio-estimado-em-r-1-bilhao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T17:09:48-03:00"
-  },
-  {
    "id": "2a5bff4bc5df",
    "titulo": "PEC da Segurança: relator rejeita redução da maioridade penal",
    "resumo": "O relator da chamada PEC da Segurança Pública, senador Rogério Carvalho (PT-SE), apresentou nesta terça-feira, 3, parecer sobre o texto em que rejeita as emendas sugeridas em plenário para redução da maioridade penal. O petista acatou o ped…",
@@ -119,33 +488,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2024/03/53596877297_f0172880f6_o-scaled.jpg",
    "data": "2026-11-03T17:09:06-03:00"
-  },
-  {
-   "id": "a38874cbfa11",
-   "titulo": "Brasil defende saída dos fósseis, mas mantém planos para o petróleo",
-   "resumo": "Mapa da COP30 oferece método para reduzir consumo e produção de petróleo, gás e carvão, enquanto país expande exploração no curto prazo",
-   "link": "https://www.poder360.com.br/cop30/brasil-defende-saida-dos-fosseis-mas-mantem-planos-para-petroleo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/casa-onu-ana-toni-andre-correa-lago-marina-silva.jpeg",
-   "data": "2026-11-03T17:01:21-03:00"
-  },
-  {
-   "id": "4c7303bfd582",
-   "titulo": "Cármen Lúcia arquiva pedido para Moraes explicar ‘ofensas’ a Tagliaferro",
-   "resumo": "A ministra Cármen Lúcia, do Supremo Tribunal Federal (STF) , rejeitou um pedido apresentado por Eduardo Tagliaferro , ex-assessor de Alexandre de Moraes no Tribunal Superior Eleitoral (TSE) , para obrigar o ministro a explicar declarações f…",
-   "link": "https://revistaoeste.com/politica/carmen-lucia-arquiva-pedido-para-moraes-explicar-ofensas-a-tagliaferro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Ministra-Carmen-Lucia_STF.jpeg",
-   "data": "2026-11-03T16:57:19-03:00"
-  },
-  {
-   "id": "4bba81e75962",
-   "titulo": "Em prisão domiciliar, Bolsonaro pede visita de técnicos da Vivo",
-   "resumo": "Defesa solicitou ao STF entrada de 4 profissionais para atendimento de internet e TV em 6 de novembro",
-   "link": "https://www.poder360.com.br/poder-justica/em-prisao-domiciliar-bolsonaro-pede-visita-de-tecnicos-da-vivo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T16:54:52-03:00"
   },
   {
    "id": "02499daf382e",
@@ -166,24 +508,6 @@
    "data": "2026-11-03T16:51:55-03:00"
   },
   {
-   "id": "5e15c986d507",
-   "titulo": "Padilha rebate argumento de clubes e defende proibição das bets",
-   "resumo": "O ministro da Saúde, Alexandre Padilha, rebateu nesta terça-feira, 3, o argumento de um representante de clube de futebol de que a proibição das bets prejudicaria a estrutura financeira das agremiações. Durante audiência pública no Supremo …",
-   "link": "https://oantagonista.com.br/brasil/padilha-rebate-argumento-de-clubes-e-defende-proibicao-das-bets/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/09/54813684299_acb5043f40_k.jpg",
-   "data": "2026-11-03T16:45:43-03:00"
-  },
-  {
-   "id": "fdbe7da9e3a8",
-   "titulo": "Resultado das “midterms” não muda negociação do tarifaço, diz ministro",
-   "resumo": "Márcio Elias Rosa aguarda nesta semana ou na próxima esboço de acordo sobre tarifas",
-   "link": "https://www.poder360.com.br/poder-economia/resultado-das-midterms-nao-muda-negociacao-do-tarifaco-diz-ministro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T16:40:34-03:00"
-  },
-  {
    "id": "68b38d7712e9",
    "titulo": "Tarifaço: Brasil deve receber proposta dos EUA entre esta semana e a próxima, diz ministro",
    "resumo": "",
@@ -191,42 +515,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/Gz-Gbu5Mxn8J05kPm80caU-IGWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/k/AXxvTPSRy3iBf4jayOcw/55227748493-7951e3623d-o.jpg",
    "data": "2026-11-03T16:33:24-03:00"
-  },
-  {
-   "id": "0e7647996af3",
-   "titulo": "Janja reforça campanha contra as bets",
-   "resumo": "A primeira-dama, Janja da Silva, publicou nesta terça-feira, 3, em seu Instagram, uma foto ao lado do ministro do Supremo Tribunal Federal (STF), Luiz Fux, durante a audiência pública que discute a proibição das apostas online, as bets. Na …",
-   "link": "https://oantagonista.com.br/brasil/janja-reforca-campanha-contra-as-bets/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-03-162205-1.png",
-   "data": "2026-11-03T16:26:44-03:00"
-  },
-  {
-   "id": "8abb66bac9c6",
-   "titulo": "Nikolas apresenta projeto para revogar classificação de desenhos bíblicos",
-   "resumo": "Deputado questiona decisão do Ministério da Justiça que elevou para 12 anos a classificação indicativa do programa da “Record”",
-   "link": "https://www.poder360.com.br/poder-congresso/nikolas-apresenta-projeto-para-revogar-classificacao-de-desenhos-biblicos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T16:24:51-03:00"
-  },
-  {
-   "id": "64823f697a7b",
-   "titulo": "Nikolas critica governo Lula por classificar desenhos bíblicos para maiores de 12 anos",
-   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) anunciou, nesta terça-feira, 3, a apresentação de um projeto para suspender a portaria do Ministério da Justiça e Segurança Pública que classificou o programa Record Kids – Desenhos Bíblicos como …",
-   "link": "https://revistaoeste.com/politica/nikolas-critica-governo-lula-por-classificar-desenhos-biblicos-para-maiores-de-12-anos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/Nikolas-Ferreira.jpg",
-   "data": "2026-11-03T16:05:55-03:00"
-  },
-  {
-   "id": "d0bb2cc58541",
-   "titulo": "Lula vai fazer exames de rotina em São Paulo",
-   "resumo": "O presidente Luiz Inácio Lula da Silva fará exames médicos de rotina no Hospital Sírio-Libanês, em São Paulo, nesta terça-feira, 3. Segundo a Secretaria de Comunicação Social da Presidência (Secom) , os exames já estavam agendados para depo…",
-   "link": "https://revistaoeste.com/politica/lula-vai-fazer-exames-de-rotina-em-sao-paulo/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/12/prende-suspeito-assalto-kalil.webp",
-   "data": "2026-11-03T16:00:00-03:00"
   },
   {
    "id": "7a968ded440e",
@@ -256,15 +544,6 @@
    "data": "2026-11-03T15:48:00-03:00"
   },
   {
-   "id": "37d852e3fb81",
-   "titulo": "Carla Zambelli cria comunidade virtual com conteúdos exclusivos",
-   "resumo": "A ex-deputada federal Carla Zambelli (PL-SP) criou uma comunidade virtual com mensalidade de R$ 50 para arrecadar recursos e custear sua vida na Itália. O anúncio foi feito em vídeo publicado nas redes sociais nesta terça-feira, 3. A ex-par…",
-   "link": "https://revistaoeste.com/politica/carla-zambelli-cria-comunidade-virtual-com-conteudos-exclusivos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/0d7a2d04-a7a2-42b2-8dec-187cb37cef8b.jpeg",
-   "data": "2026-11-03T15:46:20-03:00"
-  },
-  {
    "id": "fffb6fc1d1d7",
    "titulo": "Fux defende banimento das bets e aponta desafios jurídicos para a proibição no Brasil",
    "resumo": "Luiz Fux defendeu o banimento das bets no Brasil. O governo Lula regulamentou o setor, arrecadou bilhões e depois proibiu a atividade.",
@@ -272,33 +551,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/29160838/luiz-fux-decisao-aparecida-dois-1-960x540.jpg",
    "data": "2026-11-03T15:42:48-03:00"
-  },
-  {
-   "id": "8833b400d709",
-   "titulo": "Câmara Municipal de São Paulo arquiva pedido de impeachment de Ricardo Nunes",
-   "resumo": "A comissão especial da Câmara Municipal de São Paulo arquivou nesta terça-feira, 3, um pedido de impeach m ent contra o prefeito da capital paulista, Ricardo Nunes (MDB). A decisão foi por 5 votos a 2. O pedido de afastamento de Nunes foi a…",
-   "link": "https://revistaoeste.com/politica/camara-municipal-de-sao-paulo-arquiva-pedido-de-iimpeachment-i-de-ricardo-nunes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/exclusivo_-ricardo-nunes-desmente-haddad-e-conta-bastidores-da-discussao-com-candidato-do-pt.jpg",
-   "data": "2026-11-03T15:36:05-03:00"
-  },
-  {
-   "id": "7213b8b5768f",
-   "titulo": "Carcereiro conta em livro os bastidores dos 580 dias de prisão de Lula em Curitiba",
-   "resumo": "Agente da PF relata a rotina, os diálogos políticos e os episódios que marcaram a custódia de Lula. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/brasil/carcereiro-conta-em-livro-os-bastidores-dos-580-dias-de-prisao-de-lula-em-curitiba/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03140310/Lula-960x540.jpg",
-   "data": "2026-11-03T15:23:43-03:00"
-  },
-  {
-   "id": "9b09b8b615fe",
-   "titulo": "Edinho Silva descarta impeachment de ministros e novos impostos no governo Lula",
-   "resumo": "Edinho Silva define as prioridades do PT: defesa do STF, rejeição a novos impostos e foco na reforma tributária e alianças no Congresso Nacional.",
-   "link": "https://www.gazetadopovo.com.br/republica/edinho-silva-descarta-impeachment-de-ministros-e-novos-impostos-no-governo-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03151631/edinho-silva-foto-reproducao-canal-gov-960x540.jpg",
-   "data": "2026-11-03T15:16:28-03:00"
   },
   {
    "id": "426a414ea93b",
@@ -310,33 +562,6 @@
    "data": "2026-11-03T15:11:46-03:00"
   },
   {
-   "id": "b0aa7a532110",
-   "titulo": "Janones apaga post após azucrinar STF",
-   "resumo": "O deputado federal reeleito André Janones (Rede-MG) apagou nesta terça-feira, 3, um post em que azucrinava o Supremo Tribunal Federal (STF), cobrando a ativação dos comentários no YouTube da transmissão da audiência pública realizada para d…",
-   "link": "https://oantagonista.com.br/brasil/janones-apaga-post-apos-azucrinar-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55605331932_6554968e71_3k-e1793450807904.jpg",
-   "data": "2026-11-03T15:09:55-03:00"
-  },
-  {
-   "id": "831d88552efa",
-   "titulo": "Governo articula-se para tirar a redução da maioridade penal da PEC da Segurança",
-   "resumo": "O governo Lula se articula para aprovar a Proposta de Emenda à Constituição (PEC) da Segurança Pública no plenário do Senado Federal nesta terça-feira, 3, sem incluir o trecho que propõe a redução da maioridade penal a partir dos 14 anos pa…",
-   "link": "https://revistaoeste.com/politica/governo-articula-se-para-tirar-a-reducao-da-maioridade-penal-da-pec-da-seguranca/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/01/03A_ed251.jpg",
-   "data": "2026-11-03T15:01:26-03:00"
-  },
-  {
-   "id": "810a02cf29e9",
-   "titulo": "Zambelli oferece acesso à comunidade virtual e pede ajuda a apoiadores para se manter na Itália",
-   "resumo": "Carla Zambelli anuncia comunidade virtual com assinatura mensal de R$ 50 e pede ajuda financeira a apoiadores para se manter na Itália.",
-   "link": "https://www.gazetadopovo.com.br/republica/zambelli-oferece-acesso-a-comunidade-virtual-e-pede-ajuda-a-apoiadores-para-se-manter-na-italia/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/22135010/img20250917122137017-960x540.jpg",
-   "data": "2026-11-03T14:57:45-03:00"
-  },
-  {
    "id": "f114c04ec513",
    "titulo": "Cadastro eleitoral reaberto: eleitores podem mudar local de votação e solicitar outros serviços; veja como",
    "resumo": "",
@@ -344,60 +569,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/tdDfZz_u5OvAojQQpESUo6OJd5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/L/UcZjeSSB68BqG1jZMYRw/edicao-imagens-g1-63-.jpg",
    "data": "2026-11-03T14:56:21-03:00"
-  },
-  {
-   "id": "fcae3eb69653",
-   "titulo": "Advogado de Trump ironiza Kirchner por seguir “cartilha de Lula” para voltar ao poder: “Revelador”",
-   "resumo": "Advogado alfinetou Lula e Cristina Kirchner devido a reportagem que apontou que ela planeja voltar ao poder seguindo a trilha do petista",
-   "link": "https://www.gazetadopovo.com.br/mundo/advogado-trump-ironiza-meta-kirchner-seguir-cartilha-lula-voltar-poder/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03144316/lula.kirchner-960x540.jpg",
-   "data": "2026-11-03T14:44:12-03:00"
-  },
-  {
-   "id": "ae1a9aca5ad7",
-   "titulo": "Editor de revista americana alerta para erosão do Estado de Direito e abusos judiciais no Brasil",
-   "resumo": "Este episódio do Podcast 15 Minutos analisa a recente repercussão internacional da política brasileira e a situação do Estado de Direito no país.",
-   "link": "https://www.gazetadopovo.com.br/republica/editor-de-revista-americana-alerta-para-erosao-do-estado-de-direito-e-abusos-judiciais-no-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
-   "data": "2026-11-03T14:30:07-03:00"
-  },
-  {
-   "id": "44c429961a2e",
-   "titulo": "Governo Lula não vai impor posição sobre fim da reeleição, diz Teresa",
-   "resumo": "A líder do governo Lula no Senado, Teresa Leitão (PT-PE), afirmou nesta terça-feira, 3, que o Planalto não pretende impor uma posição ao Congresso sobre o fim da reeleição. Segundo a senadora, o governo respeita a autonomia do Legislativo p…",
-   "link": "https://oantagonista.com.br/brasil/governo-lula-nao-vai-impor-posicao-sobre-fim-da-reeleicao-diz-teresa/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/teresa-leitao-2.jpg",
-   "data": "2026-11-03T14:21:21-03:00"
-  },
-  {
-   "id": "f09b06f17a00",
-   "titulo": "PEC da Segurança: PL vai manter destaque para reduzir maioridade penal",
-   "resumo": "O líder do PL no Senado, Carlos Portinho (RJ), afirmou nesta terça-feira, 3, que o partido manterá o destaque para tentar incluir a redução da maioridade penal na chamada PEC da Segurança Pública – que é uma das prioridades do governo Lula …",
-   "link": "https://oantagonista.com.br/brasil/pec-da-seguranca-pl-vai-manter-destaque-para-reduzir-maioridade-penal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/02/54338645594_2a5d2f4eda_o-scaled.jpg",
-   "data": "2026-11-03T14:15:36-03:00"
-  },
-  {
-   "id": "14b8e060eaf5",
-   "titulo": "Paes reinicia campanha pelo 2º turno no Rio",
-   "resumo": "O ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) ainda não desistiu de ser governador do estado a partir do ano que vem. Nas redes sociais, ele reiniciou a campanha pela realização do segundo turno, alegando que a disputa jurídica do Rio …",
-   "link": "https://oantagonista.com.br/brasil/paes-reinicia-campanha-pelo-2o-turno-no-rio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/capa-noticia-2133x1200-2.jpg",
-   "data": "2026-11-03T14:13:31-03:00"
-  },
-  {
-   "id": "bb5cbbb9dd7e",
-   "titulo": "Fux contesta críticas e reafirma que bets devem ser banidas",
-   "resumo": "O ministro do Supremo Tribunal Federal (STF) Luiz Fux rebateu, nesta terça-feira, 3, as críticas à escolha dos participantes da audiência pública convocada por ele para discutir a proibição das bets no Brasil. A resposta veio na abertura da…",
-   "link": "https://revistaoeste.com/politica/fux-contesta-criticas-e-reafirma-que-bets-devem-ser-banidas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/55530641256_d77b9a3e4a_o-copiar.jpg",
-   "data": "2026-11-03T14:00:06-03:00"
   },
   {
    "id": "242c4b5b9d82",
@@ -409,60 +580,6 @@
    "data": "2026-11-03T13:50:46-03:00"
   },
   {
-   "id": "05db2102d234",
-   "titulo": "“Carnaval para 10 anos; desenhos bíblicos, para 12”, diz Nikolas",
-   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) anunciou que vai contestar a classificação indicativa de 12 anos atribuída pelo governo do presidente Lula (PT) aos desenhos bíblicos exibidos pela Record Kids. Em publicação nas redes sociais, o …",
-   "link": "https://oantagonista.com.br/brasil/carnaval-para-10-anos-desenhos-biblicos-so-a-partir-dos-12-diz-nikolas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/img20260609173750973.jpeg",
-   "data": "2026-11-03T13:50:17-03:00"
-  },
-  {
-   "id": "3b9291ec0cb5",
-   "titulo": "Crusoé: O que Janja foi fazer no STF?",
-   "resumo": "A primeira-dama Janja (foto) foi ao Supremo Tribunal Federal (STF) nesta terça-feira, 3, participar da audiência pública organizada pela Corte sobre os impactos da proibição das apostas esportivas, as bets, no Brasil. Acompanhada da produto…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-o-que-janja-foi-fazer-no-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55628893497_5a0c0bcbc0_k.jpg",
-   "data": "2026-11-03T13:43:57-03:00"
-  },
-  {
-   "id": "0f109853f8b3",
-   "titulo": "Oposição vai à Justiça Federal contra restrição a desenhos bíblicos",
-   "resumo": "A liderança da oposição na Câmara dos Deputados anunciou nesta terça-feira, 3, que apresentou uma ação popular na Justiça Federal para anular a decisão do Ministério da Justiça que elevou para 12 anos a classificação indicativa do programa …",
-   "link": "https://oantagonista.com.br/brasil/oposicao-vai-a-justica-federal-contra-restricao-a-desenhos-biblicos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/gilberto-silva-2.jpg",
-   "data": "2026-11-03T13:34:59-03:00"
-  },
-  {
-   "id": "78ac0c71eeca",
-   "titulo": "Lula embarca para São Paulo, onde vai fazer exames de rotina nesta terça",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/lula-vai-a-sao-paulo-nesta-terca-para-fazer-exames-de-rotina.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/LmOcziqhD7fmr-iXt36QRwA4au0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/R/SiYR9UTVGK41LGQwv2yw/globo-canal-4-20261027-2000-frame-72775.jpeg",
-   "data": "2026-11-03T13:34:58-03:00"
-  },
-  {
-   "id": "2376413b5b27",
-   "titulo": "Governo quer evitar votação da redução da maioridade penal; líder da oposição no Senado pretende insistir na proposta",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/lider-da-oposicao-no-senado-diz-que-vai-votar-a-favor-da-pec-da-seguranca-mas-insistira-na-reducao-da-maioridade-penal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/g5NtktkGnEF8L6QdhgmWL08hwKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/Zm3CoBTeGAYthJm0HyAw/54990905493-5a72a22219-b.jpg",
-   "data": "2026-11-03T13:23:55-03:00"
-  },
-  {
-   "id": "46acf70875fe",
-   "titulo": "Ministro de Lula diz que governo votará PEC da Segurança sem redução da maioridade penal",
-   "resumo": "O ministro José Guimarães afirmou que o governo Lula votará a PEC da Segurança Pública sem mudanças na maioridade penal",
-   "link": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-diz-que-governo-votara-pec-da-seguranca-sem-reducao-da-maioridade-penal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03130122/55204649732_7082b4cba2_4k-960x540.jpg",
-   "data": "2026-11-03T13:19:16-03:00"
-  },
-  {
    "id": "8776b6c611e4",
    "titulo": "Lula vai a São Paulo para fazer exames médicos",
    "resumo": "Segundo aliados, Lula fará \"exames de rotina\" em São Paulo após a agenda intensa na campanha e para se preparar para viagens internacionais",
@@ -470,78 +587,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/06/o-presidente-luiz-inacio-lula-da-silva-lancamento-do-plano-safra-2026-2027-antes-da-cerimonia-visitou-a-feira-expositora-montada-em-frente-ao-palacio-metropoles-5-scaled.jpeg",
    "data": "2026-11-03T13:18:49-03:00"
-  },
-  {
-   "id": "317a56b1d4bf",
-   "titulo": "Caso Master: pai de Vorcaro apresenta ao presidente do STF novo pedido de liberdade",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/pai-de-vorcaro-faz-novo-pedido-de-liberdade-ao-supremo-tribunal-federal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg",
-   "data": "2026-11-03T12:58:18-03:00"
-  },
-  {
-   "id": "f6e5cda88e31",
-   "titulo": "PEC da Segurança Pública vai ser o primeiro teste de Lula no Congresso após reeleição",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/pec-da-seguranca-publica-vai-ser-o-primeiro-teste-de-lula-no-congresso-apos-reeleicao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/-7ufOiwBaEFDhfPk5iANqtFbx08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/8/AxVfEeRHKDCsYZqjmTcA/2026-10-27t212833z-987645668-rc2xboax4ir7-rtrmadp-3-brazil-election-lula-supporters.jpg",
-   "data": "2026-11-03T12:20:10-03:00"
-  },
-  {
-   "id": "7d469d2564c8",
-   "titulo": "Quem é o criador do Plano Real que incendiou o mercado com proposta para baixar juros “na marra”",
-   "resumo": "Um dos formuladores do Plano Real, André Lara Resende propõe tabelamento da Selic e é defendido por alas do PT",
-   "link": "https://www.gazetadopovo.com.br/economia/perfil-andre-lara-resende-abaixar-juros/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03112502/andre-lara-resende-960x540.jpg",
-   "data": "2026-11-03T12:15:40-03:00"
-  },
-  {
-   "id": "06c41f2972c6",
-   "titulo": "Ministro da Fazenda critica temor do mercado após reeleição de Lula",
-   "resumo": "Durigan questiona temor dos investidores após a reeleição de Lula, em meio à pressão sobre as contas públicas e à desconfiança do mercado.",
-   "link": "https://www.gazetadopovo.com.br/republica/ministro-da-fazenda-critica-temor-do-mercado-apos-reeleicao-de-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/03002052/lula-dario-durigan-1-960x540.jpg",
-   "data": "2026-11-03T12:14:06-03:00"
-  },
-  {
-   "id": "7c8a76ed9ae5",
-   "titulo": "Argumento de Messias contra bets contrasta com tese progressista sobre aborto e drogas",
-   "resumo": "AGU rejeita apelo à clandestinidade usado em debates sobre apostas, mas tese é usada pela esquerda em outros temas. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/argumento-de-messias-contra-bets-contrasta-com-tese-progressista-sobre-aborto-e-drogas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03120002/ASPA-GRANDE-2026-11-03T120008.614-960x540.jpg",
-   "data": "2026-11-03T12:02:15-03:00"
-  },
-  {
-   "id": "7c102a77799f",
-   "titulo": "Fux cita críticas nas redes e diz que STF já discutiu consequências nocivas das bets",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/fux-cita-criticas-nas-redes-e-diz-que-stf-ja-discutiu-consequencias-nocivas-das-bets.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/cv-v4huwfb5SXNPLukdGoVgQePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/B/3r0SHeSs20HqYr8uoHdA/54875467915-3c8f40efd4-k.jpg",
-   "data": "2026-11-03T10:33:30-03:00"
-  },
-  {
-   "id": "b467be8de218",
-   "titulo": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg",
-   "data": "2026-11-03T10:07:50-03:00"
-  },
-  {
-   "id": "cdee00ae32c0",
-   "titulo": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas públicas sem recorrer a 'narrativa fácil'",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/ppm1HTAMp3YCt8xS6-7zbYx0nRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/t/4sBFwdQoa22AJ8iWwfLA/55615784085-00c6cb3c26-k.jpg",
-   "data": "2026-11-03T10:03:47-03:00"
   },
   {
    "id": "c54ff0c849c8",
@@ -650,24 +695,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/presidente-luiz-inacio-lula-da-silva-eleicao-2026-metropoles-17-scaled.jpg",
    "data": "2026-11-01T05:00:49-03:00"
-  },
-  {
-   "id": "3da61965d4b5",
-   "titulo": "Segurança lidera cobranças da população por ações concretas e vira dívida dos eleitos",
-   "resumo": "Municipalização, inteligência, coordenação e asfixia financeira: especialistas apontam prioridades contra violência para os políticos eleitos",
-   "link": "https://www.gazetadopovo.com.br/eleicoes/2026/como-politicos-eleitos-podem-contribuir-para-brasil-mais-seguro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/16134543/brasil-decente-11-960x540.jpg",
-   "data": "2026-10-31T21:05:15-03:00"
-  },
-  {
-   "id": "d741c3fd2284",
-   "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-10-31T18:24:00-03:00"
   }
  ]
 }
