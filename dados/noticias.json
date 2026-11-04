@@ -1,8 +1,188 @@
 {
- "atualizado": "2026-11-03T22:16:02.496323-03:00",
- "total": 77,
+ "atualizado": "2026-11-04T06:01:45.991084-03:00",
+ "total": 79,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "16eb664ca799",
+   "titulo": "49,3% das pequenas empresas priorizam lucro ao reajustar preços",
+   "resumo": "Em seguida, aparecem a manutenção da competitividade (22,1%) e evitar a perda de clientes (17,6%), diz Serasa Experian",
+   "link": "https://www.poder360.com.br/poder-empreendedor/493-das-pequenas-empresas-priorizam-lucro-ao-reajustar-precos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T06:00:57-03:00"
+  },
+  {
+   "id": "e3afc2776bc4",
+   "titulo": "Trump diz que aceitará resultado de eleição, mas posta boné “veto”",
+   "resumo": "Presidente dos EUA sinaliza que usará vetos para governar e minimiza o resultado das eleições: \"Eu não estava na cédula\"",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-aceitara-derrota-mas-posta-bone-com-a-palavra-veto/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/trump-veto-4nov026.png",
+   "data": "2026-11-04T05:11:05-03:00"
+  },
+  {
+   "id": "833f1dcd8a68",
+   "titulo": "Secretário do PT rechaça processo para \"expurgar\" filiados a pedido de Lula",
+   "resumo": "À coluna, secretário de Comunicação disse que PT tem \"instâncias\" e que eventuais erros de filiados serão julgados com devido processo legal",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/secretario-do-pt-rechaca-processo-para-expurgar-filiados-a-pedido-de-lula",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/10/10183100/Eden-Valadares-secretario-comunicacao-PT-Lula-Metropoles.jpg",
+   "data": "2026-11-04T05:00:53-03:00"
+  },
+  {
+   "id": "36fb8faedb72",
+   "titulo": "Lula passa por exames no Sírio Libanês",
+   "resumo": "Boletim divulgado pelo hospital afirma que exames do presidente \"estão dentro da normalidade\"",
+   "link": "https://www.poder360.com.br/poder-governo/lula-passa-por-exames-no-sirio-libanes/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/boletim-medico-lula-3nov2026.png",
+   "data": "2026-11-04T04:16:50-03:00"
+  },
+  {
+   "id": "b30158499fdd",
+   "titulo": "Lula emplaca vitória tripla no Congresso: 6 X 1, Segurança e MEI",
+   "resumo": "Governo avança em pautas trabalhistas, de combate ao crime organizado e de apoio a pequenos negócios; medidas dão fôlego político ao presidente",
+   "link": "https://www.poder360.com.br/poder-governo/lula-emplaca-vitoria-tripla-no-congresso-6-x-1-seguranca-e-mei/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T04:00:26-03:00"
+  },
+  {
+   "id": "184e4dbdcc24",
+   "titulo": "“Talvez tenhamos acreditado demais em pesquisas”, afirma secretário do PT",
+   "resumo": "Secretário de Comunicação do PT, Éden Valadares, avalia que campanha de Lula pode ter superestimado vantagem em pesquisas no primeiro turno",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/talvez-tenhamos-acreditado-demais-em-pesquisas-afirma-secretario-do-pt",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/06/eden-valadares-secretario-nacional-de-comunicacao-do-pt-divulgacao-pt-3.jpeg",
+   "data": "2026-11-04T04:00:00-03:00"
+  },
+  {
+   "id": "3a7a05fc6ee9",
+   "titulo": "Eleitores de Idaho escolhem arma para representar o Estado",
+   "resumo": "Democratas conquistam maioria no Senado e da Câmara dos EUA, impondo derrota ao presidente Donald Trump",
+   "link": "https://www.poder360.com.br/poder-internacional/eleitores-de-idaho-escolhem-arma-para-representar-o-estado/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/X-Idaho-votacao.png",
+   "data": "2026-11-04T03:58:25-03:00"
+  },
+  {
+   "id": "274fd43bef04",
+   "titulo": "Democratas conquistam maioria no Senado e da Câmara dos EUA",
+   "resumo": "Resultado impõe uma derrota ao presidente norte-americano, Donald Trump",
+   "link": "https://www.poder360.com.br/poder-internacional/democratas-retomam-maioria-no-senado-dos-eua-e-impoem-derrota-a-trump/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T02:55:28-03:00"
+  },
+  {
+   "id": "a23a8c40f1a6",
+   "titulo": "Quem queimar largada não será sucessor de Lula, diz secretário do PT",
+   "resumo": "Em entrevista à coluna, secretário de Comunicação do PT disse que quem começar a se articular agora provavelmente não será sucessor de Lula",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/quem-queimar-largada-nao-sera-sucessor-de-lula-diz-secretario-do-pt",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/06/eden-valadares-secretario-nacional-de-comunicacao-do-pt-divulgacao-pt-1.jpeg",
+   "data": "2026-11-04T02:00:51-03:00"
+  },
+  {
+   "id": "06685992b272",
+   "titulo": "Dos EUA, Flávio vota a favor da PEC da Segurança Pública",
+   "resumo": "Senador participou remotamente depois de fugir para os Estados Unidos; votou contra a tramitação em separado das emendas sobre a maioridade penal",
+   "link": "https://www.poder360.com.br/poder-congresso/dos-eua-flavio-vota-a-favor-da-pec-da-seguranca-publica/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T01:17:43-03:00"
+  },
+  {
+   "id": "55fcbba48bf3",
+   "titulo": "Saiba o que muda com a PEC da Segurança Pública",
+   "resumo": "Texto reestrutura combate ao crime organizado, constitucionaliza o Susp e amplia a atuação da Polícia Rodoviária Federal",
+   "link": "https://www.poder360.com.br/poder-congresso/saiba-o-que-muda-com-a-pec-da-seguranca-publica/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/o-que-muda-com-a-Pec-da-Seguranca-4-nov-2026.jpg",
+   "data": "2026-11-04T01:01:15-03:00"
+  },
+  {
+   "id": "045c713fda3f",
+   "titulo": "PT e PL negociam texto comum para reduzir maioridade penal",
+   "resumo": "Senador aliado de Lula sugeriu manobra para acelerar análise de propostas que tratam do tema; para isso, governo e oposição precisam entrar em acordo e apresentar 1 único texto",
+   "link": "https://www.poder360.com.br/poder-congresso/pt-e-pl-negociam-texto-comum-para-reduzir-maioridade-penal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T00:33:05-03:00"
+  },
+  {
+   "id": "e4885c3d7c60",
+   "titulo": "A onda de protestos pela Europa e a crise do custo de vida - O Assunto #1838",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/04/a-onda-de-protestos-pela-europa-e-a-crise-do-custo-de-vida-o-assunto-1838.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/198WHSUvoDPoT7vNGWXyyBAtfNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/AnaUPfSO6jxnKDSLgYvQ/2026-10-31t162403z-754229702-rc2geoag67ek-rtrmadp-3-france-protest.jpg",
+   "data": "2026-11-04T00:30:00-03:00"
+  },
+  {
+   "id": "6c027b85c97e",
+   "titulo": "Com mercado dividido após reeleição de Lula, BC decide nesta quarta entre novo corte ou manutenção da taxa de juros",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/04/com-mercado-dividido-apos-reeleicao-de-lula-bc-decide-nesta-quarta-entre-novo-corte-ou-manutencao-da-taxa-de-juros.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/fwFB8-hQOTFpOo3u2HxFfm0AKFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/T/Bt61UOQ7WYpnlzGMj07Q/globo-canal-4-20260327-2000-frame-98859.jpeg",
+   "data": "2026-11-04T00:00:01-03:00"
+  },
+  {
+   "id": "88fd3705dea6",
+   "titulo": "Em acordo, Senado tentará votar redução da maioridade penal ainda nesta semana",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/04/em-acordo-senado-tentara-votar-reducao-da-maioridade-penal-ainda-nesta-semana.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/hSWM__7Sk8uw5I-5Isqal7YCMwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/D/X46BXWRDu5GBtRQnjATg/55630660960-279b9cd611-4k.jpg",
+   "data": "2026-11-04T00:00:01-03:00"
+  },
+  {
+   "id": "540d9e6b10a8",
+   "titulo": "Show do BTS em SP bate recorde de bilheteria nos cinemas brasileiros",
+   "resumo": "Exibição reuniu 243 mil espectadores e arrecadou R$ 9,96 milhões, tornando-se a maior estreia de um evento especial no país",
+   "link": "https://www.poder360.com.br/poder-midia/show-do-bts-em-sp-bate-recorde-de-bilheteria-nos-cinemas-brasileiros/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/bts-arirang-tour-2-nov-2026.png",
+   "data": "2026-11-03T23:56:35-03:00"
+  },
+  {
+   "id": "e4e88900bde1",
+   "titulo": "Governo Lula nega acesso a documentos sobre Desenrola e fim das bets",
+   "resumo": "O governo do presidente Luiz Inácio Lula da Silva negou acesso aos documentos que fundamentaram a criação do Desenrola 3.0 e a proibição das casas de apostas esportivas, conhecidas como bets . As duas medidas foram anunciadas em 25 de setem…",
+   "link": "https://revistaoeste.com/politica/governo-lula-nega-acesso-a-documentos-sobre-desenrola-e-fim-das-bets/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/lula-3.jpg",
+   "data": "2026-11-03T23:30:53-03:00"
+  },
+  {
+   "id": "ef8cd67dda26",
+   "titulo": "Senado aprova plano federal para reforçar combate ao crime organizado no Brasil",
+   "resumo": "O Senado aprovou a PEC da Segurança Pública que endurece penas contra facções e amplia o papel da PF e PRF. Saiba o que muda no combate ao crime organizado.",
+   "link": "https://www.gazetadopovo.com.br/republica/senado-aprova-plano-federal-para-reforcar-combate-ao-crime-organizado-no-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03230828/alcolumbre-camilo-marinho-1-960x540.jpg",
+   "data": "2026-11-03T23:08:25-03:00"
+  },
+  {
+   "id": "5a8183fac757",
+   "titulo": "Eduardo Paes retoma campanha por 2º turno no Rio de Janeiro",
+   "resumo": "O ex-prefeito do Rio de Janeiro Eduardo Paes (PSD) anunciou nesta terça-feira, 3, que vai mobilizar apoiadores para pedir a realização de um segundo turno na eleição para o governo fluminense. A iniciativa contesta a decisão do Tribunal Sup…",
+   "link": "https://revistaoeste.com/politica/eduardo-paes-retoma-campanha-por-2o-turno-no-rio-de-janeiro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/07/eduardo-paes-brics-rio-de-janeiro.jpg",
+   "data": "2026-11-03T22:41:39-03:00"
+  },
+  {
+   "id": "256db4638219",
+   "titulo": "Jon Ossoff derrota aliado de Trump e mantém cadeira no Senado pela Geórgia",
+   "resumo": "O senador democrata Jon Ossoff, da Geórgia, derrotou o republicano Mike Collins e manteve seu assento no Senado nesta terça-feira, 3. O resultado é apontado pelas principais emissoras americanas: CNN, NBC News e CBS News. Aos 39 anos, Ossof…",
+   "link": "https://oantagonista.com.br/brasil/jon-ossoff-derrota-aliado-de-trump-e-mantem-cadeira-no-senado-pela-georgia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-03-222133-1.png",
+   "data": "2026-11-03T22:22:40-03:00"
+  },
   {
    "id": "a888537a06c0",
    "titulo": "Senado aprova PEC da Segurança Pública sem a redução da maioridade penal",
@@ -40,15 +220,6 @@
    "data": "2026-11-03T21:40:51-03:00"
   },
   {
-   "id": "b9cbcf8b5da2",
-   "titulo": "Com aprovação da PEC da Segurança, Lula diz que criará ministério",
-   "resumo": "Texto foi apresentado pelo ex-ministro da Justiça Ricardo Lewandowski e aprovado nesta 3ª feira (3.nov) pelo Senado",
-   "link": "https://www.poder360.com.br/poder-governo/com-aprovacao-da-pec-da-seguranca-lula-diz-que-criara-ministerio/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-pec-seguranca-x.png",
-   "data": "2026-11-03T21:38:55-03:00"
-  },
-  {
    "id": "c15394ef41dd",
    "titulo": "Nikolas defende candidatura própria do PL à Presidência da Câmara",
    "resumo": "O deputado federal reeleito Nikolas Ferreira (PL-MG) defendeu nesta terça-feira, 3, que o PL lance uma candidatura própria à Presidência da Câmara dos Deputados. Nikolas argumentou que a sigla não deve abrir mão de sua identidade ideológica…",
@@ -65,15 +236,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Edinho-Silva_presidente-do-PT.jpeg",
    "data": "2026-11-03T21:18:17-03:00"
-  },
-  {
-   "id": "e936a987513a",
-   "titulo": "Justiça de SP proíbe Meta de usar conteúdo jornalístico para treinar IA",
-   "resumo": "Liminar fixa multa diária de R$ 1 milhão em caso de descumprimento e determina manutenção dos perfis dos veículos nas plataformas",
-   "link": "https://www.poder360.com.br/poder-justica/justica-de-sp-proibe-meta-de-usar-conteudo-jornalistico-para-treinar-ia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T21:17:19-03:00"
   },
   {
    "id": "2273e4b349b2",
@@ -112,15 +274,6 @@
    "data": "2026-11-03T21:09:27-03:00"
   },
   {
-   "id": "7513e0c798ba",
-   "titulo": "Janones defende Marina Ruy Barbosa na redes sociais após críticas",
-   "resumo": "Deputado saiu em defesa da atriz depois de repercussão de críticas por posicionamento nas eleições de 2026",
-   "link": "https://www.poder360.com.br/poder-gente/janones-defende-marina-ruy-barbosa-na-redes-sociais-apos-ataques/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-03-11-2026-as-19.02.jpeg",
-   "data": "2026-11-03T21:03:53-03:00"
-  },
-  {
    "id": "a5f9ebd1c813",
    "titulo": "Quarto mandato de Lula começa sob risco de crise de crédito por dívida crescente",
    "resumo": "Contas do governo em caos: crise de crédito pode encarecer financiamentos, dificultar empréstimos e pesar no bolso das famílias.",
@@ -128,24 +281,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/29145234/crise-de-credito-lula-reeleito-brasilia-960x540.jpg",
    "data": "2026-11-03T21:00:00-03:00"
-  },
-  {
-   "id": "0a63cda31809",
-   "titulo": "Gabrielli diz ser contra limitar juros, mas elogia André Lara Resende",
-   "resumo": "Coordenador do programa de governo Lula negou defender redução de 13,75% para 7,5% em 12 meses, mas disse ser favorável à criação do conselho fiscal e monetário proposto por Lara Resende",
-   "link": "https://www.poder360.com.br/poder-economia/sergio-gabrielli-diz-ser-contra-limitar-juros-mas-elogia-andre-lara-resende/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T20:55:46-03:00"
-  },
-  {
-   "id": "925e42482359",
-   "titulo": "Aprovados dos Bombeiros cobram liberação de vagas pela Fazenda",
-   "resumo": "Grupo pede despacho para ampliar de 120 para 356 as incorporações em 2026; documento ainda depende de outras etapas",
-   "link": "https://www.poder360.com.br/poder-economia/aprovados-dos-bombeiros-cobram-liberacao-de-vagas-pela-fazenda/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T20:43:06-03:00"
   },
   {
    "id": "8000957e30d4",
@@ -175,15 +310,6 @@
    "data": "2026-11-03T20:36:00-03:00"
   },
   {
-   "id": "e44e8bbf447c",
-   "titulo": "Marinho vê “precedente perigoso” na retirada da redução da maioridade penal",
-   "resumo": "Senador critica manobra regimental que excluiu o tema da PEC da Segurança Pública; proposta foi aprovada por unanimidade nos 2 turnos",
-   "link": "https://www.poder360.com.br/poder-congresso/marinho-ve-precedente-perigoso-na-retirada-da-reducao-da-maioridade-penal/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T20:28:04-03:00"
-  },
-  {
    "id": "4a3e91da12fc",
    "titulo": "Alcolumbre promete votar redução da maioridade penal após decisão da Câmara",
    "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), afirmou nesta terça-feira, 3, que a Casa votará a redução da maioridade penal um dia após a Câmara dos Deputados deliberar sobre uma proposta que trata do assunto. O anúncio foi feito após…",
@@ -200,33 +326,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-03_201932_oglobo.globo_.com-1.png",
    "data": "2026-11-03T20:20:41-03:00"
-  },
-  {
-   "id": "19a2409bf530",
-   "titulo": "Novo terá candidatura própria à presidência da Câmara, diz Van Hattem",
-   "resumo": "Para a presidência do Senado, deputado afirmou que partido apoiará Rogério Marinho",
-   "link": "https://www.poder360.com.br/poder-congresso/novo-tera-candidatura-propria-a-presidencia-da-camara-diz-van-hattem/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/B_8LrnByrVk/hqdefault.jpg",
-   "data": "2026-11-03T20:16:37-03:00"
-  },
-  {
-   "id": "23d13af0c54e",
-   "titulo": "Governo volta atrás e libera “Desenhos Bíblicos” para todas as idades",
-   "resumo": "Ministério da Justiça havia atribuído classificação de 12 anos à produção da “Record” e recomendado exibição após as 20h",
-   "link": "https://www.poder360.com.br/poder-governo/governo-volta-atras-e-libera-desenhos-biblicos-para-todas-as-idades/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T20:13:11-03:00"
-  },
-  {
-   "id": "a8b9874a5ca7",
-   "titulo": "Lula força retirada da proposta para reduzir maioridade penal",
-   "resumo": "Encaminhamento passou por 38 a 36 votos –um placar apertado, mas uma vitória do Palácio do Planalto; PEC foi aprovada em 2 turnos",
-   "link": "https://www.poder360.com.br/poder-congresso/senado-retira-reducao-da-maioridade-penal-da-pec-da-seguranca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T20:03:59-03:00"
   },
   {
    "id": "2468a7b13a02",
@@ -283,18 +382,9 @@
    "data": "2026-11-03T19:38:06-03:00"
   },
   {
-   "id": "28e073c0d3a7",
-   "titulo": "Saiba o que disseram ministros de Lula em audiência sobre bets no STF",
-   "resumo": "Jorge Messias, Wellington Lima e Silva e Alexandre Padilha participaram da sessão e defenderam medida que proibiu apostas no Brasil",
-   "link": "https://www.poder360.com.br/poder-governo/saiba-o-que-disseram-ministros-de-lula-em-audiencia-sobre-bets-no-stf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-03T19:37:15-03:00"
-  },
-  {
    "id": "2775e1d57c3c",
    "titulo": "Senado aprova PEC da Segurança sem maioridade de 14 anos e dá vitória a Lula",
-   "resumo": "O Senado aprovou nesta terça-feira, 3, em dois turnos, a chamada PEC da Segurança Pública, uma das prioridades do governo Lula (PT) no Congresso. A aprovação representa uma primeira vitória do Planalto, que mobilizou seus líderes ao longo d…",
+   "resumo": "O Senado aprovou nesta terça-feira, 3, em dois turnos, a chamada PEC da Segurança Pública, uma das prioridades do governo Lula (PT) no Congresso. A aprovação representa uma vitória do Planalto, que mobilizou seus líderes ao longo do dia par…",
    "link": "https://oantagonista.com.br/brasil/senado-aprova-pec-da-seguranca-sem-maioridade-de-14-anos-e-da-vitoria-a-lula/",
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/senado-federal-2-1.jpg",
@@ -418,15 +508,6 @@
    "data": "2026-11-03T18:24:07-03:00"
   },
   {
-   "id": "c5d847af6ad8",
-   "titulo": "Senador alerta para ‘ditadura do Judiciário’ e cobra STF para destravar dosimetria",
-   "resumo": "O líder do MDB no Senado, Eduardo Braga (AM), cobrou nesta terça-feira, 3, uma solução do Supremo Tribunal Federal (STF) para o impasse sobre a Lei da Dosimetria, aprovada pelo Congresso Nacional. Durante a votação da Proposta de Emenda à C…",
-   "link": "https://revistaoeste.com/politica/senador-alerta-para-ditadura-do-judiciario-e-cobra-stf-para-destravar-dosimetria/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/eduardobraga-mdbam.jpg",
-   "data": "2026-11-03T18:10:45-03:00"
-  },
-  {
    "id": "e6c0c3997978",
    "titulo": "Fux defende banimento das apostas online",
    "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), se manifestou nesta terça-feira, 3, de forma contrária às plataformas de apostas online, as bets, e defendeu que elas sejam banidas do país. Fux é relator no Supremo de várias ações so…",
@@ -434,15 +515,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55549422900_2901aba5d8_4k-scaled-e1790675608729.jpg",
    "data": "2026-11-03T18:09:54-03:00"
-  },
-  {
-   "id": "474753b33173",
-   "titulo": "Tereza Cristina mantém candidatura ao Senado e busca dissidentes",
-   "resumo": "A senadora Tereza Cristina (PP-MS) mantém a candidatura à presidência do Senado e busca ampliar o apoio entre integrantes do Centrão e dissidentes do PL. A ex-ministra da Agricultura pretende enfrentar a reeleição de Davi Alcolumbre (União-…",
-   "link": "https://revistaoeste.com/politica/tereza-cristina-mantem-candidatura-ao-senado-e-busca-dissidentes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/Tereza-Crstina_Senado.jpeg",
-   "data": "2026-11-03T18:09:21-03:00"
   },
   {
    "id": "7d6b77c69a3a",
@@ -482,21 +554,12 @@
   },
   {
    "id": "2a5bff4bc5df",
-   "titulo": "PEC da Segurança: relator rejeita redução da maioridade penal",
-   "resumo": "O relator da chamada PEC da Segurança Pública, senador Rogério Carvalho (PT-SE), apresentou nesta terça-feira, 3, parecer sobre o texto em que rejeita as emendas sugeridas em plenário para redução da maioridade penal. O petista acatou o ped…",
+   "titulo": "PEC da Segurança: relator rejeita incluir redução da maioridade penal",
+   "resumo": "O relator da chamada PEC da Segurança Pública, senador Rogério Carvalho (PT-SE), apresentou nesta terça-feira, 3, parecer sobre as emendas de plenário em que propôs retirar da proposta o debate sobre a redução da maioridade penal e fazê-lo …",
    "link": "https://oantagonista.com.br/brasil/pec-da-seguranca-relator-rejeita-reducao-da-maioridade-penal/",
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2024/03/53596877297_f0172880f6_o-scaled.jpg",
    "data": "2026-11-03T17:09:06-03:00"
-  },
-  {
-   "id": "02499daf382e",
-   "titulo": "Crusoé: Vorcaro buscou “BO contra jornalista” de Crusoé, revela mensagem",
-   "resumo": "O banqueiro Daniel Vorcaro (ilustração) solicitou informações de um jornalista da revista Crusoé e do publisher Pedro Cerize, no dia 5 de abril de 2025. A mensagem, divulgada nesta terça, 3, pelo site MasterWhats, foi enviada para a superin…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-vorcaro-buscou-bo-contra-jornalista-de-crusoe-revela-mensagem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/vorcaro-chatgp.webp",
-   "data": "2026-11-03T16:53:34-03:00"
   },
   {
    "id": "9154c7c82ac1",
@@ -542,42 +605,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-03T15:48:00-03:00"
-  },
-  {
-   "id": "fffb6fc1d1d7",
-   "titulo": "Fux defende banimento das bets e aponta desafios jurídicos para a proibição no Brasil",
-   "resumo": "Luiz Fux defendeu o banimento das bets no Brasil. O governo Lula regulamentou o setor, arrecadou bilhões e depois proibiu a atividade.",
-   "link": "https://www.gazetadopovo.com.br/republica/fux-diz-que-bets-devem-ser-banidas-e-defende-proibicao-das-apostas-no-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/29160838/luiz-fux-decisao-aparecida-dois-1-960x540.jpg",
-   "data": "2026-11-03T15:42:48-03:00"
-  },
-  {
-   "id": "426a414ea93b",
-   "titulo": "Alcolumbre escolhe aliado para relatoria do Orçamento em meio à articulação pela reeleição no Senado",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/alcolumbre-escolhe-aliado-para-relatoria-do-orcamento-em-meio-a-articulacao-pela-reeleicao-no-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/SDn5k8tw1x8TqBSSBhYRq23Fr84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/v/araiNiTqCMoUZgIwahJQ/eduardo-braga-chegada.jpeg",
-   "data": "2026-11-03T15:11:46-03:00"
-  },
-  {
-   "id": "f114c04ec513",
-   "titulo": "Cadastro eleitoral reaberto: eleitores podem mudar local de votação e solicitar outros serviços; veja como",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/03/cadastro-eleitoral-reaberto-eleitores-podem-mudar-local-de-votacao-e-solicitar-outros-servicos-veja-como.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/tdDfZz_u5OvAojQQpESUo6OJd5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/L/UcZjeSSB68BqG1jZMYRw/edicao-imagens-g1-63-.jpg",
-   "data": "2026-11-03T14:56:21-03:00"
-  },
-  {
-   "id": "242c4b5b9d82",
-   "titulo": "Lula viaja a São Paulo para fazer exames de rotina",
-   "resumo": "",
-   "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/03/lula-viaja-a-sao-paulo-para-fazer-exames-de-rotina.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/iDb809KjWhLDH1YC_2jMUEPbpIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/l/48OF7ORuqFpIjDJjYF3w/2026-10-26t054432z-137283973-rc2raoapbzm3-rtrmadp-3-brazil-election.jpg",
-   "data": "2026-11-03T13:50:46-03:00"
   },
   {
    "id": "8776b6c611e4",
@@ -686,15 +713,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/lula-andre-janones-1.jpg",
    "data": "2026-11-01T07:00:55-03:00"
-  },
-  {
-   "id": "d8f35b76fc98",
-   "titulo": "PP e União Brasil sugerem nomes para novo governo Lula",
-   "resumo": "Caciques do União Brasil e do PP fizeram chegar ao Palácio do Planalto algumas \"sugestões\" de nomes que poderiam compor o governo Lula",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/pp-e-uniao-brasil-sugerem-ao-planalto-nomes-para-novo-governo-lula",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/presidente-luiz-inacio-lula-da-silva-eleicao-2026-metropoles-17-scaled.jpg",
-   "data": "2026-11-01T05:00:49-03:00"
   }
  ]
 }
