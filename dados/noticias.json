@@ -1,8 +1,233 @@
 {
- "atualizado": "2026-11-04T20:35:23.149347-03:00",
+ "atualizado": "2026-11-05T03:33:45.870093-03:00",
  "total": 79,
  "fontes_com_falha": [],
  "noticias": [
+  {
+   "id": "068428e91ef6",
+   "titulo": "Heineken acerta compra da Better Drinks, dona da Praya e Baer-Mate",
+   "resumo": "Grupo terá todas as ações com direito a voto da empresa brasileira; operação inclui 5 marcas e depende de aprovação do Cade",
+   "link": "https://www.poder360.com.br/poder-economia/heineken-acerta-compra-da-better-drinks-dona-da-praya-e-baer-mate/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-05T03:24:48-03:00"
+  },
+  {
+   "id": "a109628321f9",
+   "titulo": "Fim da escala 6x1: O que fazer se a empresa não respeitar a nova jornada? Veja como denunciar",
+   "resumo": "",
+   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/05/fim-da-escala-6x1-veja-como-denunciar-empresa-que-nao-respeitar-a-nova-jornada.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/iDgMky_sAG7Tjfr2XFEUgOwt1O8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/M/M1g0FkRfy9pBkWjxIT4Q/2.png",
+   "data": "2026-11-05T03:00:00-03:00"
+  },
+  {
+   "id": "2af6f9332860",
+   "titulo": "Com Tereza no páreo, aliada articula reunião de Alcolumbre com senadoras",
+   "resumo": "Objetivo da reunião é aproximar bancada feminina de Alcolumbre, que tentará reeleição no Senado tendo Tereza Cristina como adversária",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/com-tereza-no-pareo-aliada-articula-reuniao-de-alcolumbre-com-senadoras",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-29-at-185857-e1777518608109.jpeg",
+   "data": "2026-11-05T02:00:56-03:00"
+  },
+  {
+   "id": "ffc2cab65385",
+   "titulo": "Derrota parlamentar de Trump preserva alianças com a direita brasileira",
+   "resumo": "Apesar da vitória democrata no Congresso dos EUA, Donald Trump mantém apoio à direita brasileira e situação dos Bolsonaro no país não muda.",
+   "link": "https://www.gazetadopovo.com.br/republica/derrota-parlamentar-de-trump-preserva-aliancas-com-a-direita-brasileira/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/05011112/5a85f0d29045e7c25e193ebdb26876f1da513e96-960x540.jpg",
+   "data": "2026-11-05T01:10:56-03:00"
+  },
+  {
+   "id": "5dd6254ba1bd",
+   "titulo": "Fachin pede manifestações da PGR sobre indiciamento de Vorcaro e caso Dark Horse",
+   "resumo": "Fachin dá 15 dias para que PGR se manifeste sobre indiciamentos do caso Master e prorrogação das investigações do filme Dark Horse.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-pede-manifestacoes-da-pgr-sobre-indiciamento-de-vorcaro-e-caso-dark-horse/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/05003402/fachin-stf-960x540.jpg",
+   "data": "2026-11-05T00:36:23-03:00"
+  },
+  {
+   "id": "a1f7409623af",
+   "titulo": "IBJR critica proibição de bets e pede segurança jurídica no STF",
+   "resumo": "Organização diz que restrição pode ampliar mercado ilegal; audiência no Supremo discutiu efeitos econômicos e sociais da medida",
+   "link": "https://www.poder360.com.br/poder-justica/ibjr-critica-proibicao-de-bets-e-pede-seguranca-juridica-no-stf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-05T00:06:55-03:00"
+  },
+  {
+   "id": "1913e71b5810",
+   "titulo": "Alcolumbre diz que Senado avaliará se Flávio Bolsonaro pode votar dos EUA",
+   "resumo": "Randolfe Rodrigues questionou se Flávio Bolsonaro comunicou oficialmente ao Senado sua mudança para os Estados Unidos.",
+   "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-diz-que-senado-avaliara-se-flavio-bolsonaro-pode-votar-dos-eua/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/05000504/alcolumbre-1-960x540.jpg",
+   "data": "2026-11-05T00:06:27-03:00"
+  },
+  {
+   "id": "ca420050f78e",
+   "titulo": "Oito anos após criação do 'SUS da Segurança', crime organizado avançou; entenda os desafios da nova política para o setor",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/05/oito-anos-apos-criacao-do-sus-da-seguranca-crime-organizado-avancou-entenda-os-desafios-da-nova-politica-para-o-setor.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/KbWLP26jGlWWEnw_6Uu1bSx_RhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/2f4DY2QrWCpmXoGqbBlw/mortes-violentas.jpg",
+   "data": "2026-11-05T00:00:01-03:00"
+  },
+  {
+   "id": "8408fef16d01",
+   "titulo": "Trama golpista: STM deve julgar em 2027 perda de patente de Bolsonaro e generais; MP pediu há nove meses",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/05/trama-golpista-stm-deve-julgar-em-2027-perda-de-patente-de-bolsonaro-e-generais-mp-pediu-ha-nove-meses.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/6t9Pm7dk0GqwDKMB-CX5bmGrkf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/S/c/QbLv9ER06ng8DfdBNi9w/cdg20190418032-b.jpg",
+   "data": "2026-11-05T00:00:00-03:00"
+  },
+  {
+   "id": "b3705e916abb",
+   "titulo": "Nikolas critica Janja por montagem do Cristo e da Estátua da Liberdade",
+   "resumo": "Deputado ironizou imagem que mostra monumentos brasileiro e norte-americano fazendo o gesto de “L”, símbolo de Lula",
+   "link": "https://www.poder360.com.br/poder-congresso/nikolas-critica-janja-por-montagem-do-cristo-e-da-estatua-da-liberdade/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-04-11-2026-as-18.02.jpeg",
+   "data": "2026-11-04T23:45:11-03:00"
+  },
+  {
+   "id": "763f604e43e5",
+   "titulo": "Concessionária de nova linha do metrô em SP faz mutirão de contratação",
+   "resumo": "Seleção será no sábado (7.nov), na Água Branca, em São Paulo; aprovados poderão fazer exame admissional no mesmo dia",
+   "link": "https://www.poder360.com.br/poder-brasil/concessionaria-de-nova-linha-do-metro-em-sp-faz-mutirao-de-contratacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T23:25:52-03:00"
+  },
+  {
+   "id": "0986922b4814",
+   "titulo": "Dólar cai a R$ 5,45 e Ibovespa recupera os 167 mil pontos",
+   "resumo": "Alívio externo após eleições nos EUA impulsiona ativos de risco",
+   "link": "https://www.poder360.com.br/poder-economia/dolar-cai-a-r-545-e-ibovespa-recupera-os-167-mil-pontos/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-4-nov-2026-01-1-scaled.png",
+   "data": "2026-11-04T23:10:51-03:00"
+  },
+  {
+   "id": "6c066f89e2de",
+   "titulo": "Procuradoria cita Lula para defender pagamentos do PL a Bolsonaro",
+   "resumo": "O Ministério Público Federal (MPF) manifestou-se contra uma ação popular que questiona os pagamentos feitos pelo Partido Liberal (PL) ao ex-presidente Jair Bolsonaro (PL) pelo exercício da função de presidente de honra da legenda. Para defe…",
+   "link": "https://revistaoeste.com/politica/procuradoria-cita-lula-para-defender-pagamentos-do-pl-a-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Lula-e-Bolsonaro_MPF.jpeg",
+   "data": "2026-11-04T23:07:02-03:00"
+  },
+  {
+   "id": "1bf6a113f71e",
+   "titulo": "Governo federal transfere hidrovia do São Francisco para a Bahia",
+   "resumo": "Companhia das Docas baiana assume a gestão da via, que receberá R$ 300 milhões em aportes federais em 9 anos",
+   "link": "https://www.poder360.com.br/poder-infra/governo-federal-transfere-hidrovia-do-sao-francisco-para-a-bahia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T22:58:54-03:00"
+  },
+  {
+   "id": "3c85dae561ef",
+   "titulo": "Brasil leva à OEA debate sobre interferência estrangeira na informação",
+   "resumo": "Governo Lula defende cooperação entre países para identificar manipulações digitais e cita episódios das eleições de 2026",
+   "link": "https://www.poder360.com.br/poder-governo/brasil-leva-a-oea-debate-sobre-interferencia-estrangeira-na-informacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T22:58:20-03:00"
+  },
+  {
+   "id": "c2ade6c1ef8b",
+   "titulo": "Alcolumbre rebate oposição: “No 1º turno a urna prestou e no 2º não?”",
+   "resumo": "Presidente do Senado defendeu sistema eleitoral e criticou políticos que, segundo ele, \"ganharam a eleição ofendendo e agredindo as pessoas”",
+   "link": "https://www.poder360.com.br/poder-congresso/alcolumbre-rebate-oposicao-no-1o-turno-a-urna-prestou-e-no-2o-nao/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/HiqYvQ9b4CM/hqdefault.jpg",
+   "data": "2026-11-04T22:56:14-03:00"
+  },
+  {
+   "id": "66d5e81a3c23",
+   "titulo": "Lula faz a 1ª reunião do conselho de minerais críticos na 5ª feira",
+   "resumo": "Colegiado vinculado ao Planalto discute lista nacional das substâncias prioritárias e planos para industrializar o setor",
+   "link": "https://www.poder360.com.br/poder-governo/lula-faz-a-1a-reuniao-do-conselho-de-minerais-criticos-na-5a-feira/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T22:44:21-03:00"
+  },
+  {
+   "id": "697ef73f85e0",
+   "titulo": "Com derrota republicana, presidente da Câmara dos EUA deixará liderança",
+   "resumo": "Segundo agências de notícias, Mike Johnson não disputará comando da minoria depois de democratas conquistarem maioria nas duas Casas do Congresso",
+   "link": "https://www.poder360.com.br/poder-internacional/com-derrota-republicana-presidente-da-camara-dos-eua-deixara-lideranca/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-04T22:42:13-03:00"
+  },
+  {
+   "id": "cdc84b610ab1",
+   "titulo": "Direita aposta na exposição de votos no Senado para derrotar aliança entre Alcolumbre, Lula e Moraes",
+   "resumo": "Rogério Marinho, candidato da direita à Presidência do Senado, defende a revelação do voto para prevenir traições. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/direita-aposta-na-exposicao-de-votos-no-senado-para-derrotar-alianca-entre-alcolumbre-lula-e-moraes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/10215134/a9790de0-735e-11e9-808a-00505697492c-wp-960x540.jpg",
+   "data": "2026-11-04T21:20:00-03:00"
+  },
+  {
+   "id": "960210ce1105",
+   "titulo": "Alcolumbre atende Motta e adia votação da redução da maioridade penal no Senado",
+   "resumo": "Alcolumbre afirma que a Câmara já está à frente na discussão do tema e defende alinhamento entre as duas Casas.",
+   "link": "https://www.gazetadopovo.com.br/republica/apos-conversa-com-motta-alcolumbre-adia-votacao-da-reducao-da-maioridade-penal-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/04171206/alcolumbre-960x540.jpg",
+   "data": "2026-11-04T21:13:30-03:00"
+  },
+  {
+   "id": "0b317ec6a287",
+   "titulo": "Revés de Trump no Congresso não altera situação dos Bolsonaro nos EUA nem apoio à direita brasileira",
+   "resumo": "Vitória dos democratas na Câmara e no Senado limita o governo do republicano Donald Trump, mas não tira apoio americano à direita brasileira.",
+   "link": "https://www.gazetadopovo.com.br/republica/reves-de-trump-no-congresso-nao-altera-situacao-dos-bolsonaro-nos-eua-nem-apoio-a-direita-brasileira/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/01170652/5a85f0d29045e7c25e193ebdb26876f1da513e96-960x540.jpg",
+   "data": "2026-11-04T21:10:07-03:00"
+  },
+  {
+   "id": "07e944684730",
+   "titulo": "Após cobrança de líder do PL, Alcolumbre dispara contra oposição",
+   "resumo": "Portinho cobrou Alcolumbre pelo cumprimento do acordo para votar a redução da maioridade penal: \"homem cumpre a palavra\".",
+   "link": "https://www.gazetadopovo.com.br/republica/apos-cobranca-de-lider-do-pl-alcolumbre-dispara-contra-oposicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/04204748/alcolumbre-portinho-960x540.jpg",
+   "data": "2026-11-04T21:05:04-03:00"
+  },
+  {
+   "id": "cc1bb48e1f32",
+   "titulo": "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-04T20:54:00-03:00"
+  },
+  {
+   "id": "b08b9ff11ab4",
+   "titulo": "Carlos relata melhora de Jair Bolsonaro",
+   "resumo": "Carlos Bolsonaro, senador eleito pelo PL de Santa Catarina, afirmou que o pai, o ex-presidente Jair Bolsonaro, está mais forte e apresentou melhora durante a visita que fez a ele nesta quarta-feira, 4. Em vídeo publicado no X, Carlos disse …",
+   "link": "https://revistaoeste.com/politica/carlos-relata-melhora-de-jair-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/carlos-pl.jpeg",
+   "data": "2026-11-04T20:42:58-03:00"
+  },
+  {
+   "id": "cb913284deee",
+   "titulo": "Dino pede informações a Fachin para analisar pedidos para anular votos de Barroso e Rosa Weber em julgamento sobre aborto",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/04/dino-pede-informacoes-a-fachin-para-analisar-pedidos-para-anular-votos-de-barroso-e-rosa-weber-em-julgamento-sobre-aborto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/KC4qwCvEErqZUoEVcZLM72Ls3Ps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/79yCu2RACqJOM0RUeJBA/ministro-do-stf-flavio-dino.jpg",
+   "data": "2026-11-04T20:36:15-03:00"
+  },
   {
    "id": "50cbbebfe690",
    "titulo": "Artistas querem Jean Wyllys na Secretaria de Cultura da Bahia",
@@ -13,15 +238,6 @@
    "data": "2026-11-04T20:34:26-03:00"
   },
   {
-   "id": "6416f5f7d080",
-   "titulo": "Após recusa de Tereza Cristina, Eduardo Gomes será relator da LDO",
-   "resumo": "Senador do PL foi escolhido por líderes nesta 4ª feira; senadora recusou o convite para se dedicar à candidatura à presidência do Senado",
-   "link": "https://www.poder360.com.br/poder-congresso/apos-recusa-de-tereza-cristina-eduardo-gomes-sera-relator-da-ldo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T20:24:28-03:00"
-  },
-  {
    "id": "84bff78a3d36",
    "titulo": "Damares Alves nega que se filiará ao PL após declaração de Valdemar: 'Nunca'",
    "resumo": "",
@@ -29,24 +245,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/BGTxcBbP6_UF4tQizyt5DCNC9Ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/x/bWRGejTDadoG10HvChLg/whatsapp-image-2020-05-27-at-15.03.12.jpeg",
    "data": "2026-11-04T20:21:21-03:00"
-  },
-  {
-   "id": "77c795092e84",
-   "titulo": "Mercado vê Selic em 13,75% até 2027 após decisão do Copom",
-   "resumo": "Analistas apontam piora da inflação e risco fiscal como obstáculos à retomada dos cortes de juros",
-   "link": "https://www.poder360.com.br/poder-economia/mercado-ve-selic-em-1375-ate-2027-apos-decisao-do-copom/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/selic-historico-real-nominal-4nov2026-scaled.png",
-   "data": "2026-11-04T20:14:33-03:00"
-  },
-  {
-   "id": "113726931266",
-   "titulo": "Zambelli diz que plataforma cancelou vaquinha e pede novas doações",
-   "resumo": "Ex-deputada afirma que assinantes foram reembolsados e busca recursos para custear despesas na Itália, onde aguarda decisão sobre extradição",
-   "link": "https://www.poder360.com.br/poder-internacional/zambelli-diz-que-plataforma-cancelou-vaquinha-e-pede-novas-doacoes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T20:07:28-03:00"
   },
   {
    "id": "f8405ca60000",
@@ -85,33 +283,6 @@
    "data": "2026-11-04T19:48:49-03:00"
   },
   {
-   "id": "f0ea492cebb3",
-   "titulo": "Indústria diz que manutenção da Selic em 13,75% é injustificável",
-   "resumo": "CNI defende retomada dos cortes em dezembro e alerta para efeitos dos juros sobre empresas, famílias e dívida pública",
-   "link": "https://www.poder360.com.br/poder-economia/industria-diz-que-manutencao-da-selic-em-1375-e-injustificavel/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T19:47:30-03:00"
-  },
-  {
-   "id": "297459e9c692",
-   "titulo": "Paes pede cassação da chapa de Ruas por compra de votos no Rio",
-   "resumo": "Ação no TRE-RJ diz que há suspeitas de desinformação e pede que o governador eleito e a vice fiquem inelegíveis por 8 anos",
-   "link": "https://www.poder360.com.br/poder-eleicoes/paes-pede-cassacao-da-chapa-de-ruas-por-compra-de-votos-no-rio/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T19:30:11-03:00"
-  },
-  {
-   "id": "86de57b38c2f",
-   "titulo": "Congresso vê vitória democrata como pressão sobre tarifaço de Trump",
-   "resumo": "Vitória da oposição pode favorecer investigações e questionamentos à política tarifária do republicano, inclusive contra o Brasil",
-   "link": "https://www.poder360.com.br/poder-congresso/congresso-ve-vitoria-democrata-como-pressao-sobre-tarifaco-de-trump/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/1congresso-eua-4-nov-2026-scaled.jpg",
-   "data": "2026-11-04T19:26:48-03:00"
-  },
-  {
    "id": "9c12c4c420d0",
    "titulo": "Lindbergh protesta contra decisão do BC sobre juros",
    "resumo": "O deputado federal Lindbergh Farias (PT) criticou nesta quarta-feira, 4, a decisão do Banco Central (BC) de interromper o ciclo de cortes da taxa básica de juros, a Selic, e manteve a taxa em 13,75% ao ano. A taxa permanece acima do patamar…",
@@ -119,15 +290,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55179535192_f9a260f996_k.jpg",
    "data": "2026-11-04T19:26:46-03:00"
-  },
-  {
-   "id": "ee38c5cd42fb",
-   "titulo": "Lula falou sobre maioridade penal para evitar uso eleitoral, diz Wagner",
-   "resumo": "Senador defendeu separar o tema da PEC da Segurança Pública, que classificou como mais urgente",
-   "link": "https://www.poder360.com.br/poder-congresso/lula-falou-sobre-maioridade-penal-para-evitar-uso-eleitoral-diz-wagner/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/sostenes-critica-jaques-wagner.png",
-   "data": "2026-11-04T19:26:22-03:00"
   },
   {
    "id": "3e462f428c07",
@@ -146,15 +308,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/pl_imprensa_mcajr_abr_2311222323-copiar.jpg",
    "data": "2026-11-04T19:20:10-03:00"
-  },
-  {
-   "id": "c0d93f968051",
-   "titulo": "Idaho escolhe rifle Winchester de 1873 como favorito a arma oficial",
-   "resumo": "Designação da arma ainda depende de aprovação legislativa; modelo ganhou popularidade no século 19, durante a expansão territorial dos Estados Unidos em direção ao oeste",
-   "link": "https://www.poder360.com.br/poder-internacional/idaho-escolhe-rifle-winchester-de-1873-como-favorito-a-arma-oficial/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/X-Idaho-votacao.png",
-   "data": "2026-11-04T19:18:15-03:00"
   },
   {
    "id": "e4c6f6cca2ce",
@@ -211,15 +364,6 @@
    "data": "2026-11-04T19:03:42-03:00"
   },
   {
-   "id": "fb001bc8278c",
-   "titulo": "Aceleração da inflação justifica Selic em 13,75%, diz Copom",
-   "resumo": "Banco Central eleva projeção do IPCA para 5,6% em 2026 e cita riscos fiscais, alta do petróleo e câmbio depreciado",
-   "link": "https://www.poder360.com.br/poder-economia/aceleracao-da-inflacao-justifica-selic-em-1375-diz-copom/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T18:55:49-03:00"
-  },
-  {
    "id": "99641c3b6546",
    "titulo": "Lei Rouanet registra recorde de propostas e capta R$ 1,67 bilhão em 2026",
    "resumo": "A Lei Rouanet recebeu 25,6 mil propostas em 2026 e registrou captação recorde de R$ 1,67 bilhão entre janeiro e outubro.",
@@ -227,15 +371,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/04182935/Design-sem-nome-33-960x540.jpg",
    "data": "2026-11-04T18:50:47-03:00"
-  },
-  {
-   "id": "ff51a3e8e62a",
-   "titulo": "Planalto conta com novo Congresso dos EUA como freio a Trump",
-   "resumo": "Vitória democrata anima o governo Lula, que vê relação menos ideológica, mas tarifaço segue parado",
-   "link": "https://www.poder360.com.br/poder-governo/planalto-conta-com-novo-congresso-dos-eua-como-freio-a-trump/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-04T18:47:45-03:00"
   },
   {
    "id": "e8f28d20b1d9",
@@ -265,15 +400,6 @@
    "data": "2026-11-04T18:24:45-03:00"
   },
   {
-   "id": "960210ce1105",
-   "titulo": "Após conversa com Motta, Alcolumbre adia votação da redução da maioridade penal no Senado",
-   "resumo": "Alcolumbre afirma que a Câmara já está à frente na discussão do tema e defende alinhamento entre as duas Casas.",
-   "link": "https://www.gazetadopovo.com.br/republica/apos-conversa-com-motta-alcolumbre-adia-votacao-da-reducao-da-maioridade-penal-no-senado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/04171206/alcolumbre-960x540.jpg",
-   "data": "2026-11-04T18:12:30-03:00"
-  },
-  {
    "id": "d1dc86fb7632",
    "titulo": "Portinho acusa Alcolumbre de descumprir acordo sobre maioridade penal",
    "resumo": "O líder do PL no Senado, Carlos Portinho (RJ), acusou o presidente da Casa, Davi Alcolumbre (União-AP), de descumprir um acordo firmado com mais de 50 senadores para votar nesta quarta-feira, 4, a proposta de redução da maioridade penal. Em…",
@@ -292,15 +418,6 @@
    "data": "2026-11-04T18:00:19-03:00"
   },
   {
-   "id": "5ad1784dbd9d",
-   "titulo": "Imprensa quer dividir a direita, afirma Derrite",
-   "resumo": "O senador eleito por São Paulo Guilherme Derrite (Progressistas) acusou setores da imprensa de tentar dividir a direita na disputa pela Presidência do Senado Federal . Em vídeo publicado nas redes sociais, nesta quarta-feira, 4, ele fez ref…",
-   "link": "https://revistaoeste.com/politica/imprensa-quer-dividir-a-direita-afirma-derrite/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Derrite_Senado.jpeg",
-   "data": "2026-11-04T17:59:52-03:00"
-  },
-  {
    "id": "b4785541f4a5",
    "titulo": "Flávio discursará em evento do CPAC em Mar-a-Lago",
    "resumo": "O senador Flávio Bolsonaro (PL-RJ) vai discursar na próxima quinta-feira, 5, no CPAC Mar-a-Lago Gala, evento realizado na residência de férias do presidente dos Estados Unidos, Donald Trump. A informação foi confirmada pela conta oficial do…",
@@ -308,15 +425,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/enhance_upscale_image_01-2-1.png",
    "data": "2026-11-04T17:58:32-03:00"
-  },
-  {
-   "id": "3765ade3e9d0",
-   "titulo": "Fachin aciona PGR depois de PF pedir mais prazo para investigar Vorcaro",
-   "resumo": "Nesta quarta-feira, 4, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, deu 15 dias à Procuradoria-Geral da República (PGR) para se manifestar sobre o andamento de uma investigação que envolve o empresário Daniel Vorcaro. A dec…",
-   "link": "https://revistaoeste.com/politica/fachin-da-15-dias-a-pgr-para-se-manifestar-sobre-caso-vorcaro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/Fachin.jpg",
-   "data": "2026-11-04T17:46:41-03:00"
   },
   {
    "id": "14056b983c1d",
@@ -391,15 +499,6 @@
    "data": "2026-11-04T17:15:11-03:00"
   },
   {
-   "id": "5c70225e546d",
-   "titulo": "Ministro do Trabalho nega conversa com Lula sobre permanência no governo",
-   "resumo": "Ministro do Trabalho diz que ainda não tratou de sua permanência com Lula e afirma que apenas o presidente e Alckmin têm lugar garantido.",
-   "link": "https://www.gazetadopovo.com.br/republica/ministro-do-trabalho-nega-conversa-com-lula-sobre-permanencia-no-governo/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/04170802/Design-sem-nome-32-960x540.jpg",
-   "data": "2026-11-04T17:11:17-03:00"
-  },
-  {
    "id": "250ee73d02e5",
    "titulo": "Em aceno à direita, Alcolumbre indica que protegerá mandato de Flávio",
    "resumo": "Mirando votos do PL, Davi Alcolumbre liberou votação remota de Flávio Bolsonaro e sinalizou que segurará pedidos de cassação do senador",
@@ -416,15 +515,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/mdRey26zLY_7F1TYcHNrB4Mtiio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/k/ruOhDETcOkdIepYxdfjw/fotojet-2026-10-25t190611.108.jpg",
    "data": "2026-11-04T16:41:45-03:00"
-  },
-  {
-   "id": "8d3c8df2f3dc",
-   "titulo": "Governo Lula impõe sigilo de cinco anos a documentos usados para proibir bets",
-   "resumo": "O Ministério da Justiça do governo Lula impôs sigilo de cinco anos aos documentos que embasaram a MP que proibiu as apostas on-line no Brasil.",
-   "link": "https://www.gazetadopovo.com.br/republica/governo-lula-impoe-sigilo-de-cinco-anos-a-documentos-usados-para-proibir-bets/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27160627/lula-perspectivas-economicas-1-960x540.jpg",
-   "data": "2026-11-04T16:19:24-03:00"
   },
   {
    "id": "9a1793919621",
@@ -454,33 +544,6 @@
    "data": "2026-11-04T15:41:02-03:00"
   },
   {
-   "id": "7f5d728c82f1",
-   "titulo": "Flávio usará conferência mundial da direita para consolidar posição de dissidência expatriada",
-   "resumo": "Flávio Bolsonaro participa de articulações com a direita internacional nos Estados Unidos e busca ampliar a oposição ao governo Lula e ao STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-usara-conferencia-mundial-da-direita-para-consolidar-posicao-de-dissidencia-expatriada/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03183918/flavio-eduardo-eua-960x540.jpg",
-   "data": "2026-11-04T15:23:31-03:00"
-  },
-  {
-   "id": "99a061b4bcf4",
-   "titulo": "Cleitinho aciona TCE-MG e consegue suspender patrocínios de R$ 32 milhões a clubes mineiros",
-   "resumo": "Governo previa repassar R$ 32 milhões ao Atlético-MG, Cruzeiro e América-MG, mas Cleitinho contestou a medida. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/cleitinho-aciona-tce-mg-e-consegue-suspender-patrocinios-de-r-32-milhoes-a-clubes-mineiros/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/04150224/cleitinho-960x540.jpg",
-   "data": "2026-11-04T15:07:02-03:00"
-  },
-  {
-   "id": "0c2093d1ae0f",
-   "titulo": "Eduardo Paes pede a cassação da chapa de Douglas Ruas",
-   "resumo": "A ofensiva judicial ocorre em meio à disputa de Paes para tentar reverter a proclamação de Douglas Ruas como governador eleito no 1º turno.",
-   "link": "https://www.gazetadopovo.com.br/republica/eduardo-paes-pede-a-cassacao-da-chapa-de-douglas-ruas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/06212208/eduardo-paes-1-1-960x540.jpg",
-   "data": "2026-11-04T15:05:28-03:00"
-  },
-  {
    "id": "67c631c70d40",
    "titulo": "CNJ determina que certidões de óbito deverão trazer contexto da causa da morte em ação policial",
    "resumo": "",
@@ -490,42 +553,6 @@
    "data": "2026-11-04T14:32:54-03:00"
   },
   {
-   "id": "78e57d7461a0",
-   "titulo": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador a prisão; para o bandido, a proteção'; áudio foi editado",
-   "resumo": "",
-   "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/04/e-fake-video-de-lula-dizendo-para-o-povo-trabalhador-a-prisao-para-o-bandido-a-protecao-audio-foi-editado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/baJkDDJTvNhDejgjz-8hIRYQVvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/AzcDBGR0qfQKR8fLhPJg/fake-lula-trabalhador-prisao.jpg",
-   "data": "2026-11-04T14:27:06-03:00"
-  },
-  {
-   "id": "0b6c19b440ba",
-   "titulo": "Comissão do Senado aprova renegociação de dívidas por governadores e prefeitos no fim do mandato",
-   "resumo": "Projeto aprovado na Comissão de Assuntos Econômicos permite que governadores e prefeitos renegociem dívidas nos últimos 120 dias de gestão.",
-   "link": "https://www.gazetadopovo.com.br/republica/comissao-do-senado-aprova-renegociacao-de-dividas-por-governadores-e-prefeitos-no-fim-do-mandato/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/04140642/55631028727_01bfc705f0_o-960x540.jpg",
-   "data": "2026-11-04T14:21:24-03:00"
-  },
-  {
-   "id": "f3738de142ea",
-   "titulo": "Trump culpa republicanos após perda da Câmara e do Senado",
-   "resumo": "Este episódio do Podcast 15 Minutos analisa o impacto das eleições de meio de mandato nas quais o Partido Democrata conquistou a maioria na Câmara e no Senado",
-   "link": "https://www.gazetadopovo.com.br/republica/trump-culpa-republicanos-apos-perda-da-camara-e-do-senado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
-   "data": "2026-11-04T13:44:04-03:00"
-  },
-  {
-   "id": "cb3b0117b9ae",
-   "titulo": "Rogério Marinho, do PL, lança candidatura à presidência do Senado",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/04/rogerio-marinho-do-pl-lanca-candidatura-a-presidencia-do-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/IJyZS50QlB6vTlywAw_afWFyig8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/JTIHVkQ0S9279LLOym2Q/bancada-pl.jpeg",
-   "data": "2026-11-04T13:18:42-03:00"
-  },
-  {
    "id": "af20833d109f",
    "titulo": "Presidente do PT se reúne com MDB e busca União-PP para montar base de Lula",
    "resumo": "Por ordem de Lula, presidente do PT decidiu priorizar negociação com dirigentes partidários, e não com líderes de bancada, como antes",
@@ -533,24 +560,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2022/08/02132026/Baleia-Rossi-7.jpeg",
    "data": "2026-11-04T13:14:31-03:00"
-  },
-  {
-   "id": "66635db2602a",
-   "titulo": "Paes pede investigação de Douglas Ruas por suspeitas de compra de votos e irregularidades eleitorais",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/paes-pede-investigacao-de-douglas-ruas-por-suspeitas-de-compra-de-votos-e-irregularidades-eleitorais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Axlwi8Rj8Fv1EuPEmQiBcty8-m8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/m/Hk6sVxQ4KZLKLtB3SRAw/blank-2-grids-collage-10-.jpg",
-   "data": "2026-11-04T12:30:47-03:00"
-  },
-  {
-   "id": "cad60cd7ab0e",
-   "titulo": "Operação Faroeste: STJ condena desembargadora do TJ-BA e outros três réus por corrupção e lavagem de dinheiro",
-   "resumo": "",
-   "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/04/operacao-faroeste-mpf-pede-condenacao-dos-reus-e-defende-perdao-judicial-do-delator.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/TD4Dr-VQjJP_Mgda488B8vGmJBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/H/N/qPALgGTui3B9CY8lnnLw/untitled-5.jpg",
-   "data": "2026-11-04T11:58:32-03:00"
   },
   {
    "id": "71cedcc93b41",
@@ -614,6 +623,15 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/06/eden-valadares-secretario-nacional-de-comunicacao-do-pt-divulgacao-pt-1.jpeg",
    "data": "2026-11-04T02:00:51-03:00"
+  },
+  {
+   "id": "02b08d6a5779",
+   "titulo": "Lula tenta driblar “estelionato eleitoral” para conter explosão das contas e recessão",
+   "resumo": "Estelionato eleitoral: reajuste do Bolsa Família, ampliação do Pé-de-Meia e outros compromissos elevam a pressão fiscal.",
+   "link": "https://www.gazetadopovo.com.br/economia/lula-tenta-driblar-estelionato-eleitoral-para-conter-explosao-das-contas-e-recessao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03104903/Lula-estelionato-eleitoral-960x540.jpg",
+   "data": "2026-11-03T21:00:00-03:00"
   },
   {
    "id": "b118d050de1f",
@@ -688,15 +706,6 @@
    "data": "2026-11-03T15:48:00-03:00"
   },
   {
-   "id": "8776b6c611e4",
-   "titulo": "Lula vai a São Paulo para fazer exames médicos",
-   "resumo": "Segundo aliados, Lula fará \"exames de rotina\" em São Paulo após a agenda intensa na campanha e para se preparar para viagens internacionais",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-recebe-camilo-santana-e-vai-a-sp-para-exames",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/06/o-presidente-luiz-inacio-lula-da-silva-lancamento-do-plano-safra-2026-2027-antes-da-cerimonia-visitou-a-feira-expositora-montada-em-frente-ao-palacio-metropoles-5-scaled.jpeg",
-   "data": "2026-11-03T13:18:49-03:00"
-  },
-  {
    "id": "b9ba3fab55c2",
    "titulo": "Governo herda lista de cobranças sociais enquanto mercado cobra corte de gastos",
    "resumo": "Presidente eleito herda lista de cobranças sociais enquanto mercado cobra corte de gastos. Leia na Gazeta do Povo",
@@ -704,15 +713,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/30132735/ChatGPT-Image-16-de-set.-de-2026-13_38_00-960x540.jpg",
    "data": "2026-11-02T21:56:09-03:00"
-  },
-  {
-   "id": "4b225fa6b978",
-   "titulo": "Desembargador assume governo de MS após licença de governador e vice",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-02T17:29:00-03:00"
   }
  ]
 }
