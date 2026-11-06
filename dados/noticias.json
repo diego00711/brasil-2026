@@ -1,88 +1,250 @@
 {
- "atualizado": "2026-11-05T23:18:54.437653-03:00",
- "total": 77,
+ "atualizado": "2026-11-06T07:44:35.029958-03:00",
+ "total": 78,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "2dd3b5aed643",
-   "titulo": "Trump diz que talvez tenha que “destruir o resto” do Irã",
-   "resumo": "Presidente afirmou que os EUA estão \"prontos e carregados\" para intensificar ataques",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-talvez-tenha-que-destruir-o-resto-do-ira/",
+   "id": "d0c78d3b0d17",
+   "titulo": "Alvo de investigação, presidente do Supremo da Bolívia foge do país",
+   "resumo": "Romer Saucedo é investigado por ligação com o narcotráfico; magistrado diz que são \"narrativas baseadas em mentiras\"",
+   "link": "https://www.poder360.com.br/poder-internacional/alvo-de-investigacao-presidente-do-supremo-da-bolivia-foge-do-pais/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/eFnElI2YNe4/hqdefault.jpg",
-   "data": "2026-11-05T23:16:32-03:00"
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/roger-saucedo-x-1.png",
+   "data": "2026-11-06T07:41:03-03:00"
   },
   {
-   "id": "b1555ee579c0",
-   "titulo": "Eduardo mostra encontro de Flávio com ator de filme sobre Jair Bolsonaro",
-   "resumo": "Senador aparece com Jim Caviezel em Mar-a-Lago, nos EUA; ator foi escalado para interpretar o ex-presidente em “Dark Horse”",
-   "link": "https://www.poder360.com.br/poder-gente/eduardo-mostra-encontro-de-flavio-com-ator-de-filme-sobre-jair-bolsonaro/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/9izRT_1On5g/hqdefault.jpg",
-   "data": "2026-11-05T23:13:38-03:00"
+   "id": "bbf5e4491271",
+   "titulo": "Chiquini denuncia supostos ‘infiltrados na direita’ ligados a Vorcaro",
+   "resumo": "O advogado e deputado federal eleito Jeffrey Chiquini (Novo-PR) publicou um vídeo nas redes sociais, nesta quinta-feira, 5, em que acusa integrantes de um grupo ligado à direita de atuar em favor do ex-controlador do Banco Master, Daniel Vo…",
+   "link": "https://revistaoeste.com/politica/chiquini-denuncia-supostos-infiltrados-na-direita-ligados-a-vorcaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/01/jeffrey-chiquini-arena-oeste-22012026.jpg",
+   "data": "2026-11-06T07:36:56-03:00"
   },
   {
-   "id": "61abc1909cc4",
-   "titulo": "Eduardo Bolsonaro diz não temer expulsão dos EUA após vitória democrata",
-   "resumo": "Ex-deputado afirma que sua situação migratória e a de Flávio Bolsonaro são legais; partido de Trump perdeu o controle do Congresso",
-   "link": "https://www.poder360.com.br/poder-internacional/eduardo-bolsonaro-diz-nao-temer-expulsao-dos-eua-apos-vitoria-democrata/",
+   "id": "ac1abc22c0d6",
+   "titulo": "Dino é sorteado relator e marca audiência sobre transição para o fim da escala 6×1",
+   "resumo": "Ministro não decidiu sobre o tema, mas já sinalizou postura favorável à alteração na jornada de trabalho. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/dino-e-sorteado-relator-e-marca-audiencia-sobre-transicao-para-o-fim-da-escala-6-1/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06072919/ASPA-GRANDE-2026-11-06T072927.331-960x540.jpg",
+   "data": "2026-11-06T07:31:12-03:00"
+  },
+  {
+   "id": "350a6a291029",
+   "titulo": "Crusoé: O custo Lula",
+   "resumo": "Duas semanas depois de Lula conquistar seu quarto mandato presidencial, o Brasil segue calculando o custo da inesperada vitória do petista após um terceiro mandato esbanjador e impopular. O Ibovespa, principal índice da B3, bolsa de valores…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-o-custo-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/CSE-Web-Capa.png",
+   "data": "2026-11-06T07:29:12-03:00"
+  },
+  {
+   "id": "214f2eb6790f",
+   "titulo": "Flávio encontra-se com Jim Caviezel na Flórida",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) encontrou nesta quinta-feira, 5, o ator norte-americano Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme Dark Horse . Os dois se cumprimentaram em Mar-a-Lago, clube do presidente dos Es…",
+   "link": "https://revistaoeste.com/politica/flavio-encontra-jim-caviezel-protagonista-de-dark-horse-na-florida/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/flavio-caviezel.jpg",
+   "data": "2026-11-06T07:15:21-03:00"
+  },
+  {
+   "id": "236f4c8d3666",
+   "titulo": "‘Eu jamais vou pedir licença a nenhum senador’, diz Nikolas a Alcolumbre",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) rebateu nesta quinta-feira, 5, críticas do presidente do Senado, Davi Alcolumbre (União-AP). Em vídeo, defendeu o ato que organizou em Macapá para cobrar a análise de pedidos de impeachment contra…",
+   "link": "https://revistaoeste.com/politica/eu-jamais-vou-pedir-licenca-a-nenhum-senador-diz-nikolas-a-alcolumbre/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/moraes.jpeg",
+   "data": "2026-11-06T07:10:53-03:00"
+  },
+  {
+   "id": "03b200cf60de",
+   "titulo": "Conmebol rejeita recurso do Corinthians e mantém veto à licença de Seedorf",
+   "resumo": "Holandês deverá ingressar em curso da CBF Academy para continuar no banco; outro profissional responderá como técnico nas súmulas",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/conmebol-rejeita-recurso-do-corinthians-e-mantem-veto-a-licenca-de-seedorf/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-05T23:02:11-03:00"
+   "data": "2026-11-06T07:01:26-03:00"
   },
   {
-   "id": "dd92b2afc8d0",
-   "titulo": "Justiça libera operação de 3 casas de apostas no Brasil",
-   "resumo": "Sites pertencem ao grupo CDA, que obteve decisão favorável da desembargadora Adriana Pileggi",
-   "link": "https://www.poder360.com.br/poder-justica/justica-libera-operacao-de-3-casas-de-apostas-no-brasil/",
+   "id": "2ecaedca163b",
+   "titulo": "Meta fatura quatro vezes mais nas eleições de 2026",
+   "resumo": "Os gastos de candidatos com publicidade nas plataformas da Meta, dona do Facebook e do Instagram, quadruplicaram nas eleições de 2026 em relação ao pleito de 2022. Levantamento de O Antagonista com base nos dados apresentados pelos candidat…",
+   "link": "https://oantagonista.com.br/brasil/meta-fatura-quatro-vezes-mais-nas-eleicoes-de-2026/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/int2980.jpg-1-e1792669588573.jpeg",
+   "data": "2026-11-06T07:00:00-03:00"
+  },
+  {
+   "id": "7873b2abfa75",
+   "titulo": "Projeto sobre remoção de conteúdo pelas big techs será discutido na segunda",
+   "resumo": "O Conselho de Comunicação Social do Congresso Nacional (CCS) discutirá, na próxima segunda-feira, 9, a inclusão do colegiado entre os órgãos que devem ser comunicados quando plataformas digitais retirarem conteúdos da internet sem determina…",
+   "link": "https://oantagonista.com.br/brasil/projeto-sobre-remocao-de-conteudo-pelas-big-techs-sera-discutido-na-segunda/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/capa-noticia-2133x1200-24.jpg",
+   "data": "2026-11-06T07:00:00-03:00"
+  },
+  {
+   "id": "2ba8ad8394d6",
+   "titulo": "A falta de consenso sobre redução da maioridade penal",
+   "resumo": "A comissão especial da Câmara dos Deputados que analisa a redução da maioridade penal está dividida sobre o formato da mudança. Levantamento de O Antagonista com integrantes do colegiado, somado a posicionamentos públicos já manifestados po…",
+   "link": "https://oantagonista.com.br/brasil/maioridade-penal-divide-comissao-entre-reducao-para-14-ou-16-anos-e-regra-atual/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/comissao-especial-reducao-1.jpeg",
+   "data": "2026-11-06T07:00:00-03:00"
+  },
+  {
+   "id": "87d4ef18cf90",
+   "titulo": "Uma nova versão do fim da escala 6×1",
+   "resumo": "Após a aprovação do fim da escala 6×1, agora a deputada federal Duda Salabert (PSOL-MG) apresentou um projeto de lei que prevê a inclusão dos intervalos para repouso e alimentação na jornada de trabalho. Pela proposta, o período de descanso…",
+   "link": "https://oantagonista.com.br/brasil/uma-nova-versao-do-fim-da-escala-6x1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/duda-salabert-1.jpg",
+   "data": "2026-11-06T06:44:00-03:00"
+  },
+  {
+   "id": "515d5a19c1aa",
+   "titulo": "Papa viaja à América Latina menos de 1 mês após retirar tumor",
+   "resumo": "Essa é a 6ª viagem internacional de Leão 14 e está programada para durar até 17 de novembro",
+   "link": "https://www.poder360.com.br/poder-internacional/papa-viaja-a-america-latina-menos-de-1-mes-apos-retirar-tumor/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-05T23:00:23-03:00"
+   "data": "2026-11-06T06:42:16-03:00"
   },
   {
-   "id": "2b494c7fbc00",
-   "titulo": "Lula reage a memes: “Gosto de uns em que apareço dançando”",
-   "resumo": "Presidente riu enquanto assistia a imagens sobre ele que se espalharam pela internet durante a campanha eleitoral",
-   "link": "https://www.poder360.com.br/poder-gente/lula-reage-a-memes-gosto-de-uns-em-que-apareco-dancando/",
+   "id": "98747cb6f0ec",
+   "titulo": "Saiba quais indicadores saem nesta 6ª feira",
+   "resumo": "Balança comercial, aluguéis, desemprego e produção industrial no Brasil e no exterior movimentam o dia",
+   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-saem-nesta-6a-feira/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/83Uq0N8BXAg/hqdefault.jpg",
-   "data": "2026-11-05T22:56:55-03:00"
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/indicadores-6-novembro.png",
+   "data": "2026-11-06T06:15:42-03:00"
   },
   {
-   "id": "4da05caa7ae5",
-   "titulo": "Jantar de evento conservador com Flávio tem ingressos de até R$ 519 mil",
-   "resumo": "Senador participa da Cpac na propriedade de Trump, na Flórida; ingressos começam em R$ 13 mil e estão esgotados",
-   "link": "https://www.poder360.com.br/poder-internacional/jantar-de-evento-conservador-com-flavio-tem-ingressos-de-ate-r-519-mil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-05T22:52:33-03:00"
-  },
-  {
-   "id": "12d8d6f21d6f",
-   "titulo": "Em live, Lula chama Flávio de “pé frio” e Willer Tomaz de “grileiro”",
-   "resumo": "“[Flávio] chegou nos Estados Unidos, o Trump perdeu. Foi lá para pegar proteção. Você vai ver a proteção que você vai ter”, disse o petista",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/em-live-lula-chama-flavio-de-pe-frio-e-willer-tomaz-de-grileiro/",
+   "id": "e377a56db2d9",
+   "titulo": "Governo Lula: leia a agenda do presidente nesta 6ª feira",
+   "resumo": "Reunião do CNPE discute transição energética para a COP31; sanção do Enamed e despachos no Planalto também movimentam o dia",
+   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-do-presidente-nesta-6a-feira/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-05T22:40:37-03:00"
+   "data": "2026-11-06T06:15:41-03:00"
   },
   {
-   "id": "59de037f92da",
-   "titulo": "Indígenas e quilombolas tomam posse como diplomatas pela 1ª vez",
-   "resumo": "Turma de 2026 reúne 27 alunos de grupos sub-representados na diplomacia brasileira",
-   "link": "https://www.poder360.com.br/poder-governo/indigenas-e-quilombolas-tomam-posse-como-diplomatas-pela-1a-vez/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/nomeacao-de-diplomatas-indigenas-4.png",
-   "data": "2026-11-05T22:21:40-03:00"
-  },
-  {
-   "id": "3ca34c3f6a47",
-   "titulo": "Governo do DF pede ao STF repasse de R$ 2,2 bi do pai de Vorcaro ao BRB",
-   "resumo": "Investigado na operação Compliance Zero, Henrique Vorcaro teve os recursos bloqueados pela Justiça",
-   "link": "https://www.poder360.com.br/poder-economia/governo-do-df-pede-ao-stf-repasse-de-r-22-bi-do-pai-de-vorcaro-ao-brb/",
+   "id": "af728dca3789",
+   "titulo": "Saiba quais ações estão na pauta do STF desta 6ª feira",
+   "resumo": "Plenário Virtual analisa crimes patrimoniais contra mulheres, acesso a dados de celulares e penduricalhos nos MPs",
+   "link": "https://www.poder360.com.br/poder-justica/pauta-do-stf-saiba-quais-acoes-estao-na-pauta-desta-6a-feira/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-05T22:01:30-03:00"
+   "data": "2026-11-06T06:15:14-03:00"
+  },
+  {
+   "id": "70f6b28f7a61",
+   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
+   "resumo": "Reunião do CNPE, sessão do Comitê de Mudança do Clima, honraria acadêmica e despachos no Planalto movimentam o dia",
+   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-15/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-06T06:15:10-03:00"
+  },
+  {
+   "id": "9e057729a373",
+   "titulo": "Mais de 11 mil medidas de fósseis apontaram que o Spinosaurus passava a maior parte da vida na água",
+   "resumo": "O Spinosaurus pode ter passado a maior parte da vida submerso, segundo uma pesquisa que reuniu 11.410 medidas anatômicas de animais atuais e extintos. Cientistas da Universidade Yale, nos Estados Unidos, utilizaram tomografias, fotografias …",
+   "link": "https://oantagonista.com.br/ladooa/entretenimento/mais-de-11-mil-medidas-de-fosseis-apontaram-que-o-spinosaurus-passava-a-maior-parte-da-vida-na-agua/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Spinosaurus_standing_in_river_water_a444afd5.jpg",
+   "data": "2026-11-06T06:13:00-03:00"
+  },
+  {
+   "id": "4ccfe1f6fb67",
+   "titulo": "Lira é favorito para CCJ, independentemente de quem comandará o Senado",
+   "resumo": "Arthur Lira é visto como favorito para presidir a CCJ do Senado, tanto se Davi Alcolumbre se reeleger quanto se Rogério Marinho vencer",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lira-e-favorito-para-ccj-independentemente-de-quem-comandara-o-senado",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/12/12163723/Deputado-Federal-Arthur-Lira-Metropoles-17.jpg",
+   "data": "2026-11-06T05:00:48-03:00"
+  },
+  {
+   "id": "5ba247a24256",
+   "titulo": "Peña enfrenta julgamento no Senado paraguaio nesta 6ª feira",
+   "resumo": "Apesar do pedido de renúncia, opositores defendem que presidente sofra impeachment e seja formalmente retirado do cargo",
+   "link": "https://www.poder360.com.br/poder-internacional/pena-enfrenta-julgamento-no-senado-paraguaio-nesta-6a-feira/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/santiago-pena-se-manifesta.png",
+   "data": "2026-11-06T04:35:46-03:00"
+  },
+  {
+   "id": "d7de21362341",
+   "titulo": "Protestos contra presidente do Paraguai têm 7 detidos",
+   "resumo": "Um policial foi ferido na cabeça no centro de Assunção; manifestações foram desencadeadas pela crise do Ueno Bank",
+   "link": "https://www.poder360.com.br/poder-internacional/protestos-contra-presidente-do-paraguai-tem-7-detidos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-06T04:27:16-03:00"
+  },
+  {
+   "id": "bc9a23d61bb1",
+   "titulo": "Aliados de Flávio e Eduardo minimizam impacto da vitória democrata nos EUA",
+   "resumo": "Avaliação é de que maioria conquista pelos democratas no Congresso não representa um risco para a presença de Flávio e Eduardo nos EUA",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-flavio-e-eduardo-minimizam-impacto-da-vitoria-democrata-nos-eua",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/captura-de-tela-2026-10-28-as-21-36-16-3x2-1.jpg",
+   "data": "2026-11-06T02:00:13-03:00"
+  },
+  {
+   "id": "e5322f3dc913",
+   "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Rezende",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/06/nao-falei-com-lula-nem-tenho-nada-marcado-isso-foi-plantado-para-queimar-alguem-que-defendeu-a-proposta-diz-economista-andre-lara-rezende.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ftlQyFEAoZm647Z6tCQfG-kKz0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/1DErRsSCqjcAe15mWAgw/fotojet-39-.jpg",
+   "data": "2026-11-06T02:00:00-03:00"
+  },
+  {
+   "id": "c87b15f5a93b",
+   "titulo": "Crise no Ueno Bank arrasta recursos de estatais paraguaias",
+   "resumo": "Previdência mantinha aproximadamente US$ 355 milhões no banco, enquanto a Administração Nacional de Eletricidade tinha cerca de US$ 46 milhões; quase metade da população do Paraguai era cliente do Ueno",
+   "link": "https://www.poder360.com.br/poder-internacional/crise-no-ueno-bank-arrasta-recursos-de-estatais-paraguaias/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-06T01:27:44-03:00"
+  },
+  {
+   "id": "1aa1bed8508f",
+   "titulo": "Rogério Marinho e Tereza Cristina lançam estratégia para vencer Alcolumbre",
+   "resumo": "Rogério Marinho e Tereza Cristina articulam estratégia de pinça eleitoral para derrotar Davi Alcolumbre na disputa pela presidência do Senado em 2027.",
+   "link": "https://www.gazetadopovo.com.br/republica/rogerio-marinho-e-tereza-cristina-lancam-estrategia-para-vencer-alcolumbre/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06012139/Rogerio-Marinho-e-Tereza-Cristina-1-960x540.jpg",
+   "data": "2026-11-06T01:21:34-03:00"
+  },
+  {
+   "id": "9ccbc5085769",
+   "titulo": "Fachin consulta PGR sobre soltura de Vorcaro",
+   "resumo": "Fachin também manteve prisão de cunhado de Vorcaro e rejeitou pedidos de revogação de medidas cautelares em série de despachos no caso Master.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-consulta-pgr-sobre-soltura-de-vorcaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06001904/fachin-stf-1-960x540.jpg",
+   "data": "2026-11-06T00:20:52-03:00"
+  },
+  {
+   "id": "393b6752064f",
+   "titulo": "Lula faz reunião nesta sexta para discutir recriação do Ministério da Segurança Pública; pasta existiu no governo Temer",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/06/lula-faz-reuniao-nesta-sexta-para-discutir-recriacao-do-ministerio-da-seguranca-publica-pasta-existiu-no-governo-temer.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/htakH2aCRIxTS9Idua6_mSaVFT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/l/rhPFr0R5qST1qItLpJdg/55635257264-51a2569622-k.jpg",
+   "data": "2026-11-06T00:00:01-03:00"
+  },
+  {
+   "id": "526a0f5e020f",
+   "titulo": "Wajngarten nega que aliados tenham traído Flávio: ‘Teve todo o apoio que quis’",
+   "resumo": "O ex-secretário de Comunicação Social Fábio Wajngarten negou que aliados tenham traído Flávio Bolsonaro na eleição presidencial. Em entrevista ao Arena Oeste desta quinta-feira, 5, ele rejeitou as acusações contra integrantes da direita dep…",
+   "link": "https://revistaoeste.com/politica/wajngarten-nega-que-aliados-tenham-traido-flavio-teve-todo-o-apoio-que-quis/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/fabiowajngarten.jpg",
+   "data": "2026-11-05T23:20:12-03:00"
   },
   {
    "id": "e790d4cbd43a",
@@ -110,15 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/05215328/eduardo-bolsonaro-960x540.jpg",
    "data": "2026-11-05T21:54:08-03:00"
-  },
-  {
-   "id": "f987bd0c445f",
-   "titulo": "“Exercerei meu direito à defesa”, diz Peña sobre impeachment",
-   "resumo": "Presidente do Paraguai promete apresentar provas no julgamento, enquanto opositores questionam seu paradeiro e cobram sua prisão após caso Ueno; Senado retoma análise do impeachment na 6ª feira (6.nov)",
-   "link": "https://www.poder360.com.br/poder-internacional/exercerei-meu-direito-a-defesa-diz-pena-sobre-impeachment/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/santiago-pena-se-manifesta.png",
-   "data": "2026-11-05T21:41:49-03:00"
   },
   {
    "id": "ed25885d856b",
@@ -211,33 +364,6 @@
    "data": "2026-11-05T20:04:06-03:00"
   },
   {
-   "id": "67f09c540b91",
-   "titulo": "Fachin pede parecer da PGR sobre pedido de liberdade de Vorcaro",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, deu prazo para que a Procuradoria-Geral da República (PGR) se manifeste sobre os pedidos apresentados pela defesa do ex-banqueiro Daniel Vorcaro, entre eles o que solici…",
-   "link": "https://oantagonista.com.br/brasil/fachin-pede-parecer-da-pgr-sobre-pedido-de-liberdade-de-vorcaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/ChatGPT-Image-1-de-set.-de-2026-14_14_15.png",
-   "data": "2026-11-05T20:03:58-03:00"
-  },
-  {
-   "id": "c31ba86d3058",
-   "titulo": "Lula convida Janones a levar “Exército” à Turquia e às Filipinas",
-   "resumo": "O presidente Lula (PT) convidou o deputado federal André Janones (Rede-MG) para acompanhá-lo em viagens à Turquia e às Filipinas e realizar transmissões ao vivo com o chamado “Exército de Lula” durante os compromissos no exterior. A propost…",
-   "link": "https://oantagonista.com.br/brasil/lula-convida-janones-a-levar-exercito-a-turquia-e-as-filipinas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55605331932_6554968e71_3k-e1793450807904.jpg",
-   "data": "2026-11-05T19:49:04-03:00"
-  },
-  {
-   "id": "8d3f1a2e0484",
-   "titulo": "Reunião com Lula termina sem propostas para equilíbrio fiscal",
-   "resumo": "O presidente Lula (PT) voltou a reunir aliados e integrantes da equipe econômica para discutir os rumos da economia no próximo governo, mas o encontro desta quinta-feira, 5, terminou sem anúncios concretos sobre mudanças na política fiscal …",
-   "link": "https://oantagonista.com.br/brasil/reuniao-com-lula-termina-sem-propostas-para-equilibrio-fiscal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593302823_80166e8089_3k.jpg",
-   "data": "2026-11-05T19:36:48-03:00"
-  },
-  {
    "id": "1bdf85797afd",
    "titulo": "Mendonça arquiva ação sobre “guerra dos sigilos” entre Lula e Flávio Bolsonaro",
    "resumo": "Mendonça extinguiu ação que envolvia disputa entre Lula e Flávio sobre quebra de sigilos pessoais na reta final da campanha.",
@@ -245,15 +371,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/05192229/mendonca-960x540.jpg",
    "data": "2026-11-05T19:24:46-03:00"
-  },
-  {
-   "id": "ccbe3319fdc6",
-   "titulo": "Governo Lula teme instabilidade após renúncia de Peña no Paraguai",
-   "resumo": "A renúncia do presidente do Paraguai, Santiago Peña, nesta quinta-feira, 5, acendeu um alerta no governo brasileiro sobre os possíveis efeitos da crise política no país vizinho. Embora integrantes do governo do presidente Lula (PT) avaliem …",
-   "link": "https://oantagonista.com.br/brasil/governo-lula-teme-instabilidade-apos-a-renuncia-de-pena-no-paraguai/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/52903523808_7b11039d37_k.jpg",
-   "data": "2026-11-05T19:22:07-03:00"
   },
   {
    "id": "4d70fa88d4e3",
@@ -281,15 +398,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-05T19:07:00-03:00"
-  },
-  {
-   "id": "70748cc00274",
-   "titulo": "Lula defende responsabilidade fiscal para atrair investimentos",
-   "resumo": "O presidente Lula (PT) defendeu nesta quinta-feira, 5, que o governo tenha responsabilidade fiscal. Durante reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos, o petista afirmou que o governo precisa demo…",
-   "link": "https://oantagonista.com.br/brasil/lula-defende-responsabilidade-fiscal-para-atrair-investimentos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55609111932_d178e8ef79_3k-e1792937766634.jpg",
-   "data": "2026-11-05T19:02:20-03:00"
   },
   {
    "id": "4fbbdf6b0024",
@@ -454,15 +562,6 @@
    "data": "2026-11-05T14:14:13-03:00"
   },
   {
-   "id": "1362bddfbcfa",
-   "titulo": "TSE muda entendimento sobre fraude à cota de gênero e mantém mandato de deputada sem envolvimento",
-   "resumo": "Ministros entenderam que regra para estimular mulheres na política não poderia ser usada contra seu próprio objetivo. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/tse-muda-entendimento-sobre-fraude-a-cota-de-genero-e-mantem-mandato-de-deputada-sem-envolvimento/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/05135819/ASPA-GRANDE-2026-11-05T135828.593-960x540.jpg",
-   "data": "2026-11-05T13:58:50-03:00"
-  },
-  {
    "id": "e3855c5f9ec7",
    "titulo": "Senadora do PSB pede vista e adia fiscalização do caso Master",
    "resumo": "Um pedido de vista da senadora Leany Lemos (PSB-DF) adiou na quarta-feira 4 a análise de uma proposta para fiscalizar possíveis irregularidades na liquidação do Banco Master e na atuação de órgãos públicos. A medida estava em discussão na C…",
@@ -472,24 +571,6 @@
    "data": "2026-11-05T13:36:20-03:00"
   },
   {
-   "id": "caf347085ae5",
-   "titulo": "Lula se reúne com equipe econômica em Brasília",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) está reunido nesta quinta-feira, 5, em Brasília, com integrantes da equipe econômica e ex-ministros. O ministro da Fazenda, Dario Durigan, confirmou que Lula convocou o encontro para discutir o ce…",
-   "link": "https://revistaoeste.com/politica/lula-reuniao-equipe-economica/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/governo-sem-dinheiro.jpeg",
-   "data": "2026-11-05T13:25:02-03:00"
-  },
-  {
-   "id": "76cc66a47df3",
-   "titulo": "Bolsonaro pede a Moraes autorização para receber Rogério Marinho e Tereza Cristina",
-   "resumo": "Pedido de Bolsonaro ocorre em meio às articulações de Rogério Marinho e Tereza Cristina para disputar o comando do Senado em 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-pede-a-moraes-autorizacao-para-receber-rogerio-marinho-e-tereza-cristina/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/06182244/jair-bolsonaro-960x540.jpg",
-   "data": "2026-11-05T13:08:38-03:00"
-  },
-  {
    "id": "2b12a34672b2",
    "titulo": "Bolsonaristas se preparam para fazer Lula \"sangrar\" com maioridade penal",
    "resumo": "Com bloqueio à votação da maioridade penal, bolsonaristas investem no discurso de que Lula já descumpriu uma primeira promessa de campanha",
@@ -497,60 +578,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/o-presidente-luiz-inacio-lula-da-silva-apaga-as-velas-do-bolo-e-se-emociona-durante-a-comemoracao-de-seu-aniversario-de-81-anos-no-palacio-da-alvorada-metropoles-4-scaled.jpeg",
    "data": "2026-11-05T12:29:11-03:00"
-  },
-  {
-   "id": "6f3496453da7",
-   "titulo": "Saída de Flávio do Brasil com ação de agentes internacionais é linha de investigação da PF",
-   "resumo": "Análise levanta hipótese de operação internacional para retirar Flávio do Brasil. PF tenta esclarecer em relatório.",
-   "link": "https://www.gazetadopovo.com.br/republica/saida-de-flavio-do-brasil-com-acao-de-agentes-internacionais-e-linha-de-investigacao-da-pf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30090232/ASPA-GRANDE-2026-10-30T090231.106-960x540.jpg",
-   "data": "2026-11-05T12:05:38-03:00"
-  },
-  {
-   "id": "af87ed0add9f",
-   "titulo": "TSE permite manter mandato de mulher eleita em chapa com fraude à cota de gênero",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/05/tse-permite-manter-mandato-de-mulher-eleita-em-chapa-com-fraude-a-cota-de-genero.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/nTB3Mfu34g6G1fzWygS4p-gihoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/YFFsPlS9OkI33qjTKwYg/55590321262-d32cb36898-k.jpg",
-   "data": "2026-11-05T12:00:19-03:00"
-  },
-  {
-   "id": "ba1530e49d88",
-   "titulo": "Bolsonaro pede a Moraes autorização para receber Marinho e Tereza, pré-candidatos à presidência do Senado",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/05/bolsonaro-pede-a-moraes-autorizacao-para-receber-marinho-e-tereza-que-devem-disputar-presidencia-do-senado.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/N9wZpAMRY6AaNwfiBtKoJzFrBj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/USOX6rQXuQuQfQWUZUrA/51585532943-40901190cc-o.jpg",
-   "data": "2026-11-05T11:33:54-03:00"
-  },
-  {
-   "id": "ffbe4741f84f",
-   "titulo": "Servidores do IBGE ficam sem salário depois de decisão de Pochmann",
-   "resumo": "Dezenas de servidores do Instituto Brasileiro de Geografia e Estatística (IBGE) ficaram sem receber o salário de outubro depois que o presidente do órgão, Márcio Pochmann, determinou o desconto integral, em parcela única, dos dias de greve …",
-   "link": "https://revistaoeste.com/politica/servidores-do-ibge-ficam-sem-salario-depois-de-decisao-de-pochmann/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/ibge-pochmann-greve.jpeg",
-   "data": "2026-11-05T11:17:14-03:00"
-  },
-  {
-   "id": "197285c34406",
-   "titulo": "Lula envia PEC para manter IPI até cobrança do Imposto Seletivo",
-   "resumo": "O governo Lula encaminhou à Câmara dos Deputados, nesta quinta-feira, 5, uma Proposta de Emenda à Constituição (PEC) para manter a cobrança do Imposto sobre Produtos Industrializados (IPI) sobre determinados produtos até o início efetivo do…",
-   "link": "https://revistaoeste.com/politica/lula-envia-pec-para-manter-ipi-ate-cobranca-do-imposto-seletivo/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/governo-sem-dinheiro.jpeg",
-   "data": "2026-11-05T11:09:36-03:00"
-  },
-  {
-   "id": "1b5b55b0c655",
-   "titulo": "União Brasil anuncia apoio à reeleição de Hugo Motta na Câmara",
-   "resumo": "O União Brasil anunciou, nesta quarta-feira, 4, que apoiará a reeleição de Hugo Motta (Republicanos-PB) à presidência da Câmara dos Deputados. A legenda tem a terceira maior bancada da Casa e se soma a outros partidos que já declararam apoi…",
-   "link": "https://revistaoeste.com/politica/uniao-brasil-anuncia-apoio-a-reeleicao-de-hugo-motta-na-camara/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/motta-jatinho.jpeg",
-   "data": "2026-11-05T11:07:06-03:00"
   },
   {
    "id": "6372bed45138",
@@ -650,24 +677,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-04T07:50:00-03:00"
-  },
-  {
-   "id": "45b7ecb559d6",
-   "titulo": "PL pagou R$ 255 mil para evento com Flávio e Milei no Pacaembu",
-   "resumo": "PL informou à Justiça Eleitoral que gastou R$ 255 mil para alugar espaço no Pacaembu onde Flávio Bolsonaro lançou candidatura em julho",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/pl-pagou-r-255-mil-para-evento-com-flavio-e-milei-no-pacaembu",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/07/55427491034-6719dff22b-k.jpg",
-   "data": "2026-11-04T07:00:15-03:00"
-  },
-  {
-   "id": "833f1dcd8a68",
-   "titulo": "Secretário do PT rechaça processo para \"expurgar\" filiados a pedido de Lula",
-   "resumo": "À coluna, secretário de Comunicação disse que PT tem \"instâncias\" e que eventuais erros de filiados serão julgados com devido processo legal",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/secretario-do-pt-rechaca-processo-para-expurgar-filiados-a-pedido-de-lula",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/10/10183100/Eden-Valadares-secretario-comunicacao-PT-Lula-Metropoles.jpg",
-   "data": "2026-11-04T05:00:53-03:00"
   },
   {
    "id": "b118d050de1f",
