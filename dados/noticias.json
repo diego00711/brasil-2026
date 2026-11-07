@@ -1,97 +1,286 @@
 {
- "atualizado": "2026-11-07T06:56:43.139573-03:00",
- "total": 79,
+ "atualizado": "2026-11-07T13:21:23.882515-03:00",
+ "total": 77,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "a83da5971dbc",
-   "titulo": "Proposta assegura exame periódico no SUS para pessoas com diabetes",
-   "resumo": "Texto estabelece periodicidade mínima para os exames, conforme a orientação médica; precisa ser aprovado pela Câmara e pelo Senado",
-   "link": "https://www.poder360.com.br/?p=2631298",
+   "id": "4c1ff579d723",
+   "titulo": "Leia a íntegra da lei que criou o Enamed, o exame “OAB da medicina”",
+   "resumo": "Nova legislação determina que os estudantes de medicina sejam submetidos a 3 avaliações ao longo do curso; Lula sancionou lei com veto parcial",
+   "link": "https://www.poder360.com.br/poder-saude/leia-a-integra-da-lei-que-criou-o-enamed-o-exame-oab-da-medicina/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:48:47-03:00"
+   "data": "2026-11-07T13:20:33-03:00"
   },
   {
-   "id": "258324aa3013",
-   "titulo": "Morar perto de áreas verdes está ligado a menor risco de diabetes",
-   "resumo": "Estudo com mais de 400 mil pessoas identificou menor incidência do tipo 2 da doença entre moradores de áreas com mais jardins e parques",
-   "link": "https://www.poder360.com.br/poder-saude/morar-perto-de-areas-verdes-esta-ligado-a-menor-risco-de-diabetes/",
+   "id": "bdb4459501b8",
+   "titulo": "“Medicina não é negócio”, diz Ludhmila ao defender OAB da Medicina",
+   "resumo": "Médica criticou faculdades que oferecem formação inadequada e relatou receber profissionais já formados sem experiência em atendimentos de emergência; fala foi durante sanção de exame para exercício da medicina",
+   "link": "https://www.poder360.com.br/poder-saude/medicina-nao-e-negocio-diz-ludhmila-ao-defender-oab-da-medicina/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/GGHV0-kA8uk/hqdefault.jpg",
+   "data": "2026-11-07T12:59:56-03:00"
+  },
+  {
+   "id": "39b4551baf55",
+   "titulo": "Governador de MT anuncia fim de emendas para bancar shows e festas",
+   "resumo": "O governador de Mato Grosso, Otaviano Pivetta (Republicanos), anunciou que o estado deixará de usar emendas parlamentares para financiar shows e festas. Segundo ele, os recursos serão direcionados a políticas públicas, com prioridade para á…",
+   "link": "https://oantagonista.com.br/brasil/governador-de-mt-anuncia-fim-de-emendas-para-bancar-shows-e-festas/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/otaviano-pivetta-1.jpg",
+   "data": "2026-11-07T12:15:07-03:00"
+  },
+  {
+   "id": "25266f97205f",
+   "titulo": "'Imposto do pecado' não é invenção brasileira: álcool e tabaco são taxados nos 38 países da OCDE, grupo de nações ricas",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/07/imposto-do-pecado-nao-e-invencao-brasileira-alcool-e-tabaco-sao-taxados-nos-38-paises-da-ocde-grupo-de-nacoes-ricas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/yylXIBZ5OnuANg_tYiUbpMK2McY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/9ppLTARkaLKP2AlUcZlw/globo-canal-4-20261105-2000-frame-109311.jpeg",
+   "data": "2026-11-07T12:13:08-03:00"
+  },
+  {
+   "id": "ddb4fcc4edc1",
+   "titulo": "Ação da PF mira extração ilegal de madeira em terra indígena",
+   "resumo": "Após operação, agentes encontraram a estrada bloqueada e foram alvo de disparos; uma pessoa foi presa em flagrante",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/acao-da-pf-mira-extracao-ilegal-de-madeira-em-terra-indigena/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:39:11-03:00"
+   "data": "2026-11-07T12:07:18-03:00"
   },
   {
-   "id": "df2ad716c944",
-   "titulo": "Software de IA mapeia genes de vírus de bactérias com 98% de precisão",
-   "resumo": "Testada no Cepid B3, ferramenta Pelican teve desempenho superior a outros programas e pode impulsionar a fagoterapia",
-   "link": "https://www.poder360.com.br/poder-tech/software-de-ia-mapeia-genes-de-virus-de-bacterias-com-98-de-precisao/",
+   "id": "1f9487a6835b",
+   "titulo": "Governo retoma análise ambiental para leiloar 52 blocos de petróleo e gás",
+   "resumo": "Portarias estabelecem prazo de 30 dias para aprovar estudos no Solimões e em Sergipe-Alagoas/Jacuípe; governo também prepara avaliação da Bacia de Pelotas",
+   "link": "https://www.poder360.com.br/poder-governo/governo-retoma-analise-ambiental-antes-de-leiloes-de-areas-de-petroleo/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:25:03-03:00"
+   "data": "2026-11-07T12:00:22-03:00"
   },
   {
-   "id": "dc744d3299ae",
-   "titulo": "Como prevenir e comunicar emergências em ambientes escolares",
-   "resumo": "Planos de emergência nas escolas devem prever treinamento, comunicação clara e orientações adequadas a cada situação",
-   "link": "https://www.poder360.com.br/poder-educacao/como-prevenir-e-comunicar-emergencias-em-ambientes-escolares/",
+   "id": "78ba481a4398",
+   "titulo": "Plata o plomo",
+   "resumo": "Pablo Escobar tinha pouca paciência com juízes, policiais e políticos que lhe atravessassem o caminho. A cada um oferecia uma escolha simples: plata o plomo . Prata ou chumbo. O suborno ou a bala. Quem aceitava o primeiro poupava-se da segu…",
+   "link": "https://revistaoeste.com/politica/emplata-o-plomo-em/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/07/Lula-com-Moraes.jpeg",
+   "data": "2026-11-07T12:00:00-03:00"
+  },
+  {
+   "id": "d77844f61541",
+   "titulo": "Como senadores pretendem reformar o Supremo a partir de 2027",
+   "resumo": "Mandato fixo, ampliação de idade mínima e restrição de decisões monocráticas fazem parte do pacote de reforma ao STF. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/senadores-eleitos-pretendem-reformar-supremo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/27180632/Congresso-STF-960x540.jpg",
+   "data": "2026-11-07T11:57:33-03:00"
+  },
+  {
+   "id": "230320d93379",
+   "titulo": "Fachin homologa delação de ex-dono da Reag no caso Master",
+   "resumo": "Empresário João Carlos Mansur havia fechado acordo com a PGR em setembro; Compliance Zero está provisoriamente no gabinete da presidência do STF",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-homologa-delacao-de-ex-dono-da-reag-no-caso-master/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:24:50-03:00"
+   "data": "2026-11-07T11:33:58-03:00"
   },
   {
-   "id": "439e300c2371",
-   "titulo": "Unitree tem alta de 69,9% na receita e queda no lucro no 3º trimestre",
-   "resumo": "Ações da fabricante de robôs caem depois de balanço com crescimento de gastos em inteligência artificial",
-   "link": "https://www.poder360.com.br/poder-china/unitree-tem-alta-de-699-na-receita-e-queda-no-lucro-no-3o-trimestre/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/Y3zb4o47yqA/hqdefault.jpg",
-   "data": "2026-11-07T06:23:39-03:00"
-  },
-  {
-   "id": "0c6cffa4cb42",
-   "titulo": "Mercado pressiona Lula e crise no Paraguai: Por Que Isso Importa?",
-   "resumo": "Podcast do Poder360 analisa os temas políticos da semana que se encerra e traz o que haverá de mais importante na semana que começa",
-   "link": "https://www.poder360.com.br/poder-videos/mercado-pressiona-lula-e-crise-no-paraguai-por-que-isso-importa/",
+   "id": "813a780fd083",
+   "titulo": "Aviação do Exército investe em tecnologia para preparar tripulações",
+   "resumo": "Treinamento reproduz situações de combate em ambientes virtuais",
+   "link": "https://www.poder360.com.br/poder-governo/aviacao-do-exercito-investe-em-tecnologia-para-preparar-tripulacoes/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:05:38-03:00"
+   "data": "2026-11-07T11:18:55-03:00"
   },
   {
-   "id": "a19306283976",
-   "titulo": "Vale-refeição passa a ser aceito em maquininhas de diferentes operadoras",
-   "resumo": "Nova regra entra em vigor neste sábado (7.nov) e amplia opções de uso dos benefícios; setor aponta dificuldades na integração dos sistemas",
-   "link": "https://www.poder360.com.br/poder-economia/vale-refeicao-passa-a-ser-aceito-em-maquininhas-de-diferentes-operadoras/",
+   "id": "a78246f939b8",
+   "titulo": "Homem preso em Washington dizia “ouvir vozes” para matar Trump",
+   "resumo": "Agentes do Serviço Secreto encontraram venezuelano com armas e munições em veículo perto da Casa Branca",
+   "link": "https://www.poder360.com.br/poder-internacional/homem-preso-em-washington-dizia-ouvir-vozes-para-matar-trump/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:05:06-03:00"
+   "data": "2026-11-07T11:15:56-03:00"
   },
   {
-   "id": "867b62c70048",
-   "titulo": "Enem 2026: leia horários e o que pode levar para a prova",
-   "resumo": "Mais de 5 milhões de inscritos farão exames de redação, linguagens e ciências humanas no 1º dia",
-   "link": "https://www.poder360.com.br/poder-educacao/enem-2026-leia-horarios-e-o-que-pode-levar-para-a-prova/",
+   "id": "b867c5b70143",
+   "titulo": "Gonet defende que primo de Vorcaro siga preso após Fachin pedir reavaliação",
+   "resumo": "Parecer argumenta que não houve alteração na situação do investigado ou nos fatos apurados. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/gonet-defende-que-primo-de-vorcaro-siga-preso/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07110741/ASPA-GRANDE-2026-11-07T110749.173-960x540.jpg",
+   "data": "2026-11-07T11:14:51-03:00"
+  },
+  {
+   "id": "fa3b595594a5",
+   "titulo": "Projeto proíbe seguradoras de negar indenização por imprudência",
+   "resumo": "Proposta em análise na Câmara impede a recusa de pagamentos de seguros de vida e acidentes pessoais com base em negligência do segurado",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-proibe-seguradoras-de-negar-indenizacao-por-imprudencia/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:02:43-03:00"
+   "data": "2026-11-07T11:12:26-03:00"
   },
   {
-   "id": "190c3066ab06",
-   "titulo": "Lula deve ter 40 ministérios, maior número da Nova República",
-   "resumo": "Segurança Pública e Idoso abrem espaço a aliados e ao Centrão; número supera recorde de Dilma e reacende debate sobre custos",
-   "link": "https://www.poder360.com.br/poder-governo/lula-deve-ter-40-ministerios-maior-numero-da-nova-republica/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-4-tera-maior-ministerios-6-nov-2026-1-scaled.png",
-   "data": "2026-11-07T06:00:56-03:00"
+   "id": "497cfda2c641",
+   "titulo": "Gabriel Wilhelms: O ‘Estado de Direito’ de Alcolumbre",
+   "resumo": "Gabriel Wilhelms* Alcolumbre deu um chilique no Senado, ativou o modo cabo eleitoral de Lula e demonstrou, mais uma vez, que não tem condições de continuar na presidência da casa. Em seu patético histerismo, vociferou contra a eleição de um…",
+   "link": "https://revistaoeste.com/politica/gabriel-wilhelms-o-estado-de-direito-de-alcolumbre/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/08/Alcolumbre-2.jpeg",
+   "data": "2026-11-07T11:00:00-03:00"
   },
   {
-   "id": "034863c34b0d",
-   "titulo": "Enem 2026: saiba como visualizar o local de prova",
-   "resumo": "Documento informa dados e local das provas de 8 e 15 de novembro; Inep recomenda levá-lo no dia do exame",
-   "link": "https://www.poder360.com.br/poder-educacao/enem-2026-saiba-como-visualizar-o-local-de-prova/",
+   "id": "6f7467202247",
+   "titulo": "Marinho pede que aliados não ataquem Tereza Cristina: “É nossa amiga”",
+   "resumo": "Rogério Marinho (PL-RN), candidato à presidência do Senado, pediu que aliados da direita evitem ataques à senadora Tereza Cristina (PP-MS), que também articula uma candidatura ao comando da Casa. Os dois pretendem disputar o cargo contra o …",
+   "link": "https://oantagonista.com.br/brasil/marinho-pede-que-aliados-nao-ataquem-tereza-cristina-e-nossa-amiga/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55528643231_aeb1002b14_o-scaled-e1791298528987.jpg",
+   "data": "2026-11-07T10:52:16-03:00"
+  },
+  {
+   "id": "864162c2252a",
+   "titulo": "Gonet pede que STF suspenda ações sobre bets em todo o país",
+   "resumo": "PGR citou 14 processos contra proibição a casas de apostas e falou em insegurança jurídica. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/gonet-pede-que-stf-suspensa-acoes-sobre-bets-em-todo-o-pais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07103127/ASPA-GRANDE-2026-11-07T103137.609-960x540.jpg",
+   "data": "2026-11-07T10:37:16-03:00"
+  },
+  {
+   "id": "c1b543ff79ab",
+   "titulo": "Trocar grãos refinados por integrais pode beneficiar o coração",
+   "resumo": "Metanálise associa substituição a melhores indicadores de colesterol, triglicérides, pressão arterial e glicemia",
+   "link": "https://www.poder360.com.br/poder-saude/trocar-graos-refinados-por-integrais-pode-beneficiar-o-coracao/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-07T06:00:42-03:00"
+   "data": "2026-11-07T10:35:41-03:00"
+  },
+  {
+   "id": "aaa19bf31267",
+   "titulo": "Anac cobra explicações sobre aviões ligados a Vorcaro que teriam transportado Moraes",
+   "resumo": "A Agência Nacional de Aviação Civil (Anac) notificou os operadores de dois aviões ligados ao banqueiro Daniel Vorcaro para esclarecer se as aeronaves foram usadas em voos remunerados sem autorização. Os jatos podem ter transportado o minist…",
+   "link": "https://oantagonista.com.br/brasil/anac-cobra-explicacoes-sobre-avioes-ligados-a-vorcaro-que-teriam-transportado-moraes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55620004836_7068782c11_5k-scaled-e1793985495177.jpg",
+   "data": "2026-11-07T10:34:03-03:00"
+  },
+  {
+   "id": "45a73144bc54",
+   "titulo": "Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins",
+   "resumo": "Ministro argumentou que os três respondem a inquéritos por \"fatos conexos\", mas não deu detalhes. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07095207/ASPA-GRANDE-2026-11-07T095217.909-960x540.jpg",
+   "data": "2026-11-07T10:18:10-03:00"
+  },
+  {
+   "id": "63e10c16d386",
+   "titulo": "Gonet pede ao STF suspensão de ações sobre bets em outras instâncias",
+   "resumo": "Procurador-geral da República afirma que multiplicação de decisões judiciais divergentes em 1ª e 2ª instâncias provoca insegurança jurídica",
+   "link": "https://www.poder360.com.br/poder-justica/gonet-pede-ao-stf-suspensao-de-acoes-sobre-bets-em-outras-instancias/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T10:13:38-03:00"
+  },
+  {
+   "id": "553fa3285c0a",
+   "titulo": "Marlon Reguelin: ‘Lá vem o Brasil descendo a ladeira’",
+   "resumo": "Por Marlon Reguelin* Entre tantas ladeiras que esculpem o visual do Rio de Janeiro, uma em especial foi berço de um dos melhores sambas (com muito tempero) já compostos nesse país de musicalidade tão rica. Moraes Moreira, o lendário letrist…",
+   "link": "https://revistaoeste.com/politica/marlon-reguelin-la-vem-o-brasil-descendo-a-ladeira/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/55593269713_ba5da2dfed_o.jpg",
+   "data": "2026-11-07T10:00:00-03:00"
+  },
+  {
+   "id": "953e78df168d",
+   "titulo": "Lula critica propaganda da Globo sobre crianças passando fome: ‘Mentira’",
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) criticou nesta sexta-feira, 6, a Rede Globo por exibir uma propaganda que supostamente mostraria crianças passando fome no Brasil. O petista não especificou sobre qual anúncio estava se referindo.…",
+   "link": "https://revistaoeste.com/politica/lula-critica-propaganda-da-globo-sobre-criancas-passando-fome-mentira/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/sem_titulo-15.jpg",
+   "data": "2026-11-07T09:58:03-03:00"
+  },
+  {
+   "id": "205420410d49",
+   "titulo": "Resumo da semana: o novo imposto que vai mexer com o bolso dos brasileiros",
+   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
+   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-o-novo-imposto-que-vai-mexer-com-o-bolso-dos-brasileiros/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06182305/thumb-gazeta-agora_cortes-1-12-960x540.jpg",
+   "data": "2026-11-07T09:31:00-03:00"
+  },
+  {
+   "id": "fefd90ffdf8f",
+   "titulo": "Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/07/gonet-pede-ao-stf-suspensao-de-acoes-contra-mp-do-fim-das-bets-ate-corte-decidir-sobre-proibicao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/MJjL_MW9Y78hmWy-GmOSBwZARvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/J/8O2i5ySK2XpgSoKBqOVQ/0d4a2600.jpg",
+   "data": "2026-11-07T09:20:24-03:00"
+  },
+  {
+   "id": "f9c3bad5cc87",
+   "titulo": "Gonet pede que STF suspenda ações sobre bets",
+   "resumo": "O procurador-geral da República, Paulo Gonet (foto), pediu ao Supremo Tribunal Federal (STF) que suspenda em todo o país as ações judiciais que questionam a proibição das bets. O objetivo é evitar decisões divergentes enquanto a Corte anali…",
+   "link": "https://oantagonista.com.br/brasil/gonet-pede-que-stf-suspenda-acoes-sobre-bets/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530054278_e2b51c5e09_4k-scaled.jpg",
+   "data": "2026-11-07T08:35:10-03:00"
+  },
+  {
+   "id": "4b999b3e65bb",
+   "titulo": "Pacto Contra a Fome rebate Lula após ataques",
+   "resumo": "Lula (PT) atacou a Globo nesta sexta-feira, 6, por causa de uma campanha contra a fome exibida pela emissora. Irritado com a informação de que 7 milhões de brasileiros vivem em situação de insegurança alimentar grave, o petista chamou o dad…",
+   "link": "https://oantagonista.com.br/brasil/pacto-contra-a-fome-rebate-lula-apos-ataques/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-1.jpg",
+   "data": "2026-11-07T08:21:31-03:00"
+  },
+  {
+   "id": "40803ca4e4ec",
+   "titulo": "Qual o verdadeiro custo da tarifa zero prometida por Lula?",
+   "resumo": "Os R$ 12 bilhões previstos pelo governo Lula para bancar a tarifa zero nos ônibus aos fins de semana podem não cobrir o custo da medida. Estimativas de empresas do setor e de economistas ouvidos pela Folha apontam que seriam necessários mai…",
+   "link": "https://oantagonista.com.br/brasil/qual-o-verdadeiro-custo-da-tarifa-zero-prometida-por-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-07-as-07.54.10.png",
+   "data": "2026-11-07T07:58:21-03:00"
+  },
+  {
+   "id": "c673a03a67cc",
+   "titulo": "Lula teve alcance 1,5 vez maior que Flávio no Instagram, diz Meta",
+   "resumo": "A Meta afirmou ao Tribunal Superior Eleitoral (TSE) que as contas de Lula (PT) alcançaram cerca de 1,5 vez mais pessoas do que os perfis de Flávio Bolsonaro (PL) no Instagram durante a campanha presidencial de 2026. A empresa negou favorece…",
+   "link": "https://oantagonista.com.br/brasil/lula-teve-alcance-15-vez-maior-que-flavio-no-instagram-diz-meta/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Lula-e-Flavio-Bolsonaro.jpg",
+   "data": "2026-11-07T07:40:06-03:00"
+  },
+  {
+   "id": "5ab0eb71deba",
+   "titulo": "Lula parabeniza novo presidente do Paraguai após prisão de Peña",
+   "resumo": "Lula (PT) parabenizou Pedro Alliana pela posse na Presidência do Paraguai. A mensagem foi publicada nesta sexta-feira, 6, horas depois de o Senado paraguaio aprovar o impeachment de Santiago Peña, que deixou o cargo e acabou preso. “Transmi…",
+   "link": "https://oantagonista.com.br/brasil/lula-parabeniza-novo-presidente-do-paraguai-apos-prisao-de-pena/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591966982_1eeec7c79a_3k.jpg",
+   "data": "2026-11-07T07:18:43-03:00"
+  },
+  {
+   "id": "7a47c1cb6e40",
+   "titulo": "Os acordos que sustentam a reeleição de Hugo Motta na Câmara",
+   "resumo": "A formação de um bloco parlamentar que pode reunir 328 deputados, a adesão da federação formada por PT, PCdoB e PV e as negociações com o PL compõem a articulação política em torno da reeleição de Hugo Motta (Republicanos-PB) à presidência …",
+   "link": "https://revistaoeste.com/politica/acordos-reeleicao-hugo-motta/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/imagem_materia-4.jpg",
+   "data": "2026-11-07T07:00:00-03:00"
+  },
+  {
+   "id": "bf56a068f7ee",
+   "titulo": "Flávio diz ter comunicado a Tarcísio que será candidato",
+   "resumo": "Flávio Bolsonaro (PL-RJ) afirmou ter a intenção de disputar a Presidência em 2030, caso seu pai, Jair Bolsonaro, continue inelegível e o partido apoie seu nome. Em entrevista à Folha de S.Paulo, publicada nesta sexta-feira, 6, o senador dis…",
+   "link": "https://oantagonista.com.br/brasil/flavio-diz-ter-comunicado-a-tarcisio-que-sera-candidato/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55585445104_b1461c9537_k.jpg",
+   "data": "2026-11-07T06:56:42-03:00"
   },
   {
    "id": "71f71003892d",
@@ -229,15 +418,6 @@
    "data": "2026-11-06T20:42:25-03:00"
   },
   {
-   "id": "ac15ac413808",
-   "titulo": "Fachin homologa delação de ex-dono da Reag no caso Master",
-   "resumo": "Nesta sexta-feira, 6, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, homologou o acordo de colaboração premiada de João Carlos Mansur, fundador e ex-controlador da empresa Reag Investimentos. De acordo com a Polícia Federal (…",
-   "link": "https://revistaoeste.com/politica/fachin-homologa-delacao-de-ex-dono-da-reag-no-caso-master/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/Fachin.jpg",
-   "data": "2026-11-06T20:20:58-03:00"
-  },
-  {
    "id": "4a7af7ac85dc",
    "titulo": "Celular de Daniel Vorcaro revela centenas de interações com Alexandre de Moraes",
    "resumo": "Análise no celular de Daniel Vorcaro aponta 316 interações com Alexandre de Moraes antes de prisão. Confira detalhes sobre as mensagens e o contrato do Banco Master.",
@@ -245,15 +425,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/06201127/Design-sem-nome-35-1-960x540.jpg",
    "data": "2026-11-06T20:11:22-03:00"
-  },
-  {
-   "id": "f2a43c1a016c",
-   "titulo": "Kassab quer manter 3 ministérios no governo Lula 4",
-   "resumo": "O presidente nacional do PSD, Gilberto Kassab, articula a manutenção de pelo menos três ministérios na Esplanada no próximo governo do presidente Luiz Inácio Lula da Silva (PT), segundo informações da agência Broadcast. A legenda comanda at…",
-   "link": "https://revistaoeste.com/politica/kassab-quer-manter-3-ministerios-no-governo-lula-4/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/01/kassab-lula-Ricardo-StuckertInstituto-Lula.jpg",
-   "data": "2026-11-06T19:59:37-03:00"
   },
   {
    "id": "d7d2c44123c4",
@@ -283,33 +454,6 @@
    "data": "2026-11-06T19:44:14-03:00"
   },
   {
-   "id": "50abb39768b7",
-   "titulo": "Flávio diz que pai errou ao voltar ao Brasil: ‘Não vou cometer o mesmo erro’",
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ) afirmou que o ex-presidente Jair Bolsonaro errou ao retornar ao Brasil, em março de 2023, depois de passar cerca de três meses nos Estados Unidos. Em entrevista ao jornalista Glenn Greenwald nesta sexta-fe…",
-   "link": "https://revistaoeste.com/politica/flavio-diz-que-pai-errou-ao-voltar-ao-brasil-nao-vou-cometer-o-mesmo-erro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/flavio-glenn.jpg",
-   "data": "2026-11-06T19:20:08-03:00"
-  },
-  {
-   "id": "963b7b179d15",
-   "titulo": "Caso Master: Fachin homologa delação de ex-presidente da Reag",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, homologou nesta sexta-feira, 6, o acordo de delação premiada do fundador e ex-presidente da Reag Investimentos, João Carlos Mansur. A colaboração foi firmada com a Procu…",
-   "link": "https://oantagonista.com.br/brasil/caso-master-fachin-homologa-delacao-de-ex-presidente-da-reag/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55528986812_d4fdf4f433_6k-scaled.jpg",
-   "data": "2026-11-06T19:14:30-03:00"
-  },
-  {
-   "id": "ee29bf7f8fd0",
-   "titulo": "Polícia faz operação na casa de ex-candidata ao governo do Amazonas",
-   "resumo": "A Polícia Civil do Amazonas realizou uma operação na residência da ex-candidata ao governo do estado Maria do Carmo Seffair (PL) na manhã desta sexta-feira, 6. Os agentes apreenderam o celular e o computador da empresária, que serão submeti…",
-   "link": "https://oantagonista.com.br/brasil/policia-faz-operacao-na-casa-de-ex-candidata-ao-governo-do-amazonas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-06T190238.679.png",
-   "data": "2026-11-06T19:04:04-03:00"
-  },
-  {
    "id": "426962f55038",
    "titulo": "Governo suspende registro de imóveis de Willer Tomaz em Angra dos Reis, incluindo ilha de Richarlison",
    "resumo": "",
@@ -319,24 +463,6 @@
    "data": "2026-11-06T19:01:56-03:00"
   },
   {
-   "id": "fb5c64a92515",
-   "titulo": "Partido Novo questiona ações do governo federal no TSE por abuso de poder",
-   "resumo": "Conheça as 35 medidas governamentais, de subsídios a combustíveis ao Bolsa Família, que motivaram a ação do partido Novo contra a chapa Lula-Alckmin no TSE.",
-   "link": "https://www.gazetadopovo.com.br/republica/partido-novo-questiona-acoes-do-governo-federal-no-tse-por-abuso-de-poder/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/06190116/lula-alckmin-1-960x540.jpg",
-   "data": "2026-11-06T19:01:13-03:00"
-  },
-  {
-   "id": "e347457e2dab",
-   "titulo": "Servidores do IBGE ficam sem salário após descontos de greve",
-   "resumo": "O governo aguarda resposta do IBGE para discutir os descontos, enquanto sindicato cobra negociação e contesta corte integral dos salários.",
-   "link": "https://www.gazetadopovo.com.br/republica/servidores-do-ibge-ficam-sem-salario-apos-descontos-de-greve/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2021/04/16145810/agente-ibge-crop-20210416175601-960x540.jpg",
-   "data": "2026-11-06T19:00:11-03:00"
-  },
-  {
    "id": "d1956c3369c7",
    "titulo": "Lula sanciona exame que irá avaliar qualidade de alunos de medicina",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-exame-que-ira-avaliar-qualidade-de-alunos-de-medicina\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -344,42 +470,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-06T18:57:00-03:00"
-  },
-  {
-   "id": "ec29f3d0297b",
-   "titulo": "Lula sanciona lei que cria a “OAB da Medicina” no Brasil",
-   "resumo": "O presidente Lula (PT) sancionou nesta sexta-feira, 6, a lei que torna obrigatório o Exame Nacional de Avaliação da Formação Médica (Enamed) como requisito para comprovar a proficiência de novos médicos. Conhecida como “OAB da Medicina”, a …",
-   "link": "https://oantagonista.com.br/brasil/lula-sanciona-lei-que-cria-a-oab-da-medicina-no-brasil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591966982_1eeec7c79a_3k.jpg",
-   "data": "2026-11-06T18:13:57-03:00"
-  },
-  {
-   "id": "b08560805409",
-   "titulo": "Ciro Nogueira prepara mudança para São Paulo após derrota no Piauí",
-   "resumo": "O senador Ciro Nogueira (PP-PI) planeja transferir sua base de atuação para São Paulo a partir de fevereiro de 2027. Derrotado na disputa pela reeleição ao Senado pelo Piauí, o presidente nacional do Progressistas pretende continuar à frent…",
-   "link": "https://oantagonista.com.br/brasil/ciro-nogueira-prepara-mudanca-para-sao-paulo-apos-derrota-no-piaui/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Ciro-melhor.png",
-   "data": "2026-11-06T18:03:51-03:00"
-  },
-  {
-   "id": "0e038a1978ad",
-   "titulo": "Lula sanciona ‘OAB da Medicina’ e condiciona exercício da profissão ao exame",
-   "resumo": "O presidente Luiz Inácio Lula da Silva sancionou nesta sexta-feira, 6, a lei que exige desempenho mínimo no Exame Nacional de Avaliação da Formação Médica (Enamed) para a obtenção do registro profissional. Conhecida como “OAB da medicina”, …",
-   "link": "https://revistaoeste.com/politica/lula-sanciona-oab-da-medicina-e-condiciona-exercicio-da-profissao-ao-exame/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/lula-2.jpg",
-   "data": "2026-11-06T18:01:30-03:00"
-  },
-  {
-   "id": "ff8453d8c4f9",
-   "titulo": "Entenda a PEC da redução da maioridade penal em debate na Câmara",
-   "resumo": "Adiamento da votação no Senado aumentou a pressão para que a Câmara avance com a PEC da redução da maioridade penal.",
-   "link": "https://www.gazetadopovo.com.br/republica/entenda-o-que-preve-a-proposta-de-reducao-da-maioridade-penal-em-debate-na-camara/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/06175217/alcolumbre-motta-maioridade-penal-960x540.jpg",
-   "data": "2026-11-06T17:54:04-03:00"
   },
   {
    "id": "93f00fb902d2",
@@ -409,15 +499,6 @@
    "data": "2026-11-06T17:19:28-03:00"
   },
   {
-   "id": "1aec62ea4fa7",
-   "titulo": "Lula mantém imposto de 12% sobre exportação de petróleo até dezembro",
-   "resumo": "O governo Lula prorrogou até 31 de dezembro a cobrança de 12% sobre as exportações de petróleo bruto. A decisão mantém o tributo por meio de resolução da Câmara de Comércio Exterior (Camex), mecanismo utilizado desde que a medida provisória…",
-   "link": "https://revistaoeste.com/politica/lula-mantem-imposto-de-12-sobre-exportacao-de-petroleo-ate-dezembro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Lula_Deficit-publico.jpeg",
-   "data": "2026-11-06T17:16:40-03:00"
-  },
-  {
    "id": "12aa6c283c92",
    "titulo": "Fachin homologa delação de fundador da Reag, investigado no caso Master",
    "resumo": "",
@@ -425,24 +506,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/b6akKpXxJPE-ikq-MlN6otSV1DE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/r/dMriEMQryCNCkYy3SnJA/1698950101021.jpg",
    "data": "2026-11-06T17:08:43-03:00"
-  },
-  {
-   "id": "8a3af63f27bd",
-   "titulo": "Nubank suspende saques de criptomoedas e Mercado Pago bloqueia transferências",
-   "resumo": "Nubank e Mercado Pago atribuem restrições a problemas em fornecedores externos; empresas esclarecem os incidentes.",
-   "link": "https://www.gazetadopovo.com.br/republica/nubank-suspende-saques-de-criptomoedas-e-mercado-pago-bloqueia-transferencias/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2021/01/04161640/ethereum-3818528_1920-crop-20210204181522-960x540.jpg",
-   "data": "2026-11-06T17:08:13-03:00"
-  },
-  {
-   "id": "dcde1afec8b5",
-   "titulo": "Justiça Federal barra acusação de improbidade contra Jair Bolsonaro e Wal do Açaí",
-   "resumo": "Juiz federal rejeita ação de improbidade contra Jair Bolsonaro e Wal do Açaí, citando falta de provas de dolo e inexistência de desvio de recursos públicos.",
-   "link": "https://www.gazetadopovo.com.br/republica/justica-federal-barra-acusacao-de-improbidade-contra-jair-bolsonaro-e-wal-do-acai/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/06165329/jair-bolsonaro-960x540.jpg",
-   "data": "2026-11-06T16:53:26-03:00"
   },
   {
    "id": "f5480d88cbfd",
@@ -470,51 +533,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/05204658/lula-alckmin-960x540.jpg",
    "data": "2026-11-06T15:26:01-03:00"
-  },
-  {
-   "id": "4b07b2169d78",
-   "titulo": "Crusoé: Moraes autoriza visita de Carlos Bolsonaro a Martins; Gayer é barrado",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou nesta sexta-feira, 6, o ex-assessor do ex-presidente Jair Bolsonaro (PL) Filipe Martins a receber visitas do senador eleito Carlos Bolsonaro (PL-SC) e de outras se…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-moraes-autoriza-visita-de-carlos-bolsonaro-a-martins-gayer-e-barrado/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Alexandre-de-Moraes.jpg",
-   "data": "2026-11-06T15:15:30-03:00"
-  },
-  {
-   "id": "7d87bc7d4314",
-   "titulo": "Crusoé: Torres pede a Moraes para receber vice-presidente do TCU e 4 deputados",
-   "resumo": "O ex-ministro da Justiça Anderson Torres pediu nesta sexta-feira, 6, ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para receber visitas de 11 pessoas na Papudinha, no Distrito Federal. A lista inclui o vice…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-torres-pede-a-moraes-para-receber-vice-presidente-do-tcu-e-4-deputados/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/06/8144f2e9-4941-4b51-973a-2ffcae5e3699.jpg",
-   "data": "2026-11-06T15:11:17-03:00"
-  },
-  {
-   "id": "402ebeddaee4",
-   "titulo": "As novas mensagens entre Vorcaro e Moraes",
-   "resumo": "Mensagens recuperadas a partir do celular de Daniel Vorcaro indicam uma relação de intimidade do ex-banqueiro com o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes (foto). As mensagens de Moraes tinham sido apagadas e foram r…",
-   "link": "https://oantagonista.com.br/brasil/as-novas-mensagens-entre-vorcaro-e-moraes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55620004836_7068782c11_5k-scaled-e1793985495177.jpg",
-   "data": "2026-11-06T14:33:24-03:00"
-  },
-  {
-   "id": "9ed88b429298",
-   "titulo": "PDT aprova entrada em federação com Solidariedade, PRD e Avante",
-   "resumo": "A Executiva Nacional do Partido Democrático Trabalhista (PDT) aprovou nesta sexta-feira, 6, o ingresso da sigla numa federação partidária com o Solidariedade, Partido Renovação Democrática (PRD) e Avante. O colegiado também se manifestou fa…",
-   "link": "https://oantagonista.com.br/brasil/pdt-aprova-entrada-em-federacao-com-solidariedade-prd-e-avante/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/lula3331-1-scaled.jpg",
-   "data": "2026-11-06T14:11:09-03:00"
-  },
-  {
-   "id": "7482b821b34d",
-   "titulo": "Lula diz que será “fiscal” de entregas: “Quem não quiser fazer cai fora”",
-   "resumo": "O presidente Lula (PT) afirmou nesta sexta-feira, 6, que passará a cobrar pessoalmente prazos para a execução das medidas aprovadas pelo governo. Durante reunião do Conselho Nacional de Política Energética (CNPE), ele disse que será “fiscal…",
-   "link": "https://oantagonista.com.br/brasil/lula-diz-que-sera-fiscal-de-entregas-quem-nao-quiser-fazer-cai-fora/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55605331932_6554968e71_3k-e1793450807904.jpg",
-   "data": "2026-11-06T14:00:44-03:00"
   },
   {
    "id": "ff7190549aa7",
@@ -560,24 +578,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/55610530670-181c386520-o.jpg",
    "data": "2026-11-06T10:20:32-03:00"
-  },
-  {
-   "id": "e36531005501",
-   "titulo": "Lula faz primeiros acenos concretos na direção de ajuste fiscal e alinha discurso com propostas de Durigan",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/06/lula-faz-primeiros-acenos-concretos-na-direcao-de-ajuste-fiscal-e-alinha-discurso-com-propostas-de-durigan.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/DyBcgG1d6-YBaavWQ179vOElsHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/a7aBw0Qby6tt0ksZmz8A/55635225890-bb5aa47d29-k.jpg",
-   "data": "2026-11-06T10:19:14-03:00"
-  },
-  {
-   "id": "c4e10fd24e61",
-   "titulo": "Fazenda: ajuste fiscal sem estelionato eleitoral",
-   "resumo": "Fazenda: ajuste fiscal sem estelionato eleitoral A avaliação entre interlocutores de Luiz Inácio Lula da Silva (PT) é que o início do quarto mandato exigirá um ajuste fiscal, com ênfase na contenção e revisão de despesas, mas sem caracteriz…",
-   "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/06/fazenda-ajuste-fiscal-sem-estelionato-eleitoral.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-06T09:15:59-03:00"
   },
   {
    "id": "4ccfe1f6fb67",
@@ -695,24 +695,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-04T17:29:00-03:00"
-  },
-  {
-   "id": "ca261d614dc1",
-   "titulo": "Exames do presidente Lula estão dentro da normalidade, diz boletim",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/exames-do-presidente-lula-estao-dentro-da-normalidade-diz-boletim\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/exames-do-presidente-lula-estao-dentro-da-normalidade-diz-boletim",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-04T08:27:00-03:00"
-  },
-  {
-   "id": "cd95867ddc76",
-   "titulo": "Entenda a diferença entre o voto proporcional e o voto distrital misto",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/entenda-diferenca-entre-o-voto-proporcional-e-o-voto-distrital-misto\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/entenda-diferenca-entre-o-voto-proporcional-e-o-voto-distrital-misto",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-04T07:50:00-03:00"
   }
  ]
 }
