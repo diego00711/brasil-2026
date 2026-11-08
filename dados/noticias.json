@@ -1,13 +1,112 @@
 {
- "atualizado": "2026-11-07T21:28:20.078599-03:00",
- "total": 74,
+ "atualizado": "2026-11-08T04:14:02.781031-03:00",
+ "total": 73,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "5c95723ecda6",
+   "id": "ebb3111416b5",
+   "titulo": "PT pede Pix para cobrir gastos com campanha de Lula",
+   "resumo": "O Partido dos Trabalhadores (PT) abriu uma vaquinha na internet para levantar R$ 7 milhões e quitar despesas da campanha de reeleição do presidente Luiz Inácio Lula da Silva. A legenda pede que apoiadores façam doações de R$ 13 via Pix, val…",
+   "link": "https://revistaoeste.com/politica/pt-pede-pix-para-cobrir-gastos-com-campanha-de-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/06/Lula.jpg",
+   "data": "2026-11-08T00:09:50-03:00"
+  },
+  {
+   "id": "092e3194b389",
+   "titulo": "Ajuste nas contas públicas: o que está na mesa de Lula e o que está fora do radar do presidente",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/08/ajuste-nas-contas-publicas-o-que-esta-na-mesa-de-lula-e-o-que-esta-fora-do-radar-do-presidente.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/b7ez4hNKIQe_GZ-5DG_JWOFE89o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/Pqy7aFTfanabmKhk1qgQ/55634066822-25cc1cb099-o.jpg",
+   "data": "2026-11-08T00:00:00-03:00"
+  },
+  {
+   "id": "9b16234b1cf1",
+   "titulo": "Maioridade penal: especialistas apontam falhas no ECA e defendem mudanças no sistema socioeducativo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/08/maioridade-penal-especialistas-apontam-falhas-no-eca-e-defendem-mudancas-no-sistema-socioeducativo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/SOYFQa3BllBwinCr-iXE9GF7FHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/n/RwszvbTQieyAAbER1hUg/menores.jpg",
+   "data": "2026-11-08T00:00:00-03:00"
+  },
+  {
+   "id": "5b9f1bf4cefd",
+   "titulo": "Gilmar Mendes reclama de ‘acusações levianas’ contra o resultado eleitoral",
+   "resumo": "O decano do Supremo Tribunal Federal (STF) , Gilmar Mendes, usou a conta que mantém na rede social X para criticar o que classifica como \"acusações levianas\" contra o resultado das eleições brasileiras. A reclamação do ministro foi publicad…",
+   "link": "https://revistaoeste.com/politica/gilmar-mendes-reclama-de-acusacoes-levianas-contra-o-resultado-eleitoral/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/Gilmar-Mendes-2.jpeg",
+   "data": "2026-11-07T23:14:29-03:00"
+  },
+  {
+   "id": "c4168f9c1e16",
+   "titulo": "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país",
+   "resumo": "Um dos critério para a seleção, de acordo com a agência, será a participação em programas públicos de pesquisa",
+   "link": "https://www.poder360.com.br/poder-saude/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais/",
+   "fonte": "Poder360",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1708047&o=node",
+   "data": "2026-11-07T23:11:28-03:00"
+  },
+  {
+   "id": "aade15696b05",
+   "titulo": "Binance anuncia saída de diretor financeiro após roubo bilionário",
+   "resumo": "Kaiser Ng estava há 5 anos na corretora; hackers roubaram US$ 6 bilhões em criptomoedas da plataforma no final de outubro",
+   "link": "https://www.poder360.com.br/poder-economia/binance-anuncia-saida-de-diretor-financeiro-apos-roubo-bilionario/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T22:56:16-03:00"
+  },
+  {
+   "id": "d8142a45d0c2",
+   "titulo": "Erika Hilton cobra ação contra turista acusado de assédio na Bahia",
+   "resumo": "Deputada acionou Secretaria de Segurança Pública e o Itamaraty após relato de importunação sexual em Salvador e pediu medidas para proteger a vítima",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/erika-hilton-cobra-acao-contra-turista-acusado-de-assedio-na-bahia/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/erikahilton-assedio-salvador-israelense-7nov2026.png",
+   "data": "2026-11-07T22:53:34-03:00"
+  },
+  {
+   "id": "4f6da7154dd0",
+   "titulo": "Presidente de Israel indica rival de Netanyahu para formar governo",
+   "resumo": "Gadi Eisenkot recebeu apoio de 67 parlamentares, mas enfrenta divergências na oposição para construir uma coalizão",
+   "link": "https://www.poder360.com.br/poder-internacional/presidente-de-israel-indica-rival-de-netanyahu-para-formar-governo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T22:37:20-03:00"
+  },
+  {
+   "id": "b55916ae52b3",
+   "titulo": "Ator de Dark Horse acusa governo Lula de agir para barrar exibição do filme",
+   "resumo": "Intérprete do ex-presidente Jair Bolsonaro em Dark Horse acusa Lula de impedir a exibição do filme no Brasil. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/ator-de-dark-horse-acusa-governo-lula-de-agir-para-barrar-exibicao-do-filme/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07221435/jim-caviezel-960x540.jpg",
+   "data": "2026-11-07T22:16:41-03:00"
+  },
+  {
+   "id": "0cabf1652193",
+   "titulo": "Uruguai libera importação de frango do Brasil",
+   "resumo": "País reconheceu restrição sanitária limitada a Santa Catarina; decisão encerra último embargo de alcance nacional",
+   "link": "https://www.poder360.com.br/poder-agro/uruguai-libera-importacao-de-frango-do-brasil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T22:00:34-03:00"
+  },
+  {
+   "id": "526c91bb07ef",
+   "titulo": "SP emite 72 alertas de chuva; Petrópolis (RJ) aciona sirenes",
+   "resumo": "Temporais atingiram cidades dos 2 Estados neste sábado (7.nov); capital fluminense registrou alagamentos",
+   "link": "https://www.poder360.com.br/poder-brasil/sp-emite-72-alertas-de-chuva-petropolis-rj-aciona-sirenes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T21:55:20-03:00"
+  },
+  {
+   "id": "4e6b356e7a0a",
    "titulo": "Justiça do Paraguai determina prisão preventiva de Peña e ex-BC",
    "resumo": "Decisão do juiz Humberto Otazú atende pedido do MP do país, que investiga possíveis favorecimentos ao Ueno Bank",
-   "link": "https://www.poder360.com.br/poder-justica/justica-do-paraguai-determina-prisao-preventiva-de-pena-e-ex-bc/",
+   "link": "https://www.poder360.com.br/poder-internacional/justica-do-paraguai-determina-prisao-preventiva-de-pena-e-ex-bc/",
    "fonte": "Poder360",
    "imagem": "",
    "data": "2026-11-07T21:20:13-03:00"
@@ -56,42 +155,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/156a0214-d77d-4853-a232-544d6538dece-scaled.jpg",
    "data": "2026-11-07T19:45:02-03:00"
-  },
-  {
-   "id": "2684f3e36c41",
-   "titulo": "De direita, Cleitinho é chamado de socialista nas redes sociais; entenda",
-   "resumo": "Governador eleito de Minas Gerais criticou patrocínios a clubes de futebol e já defendeu fim da escala 6 X 1, isenção do IR e manutenção da Cemig como estatal",
-   "link": "https://www.poder360.com.br/poder-congresso/de-direita-cleitinho-e-chamado-de-socialista-nas-redes-sociais-entenda/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-2026-11-07-as-18.09.16.png",
-   "data": "2026-11-07T19:30:56-03:00"
-  },
-  {
-   "id": "52cdd7dc466a",
-   "titulo": "MP do Paraguai acusa Peña por caso envolvendo Ueno Bank",
-   "resumo": "Órgão também denuncia o ex-chefe do Banco Central e pede manutenção da prisão preventiva por suspeitas de irregularidades",
-   "link": "https://www.poder360.com.br/poder-internacional/mp-do-paraguai-acusa-pena-por-caso-envolvendo-ueno-bank/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T19:29:14-03:00"
-  },
-  {
-   "id": "48d4a01ce6fe",
-   "titulo": "Polícia investiga ameaça de morte contra 77 deputados de MG",
-   "resumo": "Mensagens foram enviadas por e-mail aos parlamentares da Assembleia Legislativa; Polícia Civil apura o caso",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/policia-investiga-ameaca-de-morte-contra-77-deputados-de-mg/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T19:24:14-03:00"
-  },
-  {
-   "id": "d19f93ee7da9",
-   "titulo": "Ataque a tiros deixa 5 mortos e mais de 10 feridos na Polônia",
-   "resumo": "Homem disparou contra pessoas em praça de Cracóvia; suspeito foi baleado pela polícia e levado ao hospital",
-   "link": "https://www.poder360.com.br/poder-internacional/ataque-a-tiros-deixa-5-mortos-e-mais-de-10-feridos-na-polonia/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/policia-polonesa-ataque-7.nov_.2026.png",
-   "data": "2026-11-07T18:55:56-03:00"
   },
   {
    "id": "09a6fd686acc",
@@ -164,24 +227,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro-e-moraes_enrolados.jpeg",
    "data": "2026-11-07T18:00:00-03:00"
-  },
-  {
-   "id": "6991bbbd1d55",
-   "titulo": "No Uruguai, papa Leão 14 diz que mate é “símbolo de amizade”",
-   "resumo": "Durante missa em Paysandú, pontífice afirmou que bebida representa familiaridade e faz parte do cotidiano dos uruguaios",
-   "link": "https://www.poder360.com.br/poder-internacional/no-uruguai-papa-leao-14-diz-que-mate-e-simbolo-de-amizade/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/papa-uruguai-2.jpeg",
-   "data": "2026-11-07T17:55:24-03:00"
-  },
-  {
-   "id": "1313146b6a00",
-   "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
-   "resumo": "Relatório aponta que ex-vereador administrava empresas ligadas à facção e teria ocultado e destruído provas",
-   "link": "https://www.poder360.com.br/poder-justica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:48:33-03:00"
   },
   {
    "id": "921dbd392a82",
@@ -355,33 +400,6 @@
    "data": "2026-11-07T10:34:03-03:00"
   },
   {
-   "id": "45a73144bc54",
-   "titulo": "Moraes barra visitas de Gayer, Van Hattem e Jordy a Filipe Martins",
-   "resumo": "Ministro argumentou que os três respondem a inquéritos por \"fatos conexos\", mas não deu detalhes. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/moraes-barra-visitas-de-gayer-van-hattem-e-jordy-a-filipe-martins/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/07095207/ASPA-GRANDE-2026-11-07T095217.909-960x540.jpg",
-   "data": "2026-11-07T10:18:10-03:00"
-  },
-  {
-   "id": "553fa3285c0a",
-   "titulo": "Marlon Reguelin: ‘Lá vem o Brasil descendo a ladeira’",
-   "resumo": "Por Marlon Reguelin* Entre tantas ladeiras que esculpem o visual do Rio de Janeiro, uma em especial foi berço de um dos melhores sambas (com muito tempero) já compostos nesse país de musicalidade tão rica. Moraes Moreira, o lendário letrist…",
-   "link": "https://revistaoeste.com/politica/marlon-reguelin-la-vem-o-brasil-descendo-a-ladeira/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/55593269713_ba5da2dfed_o.jpg",
-   "data": "2026-11-07T10:00:00-03:00"
-  },
-  {
-   "id": "953e78df168d",
-   "titulo": "Lula critica propaganda da Globo sobre crianças passando fome: ‘Mentira’",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) criticou nesta sexta-feira, 6, a Rede Globo por exibir uma propaganda que supostamente mostraria crianças passando fome no Brasil. O petista não especificou sobre qual anúncio estava se referindo.…",
-   "link": "https://revistaoeste.com/politica/lula-critica-propaganda-da-globo-sobre-criancas-passando-fome-mentira/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/sem_titulo-15.jpg",
-   "data": "2026-11-07T09:58:03-03:00"
-  },
-  {
    "id": "fefd90ffdf8f",
    "titulo": "Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição",
    "resumo": "",
@@ -517,15 +535,6 @@
    "data": "2026-11-06T17:08:43-03:00"
   },
   {
-   "id": "f5480d88cbfd",
-   "titulo": "Lula sanciona lei que institui 'OAB da Medicina' para novos médicos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/06/lula-sanciona-lei-que-institui-oab-da-medicina-para-novos-medicos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Ellzg4b55M158S6FtIycvwJDewk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/5/aB4SXeSVahJvxovuH7ew/acidente-pp-3-.png",
-   "data": "2026-11-06T16:52:17-03:00"
-  },
-  {
    "id": "fb1596ef11b8",
    "titulo": "Lula quer levar Brasil à condição de país desenvolvido em quatro anos",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-levar-brasil-condicao-de-pais-desenvolvido-em-quatro-anos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -551,15 +560,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/523dbbc2-policia-federal-apura-compra-de-votos-suspeita-em-juazeiro-do-norte-ceara.jpg",
    "data": "2026-11-06T14:00:36-03:00"
-  },
-  {
-   "id": "1b8fa42a6a32",
-   "titulo": "Lula diz que será 'fiscal' de entregas do governo: 'Quem não quiser fazer, cai fora'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/06/lula-diz-que-sera-fiscal-de-entregas-do-governo-quem-nao-quiser-fazer-cai-fora.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/w4USltq7W0Xyb_Yxz3j4tkMHOvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/m/fUf7DLQtmw4dEtsJpI8g/55636397098-e58745195c-k.jpg",
-   "data": "2026-11-06T13:12:59-03:00"
   },
   {
    "id": "e396ad2d55dc",
@@ -659,15 +659,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/04/motta.jpeg",
    "data": "2026-11-05T07:00:26-03:00"
-  },
-  {
-   "id": "2af6f9332860",
-   "titulo": "Com Tereza no páreo, aliada articula reunião de Alcolumbre com senadoras",
-   "resumo": "Objetivo da reunião é aproximar bancada feminina de Alcolumbre, que tentará reeleição no Senado tendo Tereza Cristina como adversária",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/com-tereza-no-pareo-aliada-articula-reuniao-de-alcolumbre-com-senadoras",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-29-at-185857-e1777518608109.jpeg",
-   "data": "2026-11-05T02:00:56-03:00"
   }
  ]
 }
