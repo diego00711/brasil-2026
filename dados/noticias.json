@@ -1,25 +1,232 @@
 {
- "atualizado": "2026-11-08T12:03:44.729681-03:00",
- "total": 73,
+ "atualizado": "2026-11-08T16:38:23.129998-03:00",
+ "total": 69,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "5e52ba680651",
-   "titulo": "Defesa Civil diz que kits de emergência não indicam risco: “calma”",
-   "resumo": "Órgão esclareceu publicação sobre suprimentos para as primeiras 72 horas de desastres",
-   "link": "https://www.poder360.com.br/poder-brasil/defesa-civil-diz-que-kits-de-emergencia-nao-indicam-risco-calma/",
-   "fonte": "Poder360",
-   "imagem": "https://www.poder360.com.br/wp-content/themes/poder/assets/img/galeria/full-screen.svg",
-   "data": "2026-11-08T11:59:25-03:00"
+   "id": "9e18cfa33624",
+   "titulo": "TRE-MG manda suspender inquérito sobre posts de Ana Elisa",
+   "resumo": "O desembargador do Tribunal Regional Eleitoral de Minas Gerais (TRE-MG) Lincoln Rodrigues de Faria determinou a suspensão do inquérito da Polícia Federal aberto para apurar publicações da deputada federal eleita Ana Elisa Santos Silva (PT-M…",
+   "link": "https://oantagonista.com.br/brasil/tre-mg-manda-suspender-inquerito-sobre-posts-de-ana-elisa/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-84.png",
+   "data": "2026-11-08T16:26:35-03:00"
   },
   {
-   "id": "ac12445806cb",
-   "titulo": "Cleitinho quer acabar com verba estadual para festas em Minas",
-   "resumo": "Governador eleito afirma que pretende alinhar com deputados mineiros a destinação de recursos do Estado e de emendas para outras finalidades",
-   "link": "https://www.poder360.com.br/poder-brasil/cleitinho-quer-acabar-com-verba-estadual-para-festas-em-minas/",
+   "id": "0179f48d9cec",
+   "titulo": "Presidente do PT propõe voto em lista partidária com cotas para candidatos LGBT",
+   "resumo": "Edinho Silva falou ainda em aumentar reserva de candidaturas femininas para 50% e instituir cotas para indígenas. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/presidente-do-pt-propoe-voto-em-lista-partidaria-com-cotas-para-candidatos-lgbt/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/08154735/ASPA-GRANDE-2026-11-08T154731.599-960x540.jpg",
+   "data": "2026-11-08T16:01:34-03:00"
+  },
+  {
+   "id": "3b4c4b84552c",
+   "titulo": "“Rei da Sucata” é preso em shopping de luxo em São Paulo",
+   "resumo": "Rodrigo Leonardo de Lima Alcântara, conhecido como “Rei da Sucata”, foi preso na noite de sábado, 7, em uma joalheria no Shopping Cidade Jardim, em São Paulo. Ele é suspeito de atuar na lavagem de dinheiro do Comando Vermelho (CV) por meio …",
+   "link": "https://oantagonista.com.br/brasil/rei-da-sucata-e-preso-em-shopping-de-luxo-em-sao-paulo/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Rei-da-Sucata.png",
+   "data": "2026-11-08T15:52:51-03:00"
+  },
+  {
+   "id": "55c42e488e39",
+   "titulo": "Embrapa estuda como reduzir metano emitido pelo gado Nelore",
+   "resumo": "Pesquisa analisa genes e microrganismos do rúmen para diminuir emissões e melhorar o aproveitamento da ração",
+   "link": "https://www.poder360.com.br/poder-agro/embrapa-estuda-como-reduzir-metano-emitido-pelo-gado-nelore/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/lH5OwVKUqC0/hqdefault.jpg",
-   "data": "2026-11-08T11:54:06-03:00"
+   "imagem": "",
+   "data": "2026-11-08T15:51:35-03:00"
+  },
+  {
+   "id": "abad8d401ecc",
+   "titulo": "Veja a íntegra do discurso de Rogério Marinho para presidência do Senado",
+   "resumo": "Em evento na 4ª feira (4.nov) ao lado de aliados, senador prometeu “fazer valer a Constituição” caso seja eleito para o comando da Casa Alta",
+   "link": "https://www.poder360.com.br/poder-integras/veja-leia-integra-do-discurso-de-rogerio-marinho-para-presidencia-do-senado/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/O6Z-xaPw-lk/hqdefault.jpg",
+   "data": "2026-11-08T15:35:25-03:00"
+  },
+  {
+   "id": "56a7e3240c74",
+   "titulo": "Gonet tem empresa gerida por empresário que fecha contratos públicos",
+   "resumo": "O procurador-geral da República , Paulo Gonet, é dono de uma empresa administrada por um empresário que recebe dinheiro público para organizar congressos e palestras com ministros de tribunais superiores. Entre os palestrantes dos eventos e…",
+   "link": "https://revistaoeste.com/politica/gonet-tem-empresa-gerida-por-empresario-que-fecha-contratos-publicos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/oab-x-gonet.jpeg",
+   "data": "2026-11-08T15:19:19-03:00"
+  },
+  {
+   "id": "bf36de500f60",
+   "titulo": "Trump está convencido de que Brasil não é democracia plena, diz Flávio",
+   "resumo": "O senador Flávio Bolsonaro (PL-SP) afirmou que o presidente dos Estados Unidos, Donald Trump, está convencido de que o Brasil deixou de ser uma democracia plena. Em entrevista ao The Washington Post, publicada neste sábado, 7, o parlamentar…",
+   "link": "https://oantagonista.com.br/brasil/trump-esta-convencido-de-que-brasil-nao-e-democracia-plena-diz-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/foto-canva-34.png",
+   "data": "2026-11-08T14:43:06-03:00"
+  },
+  {
+   "id": "37a810d46154",
+   "titulo": "Estudantes afetados por temporais poderão fazer Enem em dezembro, diz ministro",
+   "resumo": "O ministro da Educação, Leonardo Barchini, afirmou neste domingo, 8, que estudantes impedidos de chegar aos locais de prova do Enem por causa de condições climáticas adversas poderão fazer o exame em uma segunda aplicação, nos dias 15 e 16 …",
+   "link": "https://oantagonista.com.br/brasil/estudantes-afetados-por-temporais-poderao-fazer-enem-em-dezembro-diz-ministro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/MEC-Enem-e-Lula.png",
+   "data": "2026-11-08T14:26:05-03:00"
+  },
+  {
+   "id": "b1f46d52bee7",
+   "titulo": "Mulher morre e 4 ficam feridos após PM atirar em van em Brasília",
+   "resumo": "O autor dos disparos foi preso no Parque da Cidade; grupo se desentendeu quando voltava de festa de aniversário",
+   "link": "https://www.poder360.com.br/poder-justica/mulher-morre-e-4-ficam-feridos-apos-pm-atirar-em-van-em-brasilia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-08T14:17:21-03:00"
+  },
+  {
+   "id": "1d1f71ff99bd",
+   "titulo": "Data centers têm baixo impacto na criação de empregos locais, diz estudo",
+   "resumo": "Pesquisa mostra que instalações criam até 1.300 empregos locais nos EUA; vagas surgem anos depois e se concentram em setores específicos",
+   "link": "https://www.poder360.com.br/poder-infra/data-centers-tem-baixo-impacto-na-criacao-de-empregos-locais-diz-estudo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-08T14:12:32-03:00"
+  },
+  {
+   "id": "8e4eb16685bd",
+   "titulo": "Redação do Enem 2026 aborda valorização do SUS como direito universal",
+   "resumo": "Tema foi divulgado pelo Inep neste domingo (8.nov); candidatos devem produzir texto dissertativo-argumentativo de até 30 linhas",
+   "link": "https://www.poder360.com.br/poder-educacao/tema-da-redacao-do-enem-2026-e-a-valorizacao-do-sus-como-direito-universal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-08T14:09:05-03:00"
+  },
+  {
+   "id": "b8ed397ffeb6",
+   "titulo": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
+   "resumo": "Disputa com Receita Anual Permitida beneficia consumidor, diz presidente da Associação de Transmissoras de Energia Elétrica",
+   "link": "https://www.poder360.com.br/poder-energia/leilao-de-transmissao-trara-reducao-de-r-20-bilhoes-na-conta-de-luz/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/Q1wcd6LEiFg/hqdefault.jpg",
+   "data": "2026-11-08T14:00:40-03:00"
+  },
+  {
+   "id": "890fed417b6e",
+   "titulo": "Gabriel Andrade Costa: ‘Qual é o ponto de não retorno?’",
+   "resumo": "Por Gabriel Andrade Costa* Na noite em que perdeu a eleição, o candidato derrotado foi alvo de uma ordem do Supremo Tribunal Federal (STF) para entregar os passaportes. Em menos de 48 horas, sua campanha passou a ser investigada por suspeit…",
+   "link": "https://revistaoeste.com/politica/gabriel-andrade-costa-qual-e-o-ponto-de-nao-retorno/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/transparencia-internacional_moraes.jpeg",
+   "data": "2026-11-08T14:00:00-03:00"
+  },
+  {
+   "id": "20421c2b4af0",
+   "titulo": "Carlos Bolsonaro diz que Flávio é “boicotado” diariamente",
+   "resumo": "Senador eleito afirma que seu irmão é ignorado por setores da direita desde que foi indicado pelo pai para disputar a Presidência",
+   "link": "https://www.poder360.com.br/poder-congresso/carlos-bolsonaro-diz-que-flavio-e-boicotado-diariamente/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/post-carlos-bolsonaro-1.png",
+   "data": "2026-11-08T13:50:46-03:00"
+  },
+  {
+   "id": "451b9dcd358a",
+   "titulo": "Maior volume de exercícios diminui riscos cardíacos, diz estudo",
+   "resumo": "Pesquisa com mais de 17.000 pessoas mostra que praticar de 560 a 610 minutos de atividade física amplia benefícios cardiovasculares",
+   "link": "https://www.poder360.com.br/poder-saude/maior-volume-de-exercicios-diminui-riscos-cardiacos-diz-estudo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-08T13:19:30-03:00"
+  },
+  {
+   "id": "588239bef558",
+   "titulo": "Gastos eleitorais com Meta batem recorde em segunda eleição sem anúncios no Google",
+   "resumo": "Google veda anúncios eleitorais desde 2024 enquanto dona do Facebook e Instagram supera 4 pleitos anteriores somados. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/gastos-eleitorais-com-meta-batem-recorde-em-segunda-eleicao-sem-anuncios-no-google/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/08120521/ASPA-GRANDE-2026-11-08T120528.515-960x540.jpg",
+   "data": "2026-11-08T13:12:15-03:00"
+  },
+  {
+   "id": "3aba26dc7347",
+   "titulo": "Cleitinho fala em acabar com verba pública para festas em Minas",
+   "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), afirmou que vai proibir o uso de recursos estaduais para financiar festas nos municípios assim que assumir o cargo. Ele justificou a decisão com a dívida de R$ 200 bilhõ…",
+   "link": "https://oantagonista.com.br/brasil/cleitinho-fala-em-acabar-com-verba-publica-para-festas-em-minas/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55590708092_7451a4a401_3k.jpg",
+   "data": "2026-11-08T13:03:56-03:00"
+  },
+  {
+   "id": "fe8c3ef930c9",
+   "titulo": "Tarifa zero de Lula nos fins de semana pode custar mais de R$ 20 bilhões",
+   "resumo": "O dinheiro que o governo Lula pretende destinar à tarifa zero no transporte público aos sábados, domingos e feriados pode não cobrir os custos da medida. A proposta prevê cerca de R$ 12 bilhões por ano, mas empresas de ônibus e analistas do…",
+   "link": "https://revistaoeste.com/politica/tarifa-zero-de-lula-nos-fins-de-semana-pode-custar-mais-de-r-20-bilhoes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/10/55603816119_8b3b44080a_o-copiar.jpg",
+   "data": "2026-11-08T12:59:34-03:00"
+  },
+  {
+   "id": "c2478ffac843",
+   "titulo": "Embrapa indica diretrizes para adaptar hortaliças ao El Niño",
+   "resumo": "Estudo mapeia vulnerabilidades e propõe ações para tornar a olericultura mais resiliente",
+   "link": "https://www.poder360.com.br/poder-agro/embrapa-indica-diretrizes-para-adaptar-hortalicas-ao-el-nino/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-08T12:47:13-03:00"
+  },
+  {
+   "id": "dd14a2edd45f",
+   "titulo": "Ministro do STJ decreta prisão de desembargadora que pode ter fugido do Brasil",
+   "resumo": "O ministro Og Fernandes, do Superior Tribunal de Justiça (STJ) , determinou a prisão da desembargadora Sandra Inês Rusciolelli, do Tribunal de Justiça da Bahia (TJBA) . Ela foi condenada a 14 anos e 20 dias de prisão, em regime inicial fech…",
+   "link": "https://revistaoeste.com/politica/ministro-do-stj-decreta-prisao-de-desembargadora-que-pode-ter-fugido-do-brasil/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/Penduricalhos-STJ.webp",
+   "data": "2026-11-08T12:45:55-03:00"
+  },
+  {
+   "id": "f88dcbd60a07",
+   "titulo": "Temporal em São Paulo deixa dois desaparecidos",
+   "resumo": "Duas pessoas estão desaparecidas após o temporal que atingiu o estado de São Paulo neste sábado, 7. Uma delas é um jovem de 20 anos arrastado pela correnteza de um córrego no Capão Redondo, na zona sul da capital. A outra estava em uma emba…",
+   "link": "https://oantagonista.com.br/brasil/temporal-em-sao-paulo-deixa-dois-desaparecidos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/arrastado-capao.png",
+   "data": "2026-11-08T12:42:36-03:00"
+  },
+  {
+   "id": "ee905117424b",
+   "titulo": "Janones diz que perdeu 10 kg durante 2º turno",
+   "resumo": "Deputado federal que comandou o canal “Exército do Lula” afirma nas redes sociais que desgaste físico “valeu a pena”",
+   "link": "https://www.poder360.com.br/poder-gente/janones-diz-que-perdeu-10-kg-durante-2o-turno/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Janones-emagrecimento-X.png",
+   "data": "2026-11-08T12:40:33-03:00"
+  },
+  {
+   "id": "81b8ec2308de",
+   "titulo": "Lula inicia novo mandato com aprovação mais apertada, aponta Quaest",
+   "resumo": "A aprovação do governo Lula (PT) é de apenas quatro pontos percentuais superior à desaprovação, segundo pesquisa Genial/Quaest divulgada neste domingo, 8. O levantamento mostra que 48% dos brasileiros aprovam a gestão, enquanto 44% a reprov…",
+   "link": "https://oantagonista.com.br/brasil/lula-inicia-novo-mandato-com-aprovacao-mais-apertada-aponta-quaest/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55593000621_035371e03a_3k.jpg",
+   "data": "2026-11-08T12:07:25-03:00"
+  },
+  {
+   "id": "602a21cd881d",
+   "titulo": "Lula avançou em todas as faixas de renda; maior alta foi em áreas de classe média baixa",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/08/votacao-lula-faixas-de-renda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/FH32kv1_j7WFKQuld0yvnjZxRZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/C/8gWguOR0uZKIiWqA4n5w/2026-10-28t130040z-1-lynxnpem9r1dj-rtroptp-4-brazil-stocks-research.jpg",
+   "data": "2026-11-08T12:01:43-03:00"
+  },
+  {
+   "id": "d4c43451ec24",
+   "titulo": "Onde ficam as urnas que Lula e Flávio Bolsonaro 'zeraram' no 2º turno",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/08/onde-ficam-as-urnas-que-lula-e-flavio-bolsonaro-zeraram-no-2o-turno.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ejovm6AgZOCUNAmOkLCcGWS_7G8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/TrMo2VRt2lFazLWt5BvQ/montagem-horizontal-1280x720px-5-.jpg",
+   "data": "2026-11-08T12:01:01-03:00"
   },
   {
    "id": "96bef0a527eb",
@@ -40,15 +247,6 @@
    "data": "2026-11-08T11:41:59-03:00"
   },
   {
-   "id": "a2dd12470f74",
-   "titulo": "Oposição critica plano de Lula de ter 40 ministérios no 4º mandato",
-   "resumo": "Rogério Marinho, Sóstenes Cavalcante e Lucas Pavanato ironizaram possível criação de novas pastas; número seria recorde na Nova República",
-   "link": "https://www.poder360.com.br/poder-congresso/oposicao-critica-plano-de-lula-de-ter-40-ministerios-no-4o-mandato/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-08T11:31:48-03:00"
-  },
-  {
    "id": "f4ead2bd6eee",
    "titulo": "Quem são os 10 senadores da linha de frente do impeachment de Moraes",
    "resumo": "Um grupo de 10 senadores lidera o movimento para abertura do proceso de impeachment do ministro Alexandre de Moraes, do STF, em 2027.",
@@ -56,42 +254,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/02141528/Ton-Molina-Agencia-Senado-860x540.jpg",
    "data": "2026-11-08T11:26:59-03:00"
-  },
-  {
-   "id": "7819373c2974",
-   "titulo": "Hepatite B: controlar o vírus ainda não significa curar",
-   "resumo": "Tratamentos reduzem a multiplicação do vírus, mas não eliminam os reservatórios que permanecem nas células do fígado",
-   "link": "https://www.poder360.com.br/poder-saude/hepatite-b-controlar-o-virus-ainda-nao-significa-curar/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-08T11:19:19-03:00"
-  },
-  {
-   "id": "f73a456304e4",
-   "titulo": "Mega-Sena sorteia R$ 60 milhões; saiba os números",
-   "resumo": "Concurso 3.083 foi realizado neste domingo (8.nov); Caixa ainda não divulgou o rateio do prêmio",
-   "link": "https://www.poder360.com.br/poder-brasil/mega-sena-sorteia-r-60-milhoes-saiba-os-numeros/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-08T11:17:39-03:00"
-  },
-  {
-   "id": "322c904ecec1",
-   "titulo": "Otimismo com futuro é maior que em 2022, diz Quaest",
-   "resumo": "44% dizem estar otimistas com o Brasil, ante 41% depois da eleição de 2022; outros 48% dizem estar preocupados",
-   "link": "https://www.poder360.com.br/poder-governo/otimismo-com-futuro-e-maior-que-em-2022-diz-quaest/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/futuro-do-brasil.png",
-   "data": "2026-11-08T11:14:44-03:00"
-  },
-  {
-   "id": "273f81c64a6d",
-   "titulo": "59% rejeitam críticas de Flávio ao resultado das urnas, diz Quaest",
-   "resumo": "Levantamento divulgado neste domingo (8.nov) mostra que 34% aprovam atitude do candidato derrotado de questionar o processo eleitoral",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/59-rejeitam-criticas-de-flavio-ao-resultado-das-urnas-diz-quaest/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-2026-11-08-as-10.41.34.png",
-   "data": "2026-11-08T11:04:11-03:00"
   },
   {
    "id": "222aaf428d43",
@@ -103,24 +265,6 @@
    "data": "2026-11-08T10:59:53-03:00"
   },
   {
-   "id": "cf4b543e6ddd",
-   "titulo": "62% consideram errada fuga de Flávio para os EUA, diz Quaest",
-   "resumo": "Para 56% dos entrevistados, senador deixou o país para fugir da Justiça, e não por perseguição política",
-   "link": "https://www.poder360.com.br/poder-congresso/62-consideram-errada-fuga-de-flavio-para-os-eua-diz-quaest/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-1-quaest-flavio.png",
-   "data": "2026-11-08T10:57:41-03:00"
-  },
-  {
-   "id": "9c421e0508a8",
-   "titulo": "Ao vivo: Lula acompanha aplicação do Enem 2026 no Inep",
-   "resumo": "Presidente visita sala de monitoramento, onde técnicos acompanham a logística de distribuição das provas em todo o país",
-   "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-acompanha-aplicacao-do-enem-2026-no-inep/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/4B3zAWch3rQ/hqdefault.jpg",
-   "data": "2026-11-08T10:46:52-03:00"
-  },
-  {
    "id": "454bd132bea3",
    "titulo": "PT pede R$ 7 milhões em vaquinha para quitar dívidas da campanha de Lula",
    "resumo": "Coordenador financeiro sugeriu doação de R$ 13, \"um valor menor do que o preço de um lanche\". Leia na Gazeta do Povo.",
@@ -128,15 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/08100346/ASPA-GRANDE-2026-11-08T100351.642-960x540.jpg",
    "data": "2026-11-08T10:43:34-03:00"
-  },
-  {
-   "id": "b97be5f7de7d",
-   "titulo": "Gilmar chama de “levianas” críticas ao resultado das eleições",
-   "resumo": "Ministro do Supremo afirma que partidos políticos participaram da auditoria das urnas, inclusive o PL do senador Flávio Bolsonaro",
-   "link": "https://www.poder360.com.br/poder-justica/gilmar-chama-de-levianas-criticas-ao-resultado-das-eleicoes/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-2026-11-08-as-09.37.15.png",
-   "data": "2026-11-08T10:36:19-03:00"
   },
   {
    "id": "282cd6c35aab",
@@ -220,24 +355,6 @@
    "data": "2026-11-08T07:42:31-03:00"
   },
   {
-   "id": "85a1e63698ee",
-   "titulo": "Janja vai ganhar mais espaço no Lula 4?",
-   "resumo": "Janja deve ganhar mais influência sobre a comunicação pessoal de Lula no quarto mandato, diz a Folha. Uma das mudanças em estudo no governo prevê transferir para o Gabinete Pessoal do presidente a gestão de seus perfis nas redes sociais, ho…",
-   "link": "https://oantagonista.com.br/brasil/janja-vai-ganhar-mais-espaco-no-lula-4/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-e-Janja-1.jpg",
-   "data": "2026-11-08T07:13:17-03:00"
-  },
-  {
-   "id": "a956287bf127",
-   "titulo": "Quaest: maioria dos brasileiros reprova fuga de Flávio",
-   "resumo": "A fuga de Flávio Bolsonaro (PL-RJ) para os Estados Unidos é reprovada por 62% dos brasileiros, segundo pesquisa Quaest divulgada neste domingo, 8, pelo jornal O Globo. Apenas 29% consideram correta a decisão do senador, que deixou o país do…",
-   "link": "https://oantagonista.com.br/brasil/quaest-maioria-dos-brasileiros-reprova-fuga-de-flavio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Flavio-em-culto.png",
-   "data": "2026-11-08T06:56:02-03:00"
-  },
-  {
    "id": "30dd15071547",
    "titulo": "Planalto espera casa cheia na posse de Lula, mas sem Milei",
    "resumo": "Previsão de auxiliares de Lula no Planalto leva em conta histórico de posses e telefonemas recebidos pelo petista após a vitória nas urnas",
@@ -301,24 +418,6 @@
    "data": "2026-11-07T22:16:41-03:00"
   },
   {
-   "id": "9a59c3ad47e8",
-   "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
-   "resumo": "A Polícia Civil de São Paulo indiciou o ex-presidente da Câmara Municipal Milton Leite (União Brasuk) por associação a organização criminosa e pediu à Justiça a prisão preventiva dele. A solicitação se tornou pública neste sábado, 7. O inqu…",
-   "link": "https://revistaoeste.com/politica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/milton-leite.jpg",
-   "data": "2026-11-07T21:16:11-03:00"
-  },
-  {
-   "id": "1becddeb3594",
-   "titulo": "“Não sabe do que está falando”, diz Flávio sobre Nunes Marques",
-   "resumo": "Flávio Bolsonaro (PL-RJ) voltou a questionar a lisura das eleições de 2026 e criticou o presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques. Em entrevista ao The Washington Post, publicada neste sábado, 7, o senador disse …",
-   "link": "https://oantagonista.com.br/brasil/nao-sabe-do-que-esta-falando-diz-flavio-sobre-nunes-marques/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/156a0214-d77d-4853-a232-544d6538dece-scaled.jpg",
-   "data": "2026-11-07T19:45:02-03:00"
-  },
-  {
    "id": "09a6fd686acc",
    "titulo": "Flávio diz ao Washington Post que Trump não vê mais democracia plena no Brasil",
    "resumo": "Flávio Bolsonaro diz ao Washington Post que Trump vê o Brasil sem democracia plena e explica saída do país. Leia na Gazeta do Povo.",
@@ -337,15 +436,6 @@
    "data": "2026-11-07T18:46:44-03:00"
   },
   {
-   "id": "fcc10d28687d",
-   "titulo": "STJ decreta prisão de desembargadora que fugiu para Portugal",
-   "resumo": "A desembargadora baiana Sandra Inês Moraes Rusciolelli Azevedo (foto) deixou o Brasil em 21 de setembro, mesmo proibida pela Justiça de sair do país. Após receber a informação da Polícia Federal, o ministro Og Fernandes, do Superior Tribuna…",
-   "link": "https://oantagonista.com.br/brasil/stj-decreta-prisao-de-desembargadora-que-fugiu-para-portugal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Sandra.png",
-   "data": "2026-11-07T18:46:06-03:00"
-  },
-  {
    "id": "60e4c1ca5a5a",
    "titulo": "Cleitinho diz que vai cortar patrocínios a shows e eventos em Minas Gerais",
    "resumo": "Govenador eleito Cleitinho Azevedo promete acabar com repasses estaduais para shows em Minas Gerais. Leia na Gazeta do Povo.",
@@ -355,24 +445,6 @@
    "data": "2026-11-07T18:41:33-03:00"
   },
   {
-   "id": "2344c544e73a",
-   "titulo": "Jim Caviezel defende Bolsonaro e acusa Lula de tentar impedir exibição de Dark Horse",
-   "resumo": "O ator norte-americano Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme Dark Horse , acusou o presidente Luiz Inácio Lula da Silva de tentar impedir a exibição do longa-metragem no Brasil. Ele deu a declaração nesta sext…",
-   "link": "https://revistaoeste.com/politica/jim-caviezel-defende-bolsonaro-e-acusa-lula-de-tentar-impedir-exibicao-de-idark-horse-i/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Jim-Caviezel-1.jpg",
-   "data": "2026-11-07T18:31:18-03:00"
-  },
-  {
-   "id": "9234bcf97b0e",
-   "titulo": "Janones integra comitiva de Lula em viagem à Turquia",
-   "resumo": "O presidente Luiz Inácio Lula da Silva confirmou, em vídeo publicado no Instagram neste sábado, 7, que vai à Turquia acompanhado do deputado federal André Janones (Rede-MG). Em mensagem destinada aos integrantes do \"Exército do Lula\", canal…",
-   "link": "https://revistaoeste.com/politica/janones-integra-comitiva-de-lula-em-viagem-a-turquia/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/janones-e-lula-guerra-politica.jpeg",
-   "data": "2026-11-07T18:13:50-03:00"
-  },
-  {
    "id": "e81fd31ef55e",
    "titulo": "AGU questiona STF sobre liberação de R$ 533 milhões para pagar benefícios",
    "resumo": "AGU pede que STF esclareça impasse sobre R$ 533 milhões para benefícios de servidores do MPU e Justiça Federal. Entenda os riscos para a meta fiscal.",
@@ -380,24 +452,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/07180824/ASPA-GRANDE-2026-11-07T133919.283-1-960x540.jpg",
    "data": "2026-11-07T18:08:21-03:00"
-  },
-  {
-   "id": "75b34cb135eb",
-   "titulo": "Vorcaro e Moraes: 316 mensagens e encontro 3 dias antes da prisão",
-   "resumo": "Daniel Vorcaro trocou mais mensagens com o ministro Alexandre de Moraes do que se pensava. Foram 316 interações, nos dois meses anteriores à primeira prisão do banqueiro, no final de 2025. Ou seja, quase seis vezes mais do que se tinha notí…",
-   "link": "https://revistaoeste.com/politica/vorcaro-e-moraes-316-mensagens-e-encontro-3-dias-antes-da-prisao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro-e-moraes_enrolados.jpeg",
-   "data": "2026-11-07T18:00:00-03:00"
-  },
-  {
-   "id": "adf888db1584",
-   "titulo": "Polícia pede prisão preventiva de Milton Leite em investigação sobre PCC",
-   "resumo": "A Polícia Civil de São Paulo indiciou o ex-presidente da Câmara Municipal Milton Leite (foto) por suspeita de participação em esquema de infiltração do PCC no transporte público da capital. Ao concluir o inquérito da Operação Vectura Corrup…",
-   "link": "https://oantagonista.com.br/brasil/policia-pede-prisao-preventiva-de-milton-leite-em-investigacao-sobre-pcc/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Milton-Leite-maior.png",
-   "data": "2026-11-07T17:25:34-03:00"
   },
   {
    "id": "86dd4f199367",
@@ -418,15 +472,6 @@
    "data": "2026-11-07T15:58:02-03:00"
   },
   {
-   "id": "b6aa7f17f315",
-   "titulo": "Crusoé: Deputada quer proibir visitas íntimas para adolescentes infratores",
-   "resumo": "Um projeto de lei apresentado pela deputada federal Clarissa Tércio (PP-PE) pretende proibir visitas íntimas a adolescentes submetidos a medidas socioeducativas de privação de liberdade ou de internação provisória. A proposta estabelece que…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-deputada-quer-proibir-visitas-intimas-para-adolescentes-infratores/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Clarissa-Tercio.png",
-   "data": "2026-11-07T15:33:14-03:00"
-  },
-  {
    "id": "4ff15231c9c8",
    "titulo": "Ex-ministro de Lula critica redução da maioridade penal e prevê embate no STF",
    "resumo": "José Eduardo Cardozo rejeita ideia mesmo em caso de crimes hediondos e chama proposta de \"desastre\". Leia na Gazeta do Povo.",
@@ -434,33 +479,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/07142815/ASPA-GRANDE-2026-11-07T142824.080-960x540.jpg",
    "data": "2026-11-07T15:15:28-03:00"
-  },
-  {
-   "id": "aef33b9e4dc4",
-   "titulo": "Paulo Gonet solicita ao STF suspensão nacional de processos contra proibição das bets",
-   "resumo": "PGR Paulo Gonet pede ao STF que suspenda ações contra o fim das bets no Brasil. Entenda os impactos financeiros e a disputa jurídica sobre o setor.",
-   "link": "https://www.gazetadopovo.com.br/republica/paulo-gonet-solicita-ao-stf-suspensao-nacional-de-processos-contra-proibicao-das-bets/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/07143825/ASPA-GRANDE-2026-11-07T103137.609-1-960x540.jpg",
-   "data": "2026-11-07T14:38:20-03:00"
-  },
-  {
-   "id": "16a5d6a17f3e",
-   "titulo": "AGU consulta STF sobre pedido de R$ 533 milhões extras para penduricalhos",
-   "resumo": "MPU e Justiça Federal pediram reforço e alegaram urgência diante de determinação para pagamento imediato. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/agu-leva-ao-stf-impasse-sobre-533-milhoes-para-penduricalhos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/07133911/ASPA-GRANDE-2026-11-07T133919.283-960x540.jpg",
-   "data": "2026-11-07T14:07:51-03:00"
-  },
-  {
-   "id": "897e221dfab8",
-   "titulo": "PT faz vaquinha para cobrir rombo na campanha de Lula",
-   "resumo": "O PT lançou uma campanha de arrecadação entre seus militantes para obter R$ 7 milhões e cobrir despesas pendentes da campanha de reeleição de Lula. A legenda pede doações de R$ 13 até o dia 11. Segundo o coordenador financeiro da campanha, …",
-   "link": "https://oantagonista.com.br/brasil/pt-faz-vaquinha-para-cobrir-rombo-na-campanha-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/lula_pt_mesclado.jpg",
-   "data": "2026-11-07T13:26:12-03:00"
   },
   {
    "id": "25266f97205f",
@@ -506,24 +524,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/rf8VZ4xx7kv7Xz1CgURdQO3ZBSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/zzrikOT9WqiZuxLoP4Hg/comercio2.jpg",
    "data": "2026-11-07T00:00:00-03:00"
-  },
-  {
-   "id": "8e6f074bc66e",
-   "titulo": "É #FAKE que votos de Lula nas eleições superaram total de habitantes em cidades do Brasil; vídeo foi fabricado com IA",
-   "resumo": "",
-   "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/H-ZYko0vP1QTDIB9QHDIwJ97o3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/a/GW6uczSIqhLbA3OdYCvg/nsdagloria.jpg",
-   "data": "2026-11-06T19:44:14-03:00"
-  },
-  {
-   "id": "426962f55038",
-   "titulo": "Governo suspende registro de imóveis de Willer Tomaz em Angra dos Reis, incluindo ilha de Richarlison",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/06/governo-suspende-registro-de-imoveis-de-willer-tomaz-em-angra-incluindo-ilha-de-richarlison.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/udfq70LlKxdoweFQYq86Xs0kzjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/BDRv3QRZyJkhjeuVjOAw/projeto1.jpeg",
-   "data": "2026-11-06T19:01:56-03:00"
   },
   {
    "id": "d1956c3369c7",
@@ -623,42 +623,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-05T19:07:00-03:00"
-  },
-  {
-   "id": "a59eae54fa3a",
-   "titulo": "Governo Lula vê estabilidade política como prioridade no Paraguai",
-   "resumo": "Principal preocupação do governo Lula é que Paraguai consiga evitar conflitos e manifestações violentas após a queda de Santiago Peña",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/governo-lula-ve-estabilidade-politica-como-prioridade-no-paraguai",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/06/lula-santiago-pena-mercosul-1.jpg",
-   "data": "2026-11-05T16:20:43-03:00"
-  },
-  {
-   "id": "2732303146d6",
-   "titulo": "Lula grava pronunciamento defendendo \"sustentabilidade\" das contas públicas",
-   "resumo": "No pronunciamento, Lula assume compromisso com \"sustentabilidade\" das contas públicas, mas não detalha qualquer medida de ajuste fiscal",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-grava-pronunciamento-defendendo-sustentabilidade-das-contas-publicas",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/lula-pronunciamento-7-de-setembro.jpg",
-   "data": "2026-11-05T14:42:49-03:00"
-  },
-  {
-   "id": "13e889c56c0f",
-   "titulo": "Dos EUA, Flávio nomeia ex-assessor de Eduardo para gabinete no Senado",
-   "resumo": "Ex-assessor nomeado por Flávio Bolsonaro para gabinete no Senado tinha sido exonerado da Câmara em dezembro após Eduardo ser cassado",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/dos-eua-flavio-nomeia-ex-assessor-de-eduardo-para-gabinete-no-senado",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-eua-getty-23023869875gettyimages-2302386987.jpg",
-   "data": "2026-11-05T14:14:13-03:00"
-  },
-  {
-   "id": "2b12a34672b2",
-   "titulo": "Bolsonaristas se preparam para fazer Lula \"sangrar\" com maioridade penal",
-   "resumo": "Com bloqueio à votação da maioridade penal, bolsonaristas investem no discurso de que Lula já descumpriu uma primeira promessa de campanha",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/bolsonaristas-se-preparam-para-fazer-lula-sangrar-com-maioridade-penal",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/o-presidente-luiz-inacio-lula-da-silva-apaga-as-velas-do-bolo-e-se-emociona-durante-a-comemoracao-de-seu-aniversario-de-81-anos-no-palacio-da-alvorada-metropoles-4-scaled.jpeg",
-   "data": "2026-11-05T12:29:11-03:00"
   }
  ]
 }
