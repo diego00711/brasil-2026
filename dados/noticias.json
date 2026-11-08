@@ -1,25 +1,187 @@
 {
- "atualizado": "2026-11-07T17:50:04.449792-03:00",
- "total": 75,
+ "atualizado": "2026-11-07T21:28:20.078599-03:00",
+ "total": 74,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "66b9ebd1a524",
+   "id": "5c95723ecda6",
+   "titulo": "Justiça do Paraguai determina prisão preventiva de Peña e ex-BC",
+   "resumo": "Decisão do juiz Humberto Otazú atende pedido do MP do país, que investiga possíveis favorecimentos ao Ueno Bank",
+   "link": "https://www.poder360.com.br/poder-justica/justica-do-paraguai-determina-prisao-preventiva-de-pena-e-ex-bc/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T21:20:13-03:00"
+  },
+  {
+   "id": "9a59c3ad47e8",
+   "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
+   "resumo": "A Polícia Civil de São Paulo indiciou o ex-presidente da Câmara Municipal Milton Leite (União Brasuk) por associação a organização criminosa e pediu à Justiça a prisão preventiva dele. A solicitação se tornou pública neste sábado, 7. O inqu…",
+   "link": "https://revistaoeste.com/politica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/milton-leite.jpg",
+   "data": "2026-11-07T21:16:11-03:00"
+  },
+  {
+   "id": "3d3711e80c0d",
+   "titulo": "“BBC” prepara estúdio de emergência para apagão no Reino Unido",
+   "resumo": "Estrutura terá cerca de 100 funcionários e sistemas independentes da internet para operar por pelo menos 3 dias",
+   "link": "https://www.poder360.com.br/poder-midia/bbc-prepara-estudio-de-emergencia-para-apagao-no-reino-unido/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T21:04:38-03:00"
+  },
+  {
+   "id": "c274d07ac9b1",
+   "titulo": "Ueno Bank patrocinou evento com Eduardo Bolsonaro nos EUA",
+   "resumo": "Banco foi um dos financiadores do Hispanic Prosperity Gala, realizado em fevereiro, em resort de Donald Trump na Flórida",
+   "link": "https://www.poder360.com.br/poder-internacional/ueno-bank-patrocinou-evento-com-eduardo-bolsonaro-nos-eua/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/02/Mario-frias-e-eduardo-bolsonaro-1080-1.png",
+   "data": "2026-11-07T20:48:13-03:00"
+  },
+  {
+   "id": "f7850de2f4e7",
+   "titulo": "Trump oferece cargo de porta-voz da Casa Branca ao presidente do UFC",
+   "resumo": "Dana White sinalizou que aceitará o convite; republicano também citou lutadores para integrar a equipe",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-oferece-cargo-de-porta-voz-da-casa-branca-ao-presidente-do-ufc/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Dana-White-Casa-Branca-1.png",
+   "data": "2026-11-07T20:02:47-03:00"
+  },
+  {
+   "id": "1becddeb3594",
+   "titulo": "“Não sabe do que está falando”, diz Flávio sobre Nunes Marques",
+   "resumo": "Flávio Bolsonaro (PL-RJ) voltou a questionar a lisura das eleições de 2026 e criticou o presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques. Em entrevista ao The Washington Post, publicada neste sábado, 7, o senador disse …",
+   "link": "https://oantagonista.com.br/brasil/nao-sabe-do-que-esta-falando-diz-flavio-sobre-nunes-marques/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/156a0214-d77d-4853-a232-544d6538dece-scaled.jpg",
+   "data": "2026-11-07T19:45:02-03:00"
+  },
+  {
+   "id": "2684f3e36c41",
+   "titulo": "De direita, Cleitinho é chamado de socialista nas redes sociais; entenda",
+   "resumo": "Governador eleito de Minas Gerais criticou patrocínios a clubes de futebol e já defendeu fim da escala 6 X 1, isenção do IR e manutenção da Cemig como estatal",
+   "link": "https://www.poder360.com.br/poder-congresso/de-direita-cleitinho-e-chamado-de-socialista-nas-redes-sociais-entenda/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-2026-11-07-as-18.09.16.png",
+   "data": "2026-11-07T19:30:56-03:00"
+  },
+  {
+   "id": "52cdd7dc466a",
+   "titulo": "MP do Paraguai acusa Peña por caso envolvendo Ueno Bank",
+   "resumo": "Órgão também denuncia o ex-chefe do Banco Central e pede manutenção da prisão preventiva por suspeitas de irregularidades",
+   "link": "https://www.poder360.com.br/poder-internacional/mp-do-paraguai-acusa-pena-por-caso-envolvendo-ueno-bank/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T19:29:14-03:00"
+  },
+  {
+   "id": "48d4a01ce6fe",
+   "titulo": "Polícia investiga ameaça de morte contra 77 deputados de MG",
+   "resumo": "Mensagens foram enviadas por e-mail aos parlamentares da Assembleia Legislativa; Polícia Civil apura o caso",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/policia-investiga-ameaca-de-morte-contra-77-deputados-de-mg/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-07T19:24:14-03:00"
+  },
+  {
+   "id": "d19f93ee7da9",
+   "titulo": "Ataque a tiros deixa 5 mortos e mais de 10 feridos na Polônia",
+   "resumo": "Homem disparou contra pessoas em praça de Cracóvia; suspeito foi baleado pela polícia e levado ao hospital",
+   "link": "https://www.poder360.com.br/poder-internacional/ataque-a-tiros-deixa-5-mortos-e-mais-de-10-feridos-na-polonia/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/policia-polonesa-ataque-7.nov_.2026.png",
+   "data": "2026-11-07T18:55:56-03:00"
+  },
+  {
+   "id": "09a6fd686acc",
+   "titulo": "Flávio diz ao Washington Post que Trump não vê mais democracia plena no Brasil",
+   "resumo": "Flávio Bolsonaro diz ao Washington Post que Trump vê o Brasil sem democracia plena e explica saída do país. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-diz-ao-washington-post-que-trump-nao-ve-mais-democracia-plena-no-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07184908/flavio-960x540.jpg",
+   "data": "2026-11-07T18:55:52-03:00"
+  },
+  {
+   "id": "2c9bf2aa553b",
+   "titulo": "Operação Faroeste: STJ determina inclusão de desembargadora condenada na lista de procurados internacionais",
+   "resumo": "",
+   "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/07/operacao-faroeste-stj-determina-inclusao-de-desembargadora-condenada-na-lista-de-procurados-internacionais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/TD4Dr-VQjJP_Mgda488B8vGmJBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/H/N/qPALgGTui3B9CY8lnnLw/untitled-5.jpg",
+   "data": "2026-11-07T18:46:44-03:00"
+  },
+  {
+   "id": "fcc10d28687d",
+   "titulo": "STJ decreta prisão de desembargadora que fugiu para Portugal",
+   "resumo": "A desembargadora baiana Sandra Inês Moraes Rusciolelli Azevedo (foto) deixou o Brasil em 21 de setembro, mesmo proibida pela Justiça de sair do país. Após receber a informação da Polícia Federal, o ministro Og Fernandes, do Superior Tribuna…",
+   "link": "https://oantagonista.com.br/brasil/stj-decreta-prisao-de-desembargadora-que-fugiu-para-portugal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Sandra.png",
+   "data": "2026-11-07T18:46:06-03:00"
+  },
+  {
+   "id": "60e4c1ca5a5a",
+   "titulo": "Cleitinho diz que vai cortar patrocínios a shows e eventos em Minas Gerais",
+   "resumo": "Govenador eleito Cleitinho Azevedo promete acabar com repasses estaduais para shows em Minas Gerais. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/cleitinho-diz-que-vai-cortar-patrocinios-a-shows-e-eventos-em-minas-gerais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07184024/imagem_materia-860x540.jpeg",
+   "data": "2026-11-07T18:41:33-03:00"
+  },
+  {
+   "id": "2344c544e73a",
+   "titulo": "Jim Caviezel defende Bolsonaro e acusa Lula de tentar impedir exibição de Dark Horse",
+   "resumo": "O ator norte-americano Jim Caviezel, que interpreta o ex-presidente Jair Bolsonaro no filme Dark Horse , acusou o presidente Luiz Inácio Lula da Silva de tentar impedir a exibição do longa-metragem no Brasil. Ele deu a declaração nesta sext…",
+   "link": "https://revistaoeste.com/politica/jim-caviezel-defende-bolsonaro-e-acusa-lula-de-tentar-impedir-exibicao-de-idark-horse-i/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Jim-Caviezel-1.jpg",
+   "data": "2026-11-07T18:31:18-03:00"
+  },
+  {
+   "id": "9234bcf97b0e",
+   "titulo": "Janones integra comitiva de Lula em viagem à Turquia",
+   "resumo": "O presidente Luiz Inácio Lula da Silva confirmou, em vídeo publicado no Instagram neste sábado, 7, que vai à Turquia acompanhado do deputado federal André Janones (Rede-MG). Em mensagem destinada aos integrantes do \"Exército do Lula\", canal…",
+   "link": "https://revistaoeste.com/politica/janones-integra-comitiva-de-lula-em-viagem-a-turquia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/janones-e-lula-guerra-politica.jpeg",
+   "data": "2026-11-07T18:13:50-03:00"
+  },
+  {
+   "id": "e81fd31ef55e",
+   "titulo": "AGU questiona STF sobre liberação de R$ 533 milhões para pagar benefícios",
+   "resumo": "AGU pede que STF esclareça impasse sobre R$ 533 milhões para benefícios de servidores do MPU e Justiça Federal. Entenda os riscos para a meta fiscal.",
+   "link": "https://www.gazetadopovo.com.br/republica/agu-questiona-stf-sobre-liberacao-de-rdollar-533-milhoes-para-pagar-beneficios/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/07180824/ASPA-GRANDE-2026-11-07T133919.283-1-960x540.jpg",
+   "data": "2026-11-07T18:08:21-03:00"
+  },
+  {
+   "id": "75b34cb135eb",
+   "titulo": "Vorcaro e Moraes: 316 mensagens e encontro 3 dias antes da prisão",
+   "resumo": "Daniel Vorcaro trocou mais mensagens com o ministro Alexandre de Moraes do que se pensava. Foram 316 interações, nos dois meses anteriores à primeira prisão do banqueiro, no final de 2025. Ou seja, quase seis vezes mais do que se tinha notí…",
+   "link": "https://revistaoeste.com/politica/vorcaro-e-moraes-316-mensagens-e-encontro-3-dias-antes-da-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro-e-moraes_enrolados.jpeg",
+   "data": "2026-11-07T18:00:00-03:00"
+  },
+  {
+   "id": "6991bbbd1d55",
+   "titulo": "No Uruguai, papa Leão 14 diz que mate é “símbolo de amizade”",
+   "resumo": "Durante missa em Paysandú, pontífice afirmou que bebida representa familiaridade e faz parte do cotidiano dos uruguaios",
+   "link": "https://www.poder360.com.br/poder-internacional/no-uruguai-papa-leao-14-diz-que-mate-e-simbolo-de-amizade/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/papa-uruguai-2.jpeg",
+   "data": "2026-11-07T17:55:24-03:00"
+  },
+  {
+   "id": "1313146b6a00",
    "titulo": "Polícia indicia Milton Leite e pede prisão preventiva por elo com PCC",
    "resumo": "Relatório aponta que ex-vereador administrava empresas ligadas à facção e teria ocultado e destruído provas",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
+   "link": "https://www.poder360.com.br/poder-justica/policia-indicia-milton-leite-e-pede-prisao-preventiva-por-elo-com-pcc/",
    "fonte": "Poder360",
    "imagem": "",
    "data": "2026-11-07T17:48:33-03:00"
-  },
-  {
-   "id": "24ccc015399d",
-   "titulo": "AGU leva ao STF pedido de R$ 533 milhões extras para Judiciário e MP",
-   "resumo": "Conselho da Justiça Federal e Procuradoria Geral da República alegam falta de recursos para cumprir decisão do Supremo sobre benefícios remuneratórios",
-   "link": "https://www.poder360.com.br/poder-justica/agu-leva-ao-stf-pedido-de-r-533-milhoes-extras-para-judiciario-e-mp/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:45:05-03:00"
   },
   {
    "id": "921dbd392a82",
@@ -31,33 +193,6 @@
    "data": "2026-11-07T17:39:14-03:00"
   },
   {
-   "id": "bff401e05177",
-   "titulo": "Flávio diz que pai ficou com lágrimas nos olhos após ordem de Moraes",
-   "resumo": "Senador relata reação de Jair Bolsonaro à determinação para entregar passaportes; congressista deixou o Brasil no dia seguinte",
-   "link": "https://www.poder360.com.br/poder-justica/flavio-diz-que-pai-ficou-com-lagrimas-nos-olhos-apos-ordem-de-moraes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:38:49-03:00"
-  },
-  {
-   "id": "98dfc001a502",
-   "titulo": "Lula promete live na Turquia e pede que militância fique de “prontidão”",
-   "resumo": "André Janones também viajará para o país para a COP-31; presidente disse que tenta se recuperar de rouquidão",
-   "link": "https://www.poder360.com.br/poder-governo/lula-promete-live-na-turquia-e-pede-que-militancia-fique-de-prontidao/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/pTmo1qpzArs/hqdefault.jpg",
-   "data": "2026-11-07T17:34:17-03:00"
-  },
-  {
-   "id": "188940e9efa2",
-   "titulo": "EUA declaram apoio a Pedro Alliana, novo presidente do Paraguai",
-   "resumo": "Alliana tomou posse na 6ª feira (6.nov) depois da destituição de Santiago Peña por causa da crise do banco Ueno",
-   "link": "https://www.poder360.com.br/poder-internacional/eua-declaram-apoio-a-pedro-alliana-novo-presidente-do-paraguai/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/juan-pablo-segura.png",
-   "data": "2026-11-07T17:29:53-03:00"
-  },
-  {
    "id": "adf888db1584",
    "titulo": "Polícia pede prisão preventiva de Milton Leite em investigação sobre PCC",
    "resumo": "A Polícia Civil de São Paulo indiciou o ex-presidente da Câmara Municipal Milton Leite (foto) por suspeita de participação em esquema de infiltração do PCC no transporte público da capital. Ao concluir o inquérito da Operação Vectura Corrup…",
@@ -65,51 +200,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Milton-Leite-maior.png",
    "data": "2026-11-07T17:25:34-03:00"
-  },
-  {
-   "id": "59fe4f778e0c",
-   "titulo": "Flávio diz que Trump considera Brasil uma democracia incompleta",
-   "resumo": "Senador afirma que presidente dos EUA questiona instituições brasileiras; declaração foi dada em entrevista ao \"Washington Post\"",
-   "link": "https://www.poder360.com.br/poder-brasil/flavio-diz-que-trump-considera-brasil-uma-democracia-incompleta/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:17:50-03:00"
-  },
-  {
-   "id": "6b80d3988f3d",
-   "titulo": "Flávio diz que precisa regularizar situação migratória nos EUA",
-   "resumo": "Senador declara que ainda não decidiu seus próximos passos depois de deixar o Brasil; congressista está na Flórida desde outubro",
-   "link": "https://www.poder360.com.br/poder-brasil/flavio-diz-que-precisa-regularizar-situacao-migratoria-nos-eua/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:15:51-03:00"
-  },
-  {
-   "id": "a13b7011a16a",
-   "titulo": "“Não sabe do que fala”, diz Flávio sobre aval de Nunes Marques à eleição",
-   "resumo": "Senador questiona avaliação do presidente do TSE e volta a levantar suspeitas de fraude sem apresentar provas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/nao-sabe-do-que-fala-diz-flavio-sobre-aval-de-nunes-marques-a-eleicao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T17:07:10-03:00"
-  },
-  {
-   "id": "069d4363f46a",
-   "titulo": "Justiça rejeita ação de improbidade contra Bolsonaro e Wal do Açaí",
-   "resumo": "Juiz diz que Câmara permite que assessores exerçam representação dos deputados nos Estados sem precisar estar em Brasília",
-   "link": "https://www.poder360.com.br/poder-justica/justica-rejeita-acao-de-improbidade-contra-bolsonaro-e-wal-do-acai/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T16:51:50-03:00"
-  },
-  {
-   "id": "dba7f2918635",
-   "titulo": "Brasil não precisa de vacinação em massa contra mpox, diz médica",
-   "resumo": "País registrou 665 casos e nenhuma morte até outubro; Rio de Janeiro retomou a imunização de grupos prioritários",
-   "link": "https://www.poder360.com.br/poder-saude/brasil-nao-precisa-de-vacinacao-em-massa-contra-mpox-diz-medica/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-07T16:32:31-03:00"
   },
   {
    "id": "86dd4f199367",
@@ -292,15 +382,6 @@
    "data": "2026-11-07T09:58:03-03:00"
   },
   {
-   "id": "205420410d49",
-   "titulo": "Resumo da semana: o novo imposto que vai mexer com o bolso dos brasileiros",
-   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
-   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-o-novo-imposto-que-vai-mexer-com-o-bolso-dos-brasileiros/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/06182305/thumb-gazeta-agora_cortes-1-12-960x540.jpg",
-   "data": "2026-11-07T09:31:00-03:00"
-  },
-  {
    "id": "fefd90ffdf8f",
    "titulo": "Gonet pede ao STF suspensão de ações contra MP do fim das bets até Corte decidir sobre proibição",
    "resumo": "",
@@ -346,33 +427,6 @@
    "data": "2026-11-07T07:40:06-03:00"
   },
   {
-   "id": "5ab0eb71deba",
-   "titulo": "Lula parabeniza novo presidente do Paraguai após prisão de Peña",
-   "resumo": "Lula (PT) parabenizou Pedro Alliana pela posse na Presidência do Paraguai. A mensagem foi publicada nesta sexta-feira, 6, horas depois de o Senado paraguaio aprovar o impeachment de Santiago Peña, que deixou o cargo e acabou preso. “Transmi…",
-   "link": "https://oantagonista.com.br/brasil/lula-parabeniza-novo-presidente-do-paraguai-apos-prisao-de-pena/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591966982_1eeec7c79a_3k.jpg",
-   "data": "2026-11-07T07:18:43-03:00"
-  },
-  {
-   "id": "7a47c1cb6e40",
-   "titulo": "Os acordos que sustentam a reeleição de Hugo Motta na Câmara",
-   "resumo": "A formação de um bloco parlamentar que pode reunir 328 deputados, a adesão da federação formada por PT, PCdoB e PV e as negociações com o PL compõem a articulação política em torno da reeleição de Hugo Motta (Republicanos-PB) à presidência …",
-   "link": "https://revistaoeste.com/politica/acordos-reeleicao-hugo-motta/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/imagem_materia-4.jpg",
-   "data": "2026-11-07T07:00:00-03:00"
-  },
-  {
-   "id": "bf56a068f7ee",
-   "titulo": "Flávio diz ter comunicado a Tarcísio que será candidato",
-   "resumo": "Flávio Bolsonaro (PL-RJ) afirmou ter a intenção de disputar a Presidência em 2030, caso seu pai, Jair Bolsonaro, continue inelegível e o partido apoie seu nome. Em entrevista à Folha de S.Paulo, publicada nesta sexta-feira, 6, o senador dis…",
-   "link": "https://oantagonista.com.br/brasil/flavio-diz-ter-comunicado-a-tarcisio-que-sera-candidato/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55585445104_b1461c9537_k.jpg",
-   "data": "2026-11-07T06:56:42-03:00"
-  },
-  {
    "id": "71f71003892d",
    "titulo": "Damares tenta levar outras senadoras para Republicanos, além de Michelle",
    "resumo": "Damares Alves diz estar atrás de \"senadoras e deputadas\" para filiá-las ao Republicanos, assim como tenta fazer com Michelle Bolsonaro",
@@ -380,24 +434,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/damares-alves-1.jpeg",
    "data": "2026-11-07T05:00:36-03:00"
-  },
-  {
-   "id": "cac71f9c1048",
-   "titulo": "Novas mensagens sugerem proximidade entre Alexandre de Moraes e Daniel Vorcaro",
-   "resumo": "Novas mensagens entre Alexandre de Moraes e Daniel Vorcaro revelam proximidade. Confira a defesa do ministro e os detalhes da investigação da PF.",
-   "link": "https://www.gazetadopovo.com.br/republica/novas-mensagens-sugerem-proximidade-entre-alexandre-de-moraes-e-daniel-vorcaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/07042242/moraes-1-960x540.jpg",
-   "data": "2026-11-07T04:22:38-03:00"
-  },
-  {
-   "id": "27765c02b431",
-   "titulo": "Fachin retém investigação sobre o Master no STF para preservar a Corte",
-   "resumo": "Entenda por que Edson Fachin decidiu manter a investigação sobre o banco Master na presidência do STF enquanto devolveu o caso do INSS a André Mendonça.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-retem-investigacao-sobre-o-master-no-stf-para-preservar-a-corte/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/07004620/edson-fachin-foto-carlos-moura-stf-960x540.jpg",
-   "data": "2026-11-07T00:46:18-03:00"
   },
   {
    "id": "f2f7f35c7182",
@@ -416,33 +452,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/rf8VZ4xx7kv7Xz1CgURdQO3ZBSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/zzrikOT9WqiZuxLoP4Hg/comercio2.jpg",
    "data": "2026-11-07T00:00:00-03:00"
-  },
-  {
-   "id": "dcc1447434a5",
-   "titulo": "Anac notifica empresas ligadas a Vorcaro que teriam transportado Moraes",
-   "resumo": "A Agência Nacional de Aviação Civil (Anac) notificou os operadores de dois aviões privados ligados ao banqueiro Daniel Vorcaro, dono do Banco Master, para esclarecer possíveis irregularidades no transporte de passageiros. As aeronaves teria…",
-   "link": "https://revistaoeste.com/politica/anac-notifica-empresas-ligadas-a-vorcaro-que-teriam-transportado-moraes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/03/Moraes-e-mulher.jpeg",
-   "data": "2026-11-06T23:30:24-03:00"
-  },
-  {
-   "id": "93fe86afa4db",
-   "titulo": "Deputada do Psol quer que almoço conte como hora trabalhada",
-   "resumo": "A deputada federal Duda Salabert (Psol-MG) apresentou na última quinta-feira, 5, um projeto de lei para que o horário de almoço seja contabilizado como parte da jornada de trabalho e remunerado pelas empresas. A proposta estabelece o limite…",
-   "link": "https://revistaoeste.com/politica/deputada-do-psol-quer-que-almoco-conte-como-hora-trabalhada/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Deputada-Duda-Salabert_Psol.jpeg",
-   "data": "2026-11-06T22:34:57-03:00"
-  },
-  {
-   "id": "884caa2f2e62",
-   "titulo": "TRF-3 suspende liminar que liberou 3 sites de apostas",
-   "resumo": "O ministro da Advocacia-Geral da União (AGU) , Jorge Messias, divulgou nesta sexta-feira, 6, a decisão do Tribunal Regional Federal da 3ª Região (TRF-3) que suspendeu os efeitos da liminar favorável à CDA Gaming. A empresa havia conseguido …",
-   "link": "https://revistaoeste.com/politica/trf-3-suspende-liminar-que-liberou-3-sites-de-apostas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/AGE20251121002.jpg",
-   "data": "2026-11-06T21:35:23-03:00"
   },
   {
    "id": "8e6f074bc66e",
@@ -553,15 +562,6 @@
    "data": "2026-11-06T13:12:59-03:00"
   },
   {
-   "id": "46f51ef8ae6e",
-   "titulo": "Pressionado a cortar gastos, Lula diz que Brasil tem 'seriedade fiscal' e que 'pobre não pagará a conta'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/06/pressionado-a-cortar-gastos-lula-diz-que-brasil-tem-responsabilidade-e-seriedade-fiscal-e-que-pobre-nao-vai-pagar-a-conta.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/wb4LCTVe72UA_N8PsFPM9_aYhHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/ntg7r5QXKjEpQ8ogpWDg/lula-2-.jpg",
-   "data": "2026-11-06T13:05:07-03:00"
-  },
-  {
    "id": "e396ad2d55dc",
    "titulo": "Lula se reúne com petistas da Bahia para tratar da montagem do novo governo",
    "resumo": "Reunião com Lula com petistas baianos teve as presenças do governador Jerônimo Rodrigues e dos senadores eleitos Jaquea Wagner e Rui Costa",
@@ -668,15 +668,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-29-at-185857-e1777518608109.jpeg",
    "data": "2026-11-05T02:00:56-03:00"
-  },
-  {
-   "id": "cc1bb48e1f32",
-   "titulo": "Alcolumbre retira maioridade penal da pauta e vai aguardar Câmara",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-retira-maioridade-penal-da-pauta-e-vai-aguardar-camara",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-04T20:54:00-03:00"
   }
  ]
 }
