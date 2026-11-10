@@ -1,70 +1,502 @@
 {
- "atualizado": "2026-11-10T06:39:49.384419-03:00",
- "total": 68,
+ "atualizado": "2026-11-10T14:42:29.572928-03:00",
+ "total": 71,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "131ecc070deb",
-   "titulo": "Governo aumenta imposto para pneus importados de 16% para 30%",
-   "resumo": "Segundo associação de fabricantes, nova alíquota aproxima o Brasil de outros mercados internacionais",
-   "link": "https://www.poder360.com.br/poder-economia/governo-aumenta-imposto-para-pneus-importados-de-16-para-30/",
+   "id": "0de9bad8365c",
+   "titulo": "Só 21% dos órgãos ambientais estaduais mapearam riscos de fraude",
+   "resumo": "Guia da Transparência Internacional traz 70 medidas para conter irregularidades do setor no Brasil",
+   "link": "https://www.poder360.com.br/poder-brasil/so-21-dos-orgaos-ambientais-estaduais-mapearam-riscos-de-fraude/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-10T06:36:25-03:00"
+   "data": "2026-11-10T14:33:05-03:00"
   },
   {
-   "id": "3472ebf5b1fe",
-   "titulo": "Uma cadela aprendeu a farejar uma invasora marinha apelidada de vômito do mar e acabou premiada pelo trabalho",
-   "resumo": "Uma labradora chamada Sgiath, de seis anos, foi premiada na Escócia por detectar a Didemnum vexillum, espécie marinha invasora conhecida como “vômito do mar”. Treinada para reconhecer seu odor, a cadela ajuda pesquisadores a localizar colôn…",
-   "link": "https://oantagonista.com.br/brasil/uma-cadela-aprendeu-a-farejar-uma-invasora-marinha-apelidada-de-vomito-do-mar-e-acabou-premiada-pelo-trabalho/",
+   "id": "38ef68315128",
+   "titulo": "Ao vivo: comissão da Câmara discute redução da maioridade penal",
+   "resumo": "Colegiado realiza 1ª audiência sobre propostas que alteram a idade de responsabilização criminal; procurador-geral da República foi convidado",
+   "link": "https://www.poder360.com.br/poder-congresso/ao-vivo-comissao-da-camara-discute-reducao-da-maioridade-penal/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/q0DMfMrRQDc/hqdefault.jpg",
+   "data": "2026-11-10T14:30:43-03:00"
+  },
+  {
+   "id": "e29342305986",
+   "titulo": "Lula discute defesa e minerais críticos com Erdogan",
+   "resumo": "Encontro marca retomada da agenda bilateral depois da reeleição; presidente turco prometeu visitar o Brasil com delegação empresarial",
+   "link": "https://www.poder360.com.br/poder-governo/lula-discute-defesa-e-minerais-criticos-com-erdogan/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-10T14:27:47-03:00"
+  },
+  {
+   "id": "476ab4ddc41e",
+   "titulo": "Serra Verde deve vender 325 toneladas de terras-raras do Brasil no 4º tri",
+   "resumo": "USA Rare Earths iniciou em outubro embarques de minerais extraídos no Brasil para os EUA",
+   "link": "https://www.poder360.com.br/poder-economia/serra-verde-deve-vender-325-toneladas-de-terras-raras-do-brasil-no-4o-tri/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-10T14:27:02-03:00"
+  },
+  {
+   "id": "5e1e4262a8aa",
+   "titulo": "Janones usou cota da Câmara em viagem para ato de Lula?",
+   "resumo": "O deputado federal André Janones (Rede-MG) negou nesta terça-feira, 10, ter usado uma passagem aérea paga com recursos da Câmara para viajar a Montes Claros (MG) durante a campanha eleitoral. Dados oficiais da Casa, porém, mostram que a cot…",
+   "link": "https://oantagonista.com.br/brasil/janones-usou-cota-da-camara-em-viagem-para-ato-de-lula/",
    "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Dog_searching_rocky_beach_a452e75a.jpg",
-   "data": "2026-11-10T06:36:00-03:00"
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20260415173718994.jpg",
+   "data": "2026-11-10T14:26:54-03:00"
   },
   {
-   "id": "39d50ee73e48",
-   "titulo": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
-   "resumo": "Comissões analisam dívidas rurais, cassação de CNPJ por trabalho escravo, maioridade penal e Reforma Tributária",
-   "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira-4/",
+   "id": "e4d83a4af55c",
+   "titulo": "FIN e CNI cobram proteção contra multas na reforma tributária",
+   "resumo": "Bancos alertam para falta de testes no split payment e discutem remuneração de R$ 0,39 por transação; indústria aponta pendências",
+   "link": "https://www.poder360.com.br/reforma-tributaria-2027/fin-e-cni-cobram-protecao-contra-multas-na-reforma-tributaria/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-10T06:15:47-03:00"
+   "data": "2026-11-10T14:22:06-03:00"
   },
   {
-   "id": "7da9bf2d354e",
-   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 3ª feira",
-   "resumo": "Comitiva está na Turquia para a COP31; Mauro Vieira participa do G7 em Paris e Brasília recebe eventos sobre inovação e PPPs",
-   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-3a-feira-15/",
+   "id": "0d96043a9d08",
+   "titulo": "Justiça Federal desiste de R$ 208,9 milhões em crédito a penduricalhos",
+   "resumo": "Luís Felipe Salomão, presidente do CJF, declarou que orçamento foi revisto e a instituição poderá pagar as despesas sem recursos extras",
+   "link": "https://www.poder360.com.br/poder-justica/justica-federal-desiste-de-r-2089-milhoes-em-credito-a-penduricalhos/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-10T06:15:41-03:00"
+   "data": "2026-11-10T14:16:28-03:00"
   },
   {
-   "id": "3994b9df6d43",
-   "titulo": "Saiba quais ações estão na pauta do STF nesta 3ª feira",
-   "resumo": "Audiência debate transição do fim da escala 6 X 1; 2ª Turma julga fiscalização do TCU e provas por e-mail corporativo",
-   "link": "https://www.poder360.com.br/poder-justica/saiba-quais-acoes-estao-na-pauta-do-stf-nesta-3a-feira/",
+   "id": "af57ad9b7b91",
+   "titulo": "Justiça Federal recua sobre receita extra para penduricalhos",
+   "resumo": "O presidente do Conselho da Justiça Federal (CJF), ministro Luis Felipe Salomão, comunicou nesta terça-feira, 10, em ofício à Advocacia-Geral da União (AGU), a desistência sobre o pedido da receita extra de 208,9 milhões de reais para o pag…",
+   "link": "https://oantagonista.com.br/brasil/justica-federal-recua-sobre-receita-extra-para-penduricalhos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55599801469_5464cf7bdc_k.jpg",
+   "data": "2026-11-10T14:15:51-03:00"
+  },
+  {
+   "id": "3410d63db863",
+   "titulo": "Chefe do TST, “vermelho”, quer fim da 6 X 1 agora",
+   "resumo": "Ministro defendeu início imediato da redução da jornada e disse que comércio pode adotar nova escala sem prazo adicional de adaptação",
+   "link": "https://www.poder360.com.br/poder-justica/chefe-do-tst-vermelho-quer-fim-da-6-x-1-agora/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-10T06:15:10-03:00"
+   "data": "2026-11-10T14:14:20-03:00"
   },
   {
-   "id": "bfe3005526ec",
-   "titulo": "Saiba quais indicadores e balanços saem nesta 3ª feira",
-   "resumo": "Ata do Copom, valores a receber e inflação nos EUA; China divulga balança comercial e empresas apresentam balanços",
-   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-3a-feira-11/",
+   "id": "bc13e9cc9878",
+   "titulo": "Grupo de advogados pró-Lula cria site sobre reforma do Judiciário",
+   "resumo": "Prerrogativas defende código de ética e mandato de 12 anos para ministros do STF e do STJ",
+   "link": "https://www.poder360.com.br/poder-justica/grupo-de-advogados-pro-lula-cria-site-sobre-reforma-do-judiciario/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/indicadores-10-novembro.png",
-   "data": "2026-11-10T06:00:32-03:00"
+   "imagem": "https://i.ytimg.com/vi/qkW9UZzBXHk/hqdefault.jpg",
+   "data": "2026-11-10T14:12:20-03:00"
   },
   {
-   "id": "224b93d351d3",
-   "titulo": "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos",
-   "resumo": "AGU pede que STF decida procedimento a ser adotado para cumprir a decisão que autorizou pagamento de benefício",
-   "link": "https://www.poder360.com.br/poder-justica/judiciario-e-mpu-querem-r-533-milhoes-para-pagar-penduricalhos/",
+   "id": "185beaa889e3",
+   "titulo": "Como inquérito das fake news levou Moraes a controlar liberdade de Bolsonaro",
+   "resumo": "Investigação que durou mais de sete anos criou cadeia de conexões que chegou a processo contra o ex-presidente. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/como-inquerito-das-fake-news-levou-moraes-a-controlar-liberdade-de-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10140905/54763190814_b20a0e4faf_4k-960x540.jpg",
+   "data": "2026-11-10T14:09:40-03:00"
+  },
+  {
+   "id": "cce23571e498",
+   "titulo": "ExxonMobil assina acordo para retorno à Venezuela",
+   "resumo": "Memorando com a PDVSA avalia exploração e produção no país quase 20 anos depois de expropriação de ativos",
+   "link": "https://www.poder360.com.br/poder-internacional/exxonmobil-assina-acordo-para-retorno-a-venezuela/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-10T05:42:34-03:00"
+   "data": "2026-11-10T14:04:24-03:00"
+  },
+  {
+   "id": "60c97cf60b8e",
+   "titulo": "Governo Lula inclui jabuti em MP e abre caminho para legalizar cigarros eletrônicos",
+   "resumo": "O governo Lula incluiu um dispositivo na chamada MP das dívidas rurais que abre caminho para a regulamentação e a comercialização de cigarros eletrônicos no Brasil, conhecidos como vapes. A medida foi inserida no texto sem referência direta…",
+   "link": "https://oantagonista.com.br/brasil/governo-inclui-jabuti-em-mp-e-abre-caminho-para-legalizar-cigarros-eletronicos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/paulo-pimenta-3-1.jpg",
+   "data": "2026-11-10T14:02:16-03:00"
+  },
+  {
+   "id": "774a4c598da9",
+   "titulo": "Split payment deve cobrir 98% do mercado B2B em outubro de 2027",
+   "resumo": "Setor financeiro e governo acordaram tarifa preliminar de R$ 0,39 por transação; exigência legal plena vale a partir de 2028",
+   "link": "https://www.poder360.com.br/poder-economia/split-payment-deve-cobrir-98-do-mercado-b2b-em-outubro-de-2027/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-10T14:01:29-03:00"
+  },
+  {
+   "id": "358a8b92da67",
+   "titulo": "Bacellar deixa presídio federal no RN e volta a unidade prisional no RJ",
+   "resumo": "Ex-presidente da Assembleia Legislativa do Rio de Janeiro (Alerj), Rodrigo Bacellar deixou a Penitenciária Federal de Mossoró, no Rio Grande do Norte, e chegou a uma unidade prisional fluminense na madrugada desta terça-feira, 10. O ex-depu…",
+   "link": "https://revistaoeste.com/politica/bacellar-deixa-presidio-federal-no-rn-e-volta-a-unidade-prisional-no-rj/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/Rodrigo-Bacellar.jpg",
+   "data": "2026-11-10T13:56:48-03:00"
+  },
+  {
+   "id": "55492ce4bba7",
+   "titulo": "Vieira pede convocação de ministro da Justiça e diretor da PF por caso Master",
+   "resumo": "O senador Alessandro Vieira (MDB-SE) anunciou nesta terça-feira, 10, a apresentação de requerimentos para convocar o ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, e o diretor-geral da Polícia Federal (PF), Andrei R…",
+   "link": "https://oantagonista.com.br/brasil/vieira-pede-convocacao-de-ministro-da-justica-e-diretor-da-pf-por-caso-master/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55207977210_280d1cec2e_k.jpg",
+   "data": "2026-11-10T13:52:02-03:00"
+  },
+  {
+   "id": "72841bd877ce",
+   "titulo": "Fachin encerra inquérito das fake news e mantém provas já produzidas",
+   "resumo": "Este episódio do Podcast 15 Minutos analisa a decisão do ministro Luiz Edson Fachin de determinar o arquivamento do inquérito principal das fake news",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-encerra-inquerito-das-fake-news-e-mantem-provas-ja-produzidas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
+   "data": "2026-11-10T13:48:46-03:00"
+  },
+  {
+   "id": "fa57c99d66dd",
+   "titulo": "Governo prorroga desoneração de gasolina e etanol até 9 de dezembro",
+   "resumo": "Governo mantém subsídio ao etanol e zera tributos sobre gasolina e etanol por mais 30 dias, com impacto fiscal de R$ 3,57 bilhões.",
+   "link": "https://www.gazetadopovo.com.br/republica/governo-prorroga-desoneracao-de-gasolina-e-etanol-ate-9-de-dezembro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2023/05/18151049/f3a43282-7719-11e9-ab73-00505697492c-wp-crop-20230518175923-960x540.jpg",
+   "data": "2026-11-10T13:47:17-03:00"
+  },
+  {
+   "id": "70b00fa04eb5",
+   "titulo": "Escola Sem Partido vai à Justiça para anular redação do Enem",
+   "resumo": "A redação do Enem 2026 virou alvo de uma disputa judicial. A Associação Escola Sem Partido entrou com uma ação civil pública contra o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) para tentar anular a prova a…",
+   "link": "https://oantagonista.com.br/brasil/escola-sem-partido-vai-a-justica-para-anular-redacao-do-enem/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-10T134417.361.png",
+   "data": "2026-11-10T13:45:12-03:00"
+  },
+  {
+   "id": "aaa05e3ece6a",
+   "titulo": "Lula escolhe diplomata próximo ao Planalto para embaixada na Itália",
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) indicou o diplomata Fernando Luís Lemos Igreja, chefe do Cerimonial da Presidência da República, para o cargo de embaixador do Brasil na Itália. A indicação também prevê que ele represente o país …",
+   "link": "https://revistaoeste.com/politica/lula-escolhe-diplomata-proximo-ao-planalto-para-embaixada-na-italia/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-1.jpg",
+   "data": "2026-11-10T13:40:09-03:00"
+  },
+  {
+   "id": "6f437cbe41fd",
+   "titulo": "Nikolas Ferreira vai à Justiça contra compra de iPhone para senadores",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG) vai ingressar com uma Ação Popular para tentar barrar a compra de 425 celulares, sendo 95 iPhones 18 Pro, pelo Senado que serão utilizados por parlamentares e servidores. Além disso, o deputado de…",
+   "link": "https://oantagonista.com.br/brasil/nikolas-ferreira-vai-a-justica-contra-compra-de-iphone-para-parlamentares/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/nikolas-melhor.jpg",
+   "data": "2026-11-10T13:22:11-03:00"
+  },
+  {
+   "id": "f14bf0e07384",
+   "titulo": "Presidente do STJ desiste de pedido de R$ 208,9 milhões para pagar penduricalhos",
+   "resumo": "A decisão do ministro Luís Felipe Salomão, do STJ, não afeta o pedido de R$ 324 milhões apresentado pela PGR para custear despesas do MPU.",
+   "link": "https://www.gazetadopovo.com.br/republica/presidente-do-stj-desiste-de-pedido-de-r-2089-milhoes-para-pagar-penduricalhos/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10125401/55474219112_e23e40d8ae_6k-960x540.jpg",
+   "data": "2026-11-10T13:10:11-03:00"
+  },
+  {
+   "id": "59814e86b265",
+   "titulo": "Grupo de advogados abre site para colher propostas de reforma do Judiciário",
+   "resumo": "Próximo ao presidente Lula, grupo Prerrogativas lançou plataforma para receber sugestões da sociedade sobre mudanças no Poder Judiciário",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/grupo-de-advogados-abre-site-para-colher-propostas-de-reforma-do-judiciario",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/09/marco-aurelio-de-carvalho-2.jpeg",
+   "data": "2026-11-10T13:01:30-03:00"
+  },
+  {
+   "id": "9f363e9ee5e2",
+   "titulo": "Petrobras pede à Fazenda período sem multa na reforma tributária",
+   "resumo": "Presidente da Petrobras, Magda Chambriard, disse ter levado à Fazenda proposta de período de transição sem multa na reforma tributária",
+   "link": "https://www.gazetadopovo.com.br/economia/presidente-petrobras-transicao-reforma-tributaria-sem-multa/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10123109/magda-chambriard-petrobras-reforma-tributaria-multa-960x540.jpg",
+   "data": "2026-11-10T12:44:22-03:00"
+  },
+  {
+   "id": "9ea76628338b",
+   "titulo": "PF vai refazer relatórios sobre ministros do STF citados no caso Master",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/10/pf-vai-refazer-relatorios-sobre-ministros-do-stf-citados-no-caso-master.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tcQEiMyCBVdYpHFwKhRTq01NnYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/e/VCLAQGQaW6PysupbUKIg/montagem-horizontal-1200px-8-.jpg",
+   "data": "2026-11-10T12:38:17-03:00"
+  },
+  {
+   "id": "847cc62aebd7",
+   "titulo": "Fim do inquérito das fake news: quem será responsabilizado?",
+   "resumo": "No programa Última Análise desta segunda-feira (09), os convidados falam a respeito do encerramento do inquérito das fake news?",
+   "link": "https://www.gazetadopovo.com.br/republica/fim-do-inquerito-das-fake-news-quem-sera-responsabilizado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/10014736/alexandre-de-moraes-com-edson-fachin-foto-marcelo-camargo-agencia-brasil-1-1-960x540.jpg",
+   "data": "2026-11-10T12:34:24-03:00"
+  },
+  {
+   "id": "f96420c32de3",
+   "titulo": "Senado analisa fiscalização de combustíveis e novas regras para menores aprendizes",
+   "resumo": "O Senado tem sessões previstas nesta terça-feira, 10, e na quarta-feira 11 para analisar propostas sobre fiscalização do mercado de combustíveis e contratação de aprendizes. A pauta também inclui um acordo internacional sobre questões ambie…",
+   "link": "https://revistaoeste.com/politica/senado-analisa-fiscalizacao-de-combustiveis-e-novas-regras-para-menores-aprendizes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/Dosimetria-plenario.jpeg",
+   "data": "2026-11-10T12:26:49-03:00"
+  },
+  {
+   "id": "e51dfbfd07b1",
+   "titulo": "Polícia investiga vídeo gravado por influenciador na casa de FHC",
+   "resumo": "A Polícia Civil de São Paulo abriu inquérito para apurar a gravação e a divulgação de imagens do ex-presidente Fernando Henrique Cardoso dentro do apartamento onde ele mora, em Higienópolis, na capital paulista. O vídeo foi publicado nas re…",
+   "link": "https://revistaoeste.com/politica/policia-investiga-video-gravado-por-influenciador-na-casa-de-fhc/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/01/FHC-scaled.jpg",
+   "data": "2026-11-10T12:26:10-03:00"
+  },
+  {
+   "id": "f2715c976f19",
+   "titulo": "Banco Central vê fim da escala 6×1 como pressão adicional sobre a inflação",
+   "resumo": "Ata do Copom relaciona fim da escala 6x1 a custos maiores e inclui mudança entre os riscos para a inflação no Brasil.",
+   "link": "https://www.gazetadopovo.com.br/economia/banco-central-ve-fim-da-escala-6x1-como-pressao-adicional-sobre-a-inflacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/11143011/banco-central-bc-servidores-vorcaro-1-960x540.jpg",
+   "data": "2026-11-10T12:25:07-03:00"
+  },
+  {
+   "id": "f802f8f715c4",
+   "titulo": "Os mil dias de Filipe Martins na prisão",
+   "resumo": "Filipe Martins acorda cedo, lê trechos de Relatos de um Peregrino Russo , reza e faz exercícios antes de dedicar horas aos estudos. Preso por mais de dois anos, o ex-assessor de Assuntos Internacionais do governo Jair Bolsonaro organiza os …",
+   "link": "https://revistaoeste.com/politica/os-mil-dias-de-filipe-martins-na-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/Defesa-de-Filipe-Martins.jpeg",
+   "data": "2026-11-10T12:24:47-03:00"
+  },
+  {
+   "id": "4430aa49e0bd",
+   "titulo": "TSE julga nesta terça suposto favorecimento da Meta a Flávio",
+   "resumo": "O embate entre a campanha de Lula (PT) e a Meta, dona do Instagram, Facebook e WhatsApp, chega ao plenário do Tribunal Superior Eleitoral (TSE) nesta terça-feira, 10. A ação acusa a empresa de interferir na distribuição de conteúdos polític…",
+   "link": "https://oantagonista.com.br/brasil/tse-julga-nesta-terca-suposto-favorecimento-meta-flavio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2022/06/jfcrz_abr_2810186546df-scaled.jpg",
+   "data": "2026-11-10T12:22:24-03:00"
+  },
+  {
+   "id": "a17479cb83bd",
+   "titulo": "Nikolas quer convocar ministro de Lula por \"agenda de esquerda\" no Enem",
+   "resumo": "Deputado Nikolas Ferreira pediu convocação do ministro da Educação de Lula para explicar suposta \"agenda política de esquerda\" no Enem 2026",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/nikolas-quer-convocar-ministro-de-lula-por-agenda-de-esquerda-no-enem",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/nikolas-entrevista-gadelha.jpg",
+   "data": "2026-11-10T12:21:37-03:00"
+  },
+  {
+   "id": "f03ed6d29182",
+   "titulo": "PF vai refazer relatórios sobre ligações de ministros do STF com Vorcaro",
+   "resumo": "A Polícia Federal (PF) vai refazer os relatórios sobre as relações de ministros do Supremo Tribunal Federal (STF) com o ex-banqueiro Daniel Vorcaro, ligado ao Banco Master. Os novos documentos devem ser encaminhados à Corte até o fim de nov…",
+   "link": "https://revistaoeste.com/politica/pf-vai-refazer-relatorios-sobre-ligacoes-de-ministros-do-stf-com-vorcaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/vorcaro_esfera-2.jpg",
+   "data": "2026-11-10T12:09:09-03:00"
+  },
+  {
+   "id": "58032c3bc855",
+   "titulo": "Governadora de Pernambuco passa a tesoura em 150 aliados do PL",
+   "resumo": "A governadora reeleita de Pernambuco, Raquel Lyra (PSD), promoveu uma limpa na estrutura do governo estadual e exonerou 150 servidores comissionados, dos quais 139 estavam lotados na Casa Civil. A medida atingiu principalmente aliados do pr…",
+   "link": "https://oantagonista.com.br/brasil/governadora-de-pernambuco-passa-a-tesoura-em-150-aliados-do-pl/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Raquel-Lyra.jpg",
+   "data": "2026-11-10T12:03:30-03:00"
+  },
+  {
+   "id": "254be6d5df5e",
+   "titulo": "CNJ aprova novas regras para venda de precatórios e cria central nacional para tentar rastrear operações",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/10/cnj-aprova-novas-regras-para-venda-de-precatorios-e-cria-central-nacional-para-tentar-rastrear-operacoes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/xBaiEkQPT6qyw1sS8oJJ-sqP5ks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/3/ZS3YCaRE2YFOZrj9Updw/videoframe-7017437.png",
+   "data": "2026-11-10T11:53:47-03:00"
+  },
+  {
+   "id": "722e8817764d",
+   "titulo": "Inquérito das fake news: 104 desdobramentos incluem suposta ofensa a Gilmar em 2018",
+   "resumo": "Decano contestou após Moraes arquivar e obteve desarquivamento. PGR contestou, mas apresentou denúncia. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/inquerito-das-fake-news-104-casos-pendentes-incluem-suposta-ofensa-a-gilmar-em/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10114844/ASPA-GRANDE-2026-11-10T114847.243-960x540.jpg",
+   "data": "2026-11-10T11:50:23-03:00"
+  },
+  {
+   "id": "8b17905382c9",
+   "titulo": "Ministro de Lula critica STF por ação que tenta adiar fim da escala 6×1",
+   "resumo": "Luiz Marinho afirma que o governo Lula conduz a regulamentação do fim da 6x1 e contesta os argumentos sobre o prazo de adaptação.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-critica-stf-por-acao-que-tenta-adiar-fim-da-escala-6x1/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/08/21100009/luiz-marinho-fim-escala-6x1-1-960x540.jpg",
+   "data": "2026-11-10T11:50:02-03:00"
+  },
+  {
+   "id": "13950e365b5b",
+   "titulo": "PEC propõe quarentena de cinco anos para ministros do STF disputarem eleições",
+   "resumo": "Uma proposta de emenda à Constituição apresentada no Senado pretende impedir que ministros do Supremo Tribunal Federal (STF) disputem eleições durante cinco anos após deixarem o cargo. A medida, prevista na PEC 17/2026, de autoria do senado…",
+   "link": "https://oantagonista.com.br/brasil/pec-propoe-quarentena-de-cinco-anos-para-ministros-do-stf-disputarem-eleicoes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55561586788_604f3a58d7_6k-scaled-e1791036955110.jpg",
+   "data": "2026-11-10T11:37:17-03:00"
+  },
+  {
+   "id": "a6d0c4c5f4e2",
+   "titulo": "Direita investe no desgaste de Alcolumbre para impedir a sua reeleição no Senado",
+   "resumo": "A direita no Senado, com candidaturas de Rogério Marinho e Tereza Cristina, investe no desgaste de Davi Alcolumbre, para barrar sua reeleição.",
+   "link": "https://www.gazetadopovo.com.br/republica/direita-investe-no-desgaste-de-alcolumbre-para-impedir-a-sua-reeleicao-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/05182321/Alcolumbre-Tereza-Marinho-Senado-2-960x540.jpg",
+   "data": "2026-11-10T11:34:18-03:00"
+  },
+  {
+   "id": "5e0c0bac896d",
+   "titulo": "Ministério da Segurança pode gerar sucessor ou queimar aliado de Lula",
+   "resumo": "Lula aposta na criação do Ministério da Segurança Pública para ampliar sua atuação na área e fortalecer o discurso eleitoral.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministerio-da-seguranca-pode-gerar-sucessor-ou-queimar-aliado-de-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/09174025/Lula-seguranca-960x540.jpg",
+   "data": "2026-11-10T11:29:45-03:00"
+  },
+  {
+   "id": "079aa12d08b7",
+   "titulo": "OAB apoia decisão de Fachin de encerrar inquérito das fake news",
+   "resumo": "O presidente da OAB, Beto Simonetti, classificou como acertada a decisão de Edson Fachin de encerrar o inquérito das fake news após sete anos de tramitação.",
+   "link": "https://www.gazetadopovo.com.br/republica/oab-apoia-decisao-de-fachin-de-encerrar-inquerito-das-fake-news/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10112729/ASPA-GRANDE-2026-11-10T072608.885-1-960x540.jpg",
+   "data": "2026-11-10T11:27:26-03:00"
+  },
+  {
+   "id": "97f71925c4e5",
+   "titulo": "'Split payment': 98% das operações entre empresas devem estar cobertas a partir de outubro de 2027, estima confederação",
+   "resumo": "A presidente da Confederação Nacional das Instituições Financeiras (Fin), Cristiane Coelho, estimou nesta terça-feira (10) que 98% das transações de pagamento nas operações entre empresas, o chamado \"business to business\" (B2B), estejam cob…",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/10/split-payment-98percent-das-operacoes-devem-estar-cobertas-ate-outubro-de-2027-estima-confederacao-dos-bancos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-10T11:06:55-03:00"
+  },
+  {
+   "id": "a350fa952f2e",
+   "titulo": "Produtora de ‘Dark Horse’ pediu “solução humanitária” a Nunes, mostra carta",
+   "resumo": "Dona da produtora responsável pelo filme Dark Horse, a empresária Karina da Gama enviou uma carta de três páginas, via WhatsApp, ao prefeito de São Paulo, Ricardo Nunes (foto), pedindo uma “solução humanitária” para o contrato milionário do…",
+   "link": "https://oantagonista.com.br/brasil/produtora-de-dark-horse-pediu-solucao-humanitaria-a-nunes-mostra-carta/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Ricardo-Nunes.jpg",
+   "data": "2026-11-10T10:29:50-03:00"
+  },
+  {
+   "id": "c289d2451b19",
+   "titulo": "Senado prevê R$ 6 mi em contrato com iPhones 18 Pro para parlamentares e servidores",
+   "resumo": "O Senado Federal abriu um pregão eletrônico estimado em 6,045 milhões de reais para contratar serviços de telefonia móvel com o fornecimento de 425 smartphones em regime de comodato para uso institucional de parlamentares e servidores. O ed…",
+   "link": "https://oantagonista.com.br/brasil/senado-preve-r-6-mi-em-contrato-com-iphones-18-pro-para-parlamentares-e-servidores/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/senado-federal-2-1.jpg",
+   "data": "2026-11-10T10:22:25-03:00"
+  },
+  {
+   "id": "73f1a66c7a4d",
+   "titulo": "Crusoé: Tudo o que Moraes fez com o inquérito das fake news",
+   "resumo": "Ao enfim arquivar o inquérito das fake news, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, fez um balanço de todos os atos do ministro Alexandre de Moraes (foto) como relator do processo. Doze das 31 páginas do despacho de F…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-tudo-que-moraes-fez-com-o-inquerito-das-fake-news/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55620151853_82d4bf6eff_6k-scaled-e1794316847728.jpg",
+   "data": "2026-11-10T10:21:35-03:00"
+  },
+  {
+   "id": "3e1c87d2b112",
+   "titulo": "Justiça Federal desiste de pedido para obter R$ 208,9 milhões para bancar penduricalhos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/10/justica-federal-desiste-de-pedido-para-obter-r-2089-milhoes-para-bancar-penduricalhos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/VDfCBkRj9TXiGO_WHvE8YpSquko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/e/hrHeeQT2mo12Bz666oqg/globo-canal-4-20261109-2000-frame-69595.jpeg",
+   "data": "2026-11-10T10:10:05-03:00"
+  },
+  {
+   "id": "5541ec39f8b3",
+   "titulo": "Vereador de SP pede licença da Câmara depois de nova prisão em investigação sobre PCC",
+   "resumo": "O vereador Senival Moura pediu licença de 31 dias da Câmara Municipal de São Paulo “para tratar de assuntos particulares”. A Casa recebeu o requerimento em 3 de novembro, com efeito retroativo a 29 de outubro, um dia depois da segunda prisã…",
+   "link": "https://revistaoeste.com/politica/vereador-de-sp-pede-licenca-da-camara-depois-de-nova-prisao-em-investigacao-sobre-pcc/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/senival-moura-pt-pcc.jpg",
+   "data": "2026-11-10T10:05:41-03:00"
+  },
+  {
+   "id": "7f32436af755",
+   "titulo": "Lula pediu foto de cantora nua a advogado, diz agente da PF em livro",
+   "resumo": "O agente da Polícia Federal (PF) Jorge Chastalo Filho, que acompanhou o presidente Luiz Inácio Lula da Silva (PT) no período em que ele esteve encarcerado na superintendência da corporação em Curitiba, entre 2018 e 2019, relatou que o petis…",
+   "link": "https://revistaoeste.com/politica/lula-pediu-foto-de-cantora-nua-para-advogado-diz-agente-da-pf-em-livro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/ana-canas.jpg",
+   "data": "2026-11-10T09:43:42-03:00"
+  },
+  {
+   "id": "68fbe2903bf3",
+   "titulo": "OAB comemora arquivamento do Inquérito das Fake News e cobra cautela do STF",
+   "resumo": "A Ordem dos Advogados do Brasil (OAB) comemorou o encerramento do Inquérito das Fake News, aberto em 2019 e arquivado nesta segunda-feira, 9, pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin. A entidade afirmou que continuará…",
+   "link": "https://revistaoeste.com/politica/oab-comemora-arquivamento-do-inquerito-das-fake-news-e-cobra-cautela-do-stf/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/05/OAB-2.jpeg",
+   "data": "2026-11-10T09:39:01-03:00"
+  },
+  {
+   "id": "0be4fdce6ace",
+   "titulo": "TSE mantém sem data julgamento da candidatura de Dallagnol ao Senado",
+   "resumo": "O Tribunal Superior Eleitoral (TSE) mantém fora da pauta o julgamento da candidatura de Deltan Dallagnol (Novo) ao Senado pelo Paraná. A Corte retirou o processo da sessão de 8 de outubro, quatro dias depois da eleição do ex-procurador, com…",
+   "link": "https://revistaoeste.com/politica/tse-mantem-sem-data-julgamento-da-candidatura-de-dallagnol-ao-senado/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/parana_pesquisa.jpeg",
+   "data": "2026-11-10T09:25:57-03:00"
+  },
+  {
+   "id": "dcabd4462cc7",
+   "titulo": "STJ criou sistemas para reforçar segurança após suspeita de vazamento por ex-servidor",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/10/stj-criou-sistemas-para-reforcar-seguranca-apos-suspeita-de-vazamento-por-ex-servidor.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/AzgY0aAINSVfWr8Nx1V57pTfLEo=/s.glbimg.com/jo/g1/f/original/2016/09/05/stj.jpg",
+   "data": "2026-11-10T07:56:58-03:00"
+  },
+  {
+   "id": "30c5128c6246",
+   "titulo": "Fim do inquérito das fake news fecha um foco de crise no STF, mas caso Master ainda mantém tribunal sob tensão",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/10/fim-do-inquerito-das-fake-news-fecha-um-foco-de-crise-no-stf-mas-caso-master-ainda-mantem-tribunal-sob-tensao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/AViOIgejv_o2WdtyTlTCMmWmngs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/v/g2YQWeTPuoZ3UnMgszOA/globo-canal-4-20261109-2000-frame-62792.jpeg",
+   "data": "2026-11-10T07:53:48-03:00"
+  },
+  {
+   "id": "faca41c396c0",
+   "titulo": "Quaest: Para 65% dos brasileiros, democracia é preferível a qualquer outro regime",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/10/quaest-democracia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/aAU5nMlBXWLeiFiYn3Bj0XCVBP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/m/nLMJ1TSXCH4gaJaoHe0w/261110-info-democracia-e-preferivel-a-qualquer-outro-regime.jpg",
+   "data": "2026-11-10T07:31:09-03:00"
+  },
+  {
+   "id": "e92b6c60254f",
+   "titulo": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas a Willer Tomaz",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/10/pf-segunda-fase-operacao-linceu.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/orWdSRHhu33ipDIQVcCDRMIp3mU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/o/1p40N8Qfi92AW19TyweA/fachada-do-superior-tribunal-de-justica-stj-08-07-2019.jpg",
+   "data": "2026-11-10T07:13:35-03:00"
+  },
+  {
+   "id": "d4dc4c5f5c87",
+   "titulo": "Janones usou verba da Câmara para ir a cidade de MG onde Lula fez campanha",
+   "resumo": "André Janones e assessor viajaram de Brasília a Montes Claros com passagens pagas pela Câmara no período em que Lula fez campanha na cidade",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/janones-usou-verba-da-camara-para-ir-a-cidade-de-mg-onde-lula-fez-campanha",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/10/lula-andre-janones-1.jpg",
+   "data": "2026-11-10T07:00:32-03:00"
   },
   {
    "id": "7fc395de53b5",
@@ -76,51 +508,6 @@
    "data": "2026-11-10T05:00:01-03:00"
   },
   {
-   "id": "dd7e8375a0f5",
-   "titulo": "Governo prorroga desoneração de gasolina e etanol por mais 30 dias",
-   "resumo": "Medida também determina a manutenção da subvenção adicional aos produtores de etanol",
-   "link": "https://www.poder360.com.br/poder-governo/governo-prorroga-desoneracao-de-gasolina-e-etanol-por-mais-30-dias/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-10T04:51:25-03:00"
-  },
-  {
-   "id": "3233d149495b",
-   "titulo": "Marco Rubio diz que EUA continuarão “lidando” com governo Lula",
-   "resumo": "No G7, secretário de Estado dos EUA declara que falta de aval para indicado à embaixada no Brasil afeta o tom da relação",
-   "link": "https://www.poder360.com.br/poder-internacional/marco-rubio-diz-que-eua-continuarao-lidando-com-governo-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-10T04:29:12-03:00"
-  },
-  {
-   "id": "7e8c0b1a4ec8",
-   "titulo": "Supremo Tribunal Federal encerra o polêmico inquérito das fake news",
-   "resumo": "Entenda os motivos e os momentos marcantes do inquérito das fake news, arquivado pelo ministro Edson Fachin após sete anos de investigações no STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/supremo-tribunal-federal-encerra-o-polemico-inquerito-das-fake-news/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10041516/moraes-inquerito-das-fake-news-1-960x540.jpg",
-   "data": "2026-11-10T04:15:10-03:00"
-  },
-  {
-   "id": "b8cbfc32d1d5",
-   "titulo": "FDA emite avisos sobre efeitos colaterais de Ozempic e Mounjaro",
-   "resumo": "Agência reguladora alerta para potencial aumento do risco de uma condição ocular grave associada ao uso de medicamentos GLP-1",
-   "link": "https://www.poder360.com.br/poder-saude/fda-emite-avisos-sobre-efeitos-colaterais-de-ozempic-e-mounjaro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-10T03:44:40-03:00"
-  },
-  {
-   "id": "a9aff575ef9b",
-   "titulo": "Organizações cobram ação de Lula contra salários acima do teto no Brasil",
-   "resumo": "Organizações pressionam Lula e o Congresso para barrar supersalários que custaram R$ 24,3 bilhões acima do teto em 2025. Entenda os impactos nas contas públicas.",
-   "link": "https://www.gazetadopovo.com.br/republica/organizacoes-cobram-acao-de-lula-contra-salarios-acima-do-teto-no-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10023849/esplanada-dos-ministerios-1-960x540.jpg",
-   "data": "2026-11-10T02:38:42-03:00"
-  },
-  {
    "id": "1a3f7f1081c3",
    "titulo": "Lula sonda aliados da Bahia sobre indicações para PF e Justiça",
    "resumo": "Coluna apurou que Lula perguntou ao governador da Bahia, Jerônimo Rodrigues, sobre nome de delegado baiano para comandar a PF",
@@ -128,51 +515,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/lula-reuniao-cnpe-11.jpeg",
    "data": "2026-11-10T02:00:07-03:00"
-  },
-  {
-   "id": "4497731a2d1d",
-   "titulo": "Hugo Motta articula proposta de voto distrital misto na Câmara dos Deputados",
-   "resumo": "Hugo Motta defende o voto distrital misto para reduzir o peso de puxadores de votos e fortalecer partidos. Entenda as mudanças propostas para 2030.",
-   "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-articula-proposta-de-voto-distrital-misto-na-camara-dos-deputados/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10010145/hugo-motta-foto-vinicius-loures-camara-1-960x540.jpg",
-   "data": "2026-11-10T01:01:42-03:00"
-  },
-  {
-   "id": "80840e450948",
-   "titulo": "10 momentos que revelam os excessos dos sete anos do inquérito das fake news",
-   "resumo": "Inquérito das fake news acumulou decisões controversas e questionamentos sobre liberdade de expressão e o devido processo legal.",
-   "link": "https://www.gazetadopovo.com.br/republica/10-momentos-que-revelam-os-excessos-dos-sete-anos-do-inquerito-das-fake-news/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10001324/moraes-inquerito-das-fake-news-960x540.jpg",
-   "data": "2026-11-10T00:14:33-03:00"
-  },
-  {
-   "id": "ee18f710e9d7",
-   "titulo": "Governo adia decreto sobre fim da escala 6×1",
-   "resumo": "O governo federal adiou a publicação do decreto que regulamenta o fim da escala de trabalho 6x1 . A medida estava prevista para esta segunda-feira, 9, mas deverá ser oficializada somente depois do retorno do presidente Lula da Silva (PT) da…",
-   "link": "https://revistaoeste.com/politica/governo-adia-decreto-sobre-fim-da-escala-6x1/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Fim-da-escala-6x1_votacao.jpeg",
-   "data": "2026-11-10T00:12:35-03:00"
-  },
-  {
-   "id": "a81f40214bf8",
-   "titulo": "Presidente do TST defende fim imediato da escala 6 X 1",
-   "resumo": "Vieira de Mello Filho diz que não há igualdade nas negociações trabalhistas e defende redução da jornada sem perda salarial",
-   "link": "https://www.poder360.com.br/poder-justica/presidente-do-tst-defende-fim-imediato-da-escala-6-x-1/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-10T00:12:19-03:00"
-  },
-  {
-   "id": "c07a0d8678c3",
-   "titulo": "Edson Fachin encerra o inquérito das fake news após sete anos no STF",
-   "resumo": "O ministro Edson Fachin determinou o fim do inquérito das fake news no STF. Entenda os motivos do arquivamento e o impacto nas condenações existentes.",
-   "link": "https://www.gazetadopovo.com.br/republica/edson-fachin-encerra-o-inquerito-das-fake-news-apos-sete-anos-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10000516/ASPA-GRANDE-2026-11-09T150512.778-1-960x540.jpg",
-   "data": "2026-11-10T00:05:11-03:00"
   },
   {
    "id": "e1055c721f19",
@@ -184,51 +526,6 @@
    "data": "2026-11-10T00:00:00-03:00"
   },
   {
-   "id": "7b98acafe945",
-   "titulo": "Rodrigo Maia contribuiu com a PF em caso que envolve mulher de Moraes, diz site",
-   "resumo": "O ex-presidente da Câmara dos Deputados Rodrigo Maia prestou depoimento espontâneo à Polícia Federal (PF) e entregou conversas de WhatsApp com o empresário Marcelo Conde, no âmbito da investigação sobre o vazamento de dados fiscais da advog…",
-   "link": "https://revistaoeste.com/politica/rodrigo-maia-contribuiu-com-a-pf-em-caso-que-envolve-mulher-de-moraes-diz-site/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/moraes-maia.jpg",
-   "data": "2026-11-09T23:50:10-03:00"
-  },
-  {
-   "id": "763c0424eeaf",
-   "titulo": "Justiça federal suspende regras de Lula para o vale-refeição e alimentação",
-   "resumo": "Juiz suspende pontos centrais do decreto de Lula que regulava o vale-refeição por entender que governo ultrapassou limites legais. Veja os detalhes da decisão.",
-   "link": "https://www.gazetadopovo.com.br/republica/justica-federal-suspende-regras-de-lula-para-o-vale-refeicao-e-alimentacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09232917/lula_gazeta_2143x1200-1-960x540.jpg",
-   "data": "2026-11-09T23:29:12-03:00"
-  },
-  {
-   "id": "7a3c727a1f9e",
-   "titulo": "Entidades pressionam Lula e Congresso a combater supersalários",
-   "resumo": "Organizações cobram fim dos supersalários do funcionalismo público e apontam que o país pagou R$ 24,3 bilhões acima do teto em 2025.",
-   "link": "https://www.gazetadopovo.com.br/republica/entidades-pressionam-lula-e-congresso-a-combater-supersalarios/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09223642/esplanada-dos-ministerios-960x540.jpg",
-   "data": "2026-11-09T22:37:38-03:00"
-  },
-  {
-   "id": "e9e745339b53",
-   "titulo": "Senival Moura pede licença da Câmara de SP após segunda prisão",
-   "resumo": "O vereador Senival Moura, sem partido, deixou temporariamente o mandato na Câmara Municipal de São Paulo, um dia depois de ser preso pela segunda vez no inquérito sobre lavagem de dinheiro para o PCC. O afastamento dura 31 dias e foi protoc…",
-   "link": "https://oantagonista.com.br/brasil/senival-moura-pede-licenca-da-camara-de-sp-apos-segunda-prisao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2022/07/Senival-Moura_AndreBueno_CMSP2.jpg",
-   "data": "2026-11-09T21:45:42-03:00"
-  },
-  {
-   "id": "4dc1098919b3",
-   "titulo": "CNJ analisa novas regras para negociação de precatórios",
-   "resumo": "O Conselho Nacional de Justiça (CNJ) deve analisar nesta terça-feira, 10, uma proposta que altera as regras para negociação de precatórios. O texto amplia o acesso da Advocacia-Geral da União (AGU) a informações sobre a venda desses crédito…",
-   "link": "https://revistaoeste.com/politica/cnj-analisa-novas-regras-para-negociacao-de-precatorios/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/11a-sessao-ordinaria-do-cnj-de-2026-foto-gutavo-morenocnj.jpg",
-   "data": "2026-11-09T21:43:09-03:00"
-  },
-  {
    "id": "5724729b211c",
    "titulo": "Ministério pede derrubada de 348 perfis de influenciadores que divulgam bets ilegais",
    "resumo": "O Ministério da Justiça e Segurança Pública (MJSP) solicitou a derrubada de 348 perfis de influenciadores digitais usados para divulgar plataformas de apostas ilegais nas redes sociais. Segundo a pasta, as contas, todas no Instagram, somam …",
@@ -236,24 +533,6 @@
    "fonte": "G1 Política",
    "imagem": "",
    "data": "2026-11-09T21:39:58-03:00"
-  },
-  {
-   "id": "00deb1aba9c3",
-   "titulo": "Após arquivamento, inquérito das fakes news terá sigilo temporário até triagem de documentos",
-   "resumo": "Antes de levantar o sigilo do inquérito das fake news, STF fará triagem para evitar a divulgação de dados sensíveis.",
-   "link": "https://www.gazetadopovo.com.br/republica/apos-arquivamento-inquerito-das-fakes-news-tera-sigilo-temporario-ate-triagem-de-documentos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09210903/fachin-stf-1-1-960x540.jpg",
-   "data": "2026-11-09T21:30:57-03:00"
-  },
-  {
-   "id": "e0d13585e993",
-   "titulo": "O papel da direita agora é salvar a economia sob Lula e libertar o STF de Moraes",
-   "resumo": "No atual mandato de Lula, direita falhou em conter o avanço do atraso econômico e os abusos de autoridade do STF. É hora de trabalhar melhor.",
-   "link": "https://www.gazetadopovo.com.br/vozes/renan-ramalho/o-papel-da-direita-agora-e-salvar-a-economia-sob-lula-e-libertar-o-stf-de-moraes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09012542/Congresso-verde-e-amarelo-960x540.jpg",
-   "data": "2026-11-09T21:20:05-03:00"
   },
   {
    "id": "600663e1e1e4",
@@ -265,78 +544,6 @@
    "data": "2026-11-09T21:14:54-03:00"
   },
   {
-   "id": "97d3aaa1ed21",
-   "titulo": "Centrão se une a Motta para mudar sistema eleitoral contra “efeito Nikolas”",
-   "resumo": "Proposta de voto distrital misto pode favorecer partidos do Centrão e reduzir o peso de puxadores de votos. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/voto-distrital-misto-favorecer-centrao-reduzir-forca-puxadores-votos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/28130849/hugo-motta-foto-vinicius-loures-camara-1-960x540.jpg",
-   "data": "2026-11-09T21:01:01-03:00"
-  },
-  {
-   "id": "69245493e6d1",
-   "titulo": "Pai do atacante Rony é morto a facadas no Pará",
-   "resumo": "Marigerson Barbosa Carneiro, 72, pai do atacante Rony, do Santos, morreu na tarde desta segunda-feira, 9, depois de levar uma facada no pescoço em Terra Alta, no nordeste do Pará. Uma mulher de 48 anos foi presa em flagrante como suspeita d…",
-   "link": "https://oantagonista.com.br/brasil/pai-do-atacante-rony-e-morto-a-facadas-no-para/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-09_204922_ge.globo_.com-1.png",
-   "data": "2026-11-09T20:50:31-03:00"
-  },
-  {
-   "id": "93ae18693d8f",
-   "titulo": "Fachin arquiva inquérito das fake news após mais de 7 anos de tramitação",
-   "resumo": "Presidente do Supremo já havia antecipado que a movimentação era uma de suas prioridades. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-arquiva-inquerito-das-fake-news/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09150511/ASPA-GRANDE-2026-11-09T150512.778-960x540.jpg",
-   "data": "2026-11-09T20:45:52-03:00"
-  },
-  {
-   "id": "eaaa87d37c07",
-   "titulo": "AGU elogia decisão de Fux que suspende ações contra proibição das bets",
-   "resumo": "O advogado-geral da União, Jorge Messias, elogiou a decisão do ministro Luiz Fux, do Supremo Tribunal Federal (STF) , de suspender os processos judiciais que contestam a proibição das apostas on-line, conhecidas como bets . A medida foi det…",
-   "link": "https://revistaoeste.com/politica/agu-elogia-decisao-de-fux-que-suspende-acoes-contra-proibicao-das-ibets-i/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/54580461154_2e8255b743_b.jpg",
-   "data": "2026-11-09T20:20:35-03:00"
-  },
-  {
-   "id": "83313f7f9e47",
-   "titulo": "Fachin arquiva inquérito das fake news, aberto há sete anos",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou o fim do inquérito das fake news, que tramitava na Corte desde março de 2019. A decisão atende a parecer da Procuradoria-Geral da República (PGR). O arquivamento não e…",
-   "link": "https://oantagonista.com.br/brasil/fachin-arquiva-inquerito-das-fake-news-aberto-ha-sete-ano/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530077936_360841eff8_6k-scaled.jpg",
-   "data": "2026-11-09T20:17:13-03:00"
-  },
-  {
-   "id": "e969b04f09e2",
-   "titulo": "Senador eleito revela desejo de Dino em disputar a Presidência",
-   "resumo": "O senador eleito pelo Maranhão Lahesio Bonfim (Novo) afirmou que o ministro Flávio Dino, do Supremo Tribunal Federal (STF), pretende deixar a Corte para disputar a Presidência da República quando o presidente Luiz Inácio Lula da Silva sair …",
-   "link": "https://revistaoeste.com/politica/senador-eleito-revela-desejo-de-dino-em-disputar-a-presidencia/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/lahesio-bonfim.jpg",
-   "data": "2026-11-09T20:15:21-03:00"
-  },
-  {
-   "id": "d32929c9b01c",
-   "titulo": "STJ pede inclusão de desembargadora na lista vermelha da Interpol",
-   "resumo": "O ministro Og Fernandes, do Superior Tribunal de Justiça (STJ) , determinou que a Polícia Federal inclua o nome da desembargadora Sandra Inês Moraes Rusciolelli Azevedo, do Tribunal de Justiça da Bahia, na lista vermelha da Interpol. A Just…",
-   "link": "https://revistaoeste.com/politica/stj-pede-inclusao-de-desembargadora-na-lista-vermelha-da-interpol/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Desembargadora-Sandra-Ines-Moraes-Rusciolelli-Azevedo.jpg",
-   "data": "2026-11-09T20:08:22-03:00"
-  },
-  {
-   "id": "e40b934b16ff",
-   "titulo": "Fachin arquiva Inquérito das Fake News, aberto há mais de 7 anos pelo STF",
-   "resumo": "Nesta segunda-feira, 9, o presidente do Supremo Tribunal Federal (STF), Edson Fachin, arquivou o Inquérito das Fake News, instaurado em março de 2019 e conduzido durante mais de sete anos pelo ministro Alexandre de Moraes. A investigação, i…",
-   "link": "https://revistaoeste.com/politica/fachin-arquiva-inquerito-das-fake-news-aberto-ha-mais-de-7-anos-pelo-stf/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/54934846244_0cae9ef4b2_o-copiar.jpg",
-   "data": "2026-11-09T20:04:15-03:00"
-  },
-  {
    "id": "e71e9c59f367",
    "titulo": "Fachin determina arquivamento do inquérito das fake news",
    "resumo": "",
@@ -346,123 +553,6 @@
    "data": "2026-11-09T19:59:10-03:00"
   },
   {
-   "id": "14c2d3a2627d",
-   "titulo": "Lula viaja à Turquia e às Filipinas",
-   "resumo": "O presidente Lula da Silva (PT) embarcou nesta segunda-feira, 9, para a Turquia, na primeira viagem internacional depois da reeleição . A agenda inclui compromissos em Antália, onde participará da 31ª Conferência das Nações Unidas sobre Mud…",
-   "link": "https://revistaoeste.com/politica/lula-viaja-a-turquia-e-as-filipinas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Lula_Turistando_Turquia.jpeg",
-   "data": "2026-11-09T19:58:36-03:00"
-  },
-  {
-   "id": "02433a205e25",
-   "titulo": "Aliados de Lula propõem código de ética e mandato de 12 anos no STF",
-   "resumo": "O Prerrogativas, grupo de advogados próximo ao governo Lula (PT), elaborou uma proposta de reforma do Judiciário que fixa mandato de 12 anos para ministros do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) e cria um …",
-   "link": "https://oantagonista.com.br/brasil/aliados-de-lula-propoem-codigo-de-etica-e-mandato-de-12-anos-no-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/unknown-2.jpg",
-   "data": "2026-11-09T19:37:11-03:00"
-  },
-  {
-   "id": "6f9e88388c35",
-   "titulo": "Juiz suspende decreto de Lula que regula vale-refeição e alimentação",
-   "resumo": "O juiz federal Frederico Botelho de Barros Viana entendeu que o decreto pode ter ultrapassado os limites do poder regulamentar de Lula.",
-   "link": "https://www.gazetadopovo.com.br/republica/juiz-suspende-decreto-de-lula-que-regula-vale-refeicao-e-alimentacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/02013959/lula_gazeta_2143x1200-960x540.jpg",
-   "data": "2026-11-09T19:28:36-03:00"
-  },
-  {
-   "id": "dc00eca9cc97",
-   "titulo": "PGR e Judiciário querem R$ 533 milhões extras para pagar penduricalhos; AGU pediu análise ao STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/pgr-e-judiciario-querem-r-533-milhoes-extras-para-pagar-penduricalhos-agu-pediu-analise-stf.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/fyg47X71j-9c40nKRu8whCRTsV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/X/4APWJaT0ANik5ovIvb4w/50969871752-3ac84c4596-k.jpg",
-   "data": "2026-11-09T19:19:52-03:00"
-  },
-  {
-   "id": "3c94009e8f6d",
-   "titulo": "Penduricalhos garantidos? Judiciário e MPF pedem R$ 533 milhões ao governo",
-   "resumo": "O Conselho da Justiça Federal (CJF) e a Procuradoria-Geral da República (PGR) pediram ao governo federal, em ofícios assinados no dia 3, cerca de R$ 533 milhões para quitar em 2026 parcelas remuneratórias de juízes e membros do Ministério P…",
-   "link": "https://oantagonista.com.br/brasil/penduricalhos-garantidos-judiciario-e-mpf-pedem-r-533-milhoes-ao-governo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/paulo-gonet-senado-e1762954519538-628x353-1.jpg",
-   "data": "2026-11-09T19:14:52-03:00"
-  },
-  {
-   "id": "30f190ccc181",
-   "titulo": "Caso Dark Horse: Prefeitura de SP rompe contrato de R$ 108 milhões",
-   "resumo": "A Prefeitura de São Paulo decidiu encerrar o contrato de instalação de pontos de wi-fi gratuito na capital com o Instituto Conhecer Brasil (ICB), investigado pela Polícia Federal (PF) por suspeitas de irregularidades no uso de recursos públ…",
-   "link": "https://oantagonista.com.br/brasil/caso-dark-horse-prefeitura-de-sp-rompe-contrato-de-r-108-milhoes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/image-23-1-e1779390492545.jpg",
-   "data": "2026-11-09T19:09:33-03:00"
-  },
-  {
-   "id": "439c33379340",
-   "titulo": "PF detalha, em relatórios, relação de Toffoli, Moraes e Nunes Marques com Vorcaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/pf-detalha-em-relatorios-relacao-de-toffoli-moraes-e-nunes-marques-com-vorcaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/tcQEiMyCBVdYpHFwKhRTq01NnYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/e/VCLAQGQaW6PysupbUKIg/montagem-horizontal-1200px-8-.jpg",
-   "data": "2026-11-09T19:02:44-03:00"
-  },
-  {
-   "id": "8d5f91d38d8d",
-   "titulo": "Câmara prevê gastos de quase R$ 6 milhões com tablets para deputados",
-   "resumo": "A Câmara dos Deputados abriu uma licitação para comprar 604 tablets, com valor máximo estimado em R$ 5,77 milhões. A aquisição prevê aparelhos para os 513 deputados federais e outras 91 unidades destinadas a atividades administrativas da Ca…",
-   "link": "https://revistaoeste.com/politica/camara-preve-gastos-de-quase-r-6-milhoes-com-tablets-para-deputados/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias-r2.revistaoeste.com/wp-content/uploads/2026/11/Camara_Tablet.jpeg",
-   "data": "2026-11-09T18:59:30-03:00"
-  },
-  {
-   "id": "5f21c2ac4db6",
-   "titulo": "Nunes rompe contrato com ONG ligada a Dark Horse",
-   "resumo": "A Prefeitura de São Paulo, comandada por Ricardo Nunes, decidiu rescindir o contrato de R$ 108 milhões anuais com o Instituto Conhecer Brasil (ICB), presidido pela empresária Karina Gama, produtora do filme Dark Horse , cinebiografia sobre …",
-   "link": "https://revistaoeste.com/politica/nunes-rompe-contrato-com-ong-ligada-a-dark-horse/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/rn.jpg",
-   "data": "2026-11-09T18:45:05-03:00"
-  },
-  {
-   "id": "8c721f8ecb8b",
-   "titulo": "Celina prepara exoneração em massa de comissionados no DF",
-   "resumo": "A governadora do Distrito Federal, Celina Leão (PP), anunciou que pretende começar 2027 com uma reorganização dos cargos comissionados do governo local. A medida prevê a exoneração coletiva de servidores e a escolha de novos nomes para comp…",
-   "link": "https://oantagonista.com.br/brasil/celina-prepara-exoneracao-em-massa-de-comissionados-no-df-1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/Captura-de-Tela-2026-08-10-as-10.42.32-e1786369973989.png",
-   "data": "2026-11-09T18:38:48-03:00"
-  },
-  {
-   "id": "4a3019297487",
-   "titulo": "Polícia investiga imagens feitas por IA de filha do governador eleito pelo AM",
-   "resumo": "A Polícia Civil do Amazonas investiga a participação de integrantes da campanha da ex-candidata ao governo Professora Maria do Carmo (PL) na divulgação de imagens da filha do governador eleito Omar Aziz (PSD) durante a campanha eleitoral de…",
-   "link": "https://oantagonista.com.br/brasil/policia-investiga-imagens-feitas-por-ia-de-filha-do-governador-eleito-pelo-am/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2024/12/54213483518_c36534c55c_o-scaled-e1734971141193.jpg",
-   "data": "2026-11-09T18:32:18-03:00"
-  },
-  {
-   "id": "feea9bc3fb70",
-   "titulo": "Decreto sobre escala 6×1 fica na gaveta até volta de Lula",
-   "resumo": "A regulamentação do fim da escala 6×1 terá de esperar o retorno de Lula (PT) das viagens internacionais. O decreto, que deveria ser publicado nesta segunda-feira, 9, foi adiado e agora tem previsão de divulgação a partir de 16 de novembro, …",
-   "link": "https://oantagonista.com.br/brasil/decreto-sobre-escala-6x1-fica-na-gaveta-ate-volta-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-03-as-10.35.14-e1793713196438.png",
-   "data": "2026-11-09T18:10:30-03:00"
-  },
-  {
-   "id": "630c73dc333c",
-   "titulo": "Caso Master: Zettel nega ameaças e diz que só fazia pagamentos",
-   "resumo": "O cunhado e operador financeiro de Daniel Vorcaro, Fabiano Zettel, negou ter conhecimento de agressões ou ameaças atribuídas ao grupo conhecido como “A Turma”, investigado por supostos atos de violência. Em depoimento à Polícia Federal (PF)…",
-   "link": "https://oantagonista.com.br/brasil/caso-master-zettel-nega-ameacas-e-diz-que-so-fazia-pagamentos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-09T174744.399.png",
-   "data": "2026-11-09T17:48:42-03:00"
-  },
-  {
    "id": "91605d397b3e",
    "titulo": "CLDF vota proposta que libera reeleição de membros da Mesa Diretora",
    "resumo": "<p><strong>A Câmara Legislativa do Distrito Federal (CLDF) deve votar, nesta terça-feira (10), a proposta que autoriza deputados distritais reeleitos que hoje integram a Mesa Diretora a voltarem a disputar o comando da Casa durante os dois …",
@@ -470,33 +560,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-09T17:24:00-03:00"
-  },
-  {
-   "id": "a7e8d15026db",
-   "titulo": "Crusoé: Oposição pede esclarecimentos sobre direcionamento ideológico do Enem",
-   "resumo": "O deputado federal Gustavo Gayer (PL-GO), líder da minoria na Câmara, apresentou um requerimento de informações ao Ministério da Educação para cobrar explicações sobre os critérios de elaboração, seleção e correção das questões do Exame Nac…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-oposicao-pede-esclarecimentos-sobre-direcionamento-ideologico-do-enem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/10/54841342935_cbba2d9bf4_4k-scaled.jpg",
-   "data": "2026-11-09T16:28:23-03:00"
-  },
-  {
-   "id": "c2c8e30c3e9b",
-   "titulo": "Em manifesto, 7 entidades pedem ao governo e ao Congresso eleitos prioridade no combate a supersalários",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/em-manifesto-7-entidades-pedem-ao-governo-e-ao-congresso-eleitos-prioridade-no-combate-a-supersalarios.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/5ZNF6AEXTX_cL5Rz5CWBctjgR60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/G/ROLPbPRkKUoYS0MStzBw/globo-canal-4-20260205-2000-frame-57603.jpeg",
-   "data": "2026-11-09T15:47:26-03:00"
-  },
-  {
-   "id": "c619cb0e6f50",
-   "titulo": "Arquivamento Fake News: ministros do STF dizem que encerramento de inquérito serve para país 'virar página'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/ministros-do-stf-dizem-que-encerrar-inquerito-das-fake-news-servira-para-virar-pagina-no-pais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/fyg47X71j-9c40nKRu8whCRTsV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/X/4APWJaT0ANik5ovIvb4w/50969871752-3ac84c4596-k.jpg",
-   "data": "2026-11-09T15:22:57-03:00"
   },
   {
    "id": "f4c768da7664",
@@ -517,24 +580,6 @@
    "data": "2026-11-09T13:07:45-03:00"
   },
   {
-   "id": "a7a515fd3738",
-   "titulo": "PGR encaminha a Fachin parecer pelo arquivamento do inquérito das fake news",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/pgr-encaminha-a-fachin-parecer-pelo-arquivamento-do-inquerito-das-fake-news.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/kUs0bFH50zdIrb4vwUOze3IRD9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/kLdgD9SRufHunxXnUBBg/globo-canal-4-20260925-2000-frame-124656.jpeg",
-   "data": "2026-11-09T12:18:37-03:00"
-  },
-  {
-   "id": "14b3615a822d",
-   "titulo": "COP31: Lula embarca com Janones e ministros para Turquia; Motta e Alcolumbre não integram comitiva",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/09/cop31-lula-embarca-com-janones-e-ministros-para-turquia-motta-e-alcolumbre-nao-integram-comitiva.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/ODhb3Ep5Pn2pOhULekhJEhY0ZXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/4/l1uQPCQZusrgtakE4m8w/55642407028-ca790cfdf6-k.jpg",
-   "data": "2026-11-09T10:21:41-03:00"
-  },
-  {
    "id": "a42710d34e3b",
    "titulo": "Mirando a reeleição, Motta e Alcolumbre decidem não viajar com Lula",
    "resumo": "Apesar do convite de Lula, Hugo Motta e Davi Alcolumbre decidem ficar em Brasília para articular as eleições ao comando do Congresso",
@@ -542,24 +587,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/alcolumbre-motta-eleicoes-2026-2-turno.jpg",
    "data": "2026-11-09T09:52:12-03:00"
-  },
-  {
-   "id": "1e6c1b117c64",
-   "titulo": "Lula viaja e deixa para volta definição de nomes de futura equipe e medidas para garantir equilíbrio fiscal",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/09/lula-viaja-e-deixa-para-volta-definicao-de-nomes-de-futura-equipe-e-mais-importante-medidas-para-garantir-equilibrio-fiscal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/NkIV3b66TlI6s31AjNJVqPWS7e0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/im5uDWQF6VwmAY3bF8AQ/lula.jpg",
-   "data": "2026-11-09T09:40:15-03:00"
-  },
-  {
-   "id": "3ecbb3d52991",
-   "titulo": "Gás do Povo: governo prorroga até 2031 programa que prevê recargas grátis para famílias de baixa renda",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/09/governo-federal-prorroga-ate-2031-programa-gas-do-povo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/-KJimkpeteO0RNyTAtJn28EOWbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/o/zQPPnuQpAQaFEPYJ0qcw/padrao-imagem-g1-2025-11-23t105628.209.png",
-   "data": "2026-11-09T09:35:09-03:00"
   },
   {
    "id": "f2ba5129ae52",
