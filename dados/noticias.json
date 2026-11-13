@@ -1,25 +1,439 @@
 {
- "atualizado": "2026-11-12T15:50:57.317679-03:00",
+ "atualizado": "2026-11-12T21:12:37.381498-03:00",
  "total": 78,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "32414e4a1198",
-   "titulo": "Senado pode votar proposta de Lula que aumenta cobrança de impostos sobre empresas",
-   "resumo": "O Senado pode votar nesta quinta-feira, 12, o pacote de ajuste fiscal do governo Lula , que amplia a redução de incentivos tributários federais e autoriza restrições ao uso de créditos para abater impostos. O ministro do Planejamento, Bruno…",
-   "link": "https://revistaoeste.com/politica/senado-pode-votar-proposta-de-lula-que-aumenta-cobranca-de-impostos-sobre-empresas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/feira-livre-91.jpg",
-   "data": "2026-11-12T15:45:03-03:00"
+   "id": "20920c8a6e8f",
+   "titulo": "ASSISTA: Senado aprova texto-base do projeto de ajuste fiscal",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/CvZFyFXgPBVZoMsW3hAcdjrPnMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/nmrPtYRlOquPE3T9GPQQ/55649695989-636e0aaabd-k.jpg",
+   "data": "2026-11-12T21:09:01-03:00"
   },
   {
-   "id": "47f2781773a7",
-   "titulo": "Em fala final na COP31, Lula reivindica liderança climática do Brasil",
-   "resumo": "Ao encerrar agenda, presidente disse que brasileiros não precisam mais participar de reuniões climáticas de cabeça baixa",
-   "link": "https://www.poder360.com.br/poder-governo/em-fala-final-na-cop31-lula-reivindica-lideranca-climatica-do-brasil/",
+   "id": "28fdb2dd1eb1",
+   "titulo": "MPRJ prende dez em operação contra esquema da Refit",
+   "resumo": "O Ministério Público do Rio de Janeiro (MPRJ) prendeu dez pessoas nesta quarta-feira, 11, durante uma operação contra suspeitos de integrar um esquema de fraudes fiscais ligado à Refit , antiga Refinaria de Manguinhos. A ação cumpriu 14 man…",
+   "link": "https://revistaoeste.com/politica/mprj-prende-dez-em-operacao-contra-esquema-da-refit/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/09/2017-REFIT-70-ANOS.jpg",
+   "data": "2026-11-12T21:07:49-03:00"
+  },
+  {
+   "id": "b0d4aba77f5f",
+   "titulo": "Senado aprova pacote de ajuste fiscal do governo Lula",
+   "resumo": "Proposta limita crescimento dos gastos públicos, reduz benefícios fiscais e busca viabilizar o Orçamento de 2027 com alívio de até R$ 56 bilhões, segundo o Executivo; texto segue para a Câmara",
+   "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-pacote-de-ajuste-fiscal-do-governo-lula/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-fecha-cop31-12-nov-2026.jpg",
-   "data": "2026-11-12T15:43:55-03:00"
+   "imagem": "",
+   "data": "2026-11-12T21:06:58-03:00"
+  },
+  {
+   "id": "2745805c9f12",
+   "titulo": "Senado Federal aprova texto-base de projeto que prevê ajuste fiscal de até R$ 60 bilhões",
+   "resumo": "Governo Lula apresenta projeto com medidas de ajuste fiscal de até R$ 60 bi em 2027 O Senado Federal aprovou nesta quinta-feira (12) o texto-base da proposta do governo do presidente Luiz Inácio Lula da Silva (PT) para um ajuste fiscal. As …",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-12T21:05:04-03:00"
+  },
+  {
+   "id": "f274e207f777",
+   "titulo": "Inadimplência de empresas vai ao maior número em setembro",
+   "resumo": "9,4 milhões de companhias estavam com dívidas negativas, que somavam R$ 247,8 bilhões, segundo Serasa Experian",
+   "link": "https://www.poder360.com.br/poder-economia/inadimplencia-de-empresas-vai-ao-maior-numero-em-setembro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/inadimplencia-empresas-12-nov-2026-scaled.png",
+   "data": "2026-11-12T21:02:20-03:00"
+  },
+  {
+   "id": "bbbb9d969f3d",
+   "titulo": "Supremo terá nova queda de braço com TSE em ação que tenta alterar resultado da eleição no Rio",
+   "resumo": "PSD contesta resultado do 1º turno da eleição e tenta ressuscitar disputa pelo governo do Rio de Janeiro contra Douglas Ruas (PL).",
+   "link": "https://www.gazetadopovo.com.br/brasil/supremo-queda-de-braco-com-tse-acao-que-tenta-alterar-resultado-eleicao-primeiro-turno-rio-de-janeiro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12154731/Zanin-960x540.jpg",
+   "data": "2026-11-12T20:58:08-03:00"
+  },
+  {
+   "id": "876cb591f4d9",
+   "titulo": "STF manda prender ex-professor acusado de crimes sexuais no RS",
+   "resumo": "O Supremo Tribunal Federal (STF) determinou o retorno à prisão do ex-professor de direito Conrado Paulino da Rosa, réu por crimes sexuais contra dez mulheres no Rio Grande do Sul. Ele se entregou na noite de quarta-feira, 11, à Delegacia Es…",
+   "link": "https://oantagonista.com.br/brasil/stf-manda-prender-ex-professor-acusado-de-crimes-sexuais-no-rs/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/evento_partilha_bens_5-1.jpeg",
+   "data": "2026-11-12T20:51:54-03:00"
+  },
+  {
+   "id": "fb4f87118184",
+   "titulo": "PGR é contra revisão criminal que pode anular a condenação de Bolsonaro",
+   "resumo": "PGR afirma que a revisão criminal de Bolsonaro apenas reitera teses já rejeitadas e não apresenta provas novas de inocência.",
+   "link": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-revisao-criminal-que-pode-anular-a-condenacao-de-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12201932/bolsonaro-960x540.jpg",
+   "data": "2026-11-12T20:51:53-03:00"
+  },
+  {
+   "id": "9cc3c24bd471",
+   "titulo": "Lucro da B3 sobe 30,5% na comparação anual",
+   "resumo": "Empresa registrou ganhos de R$ 1,63 bilhão no 3º trimestre de 2026; receita líquida subiu 11,0%",
+   "link": "https://www.poder360.com.br/poder-economia/lucro-da-b3-sobe-305-na-comparacao-anual/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T20:43:53-03:00"
+  },
+  {
+   "id": "f74f6ab139d0",
+   "titulo": "PGR rejeita revisão criminal de Bolsonaro e defende manter pena",
+   "resumo": "A Procuradoria-Geral da República (PGR) se posicionou contra o pedido do ex-presidente Jair Bolsonaro para anular a condenação por tentativa de golpe de Estado. Em parecer enviado ao Supremo Tribunal Federal nesta quinta-feira, 12, o procur…",
+   "link": "https://oantagonista.com.br/brasil/pgr-rejeita-revisao-criminal-de-bolsonaro-e-defende-manter-pena/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/01/14092025-pzzb3235-1-scaled.jpg",
+   "data": "2026-11-12T20:37:51-03:00"
+  },
+  {
+   "id": "7203e1a27df7",
+   "titulo": "Polícia do DF investiga esquema de falsificação de RG para estrangeiros",
+   "resumo": "Operação Livro E cumpre mandados no DF, RJ e SP; 14 estrangeiros já deixaram o Brasil usando documentos de dados fraudulentos",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/policia-do-df-investiga-esquema-de-falsificacao-de-rg-para-estrangeiros/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T20:35:10-03:00"
+  },
+  {
+   "id": "7b75d5dceca7",
+   "titulo": "Fachin não diz como vai encaminhar caso Master nem análise do caso Moraes",
+   "resumo": "Pedido de vista de Dino no julgamento de 15 de setembro e a espera pelos relatórios da PF com menções a ministros atrasam os processos",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-nao-diz-como-vai-encaminhar-caso-master-nem-analise-do-caso-moraes/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/10/moraes-almoco-vorcaro-campos-do-jordao-1200x675.png",
+   "data": "2026-11-12T20:20:08-03:00"
+  },
+  {
+   "id": "acb6c3b20b95",
+   "titulo": "Magno Malta e Randolfe Rodrigues trocam acusações no Senado",
+   "resumo": "A sessão do Senado que analisava o pacote de corte de gastos foi suspensa na quinta-feira, 12, depois de uma discussão entre o senador Magno Malta (PL-ES) e o líder do governo Lula na Casa, Randolfe Rodrigues (PT-AP). O embate ocorreu quand…",
+   "link": "https://oantagonista.com.br/brasil/magno-malta-e-randolfe-rodrigues-trocam-acusacoes-no-senado/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Imagemgerada_1794525314506-1.png",
+   "data": "2026-11-12T20:16:54-03:00"
+  },
+  {
+   "id": "eebe12040087",
+   "titulo": "Fachin evita dizer o que fará com o processo de afastamento de Andrei da PF",
+   "resumo": "Presidente do Supremo manteve o diretor-geral do cargo e pediu manifestação da PGR, mas não dá indícios dos próximos passos",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-evita-dizer-o-que-fara-com-o-processo-de-afastamento-de-andrei-da-pf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T20:09:08-03:00"
+  },
+  {
+   "id": "fe960377e0ec",
+   "titulo": "Senado aprova inclusão de vacina contra herpes-zóster no SUS; projeto segue para a Câmara",
+   "resumo": "",
+   "link": "https://g1.globo.com/saude/noticia/2026/11/12/senado-aprova-inclusao-de-vacina-contra-herpes-zoster-no-sus-projeto-segue-para-a-camara.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/RmoJzK1qQ0biO6mb7NwX1_Sez7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/m/sHxAXAS3yQZ7ZlS7W28A/httpsi.s3.glbimg.comv1auth-59edd422c0c84a879bd37670ae4f538ainternal-photosbs2025mxjxdch7qckavr9l4q0vagap25062119540477.jpg-1-.png",
+   "data": "2026-11-12T20:07:42-03:00"
+  },
+  {
+   "id": "ad8e4cf48c61",
+   "titulo": "Nunes Marques mantém afastamento de Buzzi, mas sem suspensão salarial",
+   "resumo": "Ministro do STJ foi afastado depois de ser investigado por suspeita de importunação sexual",
+   "link": "https://www.poder360.com.br/poder-justica/nunes-marques-mantem-afastamento-de-buzzi-mas-sem-suspensao-salarial/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T20:06:06-03:00"
+  },
+  {
+   "id": "e2eddc9f2a7e",
+   "titulo": "PGR defende rejeição de novo pedido de revisão criminal que poderia anular a condenação de Jair Bolsonaro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg",
+   "data": "2026-11-12T20:04:53-03:00"
+  },
+  {
+   "id": "da9527ac4a1f",
+   "titulo": "Zanin nega pedido de liminar do PSD para 2º turno no RJ",
+   "resumo": "O mérito da ação ainda será analisado pela Corte; decisão mantém a vitória de Douglas Ruas (PL) sobre Eduardo Paes (PSD) no 1º turno",
+   "link": "https://www.poder360.com.br/poder-justica/zanin-nega-pedido-de-liminar-do-psd-para-2o-turno-no-rj/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T19:53:32-03:00"
+  },
+  {
+   "id": "60c69a45c3ba",
+   "titulo": "Justiça torna Milton Leite réu por promover o PCC no transporte de SP",
+   "resumo": "Ex-presidente da Câmara da capital paulista e mais 13 pessoas vão responder por organização criminosa ligada à facção; juiz manda prender todos",
+   "link": "https://www.poder360.com.br/poder-justica/justica-torna-milton-leite-reu-por-promover-o-pcc-no-transporte-de-sp/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-12T19:52:34-03:00"
+  },
+  {
+   "id": "2319106d3d9b",
+   "titulo": "‘Só serei candidato se Bolsonaro quiser’, diz Mello Araújo, sobre disputa pela prefeitura de São Paulo",
+   "resumo": "O vice-prefeito de São Paulo, coronel Mello Araújo (PL), afirmou que só disputará a prefeitura da capital paulista em 2028 se tiver o aval do ex-presidente Jair Bolsonaro. \"Caso contrário, não saio candidato por partido nenhum, vou embora\",…",
+   "link": "https://revistaoeste.com/politica/so-serei-candidato-se-bolsonaro-quiser-diz-mello-araujo-sobre-disputa-pela-prefeitura-de-sao-paulo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/celmelloaraujo.jpg",
+   "data": "2026-11-12T19:47:24-03:00"
+  },
+  {
+   "id": "ce64a4393d41",
+   "titulo": "Zanin nega pedido do PSD para realização de 2º turno ao governo do Rio",
+   "resumo": "Zanin nega pedido do PSD para realização do segundo turno na disputa pelo governo do Rio de Janeiro. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/zanin-nega-pedido-do-psd-para-realizacao-de-2o-turno-ao-governo-do-rio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12191457/zanin-stf-960x540.jpg",
+   "data": "2026-11-12T19:42:39-03:00"
+  },
+  {
+   "id": "62d88e37bb4a",
+   "titulo": "Kassab elogia “pré-disposição” de Lula para fazer ajuste fiscal",
+   "resumo": "Presidente do PSD não respondeu diretamente se aceitaria assumir um ministério; disse que participação em cargos é secundária",
+   "link": "https://www.poder360.com.br/poder-economia/kassab-elogia-pre-disposicao-de-lula-para-fazer-ajuste-fiscal/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/8hR-IRXh2nc/hqdefault.jpg",
+   "data": "2026-11-12T19:39:40-03:00"
+  },
+  {
+   "id": "6e947e9f1347",
+   "titulo": "Flávio Dino libera jornada de trabalho de 8h24 sem pagamento de hora extra",
+   "resumo": "Ministro Flávio Dino define regras para o fim da escala 6x1, permitindo jornada de 8h24 sem hora extra e flexibilizando folgas. Confira as mudanças.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-dino-libera-jornada-de-trabalho-de-8h24-sem-pagamento-de-hora-extra/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12192616/55561484151_0e7f3d2428_o-1-960x540.jpg",
+   "data": "2026-11-12T19:26:10-03:00"
+  },
+  {
+   "id": "78e42e0f848b",
+   "titulo": "Lula avalia Josué Gomes da Silva para Ministério da Indústria",
+   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) avalia o empresário Josué Gomes da Silva para chefiar o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) em um quarto mandato. O nome voltou à lista depois que a conversa para …",
+   "link": "https://oantagonista.com.br/brasil/lula-avalia-josue-gomes-da-silva-para-ministerio-da-industria/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2023/01/Josue-Gomes-da-Silva.jpg",
+   "data": "2026-11-12T19:14:18-03:00"
+  },
+  {
+   "id": "6b671cd9d240",
+   "titulo": "‘Imposto do Pecado’ recebe 179 emendas; 65% tentam reduzir tributação",
+   "resumo": "A Medida Provisória (MP) que estabelece as alíquotas do Imposto Seletivo, recebeu 179 propostas de emendas de deputados e senadores. Desse total, 117 (65,4%) pretendem reduzir a tributação sobre produtos e setores alcançados pelo chamado “I…",
+   "link": "https://revistaoeste.com/politica/imposto-do-pecado-recebe-179-emendas-65-tentam-reduzir-tributacao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Imposto-do-Pecado_Congresso.jpeg",
+   "data": "2026-11-12T19:08:48-03:00"
+  },
+  {
+   "id": "321d4ec13e55",
+   "titulo": "Receita propõe adiar recolhimento da CBS e flexibiliza transição da reforma tributária",
+   "resumo": "Proposta prevê recolhimento definitivo da CBS em março de 2027, enquanto empresas terão mais prazo para adaptar documentos fiscais.",
+   "link": "https://www.gazetadopovo.com.br/republica/receita-propoe-adiar-recolhimento-da-cbs-e-flexibiliza-transicao-da-reforma-tributaria/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12185704/Design-sem-nome-43-960x540.jpg",
+   "data": "2026-11-12T19:01:19-03:00"
+  },
+  {
+   "id": "8c0ef5d2db77",
+   "titulo": "Fiesp pede ao STF mais um ano para implantação da escala 5×2",
+   "resumo": "A Federação das Indústrias do Estado de São Paulo (Fiesp) considerou insuficiente a decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que manteve o início da escala de trabalho 5x2 em 16 de dezembro, mas flexibilizou algum…",
+   "link": "https://revistaoeste.com/politica/fiesp-pede-ao-stf-mais-um-ano-para-implantacao-da-escala-5x2/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/1026511-sp_20062016-dsc_1104.jpg",
+   "data": "2026-11-12T18:53:32-03:00"
+  },
+  {
+   "id": "bef5ff022dd5",
+   "titulo": "Relator estabelece prazo para votação da redução da maioridade penal",
+   "resumo": "O deputado Mendonça Filho (PL-PE) apresentará, em 1º de dezembro, o parecer sobre a redução da maioridade penal ao presidente da Câmara , Hugo Motta (Republicanos-PB), e aos líderes partidários. O relator anunciou o cronograma nesta quarta-…",
+   "link": "https://revistaoeste.com/politica/relator-estabelece-prazo-para-votacao-da-reducao-da-maioridade-penal/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/04/Mendonca-Filho.jpg",
+   "data": "2026-11-12T18:47:16-03:00"
+  },
+  {
+   "id": "83db47b65dd8",
+   "titulo": "Zanin rejeita pedido de 2º turno na eleição para governador do RJ",
+   "resumo": "Nesta quinta-feira, 12, o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF) , rejeitou um pedido do Partido Social Democrático (PSD) para realizar o segundo turno da eleição para governador do Rio de Janeiro. A legenda tentava rev…",
+   "link": "https://revistaoeste.com/politica/zanin-rejeita-pedido-de-2o-turno-na-eleicao-para-governador-do-rj/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/12/Zanin.jpg",
+   "data": "2026-11-12T18:39:50-03:00"
+  },
+  {
+   "id": "d40cc741c8ab",
+   "titulo": "Novo cobra Fachin por regras contra “estrutura paralela” no gabinete de Moraes",
+   "resumo": "Pedido inclui divulgação de autos, apuração dos procedimentos adotados no gabinete de Moraes e criação de mecanismos de controle no STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/novo-cobra-fachin-por-regras-contra-estrutura-paralela-no-gabinete-de-moraes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/11022104/alexandre-de-moraes-com-edson-fachin-foto-marcelo-camargo-agencia-brasil-2-960x540.jpg",
+   "data": "2026-11-12T18:34:18-03:00"
+  },
+  {
+   "id": "55df13c08e37",
+   "titulo": "Zanin barra ação por 2º turno no Rio e mantém disputa no TSE",
+   "resumo": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), recusou a ação do PSD que pedia a realização de segundo turno na eleição para o governo do Rio de Janeiro, entre Eduardo Paes e Douglas Ruas (PL). A decisão se apoia em razões p…",
+   "link": "https://oantagonista.com.br/brasil/zanin-barra-acao-por-2o-turno-no-rio-e-mantem-disputa-no-tse/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530747368_77fae4a06d_5k-scaled.jpg",
+   "data": "2026-11-12T18:33:47-03:00"
+  },
+  {
+   "id": "513cc9df48ea",
+   "titulo": "Marinho chama pacote fiscal de Lula de ‘espécie de estelionato’",
+   "resumo": "O líder da oposição no Senado, Rogério Marinho (PL-RN), chamou o pacote fiscal do governo Lula de “uma espécie de estelionato” nesta quinta-feira, 12, durante a orientação das bancadas sobre o pedido de urgência do Projeto de Lei (PL) 299/2…",
+   "link": "https://revistaoeste.com/politica/marinho-chama-pacote-fiscal-de-lula-de-especie-de-estelionato/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/imagem_materia.jpeg",
+   "data": "2026-11-12T18:19:17-03:00"
+  },
+  {
+   "id": "d523b3687d7b",
+   "titulo": "Presidente do Banco do Brasil alerta para crise histórica no agronegócio",
+   "resumo": "Presidente do Banco do Brasil aponta crise severa de inadimplência no agronegócio. Lucro recua 65% e banco endurece critérios para conceder crédito rural.",
+   "link": "https://www.gazetadopovo.com.br/republica/presidente-do-banco-do-brasil-alerta-para-crise-historica-no-agronegocio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12181735/Design-sem-nome-42-1-960x540.jpg",
+   "data": "2026-11-12T18:17:30-03:00"
+  },
+  {
+   "id": "6e7e2657cf41",
+   "titulo": "Fachin arquiva investigação aberta por Moraes contra Rodrigo Constantino",
+   "resumo": "Constantino afirma que arquivamento por prescrição não representa justiça e lamenta prejuízos pessoais causados pelo processo.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-arquiva-investigacao-aberta-por-moraes-contra-rodrigo-constantino/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12180308/constantino-960x540.jpg",
+   "data": "2026-11-12T18:04:00-03:00"
+  },
+  {
+   "id": "69d80c7a1370",
+   "titulo": "Ataque hacker expõe dados de 7,6 milhões de clientes de empresa ligada à Caixa",
+   "resumo": "Vazamento de dados expôs CPFs, contatos e datas de nascimento; a Caixa descarta comprometimento de senhas e informações bancárias.",
+   "link": "https://www.gazetadopovo.com.br/republica/ataque-hacker-expoe-dados-de-76-milhoes-de-clientes-da-caixa/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2019/10/23191613/9fe3a6a0-e528-11e9-b94a-39e70261d491-wp-960x540.jpg",
+   "data": "2026-11-12T17:55:14-03:00"
+  },
+  {
+   "id": "ebe0b99ce677",
+   "titulo": "Justiça de SP torna Milton Leite réu por suspeita de ligação com o PCC",
+   "resumo": "A Justiça de São Paulo aceitou nesta quinta-feira, 12, a denúncia do Ministério Público e tornou réu o ex-presidente da Câmara Municipal Milton Leite (União Brasil) e outros 13 investigados por suspeita de integrar uma organização criminosa…",
+   "link": "https://oantagonista.com.br/brasil/justica-de-sp-torna-milton-leite-reu-por-suspeita-de-ligacao-com-o-pcc/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Milton-Leite-maior.png",
+   "data": "2026-11-12T17:52:18-03:00"
+  },
+  {
+   "id": "0b75afde78d5",
+   "titulo": "Fiesp estima alta de até R$ 40 bilhões em impostos com pacote fiscal de Lula",
+   "resumo": "A Federação das Indústrias do Estado de São Paulo (Fiesp) afirmou que o projeto de ajuste fiscal do governo Luiz Inácio Lula da Silva (PT) pode elevar a carga tributária em até R$ 40 bilhões. Em nota, a entidade criticou o aumento da tribut…",
+   "link": "https://revistaoeste.com/politica/pacote-fiscal-de-lula-fiesp-aumento-de-impostos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/lula-e-durigan.jpg",
+   "data": "2026-11-12T17:52:07-03:00"
+  },
+  {
+   "id": "b555123fb546",
+   "titulo": "Flávio Dino libera processo sobre jogos de azar para decisão do STF",
+   "resumo": "Ministro Flávio Dino libera ação sobre jogos de azar no STF. Entenda a relação do caso com o banimento das bets e a decisão sobre a maconha.",
+   "link": "https://www.gazetadopovo.com.br/republica/flavio-dino-libera-processo-sobre-jogos-de-azar-para-decisao-do-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/12174824/55604938207_b099276116_o-1-1-960x540.jpg",
+   "data": "2026-11-12T17:48:15-03:00"
+  },
+  {
+   "id": "ff1f21fdf6ab",
+   "titulo": "Alcolumbre critica oposição após senadores pedirem mais prazo para analisar pacote fiscal",
+   "resumo": "Alcolumbre afirma que pretende votar o projeto hoje, mas admite deixar a análise para terça-feira caso não haja acordo entre os líderes.",
+   "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-critica-oposicao-apos-senadores-pedirem-mais-prazo-para-analisar-pacote-fiscal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30184408/alcolumbre-senado-2-960x540.jpg",
+   "data": "2026-11-12T17:31:59-03:00"
+  },
+  {
+   "id": "52d396474a10",
+   "titulo": "Ataque hacker expõe dados de clientes da Caixa Vida e Previdência",
+   "resumo": "Dados pessoais de clientes e ex-clientes da Caixa Vida e Previdência foram expostos após um ataque cibernético identificado na última sexta-feira, 6. O incidente, comunicado ao mercado apenas nesta quinta-feira, 12, atingiu a base cadastral…",
+   "link": "https://oantagonista.com.br/brasil/ataque-hacker-expoe-dados-de-clientes-da-caixa-vida-e-previdencia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-12T172239.851.png",
+   "data": "2026-11-12T17:23:57-03:00"
+  },
+  {
+   "id": "6a946ca3252a",
+   "titulo": "Maus-tratos em animais: projeto torna crime hediondo o ato que resultar em morte",
+   "resumo": "A Câmara dos Deputados aprovou, nesta quarta-feira, 11, um projeto de lei que torna hediondo o crime de maus-tratos contra cães e gatos quando resultar na morte dos animais. O texto segue para análise do Senado . A punição prevista para ess…",
+   "link": "https://revistaoeste.com/politica/maus-tratos-a-animais-projeto-torna-crime-hediondo-o-ato-que-resultar-em-morte/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Studart.jpg",
+   "data": "2026-11-12T17:23:21-03:00"
+  },
+  {
+   "id": "4b9e8fcad56a",
+   "titulo": "Governo Lula “odeia o Distrito Federal”, diz Damares",
+   "resumo": "A senadora Damares Alves (Republicanos-DF) afirmou nesta quinta-feira, 12, que o governo Lula (PT) “odeia o Distrito Federal”, ao criticar o projeto de ajuste fiscal em análise no Senado. Segundo a parlamentar, o texto pode retirar 1,8 bilh…",
+   "link": "https://oantagonista.com.br/brasil/governo-lula-odeia-o-distrito-federal-diz-damares/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55351235493_1ca348b769_k.jpg",
+   "data": "2026-11-12T17:16:36-03:00"
+  },
+  {
+   "id": "82773392a6d3",
+   "titulo": "PSB aprova formação de federação com o PDT",
+   "resumo": "O diretório nacional do Partido Socialista Brasileiro (PSB) aprovou por unanimidade nesta quinta-feira, 12, o início do processo de formação de uma federação partidária com o Partido Democrático Trabalhista (PDT). A decisão autoriza a Execu…",
+   "link": "https://oantagonista.com.br/brasil/psb-aprova-formacao-de-federacao-com-o-pdt/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/WhatsApp-Image-2026-11-12-at-16.55.46-1.jpeg",
+   "data": "2026-11-12T17:13:44-03:00"
+  },
+  {
+   "id": "f8915adbf94d",
+   "titulo": "Chinesa suspeita de espionagem e ligada a caso da Nvidia é barrada em Cingapura",
+   "resumo": "O governo de Cingapura anunciou, nesta quinta-feira, 12, que a empresária chinesa Alice Huang, ex-executiva da Megaspeed, está proibida de retornar ao país por ter prestado informações que sabia serem imprecisas à polícia. Segundo o Ministé…",
+   "link": "https://revistaoeste.com/politica/chinesa-suspeita-de-espionagem-e-ligada-a-caso-da-nvidia-e-barrada-em-singapura/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Nvidia.jpg",
+   "data": "2026-11-12T17:07:54-03:00"
+  },
+  {
+   "id": "0561ddc5504f",
+   "titulo": "STF decide que norma que absolve crime patrimonial contra mulher é incompatível com a Constituição",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/12/stf-decide-que-norma-que-absolve-crime-patrimonial-contra-mulher-e-incompativel-com-a-constituicao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/D-Pj6iPgmb_eEEEPaqp5HDK-s1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/A/Qcov7sQPiH3Qw6Q6JAGQ/stf.jpg",
+   "data": "2026-11-12T16:53:22-03:00"
+  },
+  {
+   "id": "f7a8210adc42",
+   "titulo": "Moro contesta PT e diz que decisão sobre triplex não inocentou Lula",
+   "resumo": "Lula distorceu o alcance da decisão sobre o triplex ao apresentá-la como confirmação de que o imóvel não era seu.",
+   "link": "https://www.gazetadopovo.com.br/republica/moro-contesta-pt-e-diz-que-decisao-sobre-triplex-nao-inocentou-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2023/06/10133708/moro-1-crop-20230910163639-960x540.jpg",
+   "data": "2026-11-12T16:40:48-03:00"
+  },
+  {
+   "id": "93f5d3892a3f",
+   "titulo": "Líder do PT convoca “Exército do Lula” a cobrar desculpas da imprensa por tríplex",
+   "resumo": "O líder do PT na Câmara dos Deputados, Pedro Uczai (PT-SC), convocou nesta quinta-feira, 12, integrantes do canal de WhatsApp “Exército do Lula”, coordenado pelo também deputado André Janones (Rede-AP), a pressionarem a imprensa por um pedi…",
+   "link": "https://oantagonista.com.br/brasil/lider-do-pt-convoca-exercito-do-lula-a-cobrar-desculpas-da-imprensa-por-triplex/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55268329326_0c69638c13_k.jpg",
+   "data": "2026-11-12T16:37:53-03:00"
+  },
+  {
+   "id": "e7bca5bbf3c0",
+   "titulo": "Lula: nenhum país tem mais autoridade para falar de clima que Brasil",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-nenhum-pais-tem-mais-autoridade-para-tratar-de-clima-que-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-nenhum-pais-tem-mais-autoridade-para-tratar-de-clima-que-brasil",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-12T16:06:00-03:00"
   },
   {
    "id": "a7886ef5a617",
@@ -67,42 +481,6 @@
    "data": "2026-11-12T15:31:36-03:00"
   },
   {
-   "id": "bf9b6c87aa93",
-   "titulo": "Moro contesta PT e diz que decisão sobre triplex não inocentou Lula",
-   "resumo": "Senador diz que devolução de R$ 2,4 milhões à OAS não significa que imóvel não era do petista; condenações foram anuladas",
-   "link": "https://www.poder360.com.br/poder-congresso/moro-contesta-pt-e-diz-que-decisao-sobre-triplex-nao-inocentou-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/postagem-sergio-moro.png",
-   "data": "2026-11-12T15:26:40-03:00"
-  },
-  {
-   "id": "4896cb791b48",
-   "titulo": "Dino libera jornada diária de 8h24 sem hora extra durante transição para o fim da 6×1",
-   "resumo": "Ministro também flexibilizou distribuição das folgas e pediu que Congresso defina regras para serviços diferenciados. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/dino-libera-jornada-diaria-de-8-24-sem-hora-extra-durante-transicao-para-o-fim-da-6-1/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12151609/55561484151_0e7f3d2428_o-960x540.jpg",
-   "data": "2026-11-12T15:25:05-03:00"
-  },
-  {
-   "id": "46a01c1c8e54",
-   "titulo": "Congresso aprova R$ 152,4 bilhões em créditos adicionais no Orçamento de 2026",
-   "resumo": "O remanejamento de recursos do Orçamento de 2026 amplia a margem de movimentação de verbas pelo governo federal.",
-   "link": "https://www.gazetadopovo.com.br/republica/congresso-aprova-r-1524-bilhoes-em-creditos-adicionais-no-orcamento-de-2026/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12151538/img20261112103131730-960x540.jpg",
-   "data": "2026-11-12T15:21:36-03:00"
-  },
-  {
-   "id": "fc5f927ef507",
-   "titulo": "Lula, um dos mais velhos da COP31, diz que idade não limita política",
-   "resumo": "Em último discurso na conferência, presidente de 81 anos afirma que disposição para atuar depende de causas e compromissos",
-   "link": "https://www.poder360.com.br/poder-governo/lula-um-dos-mais-velhos-da-cop31-diz-que-idade-nao-limita-politica/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-fecha-cop31-12-nov-2026.jpg",
-   "data": "2026-11-12T15:16:31-03:00"
-  },
-  {
    "id": "f2a463d04a9b",
    "titulo": "Quase 70 milhões já emitiram a nova Carteira de Identidade Nacional",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/quase-70-milhoes-ja-emitiram-nova-carteira-de-identidade-nacional\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
@@ -110,33 +488,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-12T15:16:00-03:00"
-  },
-  {
-   "id": "f70ccaf6d4a1",
-   "titulo": "Governo enfrentará tentativas de adiar ajuste fiscal, diz Randolfe",
-   "resumo": "Líder afirma que divergências internas no PT serão sanadas com explicações sobre o projeto; ajuste anunciado é de R$ 60 bi em 2027",
-   "link": "https://www.poder360.com.br/poder-congresso/governo-enfrentara-tentativas-de-adiar-ajuste-fiscal-diz-randolfe/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-12T15:15:14-03:00"
-  },
-  {
-   "id": "1968a737675b",
-   "titulo": "Todos os 10 ministros do STF são citados em celular de Vorcaro",
-   "resumo": "Só parte se encaixa no que fixa parágrafo único do artigo 33 da Lei Orgânica da Magistratura (“indício de prática de crime”), mas Edson Fachin agora mandou a PF fazer relatórios individuais sobre todos os magistrados",
-   "link": "https://www.poder360.com.br/poder-justica/todos-os-10-ministros-do-stf-sao-citados-em-celular-de-vorcaro/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/mencao-julgamento-Alcidia-Daniel-Vorcaro-Luiz-Renno-1.png",
-   "data": "2026-11-12T15:12:22-03:00"
-  },
-  {
-   "id": "dd6b18e09533",
-   "titulo": "Polícia Federal justifica saída de delegados por descumprimento de normas",
-   "resumo": "A Polícia Federal alega quebra de confiança para afastar delegados que produziram relatórios sobre ministros do STF no caso Banco Master. Entenda a crise.",
-   "link": "https://www.gazetadopovo.com.br/republica/policia-federal-justifica-saida-de-delegados-por-descumprimento-de-normas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12151140/andrei-rodrigues-pf-1-960x540.jpg",
-   "data": "2026-11-12T15:11:36-03:00"
   },
   {
    "id": "c9b414d37ef7",
@@ -148,96 +499,6 @@
    "data": "2026-11-12T15:10:01-03:00"
   },
   {
-   "id": "55c86d4992a9",
-   "titulo": "Pássaros cruzaram o Atlântico e sofreram uma espécie de jet lag que os fez errar a direção na volta para casa",
-   "resumo": "Pardelas-do-Atlântico apresentaram desvios de até 15 graus em suas rotas de retorno, associados ao desajuste de seus relógios biológicos. A descoberta, publicada em outubro de 2026, surgiu da análise de 20 anos de dados de GPS de 1.045 aves…",
-   "link": "https://oantagonista.com.br/brasil/passaros-cruzaram-o-atlantico-e-sofreram-uma-especie-de-jet-lag-que-os-fez-errar-a-direcao-na-volta-para-casa/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Pardela-do-Atlantico_voando_sobr…_2b31ad63.jpg",
-   "data": "2026-11-12T15:06:00-03:00"
-  },
-  {
-   "id": "dd253ff9b655",
-   "titulo": "Artesp critica concessionária após problemas em trens de SP",
-   "resumo": "Agência considerou \"inaceitável\" a situação enfrentada pelos passageiros nesta 5ª feira (12.nov) na Linha 8-Diamante",
-   "link": "https://www.poder360.com.br/poder-brasil/artesp-critica-concessionaria-apos-problemas-em-trens-de-sp/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-12T15:02:55-03:00"
-  },
-  {
-   "id": "641659b6b8da",
-   "titulo": "De pés descalços a sorvete: Janones mostra bastidores de Lula na COP 31",
-   "resumo": "Deputado divulga fotos do presidente descansando, fazendo refeições e participando de reuniões na Turquia em canal com 10,1 milhões de seguidores",
-   "link": "https://www.poder360.com.br/poder-governo/de-pes-descalcos-a-sorvete-janones-mostra-bastidores-de-lula-na-cop-31/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/bastidores-lula-na-cop-janones-exercitodolula-2.png",
-   "data": "2026-11-12T14:59:17-03:00"
-  },
-  {
-   "id": "3800cfe8f531",
-   "titulo": "Lider do PL ironiza cobrança de Lula sobre triplex: “Apartamento se reformou?”",
-   "resumo": "O líder do PL na Câmara, Sóstenes Cavalcante (RJ), foi às redes sociais ironizar a postura do presidente Lula, que cobrou m pedido de desculpas da imprensa brasileira por atribuir a ele o tríplex do Guarujá. “Lula agora quer que a imprensa …",
-   "link": "https://oantagonista.com.br/brasil/lider-do-pl-ironiza-cobranca-de-lula-sobre-triplex-apartamento-se-reformou/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/img20260715120032763-scaled.jpg",
-   "data": "2026-11-12T14:58:45-03:00"
-  },
-  {
-   "id": "e8049d29ec5d",
-   "titulo": "Dino devolve ao STF ação sobre exploração de jogos de azar",
-   "resumo": "Ministro havia pedido vista em agosto para defender julgamento conjunto de processos sobre jogos e bets",
-   "link": "https://www.poder360.com.br/poder-justica/dino-devolve-ao-stf-acao-sobre-exploracao-de-jogos-de-azar/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-12T14:56:26-03:00"
-  },
-  {
-   "id": "6b22f1862397",
-   "titulo": "Justiça Eleitoral recalcula votos e pode mudar lista de deputados eleitos no Rio",
-   "resumo": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) realiza, nesta quinta-feira, 12, a retotalização dos votos das eleições de 2026 para deputado estadual e deputado federal. O procedimento pode alterar a composição da Assembleia Legis…",
-   "link": "https://revistaoeste.com/politica/justica-eleitoral-recalcula-votos-e-pode-mudar-lista-de-deputados-eleitos-no-rio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/07/concurso-tre-rj.jpg",
-   "data": "2026-11-12T14:53:10-03:00"
-  },
-  {
-   "id": "615b4cd49419",
-   "titulo": "Polícias do Paraná chegam à marca de 3 mil casos resolvidos com o apoio da inteligência artificial",
-   "resumo": "Entre janeiro e outubro de 2026, a ferramenta de inteligência artificial usada pelas polícias Civil e Militar já ajudou a realizar 2,3 mil prisões e mais de 770 veículos recuperados. Em pouco mais de dois meses, o total saltou de 1,8 mil pa…",
-   "link": "https://oantagonista.com.br/brasil/policias-do-parana-chegam-a-marca-de-3-mil-casos-resolvidos-com-o-apoio-da-inteligencia-artificial/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/55031118718_3054a3fa82_k-1.jpg",
-   "data": "2026-11-12T14:49:46-03:00"
-  },
-  {
-   "id": "8ca7891de8f7",
-   "titulo": "BB diz que produtores do agro se recusam a pagar dívidas e renegociar",
-   "resumo": "Parte dos médios e grandes produtores não apresentou garantias, afirmou a presidente do banco, Tarciana Medeiros",
-   "link": "https://www.poder360.com.br/poder-economia/bb-diz-que-produtores-do-agro-se-recusam-a-pagar-dividas-e-renegociar/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-12T14:49:28-03:00"
-  },
-  {
-   "id": "8b8197ea4ed9",
-   "titulo": "Putin recebe enviados de Trump e rejeita tropas europeias",
-   "resumo": "Presidente russo descarta zonas desmilitarizadas na divisão territorial e propõe missão humanitária em Kostiantynivka",
-   "link": "https://www.poder360.com.br/poder-internacional/putin-recebe-enviados-de-trump-e-rejeita-tropas-europeias/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-12T14:49:15-03:00"
-  },
-  {
-   "id": "1383a587f6ea",
-   "titulo": "Ala do governo defende saída do diretor-geral da PF",
-   "resumo": "Uma ala do governo Lula passou a defender, nos últimos dias, que o presidente da República nomeie um novo diretor-geral da Polícia Federal, no lugar de Andrei Rodrigues, no início do próximo ano. Com a mudança ministerial que se avizinha em…",
-   "link": "https://oantagonista.com.br/brasil/ala-do-governo-defende-saida-do-diretor-geral-da-pf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/05/cdad3333-fe46-4b2c-bc54-9229d1d32069.jpg",
-   "data": "2026-11-12T14:46:09-03:00"
-  },
-  {
    "id": "e99836b36b8d",
    "titulo": "'É um escárnio', diz Cleitinho sobre licitação de R$ 6 milhões para celulares no Senado",
    "resumo": "",
@@ -245,15 +506,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/yAmOBgt5KV87cZOmo3LGinxhLWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/T/qBqBknTeebUgjE7lAcEQ/cleitinho-globo-mg1.jpg",
    "data": "2026-11-12T14:39:16-03:00"
-  },
-  {
-   "id": "1b016bd38702",
-   "titulo": "Congresso libera R$ 26 bilhões em dívida para financiar Bolsa Família",
-   "resumo": "O Congresso Nacional aprovou nesta quinta-feira, 12, um projeto que autoriza o governo federal a usar 26 bilhões de reais obtidos por meio de operações de crédito para financiar despesas do Bolsa Família. O texto permite que recursos captad…",
-   "link": "https://oantagonista.com.br/brasil/congresso-libera-r-26-bilhoes-em-divida-para-financiar-bolsa-familia/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-12-143717.png",
-   "data": "2026-11-12T14:38:46-03:00"
   },
   {
    "id": "97270d4598f3",
@@ -265,42 +517,6 @@
    "data": "2026-11-12T14:32:20-03:00"
   },
   {
-   "id": "20920c8a6e8f",
-   "titulo": "Senado deve votar pacote de medidas fiscais nesta quinta",
-   "resumo": "Senado deve votar pacote de medidas fiscais nesta quinta Ministro do Planejamento, Bruno Moretti, disse que texto estabiliza dívida pública e preserva compromissos feitos pelo presidente Lula na campanha. O Senado discute o Projeto de Lei C…",
-   "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-12T14:30:12-03:00"
-  },
-  {
-   "id": "1de7a9ed8f55",
-   "titulo": "PSDB chama exposição de FHC de “criminosa” e pede apuração",
-   "resumo": "O Partido da Social Democracia Brasileira (PSDB) classificou como “indigna e criminosa” a exposição do ex-presidente Fernando Henrique Cardoso em vídeos divulgados nas redes sociais e defendeu a apuração e punição dos responsáveis. Em nota …",
-   "link": "https://oantagonista.com.br/brasil/psdb-chama-exposicao-de-fhc-de-criminosa-e-pede-apuracao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/fhc-foto-1_easy-resize.com_.jpg",
-   "data": "2026-11-12T14:25:44-03:00"
-  },
-  {
-   "id": "d66bf8cafa8c",
-   "titulo": "Crusoé: Novo aciona TCU contra uso de imagens de campanha em pronunciamento de Lula",
-   "resumo": "Parlamentares do Novo acionaram o Tribunal de Contas da União (TCU) contra o uso de imagens da campanha eleitoral do presidente Lula (PT) no pronunciamento transmitido em cadeia nacional de rádio e televisão no último domingo, 8. O partido …",
-   "link": "https://oantagonista.com.br/brasil/crusoe-novo-aciona-tcu-contra-uso-de-imagens-de-campanha-em-pronunciamento-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-na-COP31.jpg",
-   "data": "2026-11-12T14:20:50-03:00"
-  },
-  {
-   "id": "06b376a0bd62",
-   "titulo": "Dino contraria empresários e mantém início da escala 5×2 em dezembro",
-   "resumo": "Nesta quinta-feira, 12, o ministro Flávio Dino, do Supremo Tribunal Federal (STF) , manteve o começo da escala 5x2 em 16 de dezembro, contrariando pedidos de entidades empresariais para adiar a implementação das novas regras trabalhistas. A…",
-   "link": "https://revistaoeste.com/politica/dino-contraria-empresarios-e-mantem-inicio-da-escala-5x2-em-dezembro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/09/AGE20230816026-1-scaled.jpg",
-   "data": "2026-11-12T14:19:36-03:00"
-  },
-  {
    "id": "43bd0db99de6",
    "titulo": "Fachin marca reunião com STJ e do TSE para discutir a proposta de reforma do sistema de Justiça",
    "resumo": "",
@@ -308,60 +524,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/5PA600aLwbfQ7RdbAEelnbPukuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/i/rSi4FWTVmVuQP6CYBtHg/55518635084-8a79024e70-k.jpg",
    "data": "2026-11-12T14:17:07-03:00"
-  },
-  {
-   "id": "f94be479fc31",
-   "titulo": "“Ciclo mais severo da história”, diz presidente do Banco do Brasil sobre inadimplência no agro",
-   "resumo": "A presidente do BB aponta crise inédita de inadimplência no agro e diz que vai adotar critérios mais seletivos na concessão de crédito.",
-   "link": "https://www.gazetadopovo.com.br/republica/direcao-do-banco-do-brasil-aponta-crise-inedita-de-inadimplencia-no-agronegocio/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12141011/Design-sem-nome-42-960x540.jpg",
-   "data": "2026-11-12T14:16:33-03:00"
-  },
-  {
-   "id": "05fc07fc5484",
-   "titulo": "Deputado aciona TCU contra compra de R$ 5,7 milhões em tablets pela Câmara",
-   "resumo": "O deputado estadual Leo Siqueira (Novo), de São Paulo, acionou o Tribunal de Contas da União (TCU), na quarta-feira, 11, para tentar suspender uma licitação da Câmara dos Deputados que prevê a compra de 604 tablets por até 5,77 milhões de r…",
-   "link": "https://oantagonista.com.br/brasil/deputado-aciona-tcu-contra-compra-de-r-57-milhoes-em-tablets-pela-camara/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/plen-1.jpg",
-   "data": "2026-11-12T14:10:00-03:00"
-  },
-  {
-   "id": "18664666fe8e",
-   "titulo": "Fachin prorroga por 60 dias investigação sobre Ciro Nogueira no caso Master",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, prorrogou por 60 dias o prazo para a Polícia Federal (PF) concluir diligências na investigação sobre o senador Ciro Nogueira (PP-PI) relacionada ao caso Master. A decisã…",
-   "link": "https://oantagonista.com.br/brasil/fachin-prorroga-por-60-dias-investigacao-sobre-ciro-nogueira-no-caso-master/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55254789208_5229374595_k.jpg",
-   "data": "2026-11-12T14:06:02-03:00"
-  },
-  {
-   "id": "eaaf6597ad7e",
-   "titulo": "Justiça restringe transferência de bens de 3 ex-gestores do BRB",
-   "resumo": "A Justiça do Distrito Federal proibiu três ex-gestores do Banco de Brasília (BRB) de transferirem veículos e imóveis registrados em seus nomes. A decisão é do juiz Carlos Eduardo Batista dos Santos, da 2ª Vara Cível de Brasília, e foi publi…",
-   "link": "https://revistaoeste.com/politica/justica-restringe-transferencia-de-bens-de-3-ex-gestores-do-brb/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/gavel-7499911_1280.jpg",
-   "data": "2026-11-12T13:52:34-03:00"
-  },
-  {
-   "id": "404df0b04e12",
-   "titulo": "PF investiga aplicação de R$ 6 mi da previdência de município de MS no Master e Daycoval",
-   "resumo": "A Polícia Federal deflagrou nesta quinta-feira, 12, uma operação para investigar suspeitas de irregularidades na previdência dos servidores municipais de São Gabriel do Oeste (MS) . A apuração envolve investimentos de R$ 6 milhões nos banco…",
-   "link": "https://revistaoeste.com/politica/pf-investiga-aplicacao-de-r-6-mi-da-previdencia-de-municipio-de-ms-no-master-e-daycoval/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/master.jpg",
-   "data": "2026-11-12T13:51:20-03:00"
-  },
-  {
-   "id": "b636a94ff0d4",
-   "titulo": "Dino libera ação sobre jogos de azar e abre caminho para julgamento das bets",
-   "resumo": "Ministro convenceu colegas de Corte a analisar tema junto com discussão sobre plataformas de aposta. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/dino-libera-acao-sobre-jogos-de-azar-e-abre-caminho-para-julgamento-das-bets/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12134539/55604938207_b099276116_o-1-960x540.jpg",
-   "data": "2026-11-12T13:47:07-03:00"
   },
   {
    "id": "1e4aaada2253",
@@ -378,17 +540,8 @@
    "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-diz-que-nenhum-pais-tem-mais-autoridade-do-que-o-brasil-para-tratar-de-clima.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/ddk5y51yyODxlSZMSP8GZu2cyNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/F/0d51OgTGupBmFlrjCGQg/2026-11-11t105234z-950107243-rc2mloaf2w31-rtrmadp-3-climate-cop31.jpg",
+   "imagem": "https://s2-g1.glbimg.com/f47MfIT-BQfvJczzq61Uowts7Iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/x2DXEMR567a5fEh48crw/55649514950-0a6f16ef1e-k.jpg",
    "data": "2026-11-12T13:33:05-03:00"
-  },
-  {
-   "id": "de41d72c5058",
-   "titulo": "Influenciadora chora após ter perfil bloqueado por divulgar sites de apostas ilegais",
-   "resumo": "",
-   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/influenciadora-chora-apos-ter-perfil-bloqueado-por-divulgar-sites-de-apostas-ilegais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/h3f5ZER0wsB0ika6fic_zhBwYBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Z/4YO5WvRHe7y1MV3qDnEw/901477292-18653299516059134-5147783468556963277-n.jpg",
-   "data": "2026-11-12T13:26:57-03:00"
   },
   {
    "id": "4dfffd6fb36b",
@@ -400,42 +553,6 @@
    "data": "2026-11-12T13:18:00-03:00"
   },
   {
-   "id": "b826be7a5383",
-   "titulo": "Lula cobra pedido de desculpas da imprensa por tríplex do Guarujá",
-   "resumo": "O presidente Lula (PT) cobrou nesta quinta-feira, 12, um pedido de desculpas da imprensa brasileira por atribuir a ele o tríplex do Guarujá. “Eu queria pedir pro Exército [do Lula] uma coisa que é uma coisa pessoal. Quando vocês puderem, co…",
-   "link": "https://oantagonista.com.br/brasil/lula-cobra-pedido-de-desculpas-da-imprensa-por-triplex-do-guaruja/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-2.jpg",
-   "data": "2026-11-12T13:15:28-03:00"
-  },
-  {
-   "id": "f137f577941e",
-   "titulo": "Novo Código Civil: 64 associações pedem novas discussões antes de votação",
-   "resumo": "Um grupo de 64 entidades pediu ao Congresso Nacional que não vote a reforma do Novo Código Civil antes de ampliar o debate e divulgar estudos sobre os impactos jurídicos, econômicos e sociais da proposta. O manifesto, articulado pelo Instit…",
-   "link": "https://revistaoeste.com/politica/novo-codigo-civil-64-associacoes-pedem-novas-discussoes-antes-de-votacao/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/10/ordem_do_congresso_nacional_stf_luiz_fux_fcpzzb_abr_20221018_0784-scaled.jpg",
-   "data": "2026-11-12T13:12:14-03:00"
-  },
-  {
-   "id": "10546be10adf",
-   "titulo": "TCU dá 15 dias à Casa Civil para explicar aluguel de iate de Lula na COP30",
-   "resumo": "O Tribunal de Contas da União (TCU) decidiu nesta quarta-feira, 11, manter aberto o processo sobre o aluguel do iate Iana III, usado como hospedagem pelo presidente Luiz Inácio Lula da Silva durante a COP30 , em Belém, em novembro de 2025. …",
-   "link": "https://revistaoeste.com/politica/tcu-da-15-dias-para-casa-civil-explicar-aluguel-de-iate-de-lula-na-cop30/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/iate-iana-interna.jpeg",
-   "data": "2026-11-12T13:00:56-03:00"
-  },
-  {
-   "id": "bfa5e35100e9",
-   "titulo": "Lula se reúne com presidente do Irã e defende abertura do Estreito de Ormuz",
-   "resumo": "O presidente Luiz Inácio Lula da Silva (PT) se reuniu nesta quinta-feira, 12, com o líder do Irã, Masoud Pezeshkian, em um encontro bilateral à margem da 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clim…",
-   "link": "https://revistaoeste.com/politica/lula-se-reune-com-presidente-do-ira-e-defende-abertura-do-estreito-de-ormuz/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/lula-ira.jpg",
-   "data": "2026-11-12T12:50:18-03:00"
-  },
-  {
    "id": "b5f7bff33766",
    "titulo": "Alcolumbre reafirma que decisão sobre CPMI do Banco Master cabe a ele",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-reafirma-que-decisao-sobre-cpmi-do-banco-master-cabe-ele\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc…",
@@ -443,15 +560,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-12T12:46:00-03:00"
-  },
-  {
-   "id": "5b49de928da3",
-   "titulo": "Lula diz que rouquidão já dura 15 dias e fala devagar para poupar a voz",
-   "resumo": "O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira, 12, que tem falado devagar e tomado chás para tratar a rouquidão que enfrenta desde o fim da eleição . A declaração aconteceu durante uma live transmitida da Turquia, onde o…",
-   "link": "https://revistaoeste.com/politica/lula-diz-que-rouquidao-ja-dura-15-dias-e-fala-devagar-para-poupar-a-voz/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/pt-1.jpg",
-   "data": "2026-11-12T12:17:37-03:00"
   },
   {
    "id": "3b6f1e9ee8bd",
@@ -463,69 +571,6 @@
    "data": "2026-11-12T12:14:00-03:00"
   },
   {
-   "id": "bf5de36fdff6",
-   "titulo": "Veja o que Lula disse sobre contas públicas antes de proposta de ajuste fiscal de R$ 60 bilhões",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-falas-ajuste-fiscal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/es8ZS6WuvIf24GXceAIQsZpJrs8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/o/P9qBB7TuaP0BA5pJl8tQ/whatsapp-image-2026-10-15-at-21.43.16.jpeg",
-   "data": "2026-11-12T11:58:48-03:00"
-  },
-  {
-   "id": "2d94b41b9284",
-   "titulo": "STM condena 4º militar por furto de 11 toneladas de carne",
-   "resumo": "O Superior Tribunal Militar (STM) condenou o quarto militar envolvido no furto de 11 toneladas de carne de um quartel do Exército, em Recife. O plenário tomou a decisão por unanimidade. + Entenda o que é Política em Oeste Ao todo, dois sold…",
-   "link": "https://revistaoeste.com/politica/stm-condena-4o-militar-por-furto-de-11-toneladas-de-carne/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/12/Tribunal-STM.jpeg",
-   "data": "2026-11-12T11:45:34-03:00"
-  },
-  {
-   "id": "86acf53fc54e",
-   "titulo": "Mobilização de senadoras de direita pró-Tereza perturba a candidatura de Marinho",
-   "resumo": "Apoio de Damares Alves à candidatura de Tereza Cristina à Presidência do Senado fomenta especulações e desafia a de Rogério Marinho.",
-   "link": "https://www.gazetadopovo.com.br/republica/mobilizacao-de-senadoras-de-direita-pro-tereza-perturba-a-candidatura-de-marinho/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/08/25104301/damares-e-michelle-660x372.jpg",
-   "data": "2026-11-12T11:35:35-03:00"
-  },
-  {
-   "id": "aca4604de4df",
-   "titulo": "Câmara do Rio aprova Medalha Chiquinha Gonzaga a Eduarda Campopiano e homenagem gera críticas",
-   "resumo": "Indicação à Medalha Chiquinha Gonzaga gera críticas de vereadores, que questionam declarações da deputada eleita. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/camara-do-rio-aprova-medalha-chiquinha-gonzaga-a-eduarda-campopiano-e-homenagem-gera-criticas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12113257/Eduarda-Campopiano-960x540.jpg",
-   "data": "2026-11-12T11:34:25-03:00"
-  },
-  {
-   "id": "d473ced8759f",
-   "titulo": "Fachin prorroga investigação sobre envolvimento de Ciro Nogueira com Vorcaro",
-   "resumo": "Decisão acolhe parcialmente pedido da PF, que queria 90 dias para novos depoimentos e coleta de documentos. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-prorroga-investigacao-sobre-envolvimento-de-ciro-nogueira-com-vorcaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12112511/55504218774_973dddbfba_o-960x540.jpg",
-   "data": "2026-11-12T11:26:36-03:00"
-  },
-  {
-   "id": "508928abb98d",
-   "titulo": "Ministro do Planejamento admite complexidade do pacote fiscal e nega “estelionato eleitoral”",
-   "resumo": "Em meio a críticas, ministro detalha medidas de contenção de gastos e revisão de benefícios tributários do pacote fiscal.",
-   "link": "https://www.gazetadopovo.com.br/republica/ministro-do-planejamento-admite-complexidade-do-pacote-fiscal-e-nega-estelionato-eleitoral/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/25213151/pzzb9761-960x540.jpg",
-   "data": "2026-11-12T11:24:02-03:00"
-  },
-  {
-   "id": "441e6f1e066d",
-   "titulo": "Caso Master: a pedido da PF, Fachin prorroga por 60 dias investigação sobre Ciro Nogueira",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/12/caso-master-a-pedido-da-pf-fachin-prorroga-por-60-dias-inquerito-que-investiga-ciro-nogueira.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/e3MeRks6OPfOWX36kGQ_-PgkwcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/QNMDl0TUmlcDJZ6AjNzg/globo-canal-4-20260616-2000-frame-61886.jpeg",
-   "data": "2026-11-12T11:19:19-03:00"
-  },
-  {
    "id": "754702f76f50",
    "titulo": "Ministro e chefe da PF conversam sobre troca de delegados do Caso Master",
    "resumo": "Ministro da Justiça e diretor-geral da PF conversaram por telefone sobre crise envolvendo troca de dois delegados que atuavam no Caso Master",
@@ -533,42 +578,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2025/09/30102518/Diretor-geral-da-Policia-Federal-Andrei-Rodrigues.-Ricardo-Lewandowski-Policia-Federal-abra-um-inquerito-para-investigar-a-rede-de-distribuicao-de-bebidas-alcoolicas-adulteradas-com-metanol-Metropoles-1.jpg",
    "data": "2026-11-12T11:15:48-03:00"
-  },
-  {
-   "id": "16f91b9872ba",
-   "titulo": "PF deve alegar quebra de confiança para justificar afastamento de delegados do caso Master",
-   "resumo": "Documento deve sustentar que delegados descumpriram acordo para discutir relatórios sobre ministros do STF antes de registro oficial.",
-   "link": "https://www.gazetadopovo.com.br/republica/pf-deve-alegar-quebra-de-confianca-para-justificar-afastamento-de-delegados-do-caso-master/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/20204057/andrei-rodrigues-pf-1-960x540.jpg",
-   "data": "2026-11-12T11:10:57-03:00"
-  },
-  {
-   "id": "7c3d51e918c4",
-   "titulo": "Como um romance colocou a corrida da inteligência artificial no centro de uma investigação de espionagem",
-   "resumo": "Este episódio do Podcast 15 Minutos analisa as recentes suspeitas de espionagem industrial chinesa no setor de alta tecnologia e inteligência artificial.",
-   "link": "https://www.gazetadopovo.com.br/republica/como-um-romance-colocou-a-corrida-da-inteligencia-artificial-no-centro-de-uma-investigacao-de-espionagem/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
-   "data": "2026-11-12T11:01:07-03:00"
-  },
-  {
-   "id": "5538bcd2d5c2",
-   "titulo": "Em encontro na COP 31, Lula fala em ampliar comércio com o Irã, transações na mira de Trump",
-   "resumo": "Lula e o presidente do Irã, Masoud Pezeshkian, discutiram ampliação do comércio bilateral em reunião à margem da COP 31, na Turquia",
-   "link": "https://www.gazetadopovo.com.br/mundo/encontro-cop-31-lula-fala-ampliar-comercio-ira-transacoes-mira-trump/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12105719/lula.ira_-960x540.jpg",
-   "data": "2026-11-12T10:58:22-03:00"
-  },
-  {
-   "id": "197807a36951",
-   "titulo": "Mais de 400 políticos e personalidades assinam carta de repúdio contra vídeo que expõe FHC",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/12/mais-de-400-pessoas-assinam-carta-de-repudio-apos-influenciador-expor-intimidade-do-ex-presidente-fernando-henrique-cardoso-nas-redes-sociais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/VeHraujhIDoBQMwFaqjxg4Zk7HM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/e/66GAJ1RVmLxC2hjQfO4A/montagem-horizontal-1200px-44-.jpg",
-   "data": "2026-11-12T10:27:31-03:00"
   },
   {
    "id": "647808d4075f",
@@ -659,15 +668,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/foto-1200x800-2.jpg",
    "data": "2026-11-11T14:53:26-03:00"
-  },
-  {
-   "id": "bb9409735830",
-   "titulo": "Congresso prorroga por 60 dias MP que proíbe bets no país",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-11T11:57:00-03:00"
   },
   {
    "id": "6a421e43226a",
