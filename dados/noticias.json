@@ -1,25 +1,277 @@
 {
- "atualizado": "2026-11-14T08:23:45.540147-03:00",
+ "atualizado": "2026-11-14T14:56:13.916679-03:00",
  "total": 78,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "88366bec11d9",
-   "titulo": "Vendas de carros na China caem 27%; exportações avançam 69%",
-   "resumo": "Varejo doméstico teve 1,6 milhão de vendas em outubro; exportações chegaram a 928 mil unidades",
-   "link": "https://www.poder360.com.br/poder-china/vendas-de-carros-na-china-caem-27-exportacoes-avancam-69/",
+   "id": "ae74142e95e9",
+   "titulo": "Nvidia nega busca por CEO depois de renúncia de Huang",
+   "resumo": "Conselho da empresa classificou como prematuras as especulações sobre possíveis sucessores do executivo",
+   "link": "https://www.poder360.com.br/poder-internacional/nvidia-nega-busca-por-ceo-depois-de-renuncia-de-huang/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-14T08:21:51-03:00"
+   "data": "2026-11-14T14:38:34-03:00"
   },
   {
-   "id": "c33a604e398d",
-   "titulo": "Transpetro destina R$ 25 mi a patrocínios culturais e esportivos",
-   "resumo": "Inscrições para o edital público começaram na 4ª feira (11.nov) e vão até 25 de novembro",
-   "link": "https://www.poder360.com.br/poder-cultura/transpetro-destina-r-25-mi-a-patrocinios-culturais-e-esportivos/",
+   "id": "780e550a0013",
+   "titulo": "STF já tem 4 votos para manter o fim da escala 6×1 em dezembro",
+   "resumo": "Na sexta-feira 13, o Supremo Tribunal Federal (STF) registrou quatro votos para manter em 16 de dezembro o início da transição para a nova jornada de trabalho. Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes acompanharam o relator do caso…",
+   "link": "https://revistaoeste.com/politica/stf-ja-tem-4-votos-para-manter-o-fim-da-escala-6x1-em-dezembro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/06/WhatsApp-Image-2025-06-04-at-08.18.45.jpg",
+   "data": "2026-11-14T14:34:45-03:00"
+  },
+  {
+   "id": "096ee17c1d29",
+   "titulo": "São Paulo tem rodovias estaduais mais bem avaliadas do país, diz CNT",
+   "resumo": "Pesquisa da Confederação Nacional do Transporte indica que 91% da extensão analisada no Estado recebeu classificação ótima ou boa",
+   "link": "https://www.poder360.com.br/poder-infra/sao-paulo-tem-rodovias-estaduais-mais-bem-avaliadas-do-pais-diz-cnt/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-14T08:05:13-03:00"
+   "data": "2026-11-14T14:20:25-03:00"
+  },
+  {
+   "id": "c34af8a490dc",
+   "titulo": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
+   "resumo": "Proposta também beneficia guardas municipais; para virar lei, precisa ser aprovada pela Câmara e pelo Senado",
+   "link": "https://www.poder360.com.br/poder-congresso/projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T14:15:00-03:00"
+  },
+  {
+   "id": "a90df208af5f",
+   "titulo": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
+   "resumo": "Zelensky afirmou que proposta norte-americana foi apresentada pela 1ª vez e que eventual decisão caberá à sociedade ucraniana",
+   "link": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T14:05:07-03:00"
+  },
+  {
+   "id": "7551caeebe96",
+   "titulo": "Mercado estima impacto do ajuste fiscal abaixo de R$ 60 bilhões",
+   "resumo": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
+   "link": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/analistas-divergem-sobre-impacto-ajuste-fiscal-13-nov-2026-01-scaled.png",
+   "data": "2026-11-14T14:00:33-03:00"
+  },
+  {
+   "id": "be8d04129e5d",
+   "titulo": "Entenda como o pacote fiscal limita o crescimento dos gastos",
+   "resumo": "Texto-base aprovado no Senado também fixa prazo para discutir supersalários e permite despesas extras com investimentos",
+   "link": "https://www.poder360.com.br/poder-economia/entenda-como-o-pacote-fiscal-limita-o-crescimento-dos-gastos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T14:00:28-03:00"
+  },
+  {
+   "id": "841eb4327a24",
+   "titulo": "PT, PC do B e Psol articulam pacote contra ajuste fiscal de Lula",
+   "resumo": "Grupo quer taxar bancos e grandes fortunas; 2 projetos já apresentados flexibilizam metas fiscais e protegem investimentos",
+   "link": "https://www.poder360.com.br/poder-congresso/pt-pc-do-b-e-psol-articulam-pacote-contra-ajuste-fiscal-de-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T14:00:09-03:00"
+  },
+  {
+   "id": "69e05705184c",
+   "titulo": "Gilmar Mendes chama de “desfaçatez” fala de Moro sobre triplex",
+   "resumo": "Decano do STF rebate senador por atribuir a motivos formais e políticos a anulação da condenação de Lula no caso do Guarujá",
+   "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-chama-de-desfacatez-fala-de-moro-sobre-triplex/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Sergio-Moro-Gilmar-Mendes-Post.png",
+   "data": "2026-11-14T13:40:56-03:00"
+  },
+  {
+   "id": "d1a8ed96c988",
+   "titulo": "Fumaça de queimadas leva qualidade do ar a nível péssimo no Amazonas",
+   "resumo": "A fumaça de incêndios florestais elevou a níveis extremos a poluição do ar em cidades do Amazonas. Em Parintins, a concentração de partículas poluentes chegou a 332,3 microgramas por metro cúbico neste sábado, 14. Na Vila Amazônia, na zona …",
+   "link": "https://oantagonista.com.br/brasil/fumaca-de-queimadas-leva-qualidade-do-ar-a-nivel-pessimo-no-amazonas/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/fumaca-no-Amazonas.png",
+   "data": "2026-11-14T13:27:45-03:00"
+  },
+  {
+   "id": "70bf19965be4",
+   "titulo": "EUA têm mais de 4.000 voos cancelados neste sábado após suspensão aérea",
+   "resumo": "Transtornos afetam aeroportos no Brasil; 3.019 operações também registraram atrasos até as 13h, no horário de Brasília",
+   "link": "https://www.poder360.com.br/poder-internacional/eua-tem-voos-cancelados-neste-sabado-apos-suspensao-aerea/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T13:12:27-03:00"
+  },
+  {
+   "id": "3735324a0e97",
+   "titulo": "Nova ferramenta do CNJ reúne dados para ações judiciais de saúde",
+   "resumo": "Desenvolvida com a USP, IA permite consultar evidências científicas e pareceres técnicos em uma única plataforma",
+   "link": "https://www.poder360.com.br/poder-justica/nova-ferramenta-do-cnj-reune-dados-para-acoes-judiciais-de-saude/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T13:04:07-03:00"
+  },
+  {
+   "id": "66c9c2811cc2",
+   "titulo": "Nas Filipinas, Lula critica “insensatez das guerras” e defende multilateralismo",
+   "resumo": "Visita de Lula é a primeira de um presidente brasileiro às Filipinas, país com quem Brasil celebra 80 anos de relações diplomáticas",
+   "link": "https://www.gazetadopovo.com.br/republica/lula-visita-filipinas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/14125831/lula-ferdinand-marcos-jr-visita-filipinas-1-960x540.jpg",
+   "data": "2026-11-14T12:59:34-03:00"
+  },
+  {
+   "id": "18a80c62859c",
+   "titulo": "Vorcaro lê ‘Hamlet’ na Papudinha",
+   "resumo": "Daniel Vorcaro (foto), ex-dono do Banco Master, leu Hamlet, clássico de William Shakespeare, durante sua passagem pela Papudinha, em Brasília. A leitura foi registrada em agosto nas atas do programa de remição de pena, que permite a presos …",
+   "link": "https://oantagonista.com.br/brasil/vorcaro-le-hamlet-na-papudinha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/image-2-1.jpg",
+   "data": "2026-11-14T12:52:13-03:00"
+  },
+  {
+   "id": "bfa2bc434e90",
+   "titulo": "Idosos puxam alta do comparecimento no 2º turno e ajudam voto facultativo a atingir maior participação desde 2014",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/14/idosos-puxam-alta-do-comparecimento-no-2o-turno-e-ajudam-voto-facultativo-a-atingir-maior-participacao-desde-2014.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/5W0LVxlemVl8J4lEFpE5UqEKVtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/a/dLLNpZSUu7n2wiBsteZw/2a3d15b4-bef7-49d5-947f-6846ed98586c.jfif",
+   "data": "2026-11-14T12:51:31-03:00"
+  },
+  {
+   "id": "548f9dc280cb",
+   "titulo": "Ministro diz que é 'muito provável' que Lula e Trump se encontrem durante G20 nos EUA em dezembro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/14/ministro-diz-que-e-muito-provavel-que-lula-e-trump-se-encontrem-durante-g20-nos-eua-em-dezembro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/aoIC2HE_3fBjazOUErwb6nzSO3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/a0PAM8TB2T1jHZ8VaABQ/captura-de-tela-2026-11-14-124034.png",
+   "data": "2026-11-14T12:24:03-03:00"
+  },
+  {
+   "id": "c3b29a7a0551",
+   "titulo": "MPF investiga falta de pagamento a profissionais do Mais Médicos",
+   "resumo": "O Ministério Público Federal (MPF) investiga por que profissionais do Mais Médicos ficaram sem receber recursos destinados a custear a mudança e a instalação no local de trabalho. A apuração envolve participantes do 45º ciclo do programa e …",
+   "link": "https://oantagonista.com.br/brasil/mpf-investiga-falta-de-pagamento-a-profissionais-do-mais-medicos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/08/d6a1629-scaled.jpg",
+   "data": "2026-11-14T12:17:02-03:00"
+  },
+  {
+   "id": "5b1beac8b211",
+   "titulo": "PT apresenta pacote para tributar LCIs, LCAs e grandes fortunas e taxar em 15% lucros e dividendos",
+   "resumo": "Pacote prevê elevar alíquota sobre lucros e dividendos, taxar JCP e aplicações hoje isentas, além de imposto sobre grandes fortunas,",
+   "link": "https://www.gazetadopovo.com.br/economia/pt-impostos-lucros-dividendos-lci-lca-grandes-fortunas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/14120713/img20261110185802916-960x540.jpg",
+   "data": "2026-11-14T12:09:02-03:00"
+  },
+  {
+   "id": "7b00db34395b",
+   "titulo": "Moraes cobra informações sobre equipe de segurança de Bolsonaro",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou que o Gabinete de Segurança Institucional (GSI) atualize, em cinco dias, as informações sobre a equipe responsável pela segurança de Jair Bolsonaro. A orde…",
+   "link": "https://oantagonista.com.br/brasil/moraes-cobra-informacoes-sobre-equipe-de-seguranca-de-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55440646768_39f1e2606a_4k-scaled-e1789472519396.jpg",
+   "data": "2026-11-14T11:40:56-03:00"
+  },
+  {
+   "id": "a3852f03d755",
+   "titulo": "Claro vence “licitação dos iPhones” do Senado com proposta de R$ 4,96 milhões",
+   "resumo": "Com proposta de R$ 4,96 milhões, Claro ficou em 1º lugar em pregão que prevê fornecimento de 95 iPhones e outros 330 celulares ao Senado",
+   "link": "https://www.gazetadopovo.com.br/republica/claro-licitacao-iphones-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/14105339/alcolumbre-licitacao-iphone-claro-senado-960x540.jpg",
+   "data": "2026-11-14T10:57:16-03:00"
+  },
+  {
+   "id": "6b7333665c1a",
+   "titulo": "Nas Filipinas, ministro diz estar 'otimista' com negociações e que restrição à carne suína do Brasil 'é medida de 60 dias'",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/14/nas-filipinas-ministro-diz-estar-otimista-com-negociacoes-e-que-restricao-a-carne-suina-do-brasil-e-medida-de-60-dias.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/0S_Wjvty197orhFSKlxcIpw4Es8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/b/EVJrSGQlWw6sqGlREGew/captura-de-tela-2026-11-14-105724.png",
+   "data": "2026-11-14T10:53:13-03:00"
+  },
+  {
+   "id": "ffa011715713",
+   "titulo": "A revolução tira férias em Punta",
+   "resumo": "Alex Pipkin* Uma parte da juventude de condomínio descobriu como ser rebelde sem perder o conforto. Basta lacrar contra o capitalismo no iPhone de R$ 15 mil pago pelo pai. Nas redes, chora pela desigualdade e promete salvar o planeta. É uma…",
+   "link": "https://revistaoeste.com/politica/a-revolucao-tira-ferias-em-punta/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/Iphone.jpg",
+   "data": "2026-11-14T10:44:11-03:00"
+  },
+  {
+   "id": "7c98f74bd787",
+   "titulo": "Moraes manda prender homem que gravou vídeos da invasão do STF",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou a prisão de um homem de 24 anos condenado a 14 anos de reclusão por participação nos ataques de 8 de janeiro de 2023. Gabriell Harthuro Santos de Holanda g…",
+   "link": "https://oantagonista.com.br/brasil/moraes-manda-prender-homem-que-gravou-videos-da-invasao-do-stf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-13-as-18.11.26-e1794604484436.png",
+   "data": "2026-11-14T10:31:04-03:00"
+  },
+  {
+   "id": "457e274b8684",
+   "titulo": "Wilson Pedroso na Crusoé: Lula foi falar de clima para uma sala meio vazia",
+   "resumo": "O presidente Lula passou duas semanas comemorando a reeleição e a primeira coisa que fez foi pegar um avião para a Turquia. Abriu a cúpula de líderes da COP31, em Antália, com o discurso de quem acabou de ganhar de Flávio Bolsonaro por 51,7…",
+   "link": "https://oantagonista.com.br/brasil/wilson-pedroso-na-crusoe-lula-foi-falar-de-clima-para-uma-sala-meio-vazia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-e-Janja-2.jpg",
+   "data": "2026-11-14T10:23:00-03:00"
+  },
+  {
+   "id": "6bce013d587d",
+   "titulo": "As críticas veladas de Tereza Cristina a Alcolumbre",
+   "resumo": "A senadora Tereza Cristina (PP-MS, ao centro na foto) publicou um artigo para explicar por que será candidata à Presidência do Senado na próxima legislatura. Ela não menciona no texto o nome do atual presidente do Senado, Davi Alcolumbre (U…",
+   "link": "https://oantagonista.com.br/brasil/as-criticas-veladas-de-tereza-cristina-a-alcolumbre/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-14-as-10.02.55-e1794661577761.png",
+   "data": "2026-11-14T10:07:00-03:00"
+  },
+  {
+   "id": "37b5fd9e6c6d",
+   "titulo": "A missão Marinho",
+   "resumo": "José Lorêdo Filho* O processo de abertura do regime militar teve no elemento conservador de seus quadros políticos um esteio fundamental. Um desses políticos conservadores foi o senador piauiense Petrônio Portella, que presidiu o Senado em …",
+   "link": "https://revistaoeste.com/politica/a-missao-rogerio-marinho/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/55528643231_66f29aa279_b.jpg",
+   "data": "2026-11-14T10:00:00-03:00"
+  },
+  {
+   "id": "381709db47da",
+   "titulo": "Toffoli vota para preservar mensagens hackeadas da Lava Jato",
+   "resumo": "O ministro Dias Toffoli (foto), do Supremo Tribunal Federal (STF), votou para tornar definitiva a preservação das provas apreendidas na Operação Spoofing, que investigou a invasão de celulares de autoridades da Lava Jato. O magistrado també…",
+   "link": "https://oantagonista.com.br/brasil/toffoli-vota-para-preservar-mensagens-hackeadas-da-lava-jato/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55614942932_42fb0a025a_k.jpg",
+   "data": "2026-11-14T09:31:54-03:00"
+  },
+  {
+   "id": "8fc77a5acb83",
+   "titulo": "Resumo da semana: Microsoft falha, PT faz vaquinha e Nvidia colapsa após traições",
+   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
+   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-microsoft-falha-pt-faz-vaquinha-e-nvidia-colapsa-apos-traicoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13174027/imagem-960x540.jpg",
+   "data": "2026-11-14T09:31:00-03:00"
+  },
+  {
+   "id": "25634993b208",
+   "titulo": "Lula se encontra com presidente das Filipinas e fala em integrar minerais críticos do Brasil com indústria local de semicondutores",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/5GCwV5E3g-pohUhYCh7q_jE7Dfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/A/GjD23IT86Bv4kn8xL25Q/55649135842-76af97ee3a-k.jpg",
+   "data": "2026-11-14T09:01:08-03:00"
+  },
+  {
+   "id": "3b09f26742cb",
+   "titulo": "Lula cancela discursos nas Filipinas por problemas na voz",
+   "resumo": "Lula cancelou dois pronunciamentos previstos para este sábado, 14, em Manila, nas Filipinas, após apresentar problemas na voz. A rouquidão já havia prejudicado discursos durante sua passagem pela Turquia. Segundo integrantes do governo, a i…",
+   "link": "https://oantagonista.com.br/brasil/lula-cancela-discursos-nas-filipinas-por-problemas-na-voz/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-na-COP31.jpg",
+   "data": "2026-11-14T08:39:11-03:00"
   },
   {
    "id": "80177a64999e",
@@ -31,15 +283,6 @@
    "data": "2026-11-14T08:04:23-03:00"
   },
   {
-   "id": "e95e226fa00a",
-   "titulo": "STJ suspende processos sobre extinção antecipada do Perse",
-   "resumo": "1ª Seção reconhece relevância de disputa sobre fim antecipado do Perse e suspende ações",
-   "link": "https://www.poder360.com.br/poder-justica/stj-suspende-processos-sobre-extincao-antecipada-do-perse/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T07:47:47-03:00"
-  },
-  {
    "id": "45090542d115",
    "titulo": "Janones acusa ‘extrema esquerda’ de atacar Lula por ajuste fiscal",
    "resumo": "O deputado federal André Janones (Rede-MG) saiu em defesa do projeto de ajuste fiscal apoiado pelo governo Lula (PT) e criticou aliados do petista que passaram a atacar o pacote. O parlamentar acusou perfis de “extrema esquerda” de estimula…",
@@ -49,22 +292,13 @@
    "data": "2026-11-14T07:46:00-03:00"
   },
   {
-   "id": "6001e0b0a7b0",
-   "titulo": "Vítimas de violência patrimonial terão 2ª via gratuita de documentos",
-   "resumo": "Mulheres e filhos vítimas de violência patrimonial terão acesso prioritário e sem custo a RG, CPF e CNH em órgãos públicos",
-   "link": "https://www.poder360.com.br/poder-congresso/vitimas-de-violencia-patrimonial-terao-2a-via-gratuita-de-documentos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T07:45:07-03:00"
-  },
-  {
-   "id": "f8bcfa57a254",
-   "titulo": "Número de famílias da classe C sem dinheiro guardado cai de 61% para 29%",
-   "resumo": "Levantamento mostra que só 40% dos brasileiros da classe C terminam o mês com dinheiro depois de pagar as contas",
-   "link": "https://www.poder360.com.br/poder-economia/numero-de-familias-da-classe-c-sem-dinheiro-guardado-cai-de-61-para-29/",
-   "fonte": "Poder360",
-   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1708186&o=node",
-   "data": "2026-11-14T07:37:38-03:00"
+   "id": "efa9b5af0696",
+   "titulo": "Inquérito das Fake News: arquivamento encerra o procedimento, mas não seus efeitos jurídicos",
+   "resumo": "André Fini Terçarolli * O encerramento do chamado Inquérito das Fake News não representa concessão, favor ou mudança espontânea de orientação. Representa o reconhecimento — tardio e incompleto — de que nenhuma investigação pode funcionar in…",
+   "link": "https://revistaoeste.com/politica/inquerito-das-fake-news-arquivamento-encerra-o-procedimento-mas-nao-seus-efeitos-juridicos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/54934846244_0cae9ef4b2_o-copiar.jpg",
+   "data": "2026-11-14T07:31:00-03:00"
   },
   {
    "id": "c4c587bd8b10",
@@ -74,69 +308,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55603645624_41b8552a60_k.jpg",
    "data": "2026-11-14T07:24:54-03:00"
-  },
-  {
-   "id": "5cf9b9e51086",
-   "titulo": "Clarita Maia na Crusoé: O descompromisso com a Constituição",
-   "resumo": "A Constituição exige pouco de quem disputa uma cadeira na Câmara dos Deputados. Basta ser elegível. Não se pede formação nem experiência, e o eleitor pode escolher até quem defende ideias radicais. Uma exigência, porém, vale para todos. Na …",
-   "link": "https://oantagonista.com.br/brasil/clarita-maia-na-crusoe-o-descompromisso-com-a-constituicao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/mao-constituicao.jpg",
-   "data": "2026-11-14T07:20:00-03:00"
-  },
-  {
-   "id": "7233ad636520",
-   "titulo": "Exportações da China avançam com força do comércio ligado à IA",
-   "resumo": "Remessas ligadas à inteligência artificial compensam desaceleração de carros e elevam exportações para US$ 412,3 bilhões",
-   "link": "https://www.poder360.com.br/poder-china/exportacoes-da-china-avancam-com-forca-do-comercio-ligado-a-ia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T07:14:02-03:00"
-  },
-  {
-   "id": "d42226a92e68",
-   "titulo": "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais",
-   "resumo": "Nova modalidade permite resgatar ganhos de até R$ 2.428,80",
-   "link": "https://www.poder360.com.br/poder-economia/caixa-passa-a-pagar-premios-de-loterias-via-pix-em-apostas-digitais/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T07:05:41-03:00"
-  },
-  {
-   "id": "4724e7898f6b",
-   "titulo": "PGR não recua de pedido para bancar penduricalhos",
-   "resumo": "A Procuradoria-Geral da República (PGR) sinalizou nesta sexta-feira, 13, que vai manter o pedido de R$ 324 milhões em recursos extras para bancar despesas do Ministério Público da União (MPU) relacionadas ao pagamento dos chamados pendurica…",
-   "link": "https://oantagonista.com.br/brasil/pgr-nao-recua-de-pedido-para-bancar-penduricalhos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55226479050_b60a454416_k.jpg",
-   "data": "2026-11-14T07:01:59-03:00"
-  },
-  {
-   "id": "05ba6a618fd4",
-   "titulo": "Lula visita imagem de Nossa Senhora Aparecida em catedral nas Filipinas",
-   "resumo": "Estátua foi doada pelo Santuário Nacional de Aparecida; padroeira esteve no centro de controvérsia durante campanha",
-   "link": "https://www.poder360.com.br/poder-governo/lula-visita-imagem-de-nossa-senhora-aparecida-em-catedral-nas-filipinas/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-janja-guilherme-rolando-filipinas-14nov2026.jpeg",
-   "data": "2026-11-14T06:56:10-03:00"
-  },
-  {
-   "id": "4da324e4450d",
-   "titulo": "Só 15,7% das cidades brasileiras têm plano para proteger crianças",
-   "resumo": "Levantamento mostra que só 874 dos 5.570 municípios do país criaram Planos Municipais pela Primeira Infância até 2023",
-   "link": "https://www.poder360.com.br/poder-educacao/so-157-das-cidades-brasileiras-tem-plano-para-proteger-criancas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T06:55:27-03:00"
-  },
-  {
-   "id": "a746d3d75084",
-   "titulo": "STF aceita 10 vezes mais recursos diretos do que recursos barrados",
-   "resumo": "Em 2025, 25,7% dos pedidos que passaram pelo filtro dos tribunais tiveram sucesso; nos bloqueados na origem, taxa foi de 2,4%",
-   "link": "https://www.poder360.com.br/brasil/stf-aceita-10-vezes-mais-recursos-diretos-do-que-recursos-barrados/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T06:55:04-03:00"
   },
   {
    "id": "cf3ac777b62f",
@@ -292,15 +463,6 @@
    "data": "2026-11-13T21:20:27-03:00"
   },
   {
-   "id": "e7ba31ab3ed8",
-   "titulo": "PT quer mais espaço no governo Lula 4 e cobra juros menores",
-   "resumo": "O diretório nacional do PT aprovou uma resolução de apoio ao pacote fiscal do governo Lula, embora vários dirigentes tenham se queixado, nos discursos, de não terem sido consultados sobre as medidas. O encontro foi o primeiro do órgão desde…",
-   "link": "https://oantagonista.com.br/brasil/pt-quer-mais-espaco-no-governo-lula-4-e-cobra-juros-menores/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/edinho-silva-entrevista-paulopinto-4.jpg",
-   "data": "2026-11-13T21:12:04-03:00"
-  },
-  {
    "id": "5916eeaa03b1",
    "titulo": "Cinco pontos do legado de Alcolumbre que jogam contra a sua reeleição",
    "resumo": "Presidente do Senado, Davi Alcolumbe, tem pontos que dificultam sua reeleição ao cargo, como falta de transparência e perseguição à direita.",
@@ -308,15 +470,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/09/03160509/davi-alcolumbre-foto-jefferson-rudy-agencia-senado-1-960x540.jpg",
    "data": "2026-11-13T21:00:09-03:00"
-  },
-  {
-   "id": "9788bca7ea9e",
-   "titulo": "Luis Felipe Salomão critica pedidos de impeachment contra ministros do STF",
-   "resumo": "Luis Felipe Salomão afirma que impeachment contra o STF não resolve crises e defende que o Congresso crie regras para supersalários e penduricalhos.",
-   "link": "https://www.gazetadopovo.com.br/republica/luis-felipe-salomao-critica-pedidos-de-impeachment-contra-ministros-do-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13204207/55650354538_b817e206e6_k-1-960x540.jpg",
-   "data": "2026-11-13T20:42:03-03:00"
   },
   {
    "id": "dc1d915eb23a",
@@ -328,15 +481,6 @@
    "data": "2026-11-13T20:36:19-03:00"
   },
   {
-   "id": "415758fb7cb4",
-   "titulo": "Fraude em cartórios brasileiros aponta possível esquema de terrorismo e espionagem internacional",
-   "resumo": "Estrangeiros podem ter usado documentos brasileiros falsos para ocultar nacionalidade e driblar sanções. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/fraude-documentos-brasileiros-usada-terrorismo-espionagem/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13141456/fraude-documentos-brasileiros-pcdf-1-e1794590147201-960x540.jpeg",
-   "data": "2026-11-13T20:30:12-03:00"
-  },
-  {
    "id": "f9af5251a8fb",
    "titulo": "Gilmar Mendes minimiza afastamento de delegados que citaram STF no caso Master",
    "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), classificou como “mudança de rotina” o afastamento de dois delegados da Polícia Federal (PF) responsáveis pela elaboração de um relatório com todas as menções a ministros da Corte…",
@@ -344,15 +488,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/oab_gilmar-mendes_stf.jpeg",
    "data": "2026-11-13T20:23:50-03:00"
-  },
-  {
-   "id": "e1d956ecda36",
-   "titulo": "PT busca nomes para substituir Lula e garantir sobrevivência da esquerda",
-   "resumo": "Com a reeleição de Lula, o PT corre contra o tempo para formar novos líderes. Conheça os favoritos e os desafios da esquerda para substituir sua maior figura.",
-   "link": "https://www.gazetadopovo.com.br/republica/pt-busca-nomes-para-substituir-lula-e-garantir-sobrevivencia-da-esquerda/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13202350/Rafael-Fonteles-e-Lula-960x540.jpg",
-   "data": "2026-11-13T20:23:45-03:00"
   },
   {
    "id": "94627f5e21db",
@@ -373,42 +508,6 @@
    "data": "2026-11-13T19:54:52-03:00"
   },
   {
-   "id": "d6a2455895e6",
-   "titulo": "Gilmar Mendes rebate Moro e nega anulação “formal” no caso do triplex",
-   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), contestou o governador eleito do Paraná e ex-juiz Sergio Moro ao negar que a sentença contra o presidente Luiz Inácio Lula da Silva no caso do triplex tenha caído por “motivos for…",
-   "link": "https://oantagonista.com.br/brasil/gilmar-mendes-rebate-moro-e-nega-anulacao-formal-no-caso-do-triplex/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55252995996_cf9c1564ea_k.jpg",
-   "data": "2026-11-13T19:51:36-03:00"
-  },
-  {
-   "id": "1f054de77d6c",
-   "titulo": "PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/13/pgr-indica-que-mantera-pedido-de-r-324-milhoes-extras-para-bancar-penduricalhos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/iwXnx6KJtR77vdIIcqRkWRK5ePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/WA3W3WSYiQMTFGPzcXaA/globo-canal-4-20260407-2000-frame-104861.jpeg",
-   "data": "2026-11-13T19:38:29-03:00"
-  },
-  {
-   "id": "6d95e29ee44b",
-   "titulo": "Após suspeita de fraude em Provão Paulista, universidades pedem reunião com governo",
-   "resumo": "USP, Unesp e Unicamp solicitaram uma reunião ao governo de São Paulo para discutir a segurança do Provão Paulista, após a circulação, em redes sociais, de imagens de cadernos de questões e de gabaritos preenchidos durante o exame. O pedido …",
-   "link": "https://oantagonista.com.br/brasil/apos-suspeita-de-fraude-em-provao-paulista-universidades-pedem-reuniao-com-governo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/enhance_upscale_image_01-4.png",
-   "data": "2026-11-13T19:34:30-03:00"
-  },
-  {
-   "id": "848d5d158d2b",
-   "titulo": "AGU alega sigilo e não entrega à Justiça processo sobre defesa de Janja",
-   "resumo": "AGU invoca sigilo profissional e cita normas da OAB; ação popular também questiona despesas com viagens internacionais de Janja.",
-   "link": "https://www.gazetadopovo.com.br/republica/agu-alega-sigilo-e-nao-entrega-a-justica-processo-sobre-defesa-de-janja/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/07183548/janja-lula-960x540.jpg",
-   "data": "2026-11-13T19:25:00-03:00"
-  },
-  {
    "id": "1aa6ff4cfd7a",
    "titulo": "Após evitar viagens na campanha, Michelle Bolsonaro embarca para Israel",
    "resumo": "A ex-primeira-dama e senadora eleita Michelle Bolsonaro embarcou para uma viagem de 10 dias em Israel, após evitar viagens na campanha",
@@ -427,15 +526,6 @@
    "data": "2026-11-13T19:12:29-03:00"
   },
   {
-   "id": "3c6710bedded",
-   "titulo": "Kassab defende reforma política ainda em 2026, mas proposta enfrenta resistência no Congresso",
-   "resumo": "A discussão sobre uma reforma política com foco na adoção do voto distrital misto voltou ao centro do debate. A proposta continua ainda é impulsionada pelo líder do PSD, Gilberto Kassab. Nesta sexta-feira, 13, durante o 19º Encontro de Líde…",
-   "link": "https://revistaoeste.com/politica/kassab-defende-reforma-politica-ainda-em-2026-mas-proposta-enfrenta-resistencia-no-congresso/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Kassab.jpg",
-   "data": "2026-11-13T18:57:55-03:00"
-  },
-  {
    "id": "c3628f83a902",
    "titulo": "Valdemar avisa que parlamentares decidem se apoiam ou não Hugo Motta",
    "resumo": "Em conversa com deputados do PL, Valdemar Costa Neto disse que \"não tem interesse\" em entrar no bloco de Hugo Motta: \"Vocês que vão definir\"",
@@ -443,96 +533,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/07/presidente-do-pl-valdemar-costa-neto-fala-com-a-imprensa-apos-se-reunir-com-michelle-bolsonaro-metropoles-5-scaled.jpg",
    "data": "2026-11-13T18:55:40-03:00"
-  },
-  {
-   "id": "1eb63cfbc371",
-   "titulo": "União é condenada a pagar R$ 597 milhões por destruição de Canudos",
-   "resumo": "A Justiça Federal determinou que a União destine R$ 597 milhões ao município de Canudos como reparação pela destruição do arraial de Belo Monte por tropas federais, em 1897, e pela submersão da área com a construção do açude Cocorobó, concl…",
-   "link": "https://oantagonista.com.br/brasil/uniao-e-condenada-a-pagar-r-597-milhoes-por-destruicao-de-canudos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-13_184921_oglobo.globo_.com-1.png",
-   "data": "2026-11-13T18:51:23-03:00"
-  },
-  {
-   "id": "e0ab3de4a6d9",
-   "titulo": "42% dos brasileiros acreditam que houve fraude na eleição, diz pesquisa",
-   "resumo": "A pesquisa AtlasIntel/Bloomberg divulgada nesta sexta-feira, 13, mostra que 42,2% dos brasileiros acreditam que houve fraude capaz de alterar o resultado da eleição presidencial. Para 52,7% dos entrevistados, porém, o resultado refletiu a v…",
-   "link": "https://revistaoeste.com/politica/42-dos-brasileiros-acreditam-que-houve-fraude-na-eleicao-diz-pesquisa/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/tse-1.jpg",
-   "data": "2026-11-13T18:30:21-03:00"
-  },
-  {
-   "id": "d7dbccb54825",
-   "titulo": "Toffoli dá três dias para Lula explicar gastos de campanha",
-   "resumo": "O Tribunal Superior Eleitoral (TSE) identificou inconsistências em despesas da campanha presidencial de 2026 e determinou que o presidente Lula (PT) e o vice-presidente Geraldo Alckmin (PSB) apresentem esclarecimentos sobre as contas eleito…",
-   "link": "https://oantagonista.com.br/brasil/toffoli-da-tres-dias-para-lula-explicar-gastos-de-campanha/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55529050657_e35129020e_5k-scaled.jpg",
-   "data": "2026-11-13T18:19:48-03:00"
-  },
-  {
-   "id": "1f9111f94d45",
-   "titulo": "Crusoé: A falsa narrativa do STF sobre o inquérito das fake news",
-   "resumo": "Ministros do Supremo Tribunal Federal (STF) têm tentado vender uma falsa narrativa sobre o inquérito das fake news. Comandados por Alexandre de Moraes (foto), esses magistrados têm espalhado que o inquérito surgiu para defender a democracia…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-a-falsa-narrativa-do-stf-sobre-o-inquerito-das-fake-news/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-13-as-18.11.26-e1794604484436.png",
-   "data": "2026-11-13T18:15:37-03:00"
-  },
-  {
-   "id": "23bf8845a286",
-   "titulo": "Carlos Bolsonaro vê Flávio como próximo alvo do STF",
-   "resumo": "O senador eleito Carlos Bolsonaro criticou o Supremo Tribunal Federal (STF) em uma publicação na rede social X nesta sexta-feira, 13, e afirmou que o irmão, Flávio Bolsonaro (PL-RJ), também poderia ser alvo de perseguição caso permanecesse …",
-   "link": "https://oantagonista.com.br/brasil/carlos-bolsonaro-ve-flavio-como-proximo-alvo-do-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Carlos-Bolsonaro.png",
-   "data": "2026-11-13T17:44:18-03:00"
-  },
-  {
-   "id": "49d212a26fb5",
-   "titulo": "Fachin suspende prazos no STF por falha nos serviços da Microsoft",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF) , ministro Edson Fachin , suspendeu nesta sexta-feira, 13, a contagem dos prazos processuais na Corte depois de uma falha nos serviços da Microsoft. A resolução atende a um pedido do Conselho F…",
-   "link": "https://revistaoeste.com/politica/fachin-suspende-prazos-no-stf-por-falha-nos-servicos-da-microsoft/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/fachin-2-1.jpg",
-   "data": "2026-11-13T17:29:47-03:00"
-  },
-  {
-   "id": "c0541aa74af6",
-   "titulo": "MP de Lula para ampliar crédito à exportação está perto de perder validade",
-   "resumo": "A medida provisória que amplia em até R$ 13,5 bilhões o crédito à exportação do Plano Brasil Soberano perde a validade na quarta-feira 18, caso o Congresso não conclua a votação. A Câmara dos Deputados aprovou a MP n° 1.379/2026 na terça-fe…",
-   "link": "https://revistaoeste.com/politica/mp-de-lula-para-ampliar-credito-a-exportacao-esta-perto-de-perder-validade/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/04/Lula-e-Alcolumbre-scaled.jpg",
-   "data": "2026-11-13T17:19:34-03:00"
-  },
-  {
-   "id": "a005cd477101",
-   "titulo": "Fachin defende indicação de uma mulher negra para o STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/EeVSQ9z55emxxCxUfh33m9Hd_0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/F/kWU231TpaitKqABEwPRg/jnac-ministr0-edson-facchin-.sub.01-frame-1140.jpeg",
-   "data": "2026-11-13T17:10:44-03:00"
-  },
-  {
-   "id": "1393dae0d508",
-   "titulo": "Toffoli dá 3 dias para campanha de Lula esclarecer inconsistências nas contas apontadas pelo TSE",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/13/toffoli-da-3-dias-para-campanha-de-lula-esclarecer-inconsistencias-nas-contas-apontadas-pelo-tse.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/QnNIvt_qDVjkxhZllRLv69PNnFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/3/gmOtiXRNqOB5vWSF5glw/whatsapp-image-2026-10-26-at-00.44.58.jpeg",
-   "data": "2026-11-13T15:55:15-03:00"
-  },
-  {
-   "id": "1c7b7f39bfb2",
-   "titulo": "Fachin atende a pedido da OAB e suspende prazos processuais em razão de falhas nos sistemas da Microsoft",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/5rrj_iFLqHsJAwKKEbibfNqFNK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/u/Sx78uHRAayauIbpB0AJQ/55631489082-d00a059e0d-k.jpg",
-   "data": "2026-11-13T15:25:04-03:00"
   },
   {
    "id": "a678328f57e9",
