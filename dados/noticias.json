@@ -1,16 +1,268 @@
 {
- "atualizado": "2026-11-13T19:32:18.022399-03:00",
+ "atualizado": "2026-11-14T00:06:05.504378-03:00",
  "total": 78,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "ee1b49ddd3a6",
-   "titulo": "Inadimplência atinge 75,55 milhões de consumidores em outubro",
-   "resumo": "Número representa 44,94% da população adulta; alta foi de 7,24% em relação a outubro de 2025",
-   "link": "https://www.poder360.com.br/poder-economia/inadimplencia-atinge-7555-milhoes-de-consumidores-em-outubro/",
+   "id": "b4848f1f4927",
+   "titulo": "Fifa abre venda de ingressos para Copa Feminina 2027 em dezembro",
+   "resumo": "O início da comercialização dos pacotes antecede o sorteio dos grupos, programado para 11 de dezembro",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/fifa-abre-venda-de-ingressos-para-copa-feminina-2027-em-dezembro/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/inadimplencia-levantamento-13-nov-2026-1.png",
-   "data": "2026-11-13T19:26:16-03:00"
+   "imagem": "",
+   "data": "2026-11-13T23:51:31-03:00"
+  },
+  {
+   "id": "d9b48a2fc714",
+   "titulo": "Tesouro suspende sistemas após invasão e vazamento de dados",
+   "resumo": "Incidente expôs nome, CPF e e-mail de cerca de 30 mil usuários; serviços devem voltar até 2ª feira (16.nov)",
+   "link": "https://www.poder360.com.br/poder-economia/tesouro-suspende-sistemas-apos-invasao-e-vazamento-de-dados/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T23:46:42-03:00"
+  },
+  {
+   "id": "bb6f164633aa",
+   "titulo": "Suspensão de voos nos EUA coloca aeroportos e companhias aéreas no Brasil em alerta",
+   "resumo": "Suspensão de voos nos Estados Unidos coloca aeroportos e companhias aéreas no Brasil em alerta. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/suspensao-de-voos-nos-eua-afeta-aeroportos-no-brasil/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13210637/aeroporto-brasil-960x540.jpg",
+   "data": "2026-11-13T23:37:13-03:00"
+  },
+  {
+   "id": "e51afa440414",
+   "titulo": "Cármen Lúcia arquiva ação contra Bolsonaro por bloqueio de jornalista no X",
+   "resumo": "Cármen Lúcia encerra processo contra Bolsonaro por bloqueio no X, mas destaca que governantes não podem afastar críticos.",
+   "link": "https://www.gazetadopovo.com.br/republica/carmen-lucia-arquiva-acao-contra-bolsonaro-por-bloqueio-de-jornalista-no-x/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13232947/jair-bolsonaro-1-960x540.jpg",
+   "data": "2026-11-13T23:31:52-03:00"
+  },
+  {
+   "id": "28b4e47626f0",
+   "titulo": "JHSF tem lucro de R$ 392 milhões e registra melhor 3º tri da história",
+   "resumo": "Receita bruta avançou 63%, para R$ 918 milhões, e Ebitda cresceu 79%, para R$ 470 milhões",
+   "link": "https://www.poder360.com.br/poder-economia/jhsf-tem-lucro-de-r-392-milhoes-e-registra-melhor-3o-tri-da-historia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T23:12:35-03:00"
+  },
+  {
+   "id": "4458bd24c1b1",
+   "titulo": "Ações da Nvidia caem 12,75% após casos extraconjugais e renúncia de CEO",
+   "resumo": "Executivo deixou o comando da companhia em 12 de novembro, depois de 33 anos no cargo",
+   "link": "https://www.poder360.com.br/poder-economia/acoes-da-nvidia-caem-1275-apos-casos-extraconjugais-e-renuncia-de-ceo/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/acoes-nvidia-desde-caso-ceo-13-nov-2026-01-1-scaled.png",
+   "data": "2026-11-13T23:00:21-03:00"
+  },
+  {
+   "id": "f0d106acd162",
+   "titulo": "Suspensão aérea nos EUA é revogada; voos são retomados",
+   "resumo": "Milhares de voos foram afetados por medida; autoridades dizem que não houve ataques cibernéticos envolvidos",
+   "link": "https://www.poder360.com.br/poder-internacional/suspensao-aerea-nos-eua-e-revogada-voos-sao-retomados/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T22:59:33-03:00"
+  },
+  {
+   "id": "c65b118442f5",
+   "titulo": "STF tem 4 votos para manter o fim da escala 6×1 em dezembro",
+   "resumo": "STF analisa decisão de Dino que flexibilizou manteve o fim da escala 6x1 em dezembro, mas flexibilizou o período de transição.",
+   "link": "https://www.gazetadopovo.com.br/economia/stf-tem-4-votos-para-manter-o-fim-da-escala-6x1-em-dezembro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13224503/dino-stf-escala-6x1-1-960x540.jpg",
+   "data": "2026-11-13T22:45:41-03:00"
+  },
+  {
+   "id": "b31afe66c1c9",
+   "titulo": "Em dia de pane aérea nos EUA, propulsor da SpaceX cai no mar",
+   "resumo": "Nave alcançou a órbita terrestre, mas o equipamento não conseguiu pousar na estrutura de lançamento, no Texas",
+   "link": "https://www.poder360.com.br/poder-videos/em-dia-de-pane-aerea-nos-eua-propulsor-da-spacex-cai-no-mar/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/j5sgRMihhbw/hqdefault.jpg",
+   "data": "2026-11-13T22:39:51-03:00"
+  },
+  {
+   "id": "cdb3eb6703a1",
+   "titulo": "Agência europeia suspende decolagens de voos para os EUA",
+   "resumo": "Restrição atinge partidas de 42 países, incluindo Israel, após falha de comunicação no controle aéreo norte-americano",
+   "link": "https://www.poder360.com.br/poder-internacional/agencia-europeia-suspende-decolagens-de-voos-para-os-eua/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T22:38:18-03:00"
+  },
+  {
+   "id": "9251a9e6e6c0",
+   "titulo": "“Não é outro 11 de Setembro”, diz secretário dos EUA sobre pane aérea",
+   "resumo": "Markwayne Mullin diz não haver indícios de terrorismo; investigação sobre a suspensão dos voos continua",
+   "link": "https://www.poder360.com.br/poder-internacional/nao-e-outro-11-de-setembro-diz-secretario-dos-eua-sobre-pane-aerea/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-faa-eua.png",
+   "data": "2026-11-13T22:28:34-03:00"
+  },
+  {
+   "id": "1b733441facf",
+   "titulo": "Governo encerra subsídio de R$ 1,40 ao diesel importado",
+   "resumo": "Benefício tinha validade de 30 dias e não foi renovado; subvenção de R$ 2,12 por litro ao diesel rodoviário continua em vigor",
+   "link": "https://www.poder360.com.br/poder-economia/governo-encerra-subsidio-de-r-140-ao-diesel-importado/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T22:22:49-03:00"
+  },
+  {
+   "id": "11c5997f5e69",
+   "titulo": "Geap vê motivação política em pedido de intervenção feito por associação",
+   "resumo": "A operadora de planos de saúde contestou as alegações da Associação Nacional dos Beneficiários da Geap sobre problemas nos pagamentos a prestadores de serviços e redução da rede credenciada",
+   "link": "https://www.poder360.com.br/poder-saude/geap-ve-motivacao-politica-em-pedido-de-intervencao-feito-por-associacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-13T22:12:03-03:00"
+  },
+  {
+   "id": "c1a26e2c3fbd",
+   "titulo": "Rastros digitais impedem que relatórios sobre ministros do STF sumam da PF",
+   "resumo": "Relatórios originais da PF sobre ministros do STF seguem em sistemas federais e podem ser alvo de CPI, apesar de tentativas de reformulação pela cúpula.",
+   "link": "https://www.gazetadopovo.com.br/republica/rastros-digitais-impedem-que-relatorios-sobre-ministros-do-stf-sumam-da-pf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13215201/andrei-rodrigues-pf-1-1-960x540.jpg",
+   "data": "2026-11-13T21:51:54-03:00"
+  },
+  {
+   "id": "a5ddc6b849f1",
+   "titulo": "Documentos revelam que Alexandre de Moraes investigou críticos por opiniões",
+   "resumo": "Documentos do inquérito das fake news mostram que influenciadores e políticos foram investigados pelo STF por criticar decisões e pedir impeachment de ministros.",
+   "link": "https://www.gazetadopovo.com.br/republica/documentos-revelam-que-alexandre-de-moraes-investigou-criticos-por-opinioes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13212314/moraes-toffoli-banco-master-960x540.jpg",
+   "data": "2026-11-13T21:23:04-03:00"
+  },
+  {
+   "id": "b45a941d2393",
+   "titulo": "Polícia Federal investiga fraudes em contratos emergenciais no RS",
+   "resumo": "A Polícia Federal deflagrou, nesta sexta-feira, 13, a Operação Deságue para investigar fraudes em contratos emergenciais das prefeituras de Canoas e Cachoeirinha, no Rio Grande do Sul . Os acordos previam a locação e a operação de motobomba…",
+   "link": "https://revistaoeste.com/politica/policia-federal-investiga-fraudes-em-contratos-emergenciais-no-rs/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/PF-investiga-fraudes-em-contratos-emergenciais-no-RS.jpeg",
+   "data": "2026-11-13T21:20:27-03:00"
+  },
+  {
+   "id": "e7ba31ab3ed8",
+   "titulo": "PT quer mais espaço no governo Lula 4 e cobra juros menores",
+   "resumo": "O diretório nacional do PT aprovou uma resolução de apoio ao pacote fiscal do governo Lula, embora vários dirigentes tenham se queixado, nos discursos, de não terem sido consultados sobre as medidas. O encontro foi o primeiro do órgão desde…",
+   "link": "https://oantagonista.com.br/brasil/pt-quer-mais-espaco-no-governo-lula-4-e-cobra-juros-menores/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/edinho-silva-entrevista-paulopinto-4.jpg",
+   "data": "2026-11-13T21:12:04-03:00"
+  },
+  {
+   "id": "5916eeaa03b1",
+   "titulo": "Cinco pontos do legado de Alcolumbre que jogam contra a sua reeleição",
+   "resumo": "Presidente do Senado, Davi Alcolumbe, tem pontos que dificultam sua reeleição ao cargo, como falta de transparência e perseguição à direita.",
+   "link": "https://www.gazetadopovo.com.br/republica/cinco-pontos-do-legado-de-alcolumbre-que-jogam-contra-a-sua-reeleicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/03160509/davi-alcolumbre-foto-jefferson-rudy-agencia-senado-1-960x540.jpg",
+   "data": "2026-11-13T21:00:09-03:00"
+  },
+  {
+   "id": "9788bca7ea9e",
+   "titulo": "Luis Felipe Salomão critica pedidos de impeachment contra ministros do STF",
+   "resumo": "Luis Felipe Salomão afirma que impeachment contra o STF não resolve crises e defende que o Congresso crie regras para supersalários e penduricalhos.",
+   "link": "https://www.gazetadopovo.com.br/republica/luis-felipe-salomao-critica-pedidos-de-impeachment-contra-ministros-do-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13204207/55650354538_b817e206e6_k-1-960x540.jpg",
+   "data": "2026-11-13T20:42:03-03:00"
+  },
+  {
+   "id": "dc1d915eb23a",
+   "titulo": "Brasileiro que morreu em prisão isralense é sepultado depois de 1 ano e 8 meses; governo cobra explicação de Israel",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/13/brasileiro-que-morreu-em-prisao-isralense-e-sepultado-depois-de-1-ano-e-8-meses-governo-cobra-explicacao-de-israel.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/pyQskms4kQ0wVjiSqMSUadlYvbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/X/3i2eW7TniySBDuVsrE4A/walid-khalid-abdalla-ahmad.jpg",
+   "data": "2026-11-13T20:36:19-03:00"
+  },
+  {
+   "id": "b7b6cff564b5",
+   "titulo": "Gilmar defende diretor da PF, minimiza troca de delegados e ataca Lava Jato",
+   "resumo": "Gilmar cita decisão sobre tríplex do Guarujá atribuído a Lula e diz que Lava Jato foi um “grande escândalo” do Judiciário.",
+   "link": "https://www.gazetadopovo.com.br/republica/gilmar-defende-diretor-da-pf-minimiza-troca-de-delegados-e-ataca-lava-jato/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13192004/gilmar-mendes-960x540.jpg",
+   "data": "2026-11-13T20:31:34-03:00"
+  },
+  {
+   "id": "415758fb7cb4",
+   "titulo": "Fraude em cartórios brasileiros aponta possível esquema de terrorismo e espionagem internacional",
+   "resumo": "Estrangeiros podem ter usado documentos brasileiros falsos para ocultar nacionalidade e driblar sanções. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/fraude-documentos-brasileiros-usada-terrorismo-espionagem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13141456/fraude-documentos-brasileiros-pcdf-1-e1794590147201-960x540.jpeg",
+   "data": "2026-11-13T20:30:12-03:00"
+  },
+  {
+   "id": "f9af5251a8fb",
+   "titulo": "Gilmar Mendes minimiza afastamento de delegados que citaram STF no caso Master",
+   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), classificou como “mudança de rotina” o afastamento de dois delegados da Polícia Federal (PF) responsáveis pela elaboração de um relatório com todas as menções a ministros da Corte…",
+   "link": "https://revistaoeste.com/politica/gilmar-mendes-minimiza-afastamento-de-delegados-que-citaram-stf-no-caso-master/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/oab_gilmar-mendes_stf.jpeg",
+   "data": "2026-11-13T20:23:50-03:00"
+  },
+  {
+   "id": "e1d956ecda36",
+   "titulo": "PT busca nomes para substituir Lula e garantir sobrevivência da esquerda",
+   "resumo": "Com a reeleição de Lula, o PT corre contra o tempo para formar novos líderes. Conheça os favoritos e os desafios da esquerda para substituir sua maior figura.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-busca-nomes-para-substituir-lula-e-garantir-sobrevivencia-da-esquerda/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13202350/Rafael-Fonteles-e-Lula-960x540.jpg",
+   "data": "2026-11-13T20:23:45-03:00"
+  },
+  {
+   "id": "94627f5e21db",
+   "titulo": "Gilmar Medes defende reforma do Judiciário e critica Lava Jato",
+   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF) , defendeu nesta sexta-feira, 13, mudanças no Judiciário, mas pediu cautela na discussão sobre uma eventual reforma. Durante evento promovido pelo Instituto Brasileiro de Ensino, D…",
+   "link": "https://revistaoeste.com/politica/gilmar-medes-defende-reforma-do-judiciario-e-critica-lava-jato/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/oab_gilmar-mendes_stf.jpeg",
+   "data": "2026-11-13T20:13:39-03:00"
+  },
+  {
+   "id": "363c07606fee",
+   "titulo": "Moraes antecipou voto a Vorcaro, sugere relatório rejeitado pela PF",
+   "resumo": "Um relatório elaborado por investigadores da Polícia Federal (PF) , mas rejeitado pela cúpula da corporação, aponta suspeitas de que o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , teria antecipado ao ex-banqueiro Daniel…",
+   "link": "https://revistaoeste.com/politica/moraes-antecipou-voto-a-vorcaro-sugere-relatorio-rejeitado-pela-pf/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Moraes-e-Vorcaro.jpg",
+   "data": "2026-11-13T19:54:52-03:00"
+  },
+  {
+   "id": "d6a2455895e6",
+   "titulo": "Gilmar Mendes rebate Moro e nega anulação “formal” no caso do triplex",
+   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), contestou o governador eleito do Paraná e ex-juiz Sergio Moro ao negar que a sentença contra o presidente Luiz Inácio Lula da Silva no caso do triplex tenha caído por “motivos for…",
+   "link": "https://oantagonista.com.br/brasil/gilmar-mendes-rebate-moro-e-nega-anulacao-formal-no-caso-do-triplex/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55252995996_cf9c1564ea_k.jpg",
+   "data": "2026-11-13T19:51:36-03:00"
+  },
+  {
+   "id": "1f054de77d6c",
+   "titulo": "PGR indica que manterá pedido de R$ 324 milhões extras para bancar penduricalhos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/13/pgr-indica-que-mantera-pedido-de-r-324-milhoes-extras-para-bancar-penduricalhos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/iwXnx6KJtR77vdIIcqRkWRK5ePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/f/WA3W3WSYiQMTFGPzcXaA/globo-canal-4-20260407-2000-frame-104861.jpeg",
+   "data": "2026-11-13T19:38:29-03:00"
+  },
+  {
+   "id": "6d95e29ee44b",
+   "titulo": "Após suspeita de fraude em Provão Paulista, universidades pedem reunião com governo",
+   "resumo": "USP, Unesp e Unicamp solicitaram uma reunião ao governo de São Paulo para discutir a segurança do Provão Paulista, após a circulação, em redes sociais, de imagens de cadernos de questões e de gabaritos preenchidos durante o exame. O pedido …",
+   "link": "https://oantagonista.com.br/brasil/apos-suspeita-de-fraude-em-provao-paulista-universidades-pedem-reuniao-com-governo/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/enhance_upscale_image_01-4.png",
+   "data": "2026-11-13T19:34:30-03:00"
   },
   {
    "id": "848d5d158d2b",
@@ -20,15 +272,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/07183548/janja-lula-960x540.jpg",
    "data": "2026-11-13T19:25:00-03:00"
-  },
-  {
-   "id": "b7b6cff564b5",
-   "titulo": "Gilmar defende diretor da PF, minimiza troca de delegados e ataca Lava Jato",
-   "resumo": "Gilmar cita decisão sobre tríplex do Guarujá atribuído a Lula e diz que Lava Jato foi um “grande escândalo” do Judiciário.",
-   "link": "https://www.gazetadopovo.com.br/republica/gilmar-defende-diretor-da-pf-minimiza-troca-de-delegados-e-ataca-lava-jato/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13192004/gilmar-mendes-960x540.jpg",
-   "data": "2026-11-13T19:20:57-03:00"
   },
   {
    "id": "1aa6ff4cfd7a",
@@ -76,33 +319,6 @@
    "data": "2026-11-13T18:51:23-03:00"
   },
   {
-   "id": "a4328b93fb75",
-   "titulo": "EUA suspendem voos em todo o país por falha no controle de tráfego",
-   "resumo": "Medida foi tomada pela FAA, agência nacional de aviação do país; causa da falha no sistema é investigada",
-   "link": "https://www.poder360.com.br/poder-internacional/eua-suspendem-voos-em-todo-o-pais-por-falha-no-controle-de-trafego/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-faa-eua-2.png",
-   "data": "2026-11-13T18:47:50-03:00"
-  },
-  {
-   "id": "36d1e0b0f393",
-   "titulo": "Pagamento do 13º salário pode injetar R$ 399,1 bi na economia",
-   "resumo": "Estudo estima que 99,7 milhões de brasileiros serão beneficiados em 2026, com rendimento adicional médio de R$ 3.720,00",
-   "link": "https://www.poder360.com.br/poder-economia/pagamento-do-13o-salario-pode-injetar-r-3991-bi-na-economia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T18:45:35-03:00"
-  },
-  {
-   "id": "405d199a472f",
-   "titulo": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
-   "resumo": "Investidores se dividem sobre medidas econômicas do governo; moeda norte-americana se mantém no maior patamar desde junho de 2025",
-   "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-066-e-dolar-segue-em-r-565-com-ajuste-fiscal-em-vista/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-13-nov-2026-scaled.png",
-   "data": "2026-11-13T18:39:18-03:00"
-  },
-  {
    "id": "9f93e312cf93",
    "titulo": "Rogério Marinho aponta manobras fiscais em novo ajuste aprovado pelo Senado",
    "resumo": "Senador Rogério Marinho classifica ajuste fiscal aprovado no Senado como nova pedalada e propõe alternativa de R$ 75 bilhões sem aumento de impostos.",
@@ -110,15 +326,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/13183853/Rogerio-Marinho-2-960x540.jpg",
    "data": "2026-11-13T18:38:50-03:00"
-  },
-  {
-   "id": "1153e81005c5",
-   "titulo": "PSB aciona TSE por segundo turno no Rio de janeiro",
-   "resumo": "O PSB questiona o recálculo dos votos que levou à proclamação da vitória de Douglas Ruas (PL) no primeiro turno no Rio de Janeiro.",
-   "link": "https://www.gazetadopovo.com.br/republica/psb-aciona-tse-por-segundo-turno-no-rio-de-janeiro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/09122105/TSE-960x540.jpg",
-   "data": "2026-11-13T18:32:01-03:00"
   },
   {
    "id": "e0ab3de4a6d9",
@@ -139,15 +346,6 @@
    "data": "2026-11-13T18:19:48-03:00"
   },
   {
-   "id": "35ace941aaa4",
-   "titulo": "Câmara pede que STF derrube parte da decisão de Dino sobre fim da escala 6×1",
-   "resumo": "Câmara pede que STF derrube parte das regras de Dino para a transição do fim da escala 6x1. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/economia/camara-pede-que-stf-derrube-parte-da-decisao-de-dino-sobre-fim-da-escala-6x1/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13181846/dino-960x540.jpg",
-   "data": "2026-11-13T18:19:25-03:00"
-  },
-  {
    "id": "1f9111f94d45",
    "titulo": "Crusoé: A falsa narrativa do STF sobre o inquérito das fake news",
    "resumo": "Ministros do Supremo Tribunal Federal (STF) têm tentado vender uma falsa narrativa sobre o inquérito das fake news. Comandados por Alexandre de Moraes (foto), esses magistrados têm espalhado que o inquérito surgiu para defender a democracia…",
@@ -155,42 +353,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-13-as-18.11.26-e1794604484436.png",
    "data": "2026-11-13T18:15:37-03:00"
-  },
-  {
-   "id": "24a146fab6da",
-   "titulo": "Toffoli dá 3 dias para chapa Lula-Alckmin explicar contas de campanha",
-   "resumo": "Decisão tem como base resolução do TSE que regulamenta a arrecadação e os gastos de recursos por partidos políticos e candidatos",
-   "link": "https://www.poder360.com.br/poder-justica/toffoli-da-3-dias-para-chapa-lula-alckmin-explicar-contas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T18:06:45-03:00"
-  },
-  {
-   "id": "b0db76a29169",
-   "titulo": "Terremoto de magnitude 5,8 atinge costa do Peru durante visita do papa",
-   "resumo": "Epicentro foi registrado a 79 km de Changuillo, no sul do país; Leão 14 estava a mais de 1.100 km do local",
-   "link": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-58-atinge-costa-do-peru-durante-visita-do-papa/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T18:01:19-03:00"
-  },
-  {
-   "id": "4cd7d0543f81",
-   "titulo": "Fachin defende reforma no Judiciário para superar privilégios",
-   "resumo": "Presidente do STF diz que reparação histórica deve ser projeto de país; ministro Luis Felipe Salomão, do STJ, cobra ação de juízes contra racismo",
-   "link": "https://www.poder360.com.br/poder-justica/fachin-defende-reforma-no-judiciario-para-superar-privilegios/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T17:50:21-03:00"
-  },
-  {
-   "id": "040807c338d6",
-   "titulo": "Relatórios de delegados afastados sobre ministros do STF vão sobreviver a tentativas de eliminação",
-   "resumo": "Arquivos que mencionam Moraes, Toffoli e Nunes Marques foram inseridos em diferentes sistemas e eliminação é dada como impossível.",
-   "link": "https://www.gazetadopovo.com.br/republica/relatorios-delegados-afastados-sobre-ministros-do-stf-vao-sobreviver-a-tentativas-de-eliminacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/12151140/andrei-rodrigues-pf-1-960x540.jpg",
-   "data": "2026-11-13T17:45:00-03:00"
   },
   {
    "id": "23bf8845a286",
@@ -211,15 +373,6 @@
    "data": "2026-11-13T17:29:47-03:00"
   },
   {
-   "id": "924e6129d976",
-   "titulo": "Influenciadores foram censurados por Moraes por defender impeachment de ministros do STF",
-   "resumo": "Apenso do inquérito das fake news, arquivado por Edson Fachin, mostra como influenciadores foram alvo por criticar decisões do STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/influenciadores-foram-censurados-por-moraes-por-defender-impeachment-de-ministros-do-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/11143441/moraes-toffoli-banco-master-960x540.jpg",
-   "data": "2026-11-13T17:20:00-03:00"
-  },
-  {
    "id": "c0541aa74af6",
    "titulo": "MP de Lula para ampliar crédito à exportação está perto de perder validade",
    "resumo": "A medida provisória que amplia em até R$ 13,5 bilhões o crédito à exportação do Plano Brasil Soberano perde a validade na quarta-feira 18, caso o Congresso não conclua a votação. A Câmara dos Deputados aprovou a MP n° 1.379/2026 na terça-fe…",
@@ -238,24 +391,6 @@
    "data": "2026-11-13T17:17:57-03:00"
   },
   {
-   "id": "74913afc47ac",
-   "titulo": "Toffoli dá 3 dias para Lula explicar inconsistências em gastos eleitorais",
-   "resumo": "Área técnica do TSE identificou indícios de subcontratação e cobrou explicações sobre R$ 44,4 milhões gastos pela chapa Lula-Alckmin.",
-   "link": "https://www.gazetadopovo.com.br/republica/toffoli-da-3-dias-para-lula-explicar-inconsistencias-em-gastos-eleitorais/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13171242/lula-alckmin-2-960x540.jpg",
-   "data": "2026-11-13T17:14:41-03:00"
-  },
-  {
-   "id": "0d19f4d41ed9",
-   "titulo": "Grêmio sofre 5º transfer ban da Fifa e é o clube mais punido no Brasil",
-   "resumo": "Clube superou Santos e Amazonas, que seguem logo atrás com 4 punições cada",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/gremio-sofre-5o-transfer-ban-da-fifa-e-e-o-clube-mais-punido-no-brasil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T17:12:27-03:00"
-  },
-  {
    "id": "a005cd477101",
    "titulo": "Fachin defende indicação de uma mulher negra para o STF",
    "resumo": "",
@@ -265,51 +400,6 @@
    "data": "2026-11-13T17:10:44-03:00"
   },
   {
-   "id": "5861d0b18a36",
-   "titulo": "Fachin suspende prazos processuais em todo o país após pane da Microsoft",
-   "resumo": "Fachin atendeu a um pedido da OAB após pane da Microsoft afetar ferramentas de comunicação e serviços utilizados pelo Judiciário.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-suspende-prazos-processuais-em-todo-o-pais-apos-pane-da-microsoft/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/22093020/ASPA-GRANDE-2026-10-22T092954.962-960x540.jpg",
-   "data": "2026-11-13T17:10:01-03:00"
-  },
-  {
-   "id": "33bf431498f4",
-   "titulo": "STF tem 4 votos para manter o fim da escala 6 X 1 em dezembro",
-   "resumo": "Moraes, Cármen e Gilmar já referendaram a decisão de Dino que preserva o calendário de transição para a nova jornada de trabalho",
-   "link": "https://www.poder360.com.br/poder-justica/stf-tem-3-votos-para-manter-o-fim-da-escala-6-x-1-em-dezembro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T17:08:18-03:00"
-  },
-  {
-   "id": "5373e943dd3d",
-   "titulo": "Agro critica BB por atribuir queda do lucro à inadimplência",
-   "resumo": "Associações de produtores alegam crise de renda no campo e questionam gestão do Banco do Brasil",
-   "link": "https://www.poder360.com.br/poder-economia/agro-critica-bb-por-atribuir-queda-do-lucro-a-inadimplencia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-13T17:02:20-03:00"
-  },
-  {
-   "id": "8e55262a0597",
-   "titulo": "Investigação da Polícia Federal aponta que Moraes antecipou voto a ex-banqueiro",
-   "resumo": "Relatório da PF indica que Alexandre de Moraes antecipou voto sobre cursos de medicina a Daniel Vorcaro, beneficiando interesses do Banco Master.",
-   "link": "https://www.gazetadopovo.com.br/republica/investigacao-da-policia-federal-aponta-que-moraes-antecipou-voto-a-ex-banqueiro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13164734/Design-sem-nome-35-1-1-960x540.jpg",
-   "data": "2026-11-13T16:47:31-03:00"
-  },
-  {
-   "id": "d059dd7be83a",
-   "titulo": "Presidente do STJ rejeita discussão sobre impeachment e cobra debate sobre supersalários",
-   "resumo": "Presidente do STJ questiona a defesa do impeachment de ministros do STF e cobra do Congresso regras para os supersalários no serviço público.",
-   "link": "https://www.gazetadopovo.com.br/republica/presidente-do-stj-rejeita-discussao-sobre-impeachment-e-cobra-debate-sobre-supersalarios/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13155738/55650354538_b817e206e6_k-960x540.jpg",
-   "data": "2026-11-13T16:41:13-03:00"
-  },
-  {
    "id": "d39a10766c63",
    "titulo": "Crusoé: Diretor-geral da PF recebe jeton de R$ 10 mil ao mês do BNDES",
    "resumo": "Alvo de críticas após a remoção de dois delegados de funções de chefia, o diretor-geral da Polícia Federal, Andrei Rodrigues, recebe desde julho de 2025 um jeton mensal de 10 mil reais por integrar o Comitê de Riscos do Banco Nacional de De…",
@@ -317,42 +407,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/02/posse-diretor-pf_mcamgo_abr_100120231818-9.jpg",
    "data": "2026-11-13T16:39:57-03:00"
-  },
-  {
-   "id": "497384be87f8",
-   "titulo": "Senado vota na próxima terça-feira mudanças no ajuste fiscal de Lula",
-   "resumo": "O Senado deve votar, na terça-feira 17, uma emenda do líder da oposição, Rogério Marinho (PL-RN), que reduz de 2% para 0,6% o limite de crescimento das despesas federais acima da inflação. A restrição seria aplicada a partir de 2027, nos an…",
-   "link": "https://revistaoeste.com/politica/senado-vota-na-proxima-terca-feira-mudancas-no-ajuste-fiscal-de-lula/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/55592180189_b87b8f64f8_o.jpg",
-   "data": "2026-11-13T16:35:19-03:00"
-  },
-  {
-   "id": "6a635c00647b",
-   "titulo": "PT tem última chance para definir sucessor de Lula",
-   "resumo": "Reeleição de Lula dá mais quatro anos para PT planejar quem será o sucessor do líder da esquerda brasileira. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pt-ultima-chance-definicao-sucessor-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30164312/Rafael-Fonteles-e-Lula-960x540.jpg",
-   "data": "2026-11-13T16:23:10-03:00"
-  },
-  {
-   "id": "b8bb82daa37f",
-   "titulo": "Telebras poderá receber R$ 246 milhões em ações",
-   "resumo": "O governo federal autorizou a ampliação do capital social da Telecomunicações Brasileiras (Telebras) por meio da conversão de R$ 246 milhões em recursos já transferidos pela União à estatal. A medida consta no Decreto nº 13.162, publicado n…",
-   "link": "https://revistaoeste.com/politica/telebras-podera-receber-r-246-milhoes-em-acoes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/09/telebras.jpg",
-   "data": "2026-11-13T16:19:14-03:00"
-  },
-  {
-   "id": "face32ef3aed",
-   "titulo": "PGR prepara 1ª denúncia contra Daniel Vorcaro",
-   "resumo": "A Procuradoria-Geral da República (PGR) deve apresentar nos próximos dias ao Supremo Tribunal Federal (STF) a primeira denúncia contra o ex-banqueiro Daniel Vorcaro , investigado por suspeitas de crimes financeiros que envolvem o Banco Mast…",
-   "link": "https://revistaoeste.com/politica/pgr-prepara-primeira-denuncia-contra-daniel-vorcaro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/05/vorcaro-depoimento-1.jpg",
-   "data": "2026-11-13T16:18:56-03:00"
   },
   {
    "id": "bd35b2019c95",
@@ -380,15 +434,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2024/02/53363075058_e58c781326_k.jpg",
    "data": "2026-11-13T15:43:13-03:00"
-  },
-  {
-   "id": "5e25ee2e3a2f",
-   "titulo": "EUA revogam mais de 6 mil vistos por turismo de nascimento",
-   "resumo": "O Departamento de Estado dos Estados Unidos anunciou a revogação de mais de 6 mil vistos de estrangeiros envolvidos no chamado turismo de nascimento. O número foi divulgado nesta quinta-feira, 12, em uma publicação no X. Segundo o órgão, a …",
-   "link": "https://revistaoeste.com/politica/eua-revogam-mais-de-6-mil-vistos-por-turismo-de-nascimento/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/Trump-1.jpg",
-   "data": "2026-11-13T15:26:34-03:00"
   },
   {
    "id": "1c7b7f39bfb2",
@@ -436,24 +481,6 @@
    "data": "2026-11-13T14:16:44-03:00"
   },
   {
-   "id": "7c6917821c4e",
-   "titulo": "Lula prepara primeiro anúncio de ministros com foco em áreas econômica e social",
-   "resumo": "O presidente reeleito Lula pretende iniciar a montagem da nova Esplanada dos Ministérios com a definição dos titulares das áreas econômica e social. A previsão é anunciar os primeiros nomes na próxima semana, em um movimento que também busc…",
-   "link": "https://oantagonista.com.br/brasil/lula-prepara-primeiro-anuncio-de-ministros-com-foco-em-areas-economica-e-social/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55640627244_25f82a6e88_4k-scaled.jpg",
-   "data": "2026-11-13T14:09:24-03:00"
-  },
-  {
-   "id": "7583b78a49d5",
-   "titulo": "Futuro de Margareth Menezes na Cultura segue indefinido no Lula 4",
-   "resumo": "A permanência de Margareth Menezes no comando do Ministério da Cultura no quarto mandato de Lula ainda não está definida. Enquanto uma parcela da classe artística cobra mudanças na condução da pasta, outros representantes do setor defendem …",
-   "link": "https://oantagonista.com.br/brasil/futuro-de-margareth-menezes-na-cultura-segue-indefinido-no-lula-4/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/55302594942_b5edcfdc8a_k.jpg",
-   "data": "2026-11-13T14:04:39-03:00"
-  },
-  {
    "id": "9c8b5e4fa45b",
    "titulo": "Câmara pede que STF derrube parte das regras fixadas por Dino para escala 5x2",
    "resumo": "",
@@ -461,15 +488,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
    "data": "2026-11-13T13:42:59-03:00"
-  },
-  {
-   "id": "bf22e9453ab8",
-   "titulo": "Caso Dark Horse: ex-assessor de Frias diz que deixou gabinete antes de quitação de emendas",
-   "resumo": "O ex-assessor parlamentar de Mário Frias (PL-SP, foto), alvo de uma operação da Polícia Federal nesta sexta-feira (13) no âmbito das investigações sobre o filme Dark Horse, afirmou ter deixado o gabinete do deputado antes de qualquer negoci…",
-   "link": "https://oantagonista.com.br/brasil/caso-dark-horse-ex-assessor-de-mauro-frias-deixou-gabinete-antes-de-pagamento-de-emendas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20240527174158803-scaled.jpg",
-   "data": "2026-11-13T13:36:32-03:00"
   },
   {
    "id": "92d747c47a57",
@@ -524,24 +542,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/ECjeR4VA3qjw3Js3_423nnlyAQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/r/T2DBAdSqmpNkyQAtnB1Q/condenacao-naufragio-c-05-06-2025.mp4-snapshot-00.35.946.jpg",
    "data": "2026-11-13T10:52:38-03:00"
-  },
-  {
-   "id": "006fa87a234f",
-   "titulo": "Presidente do BB diz que 31 mil produtores rurais estão inadimplentes e que 'portas' estão 'abertas' para renegociação",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/13/presidente-do-bb-diz-que-31-mil-produtores-rurais-estao-inadimplentes-e-que-portas-do-banco-estao-abertas-para-renegociacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/1rZanjVS24OUaS5O3rxMrm_qsKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/T/rQBdFcQFSgjFR3Am6ZaQ/tarciana.jpeg",
-   "data": "2026-11-13T10:47:41-03:00"
-  },
-  {
-   "id": "d1a3554529a6",
-   "titulo": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8pxdQuPbUfBfkwkgiTTMKfI3-kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/F/k8KZo1SSSVfm3AsG1SBw/fta20230509164.jpg",
-   "data": "2026-11-13T10:42:39-03:00"
   },
   {
    "id": "80c4575d0a9a",
