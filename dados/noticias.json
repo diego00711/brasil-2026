@@ -1,25 +1,160 @@
 {
- "atualizado": "2026-11-14T19:16:24.117071-03:00",
+ "atualizado": "2026-11-14T23:34:06.420429-03:00",
  "total": 78,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "4485c9274993",
-   "titulo": "Comissão do Senado aprova proibição de obsolescência programada",
-   "resumo": "Projeto veta a redução intencional da vida útil de produtos e regulamenta o direito ao reparo; texto vai à Câmara",
-   "link": "https://www.poder360.com.br/poder-congresso/comissao-do-senado-aprova-proibicao-de-obsolescencia-programada/",
+   "id": "bfd45ecf544f",
+   "titulo": "Lula e Alckmin prestam contas de campanha ao TSE",
+   "resumo": "Material será considerado na continuidade do exame técnico e na elaboração de parecer conclusivo sobre as contas",
+   "link": "https://www.poder360.com.br/poder-justica/lula-e-alckmin-prestam-contas-de-campanha-ao-tse/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-14T19:15:15-03:00"
+   "data": "2026-11-14T23:30:30-03:00"
   },
   {
-   "id": "2cd03ca85664",
-   "titulo": "Dino defende negociação coletiva na transição para jornada de 5 dias",
-   "resumo": "Relator das ações contra o fim da 6 X 1 cita hospitais e aviação e exige a presença de sindicatos em acordos; julgamento no STF será reiniciado em plenário físico após destaque de Fux",
-   "link": "https://www.poder360.com.br/poder-justica/dino-defende-negociacao-coletiva-na-transicao-para-jornada-de-5-dias/",
+   "id": "bf56ca826709",
+   "titulo": "STJ suspende ações sobre fim antecipado do Perse",
+   "resumo": "A Primeira Seção do Superior Tribunal de Justiça (STJ) determinou a suspensão, em todo o país, dos processos que discutem o encerramento antecipado dos benefícios fiscais do Programa Emergencial de Retomada do Setor de Eventos (Perse). A co…",
+   "link": "https://revistaoeste.com/politica/stj-suspende-acoes-sobre-fim-antecipado-do-perse/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/STJ_ministro-Sergio-Kukina.jpeg",
+   "data": "2026-11-14T23:00:00-03:00"
+  },
+  {
+   "id": "1316a10e8392",
+   "titulo": "Voos nos EUA devem voltar ao normal no fim do domingo, diz FAA",
+   "resumo": "Administração Federal de Aviação afirma que problema com roteador afetou 17 de 22 centros de controle; governo nega ataque hacker",
+   "link": "https://www.poder360.com.br/poder-internacional/voos-nos-eua-devem-voltar-ao-normal-no-fim-do-domingo-15-nov-diz-faa/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/qrau_HyfcP0/hqdefault.jpg",
+   "data": "2026-11-14T22:39:17-03:00"
+  },
+  {
+   "id": "1dbd8180034c",
+   "titulo": "Críticas ao Ministério da Cultura dividem artistas e provocam acusações de racismo",
+   "resumo": "Manifestos contra a gestão de Margareth Menezes no Ministério da Cultura dividem artistas e provocam acusações de racismo.",
+   "link": "https://www.gazetadopovo.com.br/republica/criticas-ministerio-cultura-dividem-artistas-provocam-acusacoes-racismo/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/04182935/Design-sem-nome-33-960x540.jpg",
+   "data": "2026-11-14T22:25:43-03:00"
+  },
+  {
+   "id": "ba7c112ddd60",
+   "titulo": "Lula e mais 34 políticos alvos da Lava Jato são eleitos em 2026",
+   "resumo": "O presidente Lula da Silva (PT) e outros 34 políticos que foram alvos de investigações relacionadas à Operação Lava Jato conseguiram se eleger em 2026. Ao todo, 35 dos 75 candidatos identificados no levantamento conquistaram cargos públicos…",
+   "link": "https://revistaoeste.com/politica/lula-e-mais-34-politicos-alvos-da-lava-jato-sao-eleitos-em-2026/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Lula_Lava-Jato.jpeg",
+   "data": "2026-11-14T22:00:00-03:00"
+  },
+  {
+   "id": "40f45f440186",
+   "titulo": "Cidadania convoca votação de incorporação pelo Progressistas",
+   "resumo": "Reunião virtual será em 21 de novembro, às 14h; proposta inclui a extinção da Fundação Astrojildo Pereira",
+   "link": "https://www.poder360.com.br/partidos-politicos/cidadania-convoca-votacao-de-incorporacao-pelo-progressistas/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-14T19:14:03-03:00"
+   "data": "2026-11-14T21:45:11-03:00"
+  },
+  {
+   "id": "8f820742e371",
+   "titulo": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência",
+   "resumo": "Documentos foram firmados durante visita de Lula a Manila, após reunião com o presidente Ferdinand Marcos Júnior",
+   "link": "https://www.poder360.com.br/poder-governo/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T21:02:52-03:00"
+  },
+  {
+   "id": "9964f69c01f0",
+   "titulo": "Musk diz que Nvidia pode perder acordos após saída de Jensen Huang",
+   "resumo": "Dono da Tesla diz que acordos feitos por “aperto de mãos” com ex-CEO da fabricante de chips podem ser perdidos",
+   "link": "https://www.poder360.com.br/poder-internacional/musk-diz-que-nvidia-pode-perder-acordos-apos-saida-de-jensen-huang/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/musk-nvidia.png",
+   "data": "2026-11-14T20:59:36-03:00"
+  },
+  {
+   "id": "72607b590e21",
+   "titulo": "Claro vence pregão de R$ 4,96 milhões com iPhones para o Senado",
+   "resumo": "Contrato de telefonia inclui 425 celulares em comodato por 4 anos; aparelhos serão trocados depois de 2 anos",
+   "link": "https://www.poder360.com.br/poder-congresso/claro-vence-pregao-de-r-496-milhoes-com-iphones-para-o-senado/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T20:53:51-03:00"
+  },
+  {
+   "id": "8d01f3f88994",
+   "titulo": "Brasil tem alerta de tempestades em todas as regiões nos próximos dias",
+   "resumo": "Entre a noite de domingo (15.nov) e a madrugada de 2ª feira (16.nov), uma zona de baixa pressão atmosférica deve se formar na costa da região Sudeste, favorecendo chuvas intensas",
+   "link": "https://www.poder360.com.br/poder-brasil/brasil-tem-alerta-de-tempestades-em-todas-as-regioes-nos-proximos-dias/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/mapa-chuvas-brasil-inmet.jpg",
+   "data": "2026-11-14T20:52:59-03:00"
+  },
+  {
+   "id": "2ef771fe89c6",
+   "titulo": "Superbactérias e infecções desafiam segurança de pacientes em UTIs",
+   "resumo": "Infecções hospitalares expõem paradoxo dos hospitais, que, embora sejam locais de cura, podem favorecer microrganismos resistentes",
+   "link": "https://www.poder360.com.br/poder-saude/superbacterias-e-infeccoes-desafiam-seguranca-de-pacientes-em-utis/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T20:50:19-03:00"
+  },
+  {
+   "id": "9a77681e3eaa",
+   "titulo": "Lula terá dificuldade de negociar indicações ao STF com Senado conservador",
+   "resumo": "Maioria conservadora no Senado aumenta a pressão sobre Lula para escolher nomes ao STF. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/senado-conservador-lula-negociar-indicacoes-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10175203/lula-messias-stf-960x540.jpg",
+   "data": "2026-11-14T20:50:07-03:00"
+  },
+  {
+   "id": "81ccc9276220",
+   "titulo": "Cármen Lúcia encerra processo contra Bolsonaro",
+   "resumo": "A ministra Cármen Lúcia , do Supremo Tribunal Federal (STF) , encerrou uma ação contra o ex-presidente Jair Bolsonaro por bloquear jornalistas nas redes sociais durante seu mandato. Apesar de considerar que o processo perdeu o objeto, a mag…",
+   "link": "https://revistaoeste.com/politica/carmen-lucia-encerra-processo-contra-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/02/Bolsonaro-3.jpg",
+   "data": "2026-11-14T20:33:00-03:00"
+  },
+  {
+   "id": "a78cd047039e",
+   "titulo": "Helder pede a Lula auxílio de 2 salários mínimos para pescadores",
+   "resumo": "Senador eleito pelo Pará propõe pagamento em parcela única ou em duas vezes a trabalhadores afetados pela estiagem",
+   "link": "https://www.poder360.com.br/poder-economia/helder-pede-a-lula-auxilio-de-2-salarios-minimos-para-pescadores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-14T20:01:07-03:00"
+  },
+  {
+   "id": "8a2805a414e5",
+   "titulo": "Moraes dá cinco dias para GSI detalhar segurança de Bolsonaro",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , determinou que o Gabinete de Segurança Institucional (GSI) apresente, em cinco dias, informações atualizadas sobre a organização e a composição da equipe responsável pela s…",
+   "link": "https://revistaoeste.com/politica/moraes-da-cinco-dias-para-gsi-detalhar-seguranca-de-bolsonaro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Moraes_GS_Bolsonaro.jpeg",
+   "data": "2026-11-14T20:00:00-03:00"
+  },
+  {
+   "id": "23a87fa2a94c",
+   "titulo": "Starship tem pouso inédito após voo de mais de 22 horas, assista",
+   "resumo": "Pela 1ª vez, parte central do foguete foi recuperada e poderá ser reutilizada",
+   "link": "https://www.poder360.com.br/poder-tech/starship-tem-pouso-inedito-apos-voo-de-mais-de-22-horas-assista/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/bLvP4L9q-CA/hqdefault.jpg",
+   "data": "2026-11-14T19:56:33-03:00"
+  },
+  {
+   "id": "52a514c36a41",
+   "titulo": "Além de Lula, mais de 30 alvos da Lava Jato vencem eleições de 2026",
+   "resumo": "Lula e outros 34 alvos da Lava Jato venceram as eleições de 2026, segundo o Poder360. Outros nomes como Cunha e Dirceu ficaram de fora.",
+   "link": "https://www.gazetadopovo.com.br/republica/lula-mais-30-alvos-lava-jato-vencem-eleicoes-2026/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/14193908/lula-mais-30-alvos-lava-jato-vencem-eleicoes-2026-960x540.jpg",
+   "data": "2026-11-14T19:49:03-03:00"
   },
   {
    "id": "0f44faeb196d",
@@ -40,15 +175,6 @@
    "data": "2026-11-14T19:00:00-03:00"
   },
   {
-   "id": "45c1389d0f5b",
-   "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
-   "resumo": "Presidente suspende declaração à imprensa e fala em fórum empresarial; equipe distribui texto após encontro bilateral",
-   "link": "https://www.poder360.com.br/poder-governo/lula-cancela-discurso-nas-filipinas-por-rouquidao-na-voz/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T18:48:14-03:00"
-  },
-  {
    "id": "1b05408311be",
    "titulo": "PGR apoia pedido da AGU ao STF sobre R$ 324 milhões extras para penduricalhos",
    "resumo": "Paulo Gonet apoia pedido ao STF para viabilizar R$ 324 milhões extras para pagar penduricalho do MPU, instituição que ele próprio chefia.",
@@ -67,15 +193,6 @@
    "data": "2026-11-14T18:23:59-03:00"
   },
   {
-   "id": "042bdd5f7b99",
-   "titulo": "Democratas voltam ao poder no Alasca depois de 28 anos",
-   "resumo": "Jonathan S. Kreiss-Tomkins derrotou 3 candidatos republicanos na disputa pelo governo do Estado",
-   "link": "https://www.poder360.com.br/poder-internacional/democratas-voltam-ao-poder-no-alasca-depois-de-28-anos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T18:22:14-03:00"
-  },
-  {
    "id": "1256ca72dd17",
    "titulo": "Fux suspende julgamento virtual sobre o fim da escala 6×1 e leva caso ao plenário do STF",
    "resumo": "Luiz Fux interrompeu o julgamento virtual sobre o fim da escala 6x1. Caso será analisado presencialmente pelo plenário do STF.",
@@ -92,42 +209,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Gilmar-Mendes.jpg",
    "data": "2026-11-14T18:00:00-03:00"
-  },
-  {
-   "id": "3eeaf7541251",
-   "titulo": "Lula e outros 34 alvos da Lava Jato foram eleitos em 2026",
-   "resumo": "Outros 40 que tiveram seus nomes ligados à operação tentaram uma vaga, mas não tiveram sucesso; investigações e condenações foram anuladas ou arquivadas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-outros-34-alvos-da-lava-jato-foram-eleitos-em-2026/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/democracia-em-dados-lava-jato-14-nov-2026-01.png",
-   "data": "2026-11-14T17:55:44-03:00"
-  },
-  {
-   "id": "1ce3ba519340",
-   "titulo": "Itália multa Meta em 805 mi de euros por acesso indevido a dados",
-   "resumo": "Autoridade de privacidade diz que empresa coletou fotos e vídeos de 20 milhões de usuários Android sem consentimento",
-   "link": "https://www.poder360.com.br/poder-midia/italia-multa-meta-em-805-mi-de-euros-por-acesso-indevido-a-dados/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T17:43:42-03:00"
-  },
-  {
-   "id": "b072eaf8187c",
-   "titulo": "Fux leva julgamento de transição da 6 X 1 ao plenário físico do STF",
-   "resumo": "Três ministros já haviam acompanhado o voto do relator, Flávio Dino, no plenário virtual da Corte; julgamento será reiniciado após medida de Fux",
-   "link": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T17:38:30-03:00"
-  },
-  {
-   "id": "d2b74b6b5052",
-   "titulo": "Vitória no Brasil serve de lição contra “extrema direita”, diz Lula",
-   "resumo": "Presidente está nas Filipinas para participar da cúpula da Asean como convidado; a um jornal do país, disse que outras nações podem aprender com a mobilização da esquerda brasileira nas eleições",
-   "link": "https://www.poder360.com.br/poder-governo/vitoria-no-brasil-serve-de-licao-contra-extrema-direita-diz-lula/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T17:34:07-03:00"
   },
   {
    "id": "42a5077da3b2",
@@ -164,24 +245,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/cv-v4huwfb5SXNPLukdGoVgQePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/B/3r0SHeSs20HqYr8uoHdA/54875467915-3c8f40efd4-k.jpg",
    "data": "2026-11-14T16:55:35-03:00"
-  },
-  {
-   "id": "09f364de9c05",
-   "titulo": "Corinthians busca acordo com o MP para evitar intervenção judicial",
-   "resumo": "Advogado do clube se reúne com promotores em São Paulo; proposta de acordo ainda não foi formalizada",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/corinthians-busca-acordo-com-o-mp-para-evitar-intervencao-judicial/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T16:54:09-03:00"
-  },
-  {
-   "id": "2dbedf3a92f7",
-   "titulo": "Microsoft diz que serviços foram restabelecidos após pane",
-   "resumo": "Produtos da big tech ficaram fora do ar por mais de 30 horas; a hipótese de ataques cibernéticos foi rejeitada",
-   "link": "https://www.poder360.com.br/poder-tech/microsoft-diz-que-servicos-foram-restabelecidos-apos-pane/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-14T16:39:59-03:00"
   },
   {
    "id": "8d7497caf78f",
@@ -382,24 +445,6 @@
    "data": "2026-11-14T09:01:08-03:00"
   },
   {
-   "id": "efa9b5af0696",
-   "titulo": "Inquérito das Fake News: arquivamento encerra o procedimento, mas não seus efeitos jurídicos",
-   "resumo": "André Fini Terçarolli * O encerramento do chamado Inquérito das Fake News não representa concessão, favor ou mudança espontânea de orientação. Representa o reconhecimento — tardio e incompleto — de que nenhuma investigação pode funcionar in…",
-   "link": "https://revistaoeste.com/politica/inquerito-das-fake-news-arquivamento-encerra-o-procedimento-mas-nao-seus-efeitos-juridicos/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/54934846244_0cae9ef4b2_o-copiar.jpg",
-   "data": "2026-11-14T07:31:00-03:00"
-  },
-  {
-   "id": "cf3ac777b62f",
-   "titulo": "As CPIs nas gavetas de Motta e Alcolumbre",
-   "resumo": "A Câmara dos Deputados e o Senado acumulam pedidos de Comissões Parlamentares de Inquérito (CPIs) que não avançaram, apesar das cobranças de parlamentares. Sob as presidências de Hugo Motta (Republicanos-PB) e Davi Alcolumbre (União-AP), re…",
-   "link": "https://revistaoeste.com/politica/as-cpis-nas-gavetas-de-motta-e-alcolumbre/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Congresso-Nacional-entre-dossies-e-CPI-1.png",
-   "data": "2026-11-14T06:30:00-03:00"
-  },
-  {
    "id": "6678bdec9ff5",
    "titulo": "Israel x Palestina: secretário da BA promete resposta rápida a conflitos",
    "resumo": "Secretário da Bahia, Felipe Freitas, diz que haverá rigor contra violência após tensão entre turistas israelenses e ativistas pró-Palestina",
@@ -416,15 +461,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/14003718/toffoli-960x540.jpg",
    "data": "2026-11-14T00:41:33-03:00"
-  },
-  {
-   "id": "00bfd9be6290",
-   "titulo": "Polícia Civil desarticula rede que vendia identidades brasileiras para russos",
-   "resumo": "Polícia Civil do DF investiga esquema que fornecia identidades brasileiras a estrangeiros suspeitos. Saiba como a fraude em cartórios facilitava a espionagem.",
-   "link": "https://www.gazetadopovo.com.br/republica/policia-civil-desarticula-rede-que-vendia-identidades-brasileiras-para-russos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14003116/fraude-documentos-brasileiros-pcdf-1-e1794590147201-1-960x540.jpeg",
-   "data": "2026-11-14T00:31:06-03:00"
   },
   {
    "id": "e2ab324da7f0",
@@ -479,42 +515,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/m542QDvlK4Ivw42kp0WpS8L7wYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/3/FWSJbxTvqEBBjcxLwSwg/videoframe-2451928.png",
    "data": "2026-11-14T00:00:00-03:00"
-  },
-  {
-   "id": "e51afa440414",
-   "titulo": "Cármen Lúcia arquiva ação contra Bolsonaro por bloqueio de jornalista no X",
-   "resumo": "Cármen Lúcia encerra processo contra Bolsonaro por bloqueio no X, mas destaca que governantes não podem afastar críticos.",
-   "link": "https://www.gazetadopovo.com.br/republica/carmen-lucia-arquiva-acao-contra-bolsonaro-por-bloqueio-de-jornalista-no-x/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13232947/jair-bolsonaro-1-960x540.jpg",
-   "data": "2026-11-13T23:31:52-03:00"
-  },
-  {
-   "id": "c65b118442f5",
-   "titulo": "STF tem 4 votos para manter o fim da escala 6×1 em dezembro",
-   "resumo": "STF analisa decisão de Dino que flexibilizou manteve o fim da escala 6x1 em dezembro, mas flexibilizou o período de transição.",
-   "link": "https://www.gazetadopovo.com.br/economia/stf-tem-4-votos-para-manter-o-fim-da-escala-6x1-em-dezembro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13224503/dino-stf-escala-6x1-1-960x540.jpg",
-   "data": "2026-11-13T22:45:41-03:00"
-  },
-  {
-   "id": "b45a941d2393",
-   "titulo": "Polícia Federal investiga fraudes em contratos emergenciais no RS",
-   "resumo": "A Polícia Federal deflagrou, nesta sexta-feira, 13, a Operação Deságue para investigar fraudes em contratos emergenciais das prefeituras de Canoas e Cachoeirinha, no Rio Grande do Sul . Os acordos previam a locação e a operação de motobomba…",
-   "link": "https://revistaoeste.com/politica/policia-federal-investiga-fraudes-em-contratos-emergenciais-no-rs/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/PF-investiga-fraudes-em-contratos-emergenciais-no-RS.jpeg",
-   "data": "2026-11-13T21:20:27-03:00"
-  },
-  {
-   "id": "f9af5251a8fb",
-   "titulo": "Gilmar Mendes minimiza afastamento de delegados que citaram STF no caso Master",
-   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), classificou como “mudança de rotina” o afastamento de dois delegados da Polícia Federal (PF) responsáveis pela elaboração de um relatório com todas as menções a ministros da Corte…",
-   "link": "https://revistaoeste.com/politica/gilmar-mendes-minimiza-afastamento-de-delegados-que-citaram-stf-no-caso-master/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/oab_gilmar-mendes_stf.jpeg",
-   "data": "2026-11-13T20:23:50-03:00"
   },
   {
    "id": "1aa6ff4cfd7a",
