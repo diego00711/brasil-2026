@@ -1,16 +1,151 @@
 {
- "atualizado": "2026-11-15T19:44:30.753056-03:00",
- "total": 67,
+ "atualizado": "2026-11-15T23:41:13.694362-03:00",
+ "total": 66,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "bd53884d914e",
-   "titulo": "Papa defende preservação da Amazônia e direitos de povos indígenas",
-   "resumo": "No Peru, pontífice chega ao fim de sua viagem pela América Latina, começada no Uruguai",
-   "link": "https://www.poder360.com.br/brasil/papa-defende-preservacao-da-amazonia-e-direitos-de-povos-indigenas/",
+   "id": "e33c51771a09",
+   "titulo": "China faz 1º voo tripulado de avião comercial elétrico",
+   "resumo": "Modelo foi projetado para voos interurbanos e tem capacidade para até 19 passageiros",
+   "link": "https://www.poder360.com.br/poder-internacional/china-faz-1o-voo-tripulado-de-aviao-comercial-eletrico/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-15T19:42:54-03:00"
+   "data": "2026-11-15T23:33:52-03:00"
+  },
+  {
+   "id": "23743ee773e8",
+   "titulo": "Falha em foguete de empresa da Boeing destrói 40 satélites da Amazon",
+   "resumo": "Vulcan apresentou problema 10 minutos depois de decolar da Flórida e não conseguiu levar a carga à órbita",
+   "link": "https://www.poder360.com.br/poder-tech/falha-em-foguete-de-empresa-da-boeing-destroi-40-satelites-da-amazon/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-15-11-2026-as-22.33.png",
+   "data": "2026-11-15T23:22:52-03:00"
+  },
+  {
+   "id": "a71968f6fcd5",
+   "titulo": "Michelle tira 10 dias de descanso e diz que filha cuida de Bolsonaro",
+   "resumo": "Ex-primeira-dama criticou especulações sobre vida pessoal e afirmou que teve apoio do marido para fazer a pausa",
+   "link": "https://www.poder360.com.br/poder-gente/michelle-tira-10-dias-de-descanso-e-diz-que-filha-cuida-de-bolsonaro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Michelle-Bolsonaro-Ferias-stories-15.nov_.2026.png",
+   "data": "2026-11-15T23:14:58-03:00"
+  },
+  {
+   "id": "c404a515842b",
+   "titulo": "Gilmarpalooza na Argentina reunirá ministros do STF, STJ, parlamentares e empresários",
+   "resumo": "GilmarPalooza reunirá ministros do STF e STJ, Hugo Motta e empresários em Buenos Aires. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/gilmarpalooza-argentina-reunira-ministros-stf-stj-parlamentares-empresarios/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/11110223/gilmar-mendes-19-nov-25-1280x720-1-960x540.jpg",
+   "data": "2026-11-15T22:29:29-03:00"
+  },
+  {
+   "id": "41f19a7a5a77",
+   "titulo": "Michelle rebate críticas e diz que viagem a Israel tem aval de Bolsonaro",
+   "resumo": "Senadora eleita, Michelle Bolsonaro diz que dez dias de descanso em Israel têm o incentivo do marido: “Eleições acabaram e a vida continua”.",
+   "link": "https://www.gazetadopovo.com.br/republica/michelle-rebate-criticas-e-diz-que-viagem-a-israel-tem-aval-de-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/15221240/8023522271001-960x540.jpg",
+   "data": "2026-11-15T22:15:13-03:00"
+  },
+  {
+   "id": "66a688965172",
+   "titulo": "Cidadania convoca congresso para votar incorporação ao PP",
+   "resumo": "O Diretório Nacional do Cidadania convocou, neste sábado, 14, um congresso extraordinário para decidir sobre a incorporação do partido ao Progressistas (PP). A reunião ocorrerá por videoconferência em 21 de novembro, às 14h. A chamada receb…",
+   "link": "https://revistaoeste.com/politica/cidadania-convoca-congresso-para-votar-incorporacao-ao-pp/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/image-18.png",
+   "data": "2026-11-15T22:08:00-03:00"
+  },
+  {
+   "id": "3f72a1a9ca07",
+   "titulo": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
+   "resumo": "Ex-presidente renunciou ao cargo depois que escândalo extraconjugal com suposta espiã chinesa veio a público",
+   "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-15T22:03:25-03:00"
+  },
+  {
+   "id": "4bfd63a94c28",
+   "titulo": "Ataque cibernético expõe dados de 22 milhões de pessoas na França",
+   "resumo": "Invasão à Maileva, subsidiária do grupo La Poste, equivalente aos Correios no Brasil, atinge 1/3 da população do país",
+   "link": "https://www.poder360.com.br/poder-tech/ataque-cibernetico-expoe-dados-de-22-milhoes-de-pessoas-na-franca/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-15T21:51:31-03:00"
+  },
+  {
+   "id": "39dd429c5ac8",
+   "titulo": "Cleitinho cobra ex-prefeito por uso de emenda em show",
+   "resumo": "Senador diz que destinou R$ 500 mil para obras em Mirabela (MG), mas verba custeou apresentação de Claudia Leitte",
+   "link": "https://www.poder360.com.br/poder-videos/cleitinho-cobra-ex-prefeito-por-uso-de-emenda-em-show/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/1_UB_EFsQT8/hqdefault.jpg",
+   "data": "2026-11-15T21:49:51-03:00"
+  },
+  {
+   "id": "aba42851e4a7",
+   "titulo": "José Maria é reeleito presidente de Cabo Verde no 1º turno",
+   "resumo": "Com voto facultativo, país registra abstenção de cerca de 67,9%",
+   "link": "https://www.poder360.com.br/poder-internacional/jose-maria-e-reeleito-presidente-de-cabo-verde-no-1o-turno/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-15T21:43:48-03:00"
+  },
+  {
+   "id": "369c4434f257",
+   "titulo": "Alcolumbre tem seis cartas na manga para provocar traições na direita",
+   "resumo": "Saiba quais são as cartas na manga de Davi Alcolumbre capazes de provocar traições na oposição. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-tem-seis-cartas-na-manga-para-provocar-traicoes-na-direita/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13140630/Davi-Alcolumbre-Agencia-Senado-960x540.jpg",
+   "data": "2026-11-15T21:34:45-03:00"
+  },
+  {
+   "id": "68b28f2e31ed",
+   "titulo": "PGR insiste em crédito extra de R$ 324 milhões para pagar penduricalhos",
+   "resumo": "A Procuradoria-Geral da República (PGR) voltou a defender a liberação de R$ 324 milhões em recursos extras para pagar benefícios adicionais a integrantes do Ministério Público Federal (MPF) . Em manifestação encaminhada ao Supremo Tribunal …",
+   "link": "https://revistaoeste.com/politica/pgr-insiste-em-credito-extra-de-r-324-milhoes-para-pagar-penduricalhos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Paulo_Gonet_PGR.jpeg",
+   "data": "2026-11-15T21:33:00-03:00"
+  },
+  {
+   "id": "1c29365ca267",
+   "titulo": "Pará tem 61 cidades em situação de emergência por incêndios florestais",
+   "resumo": "Monitoramento do Inpe registra 791 focos de queimadas no Estado em 2 dias",
+   "link": "https://www.poder360.com.br/poder-sustentavel/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios-florestais/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-15T21:25:29-03:00"
+  },
+  {
+   "id": "744bf4aedba5",
+   "titulo": "Surto de ebola no Congo pode ser o pior da história, diz órgão africano",
+   "resumo": "África CDC aponta falhas na assistência e ataques a profissionais de saúde; epidemia já matou mais de 5.400 pessoas",
+   "link": "https://www.poder360.com.br/poder-internacional/surto-de-ebola-no-congo-pode-ser-o-pior-da-historia-diz-orgao-africano/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-15T20:12:25-03:00"
+  },
+  {
+   "id": "fdcf35d0deff",
+   "titulo": "Receita do turismo receptivo da China pode chegar a US$ 470 bi até 2040",
+   "resumo": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
+   "link": "https://www.poder360.com.br/poder-china/receita-do-turismo-receptivo-da-china-pode-chegar-a-us-470-bi-ate-2040/",
+   "fonte": "Poder360",
+   "imagem": "https://www.poder360.com.br/wp-content/themes/poder/assets/img/drive-premium/gif-form-Drive.gif",
+   "data": "2026-11-15T20:04:04-03:00"
+  },
+  {
+   "id": "deb84ae8fc8d",
+   "titulo": "Freixo sai em defesa do ajuste fiscal de Lula",
+   "resumo": "O deputado federal Marcelo Freixo (PT-RJ) defendeu o pacote de ajuste fiscal do governo Lula e rebateu as críticas de setores da esquerda à proposta. Em vídeo publicado nas redes sociais, o parlamentar negou que o projeto represente uma mud…",
+   "link": "https://oantagonista.com.br/brasil/freixo-sai-em-defesa-do-ajuste-fiscal-de-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2024/03/mg_0912-scaled-e1711466679450.jpeg",
+   "data": "2026-11-15T20:02:33-03:00"
   },
   {
    "id": "8101487707eb",
@@ -20,33 +155,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Captura-de-Tela-2026-06-27-as-10.12.05-e1782566181282.png",
    "data": "2026-11-15T19:35:15-03:00"
-  },
-  {
-   "id": "31f958edac9d",
-   "titulo": "Transtornos em voos nos EUA devem seguir até 2ª feira, diz governo",
-   "resumo": "Secretário de Transportes diz que normalização da operação exige tempo; Cirium estima que 1,5 milhão de passageiros foram afetados",
-   "link": "https://www.poder360.com.br/poder-internacional/transtornos-em-voos-nos-eua-devem-seguir-ate-2a-feira-diz-governo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Trump-culpa-Biden-por-pane-trafego-aereo-1.-15.nov_.2026-956x1024.png",
-   "data": "2026-11-15T19:17:09-03:00"
-  },
-  {
-   "id": "d3f879651cf5",
-   "titulo": "Prejuízo dos Correios soma R$ 7,5 bilhões até o 3º trimestre",
-   "resumo": "Deficit acumulado de janeiro a setembro de 2026 supera o registrado no mesmo período de 2025, quando foi de R$ 5,9 bilhões",
-   "link": "https://www.poder360.com.br/poder-economia/prejuizo-dos-correios-soma-r-75-bilhoes-ate-o-3o-trimestre/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/correios-prejuizo-30-ago-2026-2-scaled.png",
-   "data": "2026-11-15T19:05:45-03:00"
-  },
-  {
-   "id": "b3c909fd970e",
-   "titulo": "Agência dos EUA rejeita medicamento chinês contra câncer",
-   "resumo": "FDA concluiu que estudo não comprovou aumento significativo da sobrevida dos pacientes; remédio já é usado na China",
-   "link": "https://www.poder360.com.br/poder-saude/agencia-dos-eua-rejeita-medicamento-chines-contra-cancer/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T19:01:48-03:00"
   },
   {
    "id": "7832134f0eb3",
@@ -67,24 +175,6 @@
    "data": "2026-11-15T18:54:03-03:00"
   },
   {
-   "id": "010c329dfec0",
-   "titulo": "Justiça condena União a investir R$ 597 milhões em Canudos",
-   "resumo": "Decisão responsabiliza Estado pela destruição do arraial de Belo Monte e pela inundação de sítio arqueológico",
-   "link": "https://www.poder360.com.br/poder-justica/justica-condena-uniao-a-investir-r-597-milhoes-em-canudos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T18:52:02-03:00"
-  },
-  {
-   "id": "fe5e1b52efb5",
-   "titulo": "EUA e países aliados fazem acordo para proteger cadeia de IA da China",
-   "resumo": "Pacto reúne Japão, Austrália, Israel e Reino Unido e busca reduzir dependência de tecnologias e insumos estratégicos chineses",
-   "link": "https://www.poder360.com.br/poder-internacional/eua-e-paises-aliados-fazem-acordo-para-proteger-cadeia-de-ia-da-china/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T18:33:11-03:00"
-  },
-  {
    "id": "a03a82528aef",
    "titulo": "PL do Rio Grande do Sul rejeita reeleição de Hugo Motta",
    "resumo": "A bancada do PL do Rio Grande do Sul também anunciou que não apoiará a reeleição de Hugo Motta (Republicanos-PB) à presidência da Câmara. Em nota assinada pelos oito deputados eleitos pelo partido no estado, o grupo afirmou que não integrar…",
@@ -94,24 +184,6 @@
    "data": "2026-11-15T18:32:25-03:00"
   },
   {
-   "id": "8d3b8915422e",
-   "titulo": "Dormir bem pode reduzir o risco de desenvolver 90 doenças, diz estudo",
-   "resumo": "Pesquisa com 95.000 pessoas associa fases REM e profunda mais longas a menor chance de doenças",
-   "link": "https://www.poder360.com.br/poder-saude/dormir-bem-pode-reduzir-o-risco-de-desenvolver-90-doencas-diz-estudo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T18:30:07-03:00"
-  },
-  {
-   "id": "60d4e0cf619e",
-   "titulo": "EUA receberam alertas sobre riscos em sistema que suspendeu voos",
-   "resumo": "Relatórios indicaram perigo de sobrecarga durante a modernização de uma rede antiga; pane na 6ª feira (13.nov) afetou mais de 10.000 voos",
-   "link": "https://www.poder360.com.br/poder-internacional/eua-receberam-alertas-sobre-riscos-em-sistema-que-suspendeu-voos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T18:19:12-03:00"
-  },
-  {
    "id": "93104e2f3dcd",
    "titulo": "O partido sem esqueleto",
    "resumo": "Os zoólogos chamam de invertebrados os animais que, desprovidos de coluna, acomodam o corpo à forma de qualquer recipiente. A ciência política brasileira ainda não incorporou o conceito, mas o PL de Valdemar Costa Neto oferece material de s…",
@@ -119,24 +191,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/10/Viagens-Motta.jpeg",
    "data": "2026-11-15T18:00:00-03:00"
-  },
-  {
-   "id": "cee5293f4b42",
-   "titulo": "Cármen arquiva ação sobre bloqueios de Bolsonaro a jornalistas no X",
-   "resumo": "Ministra diz que medida violou liberdade de imprensa, mas considera que saída do ex-presidente do cargo fez ação perder o objeto",
-   "link": "https://www.poder360.com.br/poder-justica/carmen-arquiva-acao-sobre-bloqueios-de-bolsonaro-a-jornalistas-no-x/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T17:42:49-03:00"
-  },
-  {
-   "id": "ba2bec1cc3ca",
-   "titulo": "Um em cada 4 adolescentes não faz atividades físicas diárias, diz OMS",
-   "resumo": "Estudo divulgado pela organização mostra que cerca de 240 milhões de jovens de 11 a 17 anos não têm histórico de exercícios nos últimos 15 anos",
-   "link": "https://www.poder360.com.br/poder-saude/um-em-cada-4-adolescentes-nao-faz-atividades-fisicas-diarias-diz-oms/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T17:42:16-03:00"
   },
   {
    "id": "1079b66e36b9",
@@ -301,15 +355,6 @@
    "data": "2026-11-15T08:42:18-03:00"
   },
   {
-   "id": "8618a6ad4246",
-   "titulo": "Roberto Reis na Crusoé: O cavalo passou, Tarcísio",
-   "resumo": "É ilusório ou, no mínimo, ingênuo imaginar que a família Bolsonaro irá ceder de bom grado espaço para Tarcísio em 2030. Vamos parar com a conversa fiada sobre isso. Tarcísio saiu de 2026 reeleito governador com ampla margem. Flávio Bolsonar…",
-   "link": "https://oantagonista.com.br/brasil/roberto-reis-na-crusoe-o-cavalo-passou-tarcisio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/cavalo-tarcisio.jpg",
-   "data": "2026-11-15T08:29:00-03:00"
-  },
-  {
    "id": "06cb7b94b734",
    "titulo": "Vorcaro faz faxina, cuida de jardim e estuda durante prisão na Papudinha",
    "resumo": "O ex-banqueiro Daniel Vorcaro , investigado por suspeitas de fraudes financeiras bilionárias no Banco Master , mantém uma rotina de estudos, limpeza e jardinagem no 19º Batalhão da Polícia Militar do Distrito Federal (PMDF), conhecido como …",
@@ -326,15 +371,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Fux_6x1.jpeg",
    "data": "2026-11-15T07:35:00-03:00"
-  },
-  {
-   "id": "cc3f77392bb4",
-   "titulo": "Moraes manda prender jovem de 24 anos pelo 8 de janeiro",
-   "resumo": "O ministro Alexandre de Moraes , do Supremo Tribunal Federal (STF), determinou, nesta sexta-feira, 13, o início do cumprimento da pena de 14 anos de prisão de Gabriell Harthuro Santos de Holanda, de 24 anos, condenado por participação nos a…",
-   "link": "https://revistaoeste.com/politica/moraes-manda-prender-jovem-de-24-anos-pelos-atos-de-8-de-janeiro/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/jovem-8-janeiro.jpeg",
-   "data": "2026-11-15T07:00:00-03:00"
   },
   {
    "id": "d5cf3a2a3ed4",
@@ -409,15 +445,6 @@
    "data": "2026-11-15T00:00:00-03:00"
   },
   {
-   "id": "d822a58e8a2f",
-   "titulo": "Sanderson critica ajuste fiscal de Lula e aponta risco de perda ao RS",
-   "resumo": "O deputado federal e senador eleito Ubiratan Sanderson (PL-RS) criticou o projeto de ajuste fiscal do governo Lula, cujo texto-base recebeu aprovação do Senado na quinta-feira 12. O parlamentar afirma que as medidas podem provocar impacto n…",
-   "link": "https://revistaoeste.com/politica/sanderson-critica-ajuste-fiscal-de-lula-e-aponta-risco-de-perda-ao-rs/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/04/ubiratan-sanderson-camara-15-dez-2022-848x477-1-2.jpeg",
-   "data": "2026-11-14T23:34:00-03:00"
-  },
-  {
    "id": "1dbd8180034c",
    "titulo": "Críticas ao Ministério da Cultura dividem artistas e provocam acusações de racismo",
    "resumo": "Manifestos contra a gestão de Margareth Menezes no Ministério da Cultura dividem artistas e provocam acusações de racismo.",
@@ -463,15 +490,6 @@
    "data": "2026-11-14T18:03:14-03:00"
   },
   {
-   "id": "a6ad6a23aa12",
-   "titulo": "Comparecimento de eleitores com voto facultativo aumenta no segundo turno",
-   "resumo": "Comparecimento de eleitores com voto facultativo chegou a 62,7% no segundo turno, maior índice desde 2014. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/comparecimento-eleitores-voto-facultativo-aumenta-segundo-turno/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/09175610/jovem-idoso-eleicao-960x540.jpg",
-   "data": "2026-11-14T16:57:18-03:00"
-  },
-  {
    "id": "dfe5285bc8e3",
    "titulo": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
    "resumo": "",
@@ -481,15 +499,6 @@
    "data": "2026-11-14T16:55:35-03:00"
   },
   {
-   "id": "9df93b028180",
-   "titulo": "Claro assume serviço de telefonia do Senado em contrato de R$ 4,96 milhões",
-   "resumo": "A Claro venceu o pregão do Senado com proposta de R$ 4,96 milhões. Saiba detalhes do contrato que prevê 95 iPhones e 330 aparelhos Android em comodato.",
-   "link": "https://www.gazetadopovo.com.br/republica/claro-assume-servico-de-telefonia-do-senado-em-contrato-de-rdollar-496-milhoes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14145817/alcolumbre-licitacao-iphone-claro-senado-1-960x540.jpg",
-   "data": "2026-11-14T14:58:11-03:00"
-  },
-  {
    "id": "4e6e1b1909ba",
    "titulo": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão",
    "resumo": "Nas Filipinas, Lula vai participar como convidado da Cúpula da Asean (Associação dos Países do Sudeste Asiático) O presidente Luiz Inácio Lula da Silva (PT) cancelou dois compromissos oficiais neste sábado (14) em Manila, nas Filipinas, por…",
@@ -497,15 +506,6 @@
    "fonte": "G1 Política",
    "imagem": "",
    "data": "2026-11-14T14:54:37-03:00"
-  },
-  {
-   "id": "66c9c2811cc2",
-   "titulo": "Nas Filipinas, Lula critica “insensatez das guerras” e defende multilateralismo",
-   "resumo": "Visita de Lula é a primeira de um presidente brasileiro às Filipinas, país com quem Brasil celebra 80 anos de relações diplomáticas",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-visita-filipinas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14125831/lula-ferdinand-marcos-jr-visita-filipinas-1-960x540.jpg",
-   "data": "2026-11-14T12:59:34-03:00"
   },
   {
    "id": "bfa2bc434e90",
@@ -596,15 +596,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/10/douglas-ruas.jpeg",
    "data": "2026-11-13T00:09:31-03:00"
-  },
-  {
-   "id": "711ae7d53a14",
-   "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-12T21:54:00-03:00"
   }
  ]
 }
