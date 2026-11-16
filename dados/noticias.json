@@ -1,34 +1,196 @@
 {
- "atualizado": "2026-11-15T23:41:13.694362-03:00",
- "total": 66,
+ "atualizado": "2026-11-16T08:00:20.448729-03:00",
+ "total": 65,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "e33c51771a09",
-   "titulo": "China faz 1º voo tripulado de avião comercial elétrico",
-   "resumo": "Modelo foi projetado para voos interurbanos e tem capacidade para até 19 passageiros",
-   "link": "https://www.poder360.com.br/poder-internacional/china-faz-1o-voo-tripulado-de-aviao-comercial-eletrico/",
+   "id": "694ab49903ec",
+   "titulo": "Após críticas, Dino justifica flexibilização das regras para o fim da escala 6×1",
+   "resumo": "Escala 6x1: Dino defende negociação coletiva para flexibilizar folgas, enquanto Câmara e Senado questionam mudanças nas regras aprovadas.",
+   "link": "https://www.gazetadopovo.com.br/republica/apos-criticas-dino-justifica-flexibilizacao-das-regras-para-o-fim-da-escala-6x1/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06072919/ASPA-GRANDE-2026-11-06T072927.331-960x540.jpg",
+   "data": "2026-11-16T07:55:40-03:00"
+  },
+  {
+   "id": "fa5bc45506a9",
+   "titulo": "Governo abre crédito de R$ 33,7 mi a estatais de energia e transporte",
+   "resumo": "Portaria publicada nesta 2ª feira (16.nov) no “Diário Oficial da União” reforça orçamento de 4 empresas federais",
+   "link": "https://www.poder360.com.br/poder-governo/governo-abre-credito-de-r-337-mi-a-estatais-de-energia-e-transporte/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-15T23:33:52-03:00"
+   "data": "2026-11-16T07:50:02-03:00"
   },
   {
-   "id": "23743ee773e8",
-   "titulo": "Falha em foguete de empresa da Boeing destrói 40 satélites da Amazon",
-   "resumo": "Vulcan apresentou problema 10 minutos depois de decolar da Flórida e não conseguiu levar a carga à órbita",
-   "link": "https://www.poder360.com.br/poder-tech/falha-em-foguete-de-empresa-da-boeing-destroi-40-satelites-da-amazon/",
+   "id": "a4725b6d1053",
+   "titulo": "Lula chega a Madri para se reunir com Pedro Sánchez",
+   "resumo": "Presidente desembarca na Espanha para encontrar primeiro-ministro, que está em campanha eleitoral e tem celebrado vitória do petista",
+   "link": "https://www.poder360.com.br/poder-governo/lula-chega-a-madri-para-se-reunir-com-pedro-sanchez/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-15-11-2026-as-22.33.png",
-   "data": "2026-11-15T23:22:52-03:00"
+   "imagem": "",
+   "data": "2026-11-16T07:35:23-03:00"
   },
   {
-   "id": "a71968f6fcd5",
-   "titulo": "Michelle tira 10 dias de descanso e diz que filha cuida de Bolsonaro",
-   "resumo": "Ex-primeira-dama criticou especulações sobre vida pessoal e afirmou que teve apoio do marido para fazer a pausa",
-   "link": "https://www.poder360.com.br/poder-gente/michelle-tira-10-dias-de-descanso-e-diz-que-filha-cuida-de-bolsonaro/",
+   "id": "903269df841e",
+   "titulo": "‘Gilmarpalooza’ deve reunir ministros do STF e do STJ em Buenos Aires",
+   "resumo": "Ministros do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) , parlamentares e empresários vão participar, de quarta-feira 18 a sexta-feira 20, do II Fórum de Buenos Aires, na Argentina. A FGV Justiça, o Instituto Bra…",
+   "link": "https://revistaoeste.com/politica/gilmarpalooza-vai-reunir-ministros-do-stf-e-do-stj-em-buenos-aires/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/gilmar_mendes_eleicoes.jpeg",
+   "data": "2026-11-16T07:33:29-03:00"
+  },
+  {
+   "id": "b58ebe130867",
+   "titulo": "Alckmin defende ajuste fiscal e diz que programas sociais serão mantidos",
+   "resumo": "O presidente em exercício, Geraldo Alckmin (PSB) , defendeu o pacote de ajuste fiscal do governo Lula (PT) . No domingo 15, ele afirmou que as medidas preservam os programas sociais e os benefícios destinados à população de baixa renda. Acr…",
+   "link": "https://revistaoeste.com/politica/alckmin-defende-ajuste-fiscal-e-diz-que-programas-sociais-serao-mantidos/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Alckmin_Ajuste-fiscal.jpeg",
+   "data": "2026-11-16T07:33:00-03:00"
+  },
+  {
+   "id": "7acf22d804c5",
+   "titulo": "Câmara vota nesta semana projeto que cria nova regulação sobre big techs",
+   "resumo": "A Câmara dos Deputados deve analisar nesta terça-feira, 17, o Projeto de Lei (PL) n° 4.675/2025, que cria regras de concorrência para as big techs e amplia os poderes do Conselho Administrativo de Defesa Econômica (Cade) sobre o setor. O te…",
+   "link": "https://revistaoeste.com/politica/camara-vota-nesta-semana-projeto-que-cria-nova-regulacao-sobre-big-techs/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/09/Big-tech.jpg",
+   "data": "2026-11-16T07:29:47-03:00"
+  },
+  {
+   "id": "5a7ab5935c1b",
+   "titulo": "Ministro de Lula rebate críticas ao ajuste fiscal e dispara contra “esquerda sectária”",
+   "resumo": "O ministro Bruno Moretti reagiu a críticas de aliados do PT ao ajuste fiscal de Lula e questionou a resistência da esquerda ao projeto.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-rebate-criticas-ao-ajuste-fiscal-e-dispara-contra-esquerda-sectaria/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/25213151/pzzb9761-960x540.jpg",
+   "data": "2026-11-16T07:22:56-03:00"
+  },
+  {
+   "id": "e3807244e55a",
+   "titulo": "Lula encontra Sánchez em Madri e encerra 1° giro externo depois da reeleição",
+   "resumo": "Luiz Inácio Lula da Silva ( PT ) se reúne nesta segunda-feira, 16, com o primeiro-ministro da Espanha , Pedro Sánchez, no Palácio da Moncloa, em Madri. O encontro fecha a primeira viagem internacional do petista desde a reeleição para o qua…",
+   "link": "https://revistaoeste.com/politica/em-madri-lula-encontra-sanchez-e-encerra-giro-externo/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/tenho-saudades-de-quando-disputava-eleicoes-com-o-psdb-diz-lula.jpeg",
+   "data": "2026-11-16T07:17:16-03:00"
+  },
+  {
+   "id": "9b10cc62458d",
+   "titulo": "Mauro Cid pede autorização para cumprir pena no RJ",
+   "resumo": "A defesa de Mauro Cid, ex-ajudante de ordens de Jair Bolsonaro PL, pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) , autorização para que o militar deixe Brasília e passe a cumprir o restante da pena no Rio de Janei…",
+   "link": "https://revistaoeste.com/politica/mauro-cid-pede-autorizacao-para-cumprir-pena-no-rio-de-janeiro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/mauro.jpg",
+   "data": "2026-11-16T07:07:04-03:00"
+  },
+  {
+   "id": "ddda1aaac22f",
+   "titulo": "Neymar ganha R$ 138 mil em torneio de pôquer em São Paulo",
+   "resumo": "Inscrição custava R$ 50.000; atacante do Santos terminou em 10º lugar",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/neymar-ganha-r-138-mil-em-torneio-de-poquer-em-sao-paulo/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Michelle-Bolsonaro-Ferias-stories-15.nov_.2026.png",
-   "data": "2026-11-15T23:14:58-03:00"
+   "imagem": "",
+   "data": "2026-11-16T07:02:41-03:00"
+  },
+  {
+   "id": "307a88e3befe",
+   "titulo": "Procurador federal alerta senadora democrata sobre fiscalização de Trump",
+   "resumo": "Carta a Elizabeth Warren integra reação republicana à agenda de investigações planejada por democratas após vitória eleitoral",
+   "link": "https://www.poder360.com.br/poder-internacional/procurador-federal-alerta-senadora-democrata-sobre-fiscalizacao-de-trump/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/post-aaron-reitz-elizabeth-warren-15nov2026.png",
+   "data": "2026-11-16T06:41:54-03:00"
+  },
+  {
+   "id": "393a563210af",
+   "titulo": "Produção industrial e vendas no varejo da China frustram expectativas",
+   "resumo": "Indústria cresceu 4,8% em outubro, abaixo dos 5,3% esperados; varejo avançou 0,4%, metade da estimativa do mercado",
+   "link": "https://www.poder360.com.br/poder-china/producao-industrial-e-vendas-no-varejo-da-china-frustram-expectativas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T06:38:12-03:00"
+  },
+  {
+   "id": "cd2209fc9e2e",
+   "titulo": "Governo Lula: leia a agenda de ministros do governo nesta 2ª feira",
+   "resumo": "Ministro da Fazenda, Dario Durigan, tem reunião com a presidência do Banco do Brasil; comitiva que acompanhou Lula ao exterior retorna ao Brasil",
+   "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-2a-feira-11/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T06:15:31-03:00"
+  },
+  {
+   "id": "2e2c59605cfc",
+   "titulo": "Agenda de Lula: leia os compromissos do presidente nesta 2ª feira",
+   "resumo": "Chefe do Executivo encontra-se com Pedro Sánchez na Espanha antes de voltar ao Brasil",
+   "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-nesta-2a-feira-9/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T06:15:25-03:00"
+  },
+  {
+   "id": "8f5d0f6c1422",
+   "titulo": "Comunicação preditiva orienta os negócios, diz sócio da FSB",
+   "resumo": "Alexandre Loures defende que a área ocupe um lugar nos conselhos para proteger e aumentar o valor de mercado das empresas",
+   "link": "https://www.poder360.com.br/conteudo-de-marca/comunicacao-preditiva-orienta-os-negocios-diz-socio-da-fsb/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T06:00:34-03:00"
+  },
+  {
+   "id": "fb92df71ce91",
+   "titulo": "Entenda em infográficos como queda da abstenção ajudou Lula a vencer",
+   "resumo": "Comparecimento cresceu em todas as faixas etárias no 2º turno; alta foi especialmente expressiva entre os idosos, que não são obrigados a votar",
+   "link": "https://www.poder360.com.br/poder-eleicoes-2026/entenda-em-infograficos-como-queda-da-abstencao-ajudou-lula-a-vencer/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/eleitores-que-nao-precisa-votar-foi-mais-as-urnas-15-nov-2026-01.png",
+   "data": "2026-11-16T06:00:32-03:00"
+  },
+  {
+   "id": "d894f61c2ed6",
+   "titulo": "Saiba quais indicadores e balanços saem nesta semana",
+   "resumo": "IBC-Br, reunião do CMN, ata do Fomc, atividade na China e balanços de grandes empresas movimentam a semana",
+   "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-14/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/indicadores-semana-15-20-novembro.png",
+   "data": "2026-11-16T06:00:25-03:00"
+  },
+  {
+   "id": "765985f2d003",
+   "titulo": "Aliados de Tereza ligam alerta com evento do agro em apoio a Marinho",
+   "resumo": "Aliados de Tereza Cristina procuraram lideranças do agronegócio após grupo marcar encontro de apoio à candidatura de Rogério Marinho",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-tereza-ligam-alerta-com-evento-do-agro-em-apoio-a-marinho",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/07/senadora-tereza-cristina-pp-ms-metropoles-1-scaled.jpg",
+   "data": "2026-11-16T02:00:51-03:00"
+  },
+  {
+   "id": "c854315082a2",
+   "titulo": "Alcolumbre articula rede de acordos para enfraquecer oposição no Senado",
+   "resumo": "Conheça as estratégias de Davi Alcolumbre para atrair a oposição e vencer a eleição da Presidência do Senado em 2027 com cargos e influência no governo.",
+   "link": "https://www.gazetadopovo.com.br/republica/alcolumbre-articula-rede-de-acordos-para-enfraquecer-oposicao-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16013555/Davi-Alcolumbre-Agencia-Senado-2-960x540.jpg",
+   "data": "2026-11-16T01:35:48-03:00"
+  },
+  {
+   "id": "0bd7d756e277",
+   "titulo": "Anac registra 211 casos de indisciplina após regra que pune má conduta de passageiros",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/16/anac-registra-211-casos-de-indisciplina-apos-regra-que-pune-ma-conduta-de-passageiros.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/CR6zucCUj5oixekz9fiKn_tQMEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/v/2bWYtmRxiAoppejvWBZA/age20211214029.jpg",
+   "data": "2026-11-16T00:00:00-03:00"
+  },
+  {
+   "id": "bf0275d101ca",
+   "titulo": "Lula se reúne nesta segunda com Sánchez na Espanha e encerra primeiro giro pelo exterior após reeleição",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/16/lula-se-reune-nesta-segunda-com-sanchez-na-espanha-e-encerra-primeiro-giro-pelo-exterior-apos-reeleicao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/L3P6uNnsHMgZWelSvzdEpCH4ZRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/a/Egya9SQ1m6g9k01b2YPw/whatsapp-image-2026-11-16-at-07.50.00.jpeg",
+   "data": "2026-11-16T00:00:00-03:00"
   },
   {
    "id": "c404a515842b",
@@ -58,42 +220,6 @@
    "data": "2026-11-15T22:08:00-03:00"
   },
   {
-   "id": "3f72a1a9ca07",
-   "titulo": "Jensen Huang discute volta ao comando da Nvidia com aliados, diz “FT”",
-   "resumo": "Ex-presidente renunciou ao cargo depois que escândalo extraconjugal com suposta espiã chinesa veio a público",
-   "link": "https://www.poder360.com.br/poder-tech/jensen-huang-discute-volta-ao-comando-da-nvidia-com-aliados-diz-ft/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T22:03:25-03:00"
-  },
-  {
-   "id": "4bfd63a94c28",
-   "titulo": "Ataque cibernético expõe dados de 22 milhões de pessoas na França",
-   "resumo": "Invasão à Maileva, subsidiária do grupo La Poste, equivalente aos Correios no Brasil, atinge 1/3 da população do país",
-   "link": "https://www.poder360.com.br/poder-tech/ataque-cibernetico-expoe-dados-de-22-milhoes-de-pessoas-na-franca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T21:51:31-03:00"
-  },
-  {
-   "id": "39dd429c5ac8",
-   "titulo": "Cleitinho cobra ex-prefeito por uso de emenda em show",
-   "resumo": "Senador diz que destinou R$ 500 mil para obras em Mirabela (MG), mas verba custeou apresentação de Claudia Leitte",
-   "link": "https://www.poder360.com.br/poder-videos/cleitinho-cobra-ex-prefeito-por-uso-de-emenda-em-show/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/1_UB_EFsQT8/hqdefault.jpg",
-   "data": "2026-11-15T21:49:51-03:00"
-  },
-  {
-   "id": "aba42851e4a7",
-   "titulo": "José Maria é reeleito presidente de Cabo Verde no 1º turno",
-   "resumo": "Com voto facultativo, país registra abstenção de cerca de 67,9%",
-   "link": "https://www.poder360.com.br/poder-internacional/jose-maria-e-reeleito-presidente-de-cabo-verde-no-1o-turno/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T21:43:48-03:00"
-  },
-  {
    "id": "369c4434f257",
    "titulo": "Alcolumbre tem seis cartas na manga para provocar traições na direita",
    "resumo": "Saiba quais são as cartas na manga de Davi Alcolumbre capazes de provocar traições na oposição. Leia na Gazeta do Povo.",
@@ -110,33 +236,6 @@
    "fonte": "Revista Oeste",
    "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Paulo_Gonet_PGR.jpeg",
    "data": "2026-11-15T21:33:00-03:00"
-  },
-  {
-   "id": "1c29365ca267",
-   "titulo": "Pará tem 61 cidades em situação de emergência por incêndios florestais",
-   "resumo": "Monitoramento do Inpe registra 791 focos de queimadas no Estado em 2 dias",
-   "link": "https://www.poder360.com.br/poder-sustentavel/para-tem-61-cidades-em-situacao-de-emergencia-por-incendios-florestais/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T21:25:29-03:00"
-  },
-  {
-   "id": "744bf4aedba5",
-   "titulo": "Surto de ebola no Congo pode ser o pior da história, diz órgão africano",
-   "resumo": "África CDC aponta falhas na assistência e ataques a profissionais de saúde; epidemia já matou mais de 5.400 pessoas",
-   "link": "https://www.poder360.com.br/poder-internacional/surto-de-ebola-no-congo-pode-ser-o-pior-da-historia-diz-orgao-africano/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-15T20:12:25-03:00"
-  },
-  {
-   "id": "fdcf35d0deff",
-   "titulo": "Receita do turismo receptivo da China pode chegar a US$ 470 bi até 2040",
-   "resumo": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
-   "link": "https://www.poder360.com.br/poder-china/receita-do-turismo-receptivo-da-china-pode-chegar-a-us-470-bi-ate-2040/",
-   "fonte": "Poder360",
-   "imagem": "https://www.poder360.com.br/wp-content/themes/poder/assets/img/drive-premium/gif-form-Drive.gif",
-   "data": "2026-11-15T20:04:04-03:00"
   },
   {
    "id": "deb84ae8fc8d",
@@ -229,15 +328,6 @@
    "data": "2026-11-15T16:00:00-03:00"
   },
   {
-   "id": "89b640f78b66",
-   "titulo": "Definida a vencedora da licitação milionária de iPhones para senadores",
-   "resumo": "O Senado declarou a Claro vencedora da licitação para fornecer serviços de telefonia e 425 smartphones à Casa. A empresa apresentou uma proposta de R$ 4,96 milhões, cerca de R$ 1,09 milhão abaixo do valor estimado no edital. A decisão de ha…",
-   "link": "https://revistaoeste.com/politica/senado-define-claro-vencedora-em-licitacao-de-quase-r-5-mi-para-iphones/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2024/08/Fachada-do-Congresso-Nacional.jpg",
-   "data": "2026-11-15T15:39:00-03:00"
-  },
-  {
    "id": "90902fc49c1e",
    "titulo": "Site do Inep sofre ataque hacker durante o Enem, diz ministro",
    "resumo": "O ministro da Educação, Leonardo Barchini, afirmou neste domingo, 15, que o site do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) tem sido alvo de ataques hackers durante a realização do Enem. Segundo ele, as tentativas de i…",
@@ -265,15 +355,6 @@
    "data": "2026-11-15T14:42:07-03:00"
   },
   {
-   "id": "df8a6a4684e8",
-   "titulo": "Lula diz que reeleição ‘abriu caminho para salvar democracia e multilateralismo’",
-   "resumo": "O presidente Luiz Inácio Lula da Silva afirmou, neste domingo, 15, que sua reeleição para um quarto mandato despertou expectativas internacionais. Segundo ele, o resultado das eleições brasileiras representou uma reação ao que chamou de “ob…",
-   "link": "https://revistaoeste.com/politica/lula-diz-que-reeleicao-abriu-caminho-para-salvar-democracia-e-multilateralismo/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/55640669977_e5eca4f7a1_c.jpg",
-   "data": "2026-11-15T14:02:00-03:00"
-  },
-  {
    "id": "caa6de302185",
    "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está 'controlando' situação",
    "resumo": "Alckmin visita sede do Inep no 2º dia de provas do Enem O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) na internet tem sido alvo de tentativas de ataques hacker…",
@@ -290,15 +371,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/CsI7R-bXp2dGiW9TFY29EnEYXdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/P/NVUCI4RU285pekBG3J0A/whatsapp-image-2026-10-21-at-19.11.07.jpeg",
    "data": "2026-11-15T12:23:09-03:00"
-  },
-  {
-   "id": "b45ec9173690",
-   "titulo": "Centrão quer mais verba em ministérios; governo freia emendas",
-   "resumo": "A formação da equipe do governo Lula para o novo mandato começou com uma queda de braço com o Centrão, informou o jornal O Globo, neste domingo, 15. PSD, MDB, Republicanos e a federação União-PP querem comandar pastas com mais dinheiro, dep…",
-   "link": "https://revistaoeste.com/politica/centrao-quer-mais-verba-em-ministerios-governo-freia-emendas/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/lula-x-policia-debate-globo.jpg",
-   "data": "2026-11-15T12:05:00-03:00"
   },
   {
    "id": "cefb1bc7b4ee",
@@ -353,24 +425,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/pzzb0315-1-e1794742840728.jpg",
    "data": "2026-11-15T08:42:18-03:00"
-  },
-  {
-   "id": "06cb7b94b734",
-   "titulo": "Vorcaro faz faxina, cuida de jardim e estuda durante prisão na Papudinha",
-   "resumo": "O ex-banqueiro Daniel Vorcaro , investigado por suspeitas de fraudes financeiras bilionárias no Banco Master , mantém uma rotina de estudos, limpeza e jardinagem no 19º Batalhão da Polícia Militar do Distrito Federal (PMDF), conhecido como …",
-   "link": "https://revistaoeste.com/politica/vorcaro-faz-faxina-cuida-de-jardim-e-estuda-durante-prisao-na-papudinha/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/04/vorcaro-13.jpeg",
-   "data": "2026-11-15T08:08:00-03:00"
-  },
-  {
-   "id": "f303346d61fd",
-   "titulo": "Fux interrompe votação sobre fim da escala 6×1",
-   "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF) , pediu destaque neste sábado, 14, e interrompeu o julgamento virtual sobre as regras de transição para o fim da escala de trabalho 6x1 . Com a medida, o caso será transferido para o pl…",
-   "link": "https://revistaoeste.com/politica/fux-interrompe-votacao-sobre-fim-da-escala-6x1/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Fux_6x1.jpeg",
-   "data": "2026-11-15T07:35:00-03:00"
   },
   {
    "id": "d5cf3a2a3ed4",
@@ -463,33 +517,6 @@
    "data": "2026-11-14T20:50:07-03:00"
   },
   {
-   "id": "52a514c36a41",
-   "titulo": "Além de Lula, mais de 30 alvos da Lava Jato vencem eleições de 2026",
-   "resumo": "Lula e outros 34 alvos da Lava Jato venceram as eleições de 2026, segundo o Poder360. Outros nomes como Cunha e Dirceu ficaram de fora.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-mais-30-alvos-lava-jato-vencem-eleicoes-2026/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14193908/lula-mais-30-alvos-lava-jato-vencem-eleicoes-2026-960x540.jpg",
-   "data": "2026-11-14T19:49:03-03:00"
-  },
-  {
-   "id": "1b05408311be",
-   "titulo": "PGR apoia pedido da AGU ao STF sobre R$ 324 milhões extras para penduricalhos",
-   "resumo": "Paulo Gonet apoia pedido ao STF para viabilizar R$ 324 milhões extras para pagar penduricalho do MPU, instituição que ele próprio chefia.",
-   "link": "https://www.gazetadopovo.com.br/republica/pgr-apoia-pedido-agu-sobre-r-324-mi-para-penduricalho/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14182601/pgr-apoia-pedido-agu-sobre-r-324-mi-para-penduricalhos-960x540.jpg",
-   "data": "2026-11-14T18:31:33-03:00"
-  },
-  {
-   "id": "1256ca72dd17",
-   "titulo": "Fux suspende julgamento virtual sobre o fim da escala 6×1 e leva caso ao plenário do STF",
-   "resumo": "Luiz Fux interrompeu o julgamento virtual sobre o fim da escala 6x1. Caso será analisado presencialmente pelo plenário do STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/fux-suspende-julgamento-fim-escala-6x1-leva-caso-plenario-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/14174036/luiz-fux-stf-2-960x540.jpg",
-   "data": "2026-11-14T18:03:14-03:00"
-  },
-  {
    "id": "dfe5285bc8e3",
    "titulo": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
    "resumo": "",
@@ -497,24 +524,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/cv-v4huwfb5SXNPLukdGoVgQePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/B/3r0SHeSs20HqYr8uoHdA/54875467915-3c8f40efd4-k.jpg",
    "data": "2026-11-14T16:55:35-03:00"
-  },
-  {
-   "id": "4e6e1b1909ba",
-   "titulo": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão",
-   "resumo": "Nas Filipinas, Lula vai participar como convidado da Cúpula da Asean (Associação dos Países do Sudeste Asiático) O presidente Luiz Inácio Lula da Silva (PT) cancelou dois compromissos oficiais neste sábado (14) em Manila, nas Filipinas, por…",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/14/lula-cancela-discurso-e-declaracao-a-imprensa-nas-filipinas-por-causa-de-rouquidao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-14T14:54:37-03:00"
-  },
-  {
-   "id": "bfa2bc434e90",
-   "titulo": "Idosos puxam alta do comparecimento no 2º turno e ajudam voto facultativo a atingir maior participação desde 2014",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/14/idosos-puxam-alta-do-comparecimento-no-2o-turno-e-ajudam-voto-facultativo-a-atingir-maior-participacao-desde-2014.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/5W0LVxlemVl8J4lEFpE5UqEKVtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/a/dLLNpZSUu7n2wiBsteZw/2a3d15b4-bef7-49d5-947f-6846ed98586c.jfif",
-   "data": "2026-11-14T12:51:31-03:00"
   },
   {
    "id": "6678bdec9ff5",
@@ -578,24 +587,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-13T09:59:00-03:00"
-  },
-  {
-   "id": "650b3c8949d8",
-   "titulo": "Marinho promete não ser “incendiário” com Lula se virar chefe do Senado",
-   "resumo": "Em conversas com senadores, Rogério Marinho (PL-RN) tem dito que manterá diálogo institucional com Lula, se eleito presidente do Senado",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/marinho-promete-nao-ser-incendiario-com-lula-se-virar-chefe-do-senado",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/09/23185830/Senador-Rogerio-Marinho-deixa-o-condominio-Solar-de-Brasilia-apos-visita-ao-ex-presidente-Jair-Bolsonaro-em-sua-residencia-onde-ele-cumpre-prisao-domiciliar-em-Brasilia-Metropoles-4.jpg",
-   "data": "2026-11-13T02:00:22-03:00"
-  },
-  {
-   "id": "ffe4dfe5436a",
-   "titulo": "Ruas tira status de secretaria das polícias e define titular da Segurança",
-   "resumo": "Governador eleito do Rio, Douglas Ruas decidiu tirar status de secretaria das polícias Civil e Militar e escolheu delegado para Segurança",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/ruas-tira-status-de-secretaria-das-policias-e-define-titular-da-seguranca",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/douglas-ruas.jpeg",
-   "data": "2026-11-13T00:09:31-03:00"
   }
  ]
 }
