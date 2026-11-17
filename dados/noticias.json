@@ -1,16 +1,421 @@
 {
- "atualizado": "2026-11-16T17:57:09.220810-03:00",
- "total": 66,
+ "atualizado": "2026-11-17T00:44:03.124151-03:00",
+ "total": 64,
  "fontes_com_falha": [],
  "noticias": [
   {
-   "id": "6cb9ccdd8171",
-   "titulo": "Robôs dançam e servem café em Shenzhen antes da cúpula da APEC",
-   "resumo": "Máquinas participam de preparativos para a Cúpula de CEOs da Apec de 2026 e a subsequente Reunião Informal de Líderes Econômicos",
-   "link": "https://www.poder360.com.br/poder-tech/robos-dancam-e-servem-cafe-em-shenzhen-antes-da-cupula-da-apec/",
+   "id": "3adcb5db2e52",
+   "titulo": "Moraes consulta PGR sobre pedido de Mauro Cid para morar no Rio",
+   "resumo": "Defesa alega motivos econômicos e familiares para que Mauro Cid termine o cumprimento da pena na casa do pai, em Niterói.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-consulta-pgr-sobre-pedido-de-mauro-cid-para-morar-no-rio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/17003441/mauro-cid-960x540.jpg",
+   "data": "2026-11-17T00:35:24-03:00"
+  },
+  {
+   "id": "dc18965b69f2",
+   "titulo": "Os desafios de Lula na volta ao Brasil: formação do ministério e ajuste fiscal - O Assunto #1847",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/17/os-desafios-de-lula-na-volta-ao-brasil-formacao-do-ministerio-e-ajuste-fiscal-o-assunto-1847.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/f-nOqPZsG93YNPRI2oJm28aa4s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/iHfDgETQOTBUa5dzPk0A/edicao-imagens-g1-2026-11-13t102653.948.jpg",
+   "data": "2026-11-17T00:30:01-03:00"
+  },
+  {
+   "id": "d59bae9853d2",
+   "titulo": "Deputado propõe Lei Suzane von Richthofen para proibir lucro com exploração de crimes",
+   "resumo": "Sanderson (PL-RS) propõe que condenados sejam impedidos de receber vantagem econômica a partir da exploração de seus crimes.",
+   "link": "https://www.gazetadopovo.com.br/republica/deputado-propoe-lei-suzane-von-richthofen-para-proibir-lucro-com-exploracao-de-crimes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16214409/sanderson-960x540.jpg",
+   "data": "2026-11-17T00:10:40-03:00"
+  },
+  {
+   "id": "bc95113d55ac",
+   "titulo": "PGR é contra soltura do ex-presidente do BRB",
+   "resumo": "PGR se manifestou contra pedido de soltura de Paulo Henrique Costa, ex-presidente do BRB. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/pgr-e-contra-soltura-do-ex-presidente-do-brb/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/17000427/paulo-henrique-costa-brb-960x540.jpg",
+   "data": "2026-11-17T00:05:43-03:00"
+  },
+  {
+   "id": "a835ae40faf3",
+   "titulo": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/_YvBXe221nLjJl9JzRUFQAqk71Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/h/SXlDgVTAGC4j6jmCMJfw/pzzb8864.jpg",
+   "data": "2026-11-17T00:00:01-03:00"
+  },
+  {
+   "id": "88f2778f6317",
+   "titulo": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/fB_m2gbnoIG1bDYTj509yUd2QrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/jvZKQ8SHuurUcBjeb97A/vorcaro.jpg",
+   "data": "2026-11-17T00:00:00-03:00"
+  },
+  {
+   "id": "ae3b15064462",
+   "titulo": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/YeSKn-qmTVpq6xhpfisF9KcjXwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/B2UrCXQDeyS5FWTwQjlA/55649772539-eccc8e95e3-o.jpg",
+   "data": "2026-11-17T00:00:00-03:00"
+  },
+  {
+   "id": "7426228cedba",
+   "titulo": "Big techs: Câmara deve votar nesta terça projeto que regulamenta mercados digitais; entenda",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/17/big-techs-camara-deve-votar-nesta-terca-projeto-que-regulamenta-mercados-digitais-entenda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/IwJCLx2SMeklEX2QM_eIkFHyOX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/bwdCtwSfCBi8h2U0uLCA/fachada-cade.png",
+   "data": "2026-11-17T00:00:00-03:00"
+  },
+  {
+   "id": "2e2a54ece93a",
+   "titulo": "Justiça dos EUA derruba restrições a vistos de estudantes e jornalistas",
+   "resumo": "Regras propostas por Trump limitavam permanência no país; juiz considerou medidas ilegais e prejudiciais à educação",
+   "link": "https://www.poder360.com.br/poder-internacional/justica-dos-eua-derruba-restricoes-a-vistos-de-estudantes-e-jornalistas/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-16T17:51:11-03:00"
+   "data": "2026-11-16T23:19:40-03:00"
+  },
+  {
+   "id": "da9c3d3abb3b",
+   "titulo": "Marinho e Tereza Cristina criticam Moraes por negar visitas a Bolsonaro",
+   "resumo": "Senadores classificam decisão como arbitrária; ministro do STF diz que prisão domiciliar não pode servir de “escritório político”",
+   "link": "https://www.poder360.com.br/poder-congresso/marinho-e-tereza-cristina-criticam-moraes-por-negar-visitas-a-bolsonaro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/tereza-nota-moraes-16.nov_.2026.png",
+   "data": "2026-11-16T23:14:44-03:00"
+  },
+  {
+   "id": "42225bfa0e21",
+   "titulo": "Lula volta ao Brasil e Janja desembarca em Roma para evento da ONU",
+   "resumo": "Janja desembarcou em Roma, na Itália, para participar do evento da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO).",
+   "link": "https://www.gazetadopovo.com.br/republica/lula-volta-ao-brasil-e-janja-desembarca-em-roma-para-evento-da-onu/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16231006/janja-960x540.jpg",
+   "data": "2026-11-16T23:11:14-03:00"
+  },
+  {
+   "id": "48dccc306718",
+   "titulo": "Nvidia nega retorno de Jensen Huang ao cargo de CEO, diz agência",
+   "resumo": "Empresa contraria petição on-line com mais de 180 mil assinaturas que pede a volta do executivo ao comando da companhia",
+   "link": "https://www.poder360.com.br/poder-tech/nvidia-nega-retorno-de-jensen-huang-ao-cargo-de-ceo-diz-agencia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T22:47:32-03:00"
+  },
+  {
+   "id": "19169fc0f3be",
+   "titulo": "Polícia Federal investiga escrivã por críticas a Andrei Rodrigues",
+   "resumo": "A Polícia Federal (PF) abriu inquérito criminal e procedimento disciplinar contra a escrivã Eliane Muzio Gripp por críticas ao diretor-geral da corporação, Andrei Rodrigues . O próprio dirigente manifestou interesse na persecução penal, que…",
+   "link": "https://revistaoeste.com/politica/policia-federal-investiga-escriva-por-criticas-a-andrei-rodrigues/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/whatsapp-image-2026-09-04-at-08.49.09.jpeg",
+   "data": "2026-11-16T22:42:19-03:00"
+  },
+  {
+   "id": "2a4f52c8e310",
+   "titulo": "PF cita 'quebra de confiança' para afastamento de delegados e nega interferência em investigação",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/16/pf-cita-quebra-de-confianca-para-afastamento-de-delegados-e-nega-interferencia-em-investigacao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/3TILUewXa7jvcAaL7edXTZ49xi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/x/9V1VSBTaGDGCgPe22llg/54931850346-d62e6d0628-o-1-.jpg",
+   "data": "2026-11-16T22:37:30-03:00"
+  },
+  {
+   "id": "1dac0cbe0516",
+   "titulo": "Uefa escolhe francês Philippe Diallo para disputar eleição da Fifa",
+   "resumo": "Federações europeias apoiaram por unanimidade o presidente da FFF para enfrentar Gianni Infantino em março de 2027",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/uefa-escolhe-frances-philippe-diallo-para-disputar-eleicao-da-fifa/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T22:23:12-03:00"
+  },
+  {
+   "id": "4f317f5c125f",
+   "titulo": "Marinho diz que decisão de Moraes que barrou visita a Bolsonaro é “intolerável”",
+   "resumo": "Rogério Marinho afirma que o encontro teria caráter pessoal e diz que a defesa de Bolsonaro fará novo pedido de autorização ao STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/marinho-diz-que-decisao-de-moraes-que-barrou-visita-a-bolsonaro-e-intoleravel/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16221758/rogerio-marinho-3-960x540.jpg",
+   "data": "2026-11-16T22:18:48-03:00"
+  },
+  {
+   "id": "b3d5bbc2c8ae",
+   "titulo": "Bets estão associadas à saída de R$ 40,4 bi das famílias, diz Comsefaz",
+   "resumo": "Estudo compara transferências via Pix com projeção de cenário sem a expansão das apostas",
+   "link": "https://www.poder360.com.br/poder-economia/bets-estao-associadas-a-saida-de-r-404-bi-das-familias-diz-comsefaz/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T22:12:42-03:00"
+  },
+  {
+   "id": "8a6dfd4fe44c",
+   "titulo": "Contratos para iPhones em tribunais superiores ultrapassam R$ 10 milhões",
+   "resumo": "Contratos do Supremo Tribunal Federal (STF) , Superior Tribunal de Justiça (STJ) e Tribunal Superior do Trabalho (TST) para o fornecimento de iPhones somam mais de R$ 10 milhões em valor acumulado. É o que mostra levantamento do portal Metr…",
+   "link": "https://revistaoeste.com/politica/contratos-para-iphones-em-tribunais-superiores-superam-r-10-milhoes/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/11/iPhone.jpg",
+   "data": "2026-11-16T21:52:08-03:00"
+  },
+  {
+   "id": "6a238512c764",
+   "titulo": "Quem paga a conta do Banco Master? Credores ainda esperam recuperar bilhões",
+   "resumo": "Um ano após a liquidação do Master, cerca de R$ 50 bilhões em dívidas seguem sem ressarcimento e a sociedade paga a conta. Veja na Gazeta",
+   "link": "https://www.gazetadopovo.com.br/economia/quem-paga-a-conta-do-banco-master-credores-ainda-esperam-recuperar-bilhoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30223720/banco-master-960x540.jpg",
+   "data": "2026-11-16T21:45:00-03:00"
+  },
+  {
+   "id": "c77deed9a120",
+   "titulo": "Pimenta rebate críticas ao ajuste fiscal e busca acordo com ala do PT",
+   "resumo": "O líder do governo na Câmara, Paulo Pimenta (PT-RS), afirmou que o projeto de ajuste nas contas públicas não implica corte em programas sociais e disse acreditar em um entendimento com parlamentares governistas que resistem à proposta. Ele …",
+   "link": "https://oantagonista.com.br/brasil/pimenta-rebate-criticas-ao-ajuste-fiscal-e-busca-acordo-com-ala-do-pt/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/img20260618135325946.jpeg",
+   "data": "2026-11-16T21:42:29-03:00"
+  },
+  {
+   "id": "cfd0270ace9d",
+   "titulo": "Terceiro mandato de Lula termina com dívida maior, juros elevados e economia desacelerando",
+   "resumo": "Lula iniciou mandato com economia em recuperação após pandemia e encerra com desaceleração do PIB, sequência de déficits e aumento de dívida",
+   "link": "https://www.gazetadopovo.com.br/economia/lula-3-economia-2023-2026/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06141220/lula-3-economia-2023-2026-960x540.jpg",
+   "data": "2026-11-16T21:30:20-03:00"
+  },
+  {
+   "id": "edc3120a8688",
+   "titulo": "United Airlines tem falha em sistema 3 dias após apagão aéreo nos EUA",
+   "resumo": "Problema afetou aplicativos usados por pilotos e atrasou decolagens; companhia informou que serviço foi restabelecido",
+   "link": "https://www.poder360.com.br/poder-internacional/united-airlines-tem-falha-em-sistema-3-dias-apos-apagao-aereo-nos-eua/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/united-airlines-falhas-ok.png",
+   "data": "2026-11-16T21:28:11-03:00"
+  },
+  {
+   "id": "4dfea6dc3168",
+   "titulo": "Trump propõe regras mais rígidas para contratar estrangeiros nos EUA",
+   "resumo": "Medida pode dificultar obtenção do green card por brasileiros e restringe contratações em empresas que demitiram norte-americanos",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-propoe-regras-mais-rigidas-para-contratar-estrangeiros-nos-eua/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T21:21:38-03:00"
+  },
+  {
+   "id": "378347523b53",
+   "titulo": "Frota de carros elétricos no Brasil deve crescer 10 vezes em 10 anos",
+   "resumo": "Projeção da Empresa de Pesquisa Energética estima um crescimento anual de 26% nas vendas de veículos eletrificados",
+   "link": "https://www.poder360.com.br/poder-energia/frota-de-carros-eletricos-no-brasil-deve-crescer-10-vezes-em-10-anos/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/estimativa-carros-eletrificados-no-Brasil-2036-scaled.png",
+   "data": "2026-11-16T21:16:09-03:00"
+  },
+  {
+   "id": "e2d3fce44b2d",
+   "titulo": "MPF denuncia ex-prefeito de São Bernardo por possível propina de R$ 600 mil",
+   "resumo": "Ação indica favorecimento a empresas de alimentação em contratos da Prefeitura durante a gestão de Orlando Morando (MDB); em nota, político afirmou que não há comprovação de irregularidades de sua parte",
+   "link": "https://www.poder360.com.br/poder-justica/mpf-denuncia-ex-prefeito-de-sao-bernardo-por-possivel-propina-de-r-600-mil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T21:04:42-03:00"
+  },
+  {
+   "id": "11c5ca92b907",
+   "titulo": "Defesa de Vorcaro contesta Fachin e quer que Gilmar decida sobre prisão",
+   "resumo": "A defesa do ex-banqueiro Daniel Vorcaro entrou nesta segunda-feira, 16, com um mandado de segurança no Supremo Tribunal Federal (STF) para contestar a decisão do presidente da Corte, ministro Edson Fachin , de assumir temporariamente a cond…",
+   "link": "https://revistaoeste.com/politica/defesa-de-vorcaro-contesta-fachin-e-quer-que-gilmar-decida-sobre-prisao/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Vorcaro-x-Fachin.jpg",
+   "data": "2026-11-16T20:56:06-03:00"
+  },
+  {
+   "id": "61e1c349c52c",
+   "titulo": "Live de Flávio revela localização de hotel em Washington",
+   "resumo": "O senador Flávio Bolsonaro (PL) se hospedou, na semana passada, em um hotel em Washington, a cerca de 830 metros da Casa Branca. O trajeto entre o estabelecimento e a sede do Executivo americano pode ser feito em aproximadamente 12 minutos …",
+   "link": "https://oantagonista.com.br/brasil/live-de-flavio-revela-localizacao-de-hotel-em-washington/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-13T113005.700.png",
+   "data": "2026-11-16T20:52:38-03:00"
+  },
+  {
+   "id": "cf495f148a12",
+   "titulo": "PicPay lucra R$ 271 milhões no 3º trimestre, com alta de 157%",
+   "resumo": "Banco digital muda regra de baixa de empréstimos inadimplentes e estima impacto de R$ 325 milhões no resultado do 4º trimestre",
+   "link": "https://www.poder360.com.br/poder-economia/picpay-lucra-r-271-milhoes-no-3o-trimestre-com-alta-de-157/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-16T20:34:56-03:00"
+  },
+  {
+   "id": "ade9601f908d",
+   "titulo": "União Europeia vota nesta terça-feira o fim do embargo ao frango brasileiro",
+   "resumo": "Representantes dos países da União Europeia (UE) devem votar nesta terça-feira, 17, em Bruxelas, uma proposta para voltar a autorizar a importação de carne de frango e mel do Brasil. A Comissão Europeia confirmou à Agence Europe que pretend…",
+   "link": "https://revistaoeste.com/politica/embargo-ao-frango-brasileiro/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/p-070449_00-16_01-original-893464-1.jpg",
+   "data": "2026-11-16T20:19:51-03:00"
+  },
+  {
+   "id": "ddaca23e85e5",
+   "titulo": "CNJ julga ex-desembargador que pediu prisão de Moraes em 2022",
+   "resumo": "CNJ julgará nesta terça (17) processo disciplinar contra o desembargador aposentado Sebastião Coelho. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/cnj-julga-ex-desembargador-que-pediu-prisao-de-moraes-em-2022/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16200415/sebastiao-coelho-960x540.jpg",
+   "data": "2026-11-16T20:08:38-03:00"
+  },
+  {
+   "id": "d43cf95977de",
+   "titulo": "Novo quer limitar poder de ministros do Supremo, diz deputada",
+   "resumo": "A reforma do Judiciário não pode ficar restrita às discussões conduzidas pelo Supremo Tribunal Federal (STF). A avaliação é da deputada federal Adriana Ventura (Novo-SP), que, em entrevista a O Antagonista, defendeu que o Congresso Nacional…",
+   "link": "https://oantagonista.com.br/brasil/novo-quer-limitar-poder-de-ministros-do-supremo-diz-deputada/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/adriana-ventura-1.jpg",
+   "data": "2026-11-16T20:06:29-03:00"
+  },
+  {
+   "id": "4035ad1a2180",
+   "titulo": "Jurista vê conflito de interesses em reforma do Judiciário conduzida pelo STF",
+   "resumo": "A criação de um grupo de estudos no Supremo Tribunal Federal (STF) para discutir a reforma do Judiciário, por iniciativa do presidente da Corte, Edson Fachin, deveria ter partido do Congresso Nacional, na avaliação de Roberto Beijato Júnior…",
+   "link": "https://oantagonista.com.br/brasil/jurista-ve-conflito-de-interesses-em-reforma-do-judiciario-conduzida-pelo-stf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55518517431_79712dd5b7_6k-scaled.jpg",
+   "data": "2026-11-16T19:57:42-03:00"
+  },
+  {
+   "id": "e1d6ef3347c8",
+   "titulo": "Integrantes de partidos devem apresentar alternativas a ajuste fiscal que divide esquerda: 'Se podem negociar com o mercado, podem negociar com a gente', diz Lindbergh",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/16/partidos-alternativas-criticas-ajuste-fiscal.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/2ERMAsCTK-yVfn_gI9pGaeHfswM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/cD5cskRzyVagwebmrIDQ/img20260414125747961.jpg",
+   "data": "2026-11-16T19:35:04-03:00"
+  },
+  {
+   "id": "e234587fe959",
+   "titulo": "Cidadania negocia incorporação ao PP após fim da federação com PSDB",
+   "resumo": "Mais recentemente, em março de 2026, o deputado federal Alex Manente (SP) foi escolhido para presidir nacionalmente o partido, substituindo Roberto Freire. A eleição, porém, abriu uma disputa judicial entre a nova direção e grupos ligados à…",
+   "link": "https://www.gazetadopovo.com.br/republica/cidadania-negocia-incorporacao-ao-pp-apos-fim-da-federacao-com-psdb/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16193001/alexa-manete-cidadania-960x540.jpg",
+   "data": "2026-11-16T19:33:09-03:00"
+  },
+  {
+   "id": "b3d06e8c434a",
+   "titulo": "Moraes arquiva investigação sobre Daniel Silveira por desobediência",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta segunda-feira, 16, o arquivamento do inquérito que investigava o ex-deputado Daniel Silveira por descumprimento de ordens judiciais. A decisão atende a um p…",
+   "link": "https://oantagonista.com.br/brasil/moraes-arquiva-investigacao-sobre-daniel-silveira-por-desobediencia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2023/07/img20221221151459672-scaled.jpg",
+   "data": "2026-11-16T19:19:55-03:00"
+  },
+  {
+   "id": "ffecb60c72a6",
+   "titulo": "Lula volta, mas Janja prefere ficar na Europa",
+   "resumo": "A primeira-dama, Janja da Silva , vai permanecer na Europa mesmo depois de o presidente Lula da Silva (PT) embarcar de volta ao Brasil nesta segunda-feira, 16. Janja acompanhou o petista em compromissos na Turquia, nas Filipinas e na Espanh…",
+   "link": "https://revistaoeste.com/politica/lula-volta-mas-janja-prefere-ficar-na-europa/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Janja_Viagem.jpeg",
+   "data": "2026-11-16T19:06:08-03:00"
+  },
+  {
+   "id": "0c276c72a057",
+   "titulo": "Pavanato acusa STF de impor ditadura e promete reação contra reforma do Judiciário",
+   "resumo": "O deputado federal eleito Lucas Pavanato (PL-SP) criticou a iniciativa do presidente do Supremo Tribunal Federal (STF), Edson Fachin, de promover discussões sobre uma reforma do Judiciário. Para o parlamentar, a movimentação representa uma …",
+   "link": "https://oantagonista.com.br/brasil/pavanato-acusa-stf-de-impor-ditadura-e-promete-reacao-contra-reforma-do-judiciario/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-16T185754.886.png",
+   "data": "2026-11-16T18:59:44-03:00"
+  },
+  {
+   "id": "fc42f2a7124f",
+   "titulo": "Alckmin defende ajuste fiscal enviado por governistas, mas mercado vê medida tímida",
+   "resumo": "O presidente da República em exercício, Geraldo Alckmin (PSB), defendeu neste domingo, 15, o pacote de ajuste fiscal do governo federal . Segundo ele, a medida não atinge a população de baixa renda. O objetivo é equilibrar as contas pública…",
+   "link": "https://revistaoeste.com/politica/alckmin-defende-ajuste-fiscal-enviado-por-governistas-mas-mercado-ve-medida-timida/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Alckmin_Ajuste-fiscal.jpeg",
+   "data": "2026-11-16T18:56:43-03:00"
+  },
+  {
+   "id": "72937d393919",
+   "titulo": "PGR defende manutenção da prisão do ex-presidente do BRB",
+   "resumo": "O procurador-geral da República, Paulo Gonet, defendeu, nesta segunda-feira, 16, que o Supremo Tribunal Federal (STF) mantenha a prisão preventiva do ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa, investigado por suspeita de…",
+   "link": "https://oantagonista.com.br/brasil/pgr-defende-manutencao-da-prisao-do-ex-presidente-do-brb/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/paulo-gonet-senado-e1762954519538-628x353-1.jpg",
+   "data": "2026-11-16T18:54:13-03:00"
+  },
+  {
+   "id": "73284b49b2af",
+   "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tR2k67SDW1H4zpOuRVvIW66Qkf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/LT6BkuTqOQBhBunTqkjg/whatsapp-image-2026-07-16-at-17.49.34.jpeg",
+   "data": "2026-11-16T18:53:07-03:00"
+  },
+  {
+   "id": "79fb8dbfd0a1",
+   "titulo": "Janja estende viagem à Europa para cumprir agenda com a ONU",
+   "resumo": "A primeira-dama, Janja da Silva, ficará na Europa para compromissos com a ONU (Organização das Nações Unidas) depois de acompanhar o presidente Lula (PT) em agendas na Turquia, Filipinas e Espanha. Segundo o Poder360, Janja seguirá para Rom…",
+   "link": "https://oantagonista.com.br/brasil/janja-estende-viagem-a-europa-para-cumprir-agenda-com-a-onu/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55630260168_be796fcf5c_3k.jpg",
+   "data": "2026-11-16T18:35:34-03:00"
+  },
+  {
+   "id": "f550b29b2974",
+   "titulo": "LDO: relatório estabelece novas condições para emendas parlamentares",
+   "resumo": "A Comissão Mista de Orçamento (CMO) do Congresso Nacional aprovou na semana passada o relatório preliminar da Lei de Diretrizes Orçamentárias (LDO) de 2027. O parecer do senador Eduardo Gomes (PL-TO) define as regras para a apresentação de …",
+   "link": "https://revistaoeste.com/politica/ldo-relatorio-estabelece-novas-condicoes-para-emendas-parlamentares/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2023/08/06.jpg",
+   "data": "2026-11-16T18:25:14-03:00"
+  },
+  {
+   "id": "e9972a932d28",
+   "titulo": "Sob pressão da própria base, governo tenta conter críticas ao pacote fiscal de Lula",
+   "resumo": "Líder do governo Lula rebate críticas ao pacote fiscal, nega cortes no BPC e no salário mínimo e admite negociar mudanças no projeto",
+   "link": "https://www.gazetadopovo.com.br/economia/sob-pressao-da-propria-base-governo-tenta-conter-criticas-ao-pacote-fiscal-de-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16181841/pacote-fiscal-paulo-pimenta-960x540.jpg",
+   "data": "2026-11-16T18:21:57-03:00"
+  },
+  {
+   "id": "e3dba9de8400",
+   "titulo": "Janones ataca esquerda por boicote a Lula",
+   "resumo": "O deputado federal André Janones (Rede-MG) criticou integrantes da própria esquerda que se mobilizaram contra o pacote de ajuste fiscal apresentado pelo governo Lula e passaram a incentivar seguidores a deixarem o canal de WhatsApp “Exércit…",
+   "link": "https://revistaoeste.com/politica/janones-ataca-esquerda-por-boicote-a-lula/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/Janones-raivoso.jpeg",
+   "data": "2026-11-16T18:03:28-03:00"
+  },
+  {
+   "id": "13ccb596b4fb",
+   "titulo": "Crusoé: Fachin inaugura símbolo de Xangô no STF",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, inaugura a escultura do Oxê de Xangô, símbolo da Justiça na tradição iorubá. A peça será instalada no hall do Salão Nobre, no segundo andar do edifício-sede da Corte, pr…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-fachin-inaugura-simbolo-de-xango-no-stf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55490837152_d2156f0ab3_5k-scaled-e1788353825934.jpg",
+   "data": "2026-11-16T18:01:20-03:00"
+  },
+  {
+   "id": "2263335cdeec",
+   "titulo": "Cidadania vota incorporação ao PP e pode deixar de existir",
+   "resumo": "A trajetória do Cidadania como partido independente pode chegar ao fim em novembro. A legenda convocou seus dirigentes para decidir sobre a incorporação ao Progressistas (PP), sigla presidida pelo senador Ciro Nogueira (PI) . A votação ocor…",
+   "link": "https://revistaoeste.com/politica/cidadania-vota-incorporacao-ao-pp-e-pode-deixar-de-existir/",
+   "fonte": "Revista Oeste",
+   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/07/img20260617180943019.jpg",
+   "data": "2026-11-16T17:59:18-03:00"
   },
   {
    "id": "0e0ba0c3f009",
@@ -22,22 +427,13 @@
    "data": "2026-11-16T17:47:17-03:00"
   },
   {
-   "id": "0412181ef899",
-   "titulo": "Ajuste fiscal pode tirar R$ 280 mi do esporte, dizem organizações",
-   "resumo": "Entidades pedem que Lei de Incentivo ao Esporte fique fora do corte de benefícios tributários",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/ajuste-fiscal-pode-tirar-r-280-mi-do-esporte-dizem-organizacoes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T17:45:43-03:00"
-  },
-  {
-   "id": "15539f6cb48e",
-   "titulo": "Dólar dispara e fecha a R$ 5,77, maior valor desde abril de 2025",
-   "resumo": "Resistência do governo em cortar despesas e possível indicação de Mercadante para a Fazenda pressionaram o real",
-   "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-16-nov-2026-01-scaled.png",
-   "data": "2026-11-16T17:27:13-03:00"
+   "id": "941223fbe85e",
+   "titulo": "Lula 4 começa com economia dividida entre poucos ganhadores e muitos perdedores",
+   "resumo": "Sem ajuste fiscal, juro alto castiga mercado interno e câmbio elevado beneficia exportador no Lula 4. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/ajuste-fiscal-lula-4-mercado-interno-exportador/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13101711/lula-cop31-antalya-juro-alto-960x540.jpg",
+   "data": "2026-11-16T17:45:00-03:00"
   },
   {
    "id": "b4183a8f4dfc",
@@ -67,24 +463,6 @@
    "data": "2026-11-16T17:07:47-03:00"
   },
   {
-   "id": "b292466d4fe2",
-   "titulo": "Projeto no Senado exige comprovação de identidade para ativar chip de celular",
-   "resumo": "O prazo para apresentar emendas ao PL n° 2.052/2026 termina nesta segunda-feira, 16, na Comissão de Segurança Pública do Senado . De autoria do senador Astronauta Marcos Pontes (PL-SP), o projeto obriga as operadoras a verificarem a identid…",
-   "link": "https://revistaoeste.com/politica/projeto-no-senado-exige-comprovacao-de-identidade-para-ativar-chip-de-celular/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2025/05/celular.webp",
-   "data": "2026-11-16T16:42:56-03:00"
-  },
-  {
-   "id": "f1cd5a2d8a3f",
-   "titulo": "5 países europeus planejam enviar imigrantes irregulares a Ruanda",
-   "resumo": "Áustria, Dinamarca, Alemanha, Grécia e Holanda anunciaram plano conjunto de repatriação",
-   "link": "https://www.poder360.com.br/poder-internacional/5-paises-europeus-planejam-deportar-imigrantes-irregulares-a-ruanda/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T16:41:33-03:00"
-  },
-  {
    "id": "1cbc808923d1",
    "titulo": "Crusoé: Vorcaro antecipou voo 69 minutos após falar com Moraes",
    "resumo": "Reportagem do portal Uol publicada nesta segunda, 16, mostra que banqueiro Daniel Vorcaro tentou antecipar sua fuga do Brasil 69 minutos após receber uma mensagem do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. Não é poss…",
@@ -92,15 +470,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/32780038143_8fdf252f27_c-1.jpg",
    "data": "2026-11-16T16:40:05-03:00"
-  },
-  {
-   "id": "9f22301517a2",
-   "titulo": "Após fim da escala 6×1, esquerda quer excluir fins de semana e feriados da contagem das férias",
-   "resumo": "Texto apresentado por deputadas do PSOL propõe excluir fins de semana e feriados da contagem das férias e garantir 30 dias úteis de descanso",
-   "link": "https://www.gazetadopovo.com.br/republica/apos-fim-da-escala-6x1-esquerda-quer-excluir-fins-de-semana-e-feriados-da-contagem-das-ferias/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16163237/ferias-psol-samia-duda-960x540.jpg",
-   "data": "2026-11-16T16:38:20-03:00"
   },
   {
    "id": "783e086a4ab0",
@@ -112,132 +481,6 @@
    "data": "2026-11-16T16:38:06-03:00"
   },
   {
-   "id": "6fffc20effb5",
-   "titulo": "Senado pode avançar com projeto que criminaliza a monetização de ‘discurso de ódio’",
-   "resumo": "O Senado pode avançar na análise do projeto que torna crime a monetização com conteúdo que promova, incite ou induza “discurso de ódio”, discriminação ou preconceito nas redes sociais. O prazo para apresentar emendas ao PL n° 1.897/2026 ter…",
-   "link": "https://revistaoeste.com/politica/senado-pode-avancar-com-projeto-que-criminaliza-a-monetizacao-de-discurso-de-odio/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/08/met.jpg",
-   "data": "2026-11-16T16:31:43-03:00"
-  },
-  {
-   "id": "572f6117dfbd",
-   "titulo": "Ucrânia lança maior ataque com drones contra Rússia desde 2022",
-   "resumo": "Defesa russa afirma ter interceptado 1.336 equipamentos em 16 regiões; ponte da Crimeia também foi atingida",
-   "link": "https://www.poder360.com.br/poder-internacional/ucrania-lanca-maior-ataque-com-drones-contra-russia-desde-2022/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T16:29:06-03:00"
-  },
-  {
-   "id": "405cbea759c7",
-   "titulo": "Sóstenes usa GTA VI para ironizar impostos no governo Lula",
-   "resumo": "O líder do PL na Câmara dos Deputados, Sóstenes Cavalcante (RJ), usou um meme sobre o lançamento do game Grand Theft Auto (GTA) VI para ironizar a carga tributária no governo Lula (PT). Em publicação nas redes sociais, o deputado afirmou qu…",
-   "link": "https://oantagonista.com.br/brasil/sostenes-usa-gta-vi-para-ironizar-impostos-no-governo-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-16-162406.png",
-   "data": "2026-11-16T16:25:54-03:00"
-  },
-  {
-   "id": "3b637e02cf8d",
-   "titulo": "Pontes vê hipocrisia em debate de Fachin sobre reforma do Judiciário",
-   "resumo": "O senador Astronauta Marcos Pontes (PL-SP) criticou a condução das discussões sobre a reforma do Judiciário promovidas pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin. Para o parlamentar, a participação de apenas um lado do …",
-   "link": "https://oantagonista.com.br/brasil/pontes-ve-hipocrisia-em-debate-de-fachin-sobre-reforma-do-judiciario/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/55266056561_034519ba65_k.jpg",
-   "data": "2026-11-16T16:18:30-03:00"
-  },
-  {
-   "id": "a6bcbd8e6d6e",
-   "titulo": "Quatro em cada dez lulistas se dizem conservadores, aponta Quaest",
-   "resumo": "Pesquisa revela como o conservadorismo se manifesta entre lulistas, bolsonaristas e independentes. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/republica/quatro-em-cada-dez-lulistas-se-dizem-conservadores-aponta-quaest/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16154832/Design-sem-nome-44-960x540.jpg",
-   "data": "2026-11-16T16:06:56-03:00"
-  },
-  {
-   "id": "8e4fe499acec",
-   "titulo": "Senador petista quer voto de solidariedade a Ana Elisa após ameaças de morte",
-   "resumo": "O senador Paulo Paim (PT-RS) apresentou nesta segunda-feira, 16, um requerimento para que o Senado registre voto de solidariedade à deputada federal eleita Ana Elisa (PT-MG), diante de ameaças e ataques sofridos pela petista. Paim pediu ain…",
-   "link": "https://oantagonista.com.br/brasil/senador-petista-quer-voto-de-solidariedade-a-ana-elisa-apos-ameacas-de-morte/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-84.png",
-   "data": "2026-11-16T16:05:31-03:00"
-  },
-  {
-   "id": "49853f47c701",
-   "titulo": "Magno Malta propõe teto de R$ 20 mil para remunerações públicas",
-   "resumo": "O senador Magno Malta (PL-ES) está buscando assinaturas para uma Proposta de Emenda à Constituição (PEC) que limita a 20 mil reais mensais as remunerações custeadas direta ou indiretamente por recursos públicos. Atualmente, o teto constituc…",
-   "link": "https://oantagonista.com.br/brasil/magno-malta-propoe-teto-de-r-20-mil-para-remuneracoes-publicas/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/12/54990529865_7452d4aa8b_o-scaled.jpg",
-   "data": "2026-11-16T15:56:37-03:00"
-  },
-  {
-   "id": "e0f53ba08290",
-   "titulo": "Hugo Motta acena para a direita com pauta da maioridade penal na Câmara",
-   "resumo": "Hugo Motta usa redução da maioridade penal para atrair o PL na disputa pela Câmara, enquanto ala de Nikolas Ferreira resiste a bloco com o PT.",
-   "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-acena-para-a-direita-com-pauta-da-maioridade-penal-na-camara/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16155219/hugo-motta-nikolas-ferreira-1-960x540.jpg",
-   "data": "2026-11-16T15:52:04-03:00"
-  },
-  {
-   "id": "56195f69d8b5",
-   "titulo": "Lei Suzane von Richthofen: Sanderson quer punir lucro com crimes",
-   "resumo": "Condenados por crimes poderão ficar sujeitos a até quatro anos de prisão caso recebam dinheiro para contar a própria história em filmes, séries, documentários ou entrevistas. Essa é a proposta apresentada nesta segunda-feira, 16, pelo deput…",
-   "link": "https://oantagonista.com.br/brasil/lei-suzane-von-richthofen-sanderson-quer-punir-lucro-com-crimes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-16T154138.804.png",
-   "data": "2026-11-16T15:50:24-03:00"
-  },
-  {
-   "id": "3d94bde916a5",
-   "titulo": "Brasil bate meta anual de turistas internacionais em outubro",
-   "resumo": "Brasil recebeu 7,59 milhões de turistas estrangeiros até outubro; gastos somaram US$ 8,38 bilhões até setembro",
-   "link": "https://www.poder360.com.br/poder-brasil/brasil-bate-meta-anual-de-turistas-internacionais-em-outubro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T15:49:52-03:00"
-  },
-  {
-   "id": "3b0cf845d2db",
-   "titulo": "Crusoé: Defesa de Vorcaro tenta tirar caso Master do gabinete de Fachin",
-   "resumo": "A defesa de Daniel Vorcaro entrou com um mandado de segurança para contestar a decisão do presidente do Supremo Tribunal Federal, Edson Fachin, de avocar para seu gabinete investigações do caso Master. A iniciativa tem como objetivo remeter…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-defesa-de-vorcaro-tenta-tirar-caso-master-do-gabinete-de-fachin/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/55139350227_e69e70cd74_k.jpg",
-   "data": "2026-11-16T15:48:23-03:00"
-  },
-  {
-   "id": "b2d35760ce4c",
-   "titulo": "Fatal Fans oferece R$ 700 milhões pelo naming rights do Maracanã",
-   "resumo": "Plataforma de conteúdo adulto propõe pagar R$ 70 milhões por ano durante uma década pelo estádio",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/fatal-fans-oferece-r-700-milhoes-pelo-naming-rights-do-maracana/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T15:47:32-03:00"
-  },
-  {
-   "id": "84c023514b75",
-   "titulo": "Moraes dá 5 dias para PGR opinar sobre pedido de Cid para cumprir pena no RJ",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), deu prazo de cinco dias, nesta segunda-feira, 16, para que a Procuradoria-Geral da República (PGR) se manifeste sobre o pedido da defesa de Mauro Cid para que ele conclua o …",
-   "link": "https://oantagonista.com.br/brasil/moraes-da-5-dias-para-pgr-opinar-sobre-pedido-de-cid-para-cumprir-pena-no-rj/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Mauro-Cid.png",
-   "data": "2026-11-16T15:37:29-03:00"
-  },
-  {
-   "id": "92acb507f066",
-   "titulo": "Janja não volta com Lula e fica na Europa para compromissos com a ONU",
-   "resumo": "Primeira-dama é embaixadora da FAO; ministros Wellington Dias e Fernanda Machiaveli também participam de agendas",
-   "link": "https://www.poder360.com.br/poder-gente/janja-nao-volta-com-lula-e-fica-na-europa-para-compromissos-com-a-onu/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/4c2KmFj1da8/hqdefault.jpg",
-   "data": "2026-11-16T15:37:21-03:00"
-  },
-  {
    "id": "2457782a9516",
    "titulo": "Fachin indica a colegas que deve dar prioridade para julgamento sobre escala 5x2",
    "resumo": "",
@@ -247,69 +490,6 @@
    "data": "2026-11-16T15:36:43-03:00"
   },
   {
-   "id": "36fb60c2b060",
-   "titulo": "Trump diz que poderá confrontar Xi sobre Alice Huang, possível espiã",
-   "resumo": "Norte-americano também defendeu a volta de Jensen Huang ao cargo de CEO da Nvidia",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-podera-confrontar-xi-sobre-alice-huang-possivel-espia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T15:31:06-03:00"
-  },
-  {
-   "id": "c3c13082ba6a",
-   "titulo": "Tarcísio diz que Lula “comprou” eleição e cobra atuação conjunta da oposição",
-   "resumo": "Tarcísio de Freitas critica gastos eleitorais de Lula, diz que o presidente “comprou” a eleição e defende oposição unida no Congresso",
-   "link": "https://www.gazetadopovo.com.br/republica/tarcisio-diz-que-lula-comprou-eleicao-e-cobra-atuacao-conjunta-da-oposicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16152421/tarcisio-lula-oposicao-960x540.jpg",
-   "data": "2026-11-16T15:28:27-03:00"
-  },
-  {
-   "id": "e679ac433b14",
-   "titulo": "Tereza Cristina critica veto de Moraes a visita a Bolsonaro",
-   "resumo": "A senadora Tereza Cristina (PP-MS) criticou nesta segunda-feira, 16, a decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), de barrar sua visita e a do senador Rogério Marinho (PL-RN) ao ex-presidente Jair Bolsonaro (…",
-   "link": "https://oantagonista.com.br/brasil/tereza-cristina-critica-veto-de-moraes-a-visita-a-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55645627904_901bba0a1e_4k-scaled.jpg",
-   "data": "2026-11-16T15:28:20-03:00"
-  },
-  {
-   "id": "63e54e14075d",
-   "titulo": "Defesa de Carla Zambelli pede retirada de nome da lista da Interpol",
-   "resumo": "A ex-deputada Carla Zambelli também pretende apresentar duas revisões criminais no STF para contestar as condenações.",
-   "link": "https://www.gazetadopovo.com.br/republica/defesa-de-carla-zambelli-pede-retirada-de-nome-da-lista-da-interpol/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2020/02/21220147/carla-zambelli-michel-jesus-camara-deputados-960x540.jpg",
-   "data": "2026-11-16T15:20:57-03:00"
-  },
-  {
-   "id": "444843f06db1",
-   "titulo": "Dólar sobe mais de 2% e vai a R$ 5,77; Bolsa cai 1,83%",
-   "resumo": "Valor foi registrado às 14h40; investidores avaliam dificuldades na aprovação do pacote fiscal, retração da atividade econômica e balanços de empresas no exterior",
-   "link": "https://www.poder360.com.br/poder-economia/dolar-sobe-mais-de-2-e-vai-a-r-577-bolsa-cai-183/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-16T15:15:55-03:00"
-  },
-  {
-   "id": "3db0dc845c02",
-   "titulo": "Câmara do Rio rejeita pedido para barrar medalha a Campopiano",
-   "resumo": "A Câmara Municipal do Rio de Janeiro rejeitou o pedido da vereadora Mônica Benício (PSOL) para suspender a concessão da Medalha Chiquinha Gonzaga a Eduarda Campopiano (PL-SP), deputada estadual eleita por São Paulo. A decisão foi assinada p…",
-   "link": "https://oantagonista.com.br/brasil/camara-do-rio-rejeita-pedido-para-barrar-medalha-a-campopiano/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Captura-de-Tela-2026-10-04-as-20.41.48.png",
-   "data": "2026-11-16T15:13:52-03:00"
-  },
-  {
-   "id": "beb00290fcfa",
-   "titulo": "Comparecimento de eleitores com mais de 100 anos subiu 55% no 2º turno",
-   "resumo": "O número de eleitores com 100 anos ou mais que foram às urnas cresceu 55,3% do primeiro para o segundo turno das eleições de 2026 , segundo o Tribunal Superior Eleitoral (TSE). Os votos dessa faixa passaram de 2.133 para 3.313. O tribunal d…",
-   "link": "https://revistaoeste.com/politica/comparecimento-de-eleitores-com-mais-de-100-anos-subiu-55-no-2o-turno/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/10/pt-1.jpg",
-   "data": "2026-11-16T15:09:57-03:00"
-  },
-  {
    "id": "8bc7fd47a308",
    "titulo": "Lula e Sánchez defendem união contra o avanço da extrema-direita",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-sanchez-defendem-uniao-contra-avanco-da-extrema-direita\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.…",
@@ -317,15 +497,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-16T15:09:00-03:00"
-  },
-  {
-   "id": "a61770eaa155",
-   "titulo": "Tarcísio critica ajuste fiscal de Lula e cobra mudanças no pacote",
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas , classificou como insuficiente o pacote de ajuste fiscal do governo Lula aprovado pelo Senado. Segundo ele, as medidas não enfrentam o crescimento dos gastos públicos e transferem parte da con…",
-   "link": "https://revistaoeste.com/politica/tarcisio-critica-ajuste-fiscal-de-lula-e-cobra-mudancas-no-pacote/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/tarcisio_sp_turno-1.jpeg",
-   "data": "2026-11-16T15:07:24-03:00"
   },
   {
    "id": "8728a2389307",
@@ -346,60 +517,6 @@
    "data": "2026-11-16T14:48:12-03:00"
   },
   {
-   "id": "5f4ea7fff875",
-   "titulo": "Quaest: 39% de centro, 34% de direita e 24% de esquerda",
-   "resumo": "A mais recente rodada da pesquisa \"O Brasil depois das urnas\", produzida pela Quaest, afirma que 39% dos brasileiros se identificam politicamente como de centro. O levantamento foi divulgado nesta segunda-feira, 16. Os dados mostram ainda q…",
-   "link": "https://revistaoeste.com/politica/quaest-39-de-centro-34-de-direita-e-24-de-esquerda/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/06/08_ed328.jpg",
-   "data": "2026-11-16T14:40:10-03:00"
-  },
-  {
-   "id": "81b6f9ab5fe7",
-   "titulo": "Mercadante nega interesse na Fazenda, mas se coloca à disposição de Lula",
-   "resumo": "A manifestação ocorreu após especulações sobre a possibilidade de Mercadante assumir o Ministério da Fazenda no próximo mandato de Lula.",
-   "link": "https://www.gazetadopovo.com.br/republica/mercadante-nega-interesse-na-fazenda-mas-se-coloca-a-disposicao-de-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2022/12/06194429/mercadante-ccbb_mcamgo_abr_091120221818-2-crop-20221206224411-960x540.jpg",
-   "data": "2026-11-16T14:36:03-03:00"
-  },
-  {
-   "id": "0235f6ea8f86",
-   "titulo": "Tereza Cristina defende análise de pedidos de impeachment contra ministros do STF",
-   "resumo": "A senadora Tereza Cristina (PP-MS) defendeu a ideia de que a Mesa Diretora do Senado analise os pedidos de impeachment contra ministros do Supremo Tribunal Federal (STF) . Ela criticou a concentração da decisão na presidência da Casa e cobr…",
-   "link": "https://revistaoeste.com/politica/tereza-cristina-defende-analise-de-pedidos-de-iimpeachment-i-contra-ministros-do-stf/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2020/08/50017287206_ab659e2e2f_c-1.jpg",
-   "data": "2026-11-16T14:16:52-03:00"
-  },
-  {
-   "id": "489ecf5d310b",
-   "titulo": "Marinho diz que Senado está “subalterno” e “rendido” sob Alcolumbre",
-   "resumo": "Rogério Marinho critica a gestão de Davi Alcolumbre e denuncia a perda de autonomia do Senado diante de outros Poderes.",
-   "link": "https://www.gazetadopovo.com.br/republica/marinho-diz-que-senado-esta-subalterno-e-rendido-sob-alcolumbre/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/29234747/rogerio-marinho-1-960x540.jpg",
-   "data": "2026-11-16T13:45:47-03:00"
-  },
-  {
-   "id": "a62a13d92218",
-   "titulo": "Lula busca acordo com Alcolumbre para evitar nova derrota na indicação ao STF",
-   "resumo": "Lula busca acordo com Davi Alcolumbre para definir novo indicado ao STF e acelerar a sabatina e votação no Senado antes de fevereiro.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-busca-acordo-com-alcolumbre-para-evitar-nova-derrota-na-indicacao-ao-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16134149/lula-alcolumbre-stf-960x540.jpg",
-   "data": "2026-11-16T13:43:06-03:00"
-  },
-  {
-   "id": "6901441f8b94",
-   "titulo": "Vorcaro mudou voo para Dubai 69 minutos depois de mensagem a Moraes",
-   "resumo": "O ex-dono do Banco Master, Daniel Vorcaro, antecipou uma viagem para Dubai, nos Emirados Árabes Unidos, 69 minutos depois de perguntar ao ministro do Supremo Tribunal Federal Alexandre de Moraes se deveria deixar o Brasil. As mensagens fora…",
-   "link": "https://revistaoeste.com/politica/vorcaro-mudou-voo-para-dubai-69-minutos-depois-de-mensagem-a-moraes/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/09/moraes.png",
-   "data": "2026-11-16T13:30:42-03:00"
-  },
-  {
    "id": "042413881741",
    "titulo": "4 em cada 10 eleitores que votaram no 2º turno e não votaram no 1° eram idosos",
    "resumo": "",
@@ -407,51 +524,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/3HjhXxQik4tSoOveyomtfuLAzcw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/M9SB9MSAuuZkbaj4gKtg/img-2885.jpg",
    "data": "2026-11-16T13:26:00-03:00"
-  },
-  {
-   "id": "9ca86dc0eb69",
-   "titulo": "Inep apresenta propostas de mudanças no Enem para 2028",
-   "resumo": "O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) vai divulgar nas próximas semanas as propostas de mudanças no Exame Nacional do Ensino Médio (Enem) que passarão a valer a partir de 2028. A informação foi dada…",
-   "link": "https://revistaoeste.com/politica/inep-apresenta-propostas-de-mudancas-no-enem-para-2028/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2021/11/enem.jpg",
-   "data": "2026-11-16T13:13:39-03:00"
-  },
-  {
-   "id": "a0ead06a4cec",
-   "titulo": "Investidores veem tráfico de influência em tribunais superiores, diz diretor da Eurasia Group",
-   "resumo": "Tráfico de influência, STF e escritórios de advocacia preocupam investidores estrangeiros e ampliam a percepção de risco institucional.",
-   "link": "https://www.gazetadopovo.com.br/republica/investidores-veem-trafico-de-influencia-em-tribunais-superiores-diz-diretor-da-eurasia-group/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/16214713/plenario-julgamento-moraes-stf-960x540.jpg",
-   "data": "2026-11-16T12:56:54-03:00"
-  },
-  {
-   "id": "75007cdf0e1b",
-   "titulo": "Sob pressão por mudanças no STF, Fachin defende reforma com participação do Judiciário",
-   "resumo": "Em outro trecho do discurso, Fachin afirmou que o Judiciário deve evitar entrar nas disputas partidárias e nas chamadas “guerras culturais”. Segundo ele, em sociedades polarizadas, cresce a pressão para que os tribunais apresentem respostas…",
-   "link": "https://www.gazetadopovo.com.br/republica/sob-pressao-por-mudancas-no-stf-fachin-defende-reforma-com-participacao-do-judiciario/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/14163859/8023773366001-1-960x540.jpg",
-   "data": "2026-11-16T12:33:20-03:00"
-  },
-  {
-   "id": "2c8e2e6aa6c8",
-   "titulo": "Em meio a atrito com delegados, Andrei Rodrigues nega crise na PF",
-   "resumo": "Em meio ao desgaste, Andrei Rodrigues formalizou, em 6 de novembro, sua desfiliação da ADPF, associação à qual esteve vinculado por 24 anos.",
-   "link": "https://www.gazetadopovo.com.br/republica/em-meio-a-atrito-com-delegados-andrei-rodrigues-nega-crise-na-pf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16120554/andrei-rodrigues-960x540.jpg",
-   "data": "2026-11-16T12:10:27-03:00"
-  },
-  {
-   "id": "ac6f0965b4ca",
-   "titulo": "Redução da maioridade penal para 16 anos tem apoio de 92%, diz Quaest",
-   "resumo": "Pesquisa Quaest divulgada nesta segunda-feira, 16, mostra que 92% dos eleitores brasileiros apoiam a redução da maioridade penal para 16 anos. Outros 7% rejeitam a proposta. O levantamento registra a primeira queda no apoio à medida neste a…",
-   "link": "https://revistaoeste.com/politica/reducao-da-maioridade-penal-para-16-anos-tem-apoio-de-92-diz-quaest/",
-   "fonte": "Revista Oeste",
-   "imagem": "https://medias.revistaoeste.com/wp-content/uploads/2026/11/maioridade-penal.jpg",
-   "data": "2026-11-16T12:04:03-03:00"
   },
   {
    "id": "edd740281eb1",
@@ -472,15 +544,6 @@
    "data": "2026-11-16T11:14:39-03:00"
   },
   {
-   "id": "e41ff292cf40",
-   "titulo": "Andrei diz ser alvo de ataques que não o intimidam e afirma não haver divisão na PF",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/16/andrei-diz-ser-alvo-de-ataques-que-nao-o-intimidam-e-afirma-nao-haver-divisao-na-pf.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/27pxDiZo_Wn2sMq9NmHIuP9IHiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/k/09v5QES2An655FuJ9OBg/andrei-rodrigues-pf.jpeg",
-   "data": "2026-11-16T11:08:14-03:00"
-  },
-  {
    "id": "5c5e5b4a6d5e",
    "titulo": "Senado: aliados de Marinho apostam que Michelle segurará voto até a véspera",
    "resumo": "Aliados de Rogério Marinho preveem que Michelle Bolsonaro vai segurar seu voto na disputa ao comando do Senado até a véspera da eleição",
@@ -490,60 +553,6 @@
    "data": "2026-11-16T11:02:35-03:00"
   },
   {
-   "id": "ca24e552aaf9",
-   "titulo": "Corte de gastos, regulação da 6x1 e equipe do novo governo: o que espera Lula na volta de giro internacional",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/16/corte-de-gastos-regulacao-da-6x1-e-equipe-do-novo-governo-o-que-espera-lula-na-volta-de-giro-internacional.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/zwTsYXRjn7DJq3YDOrhIiSn-lbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/dchTSZSly2gh9L1hrBPw/2026-11-14t055622z-1767885988-rc2gnoa3o1vq-rtrmadp-3-asean-summit.jpg",
-   "data": "2026-11-16T10:58:25-03:00"
-  },
-  {
-   "id": "66b58eec01ef",
-   "titulo": "Fachin diz que independência de juízes exige integridade e que não se pode fazer uma reforma 'contra o Judiciário'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/16/fachin-diz-que-independencia-de-juizes-exige-integridade-e-que-nao-se-pode-fazer-uma-reforma-contra-o-judiciario.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Ous2W5IQ4XVx7tsH7M8UZq31rCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/B5cmZbTRAAo95iI66zkA/55619005667-ec30ce2589-c.jpg",
-   "data": "2026-11-16T10:27:57-03:00"
-  },
-  {
-   "id": "197b0aeac914",
-   "titulo": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
-   "resumo": "Depois de aprovar o atual ajuste fiscal, a equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias no próximo ano. A avaliação é que o governo terá de dar um segundo passo na contenção de despesas para melho…",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-16T09:57:38-03:00"
-  },
-  {
-   "id": "65e9dce7215a",
-   "titulo": "Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/N9wZpAMRY6AaNwfiBtKoJzFrBj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/USOX6rQXuQuQfQWUZUrA/51585532943-40901190cc-o.jpg",
-   "data": "2026-11-16T09:43:31-03:00"
-  },
-  {
-   "id": "2b698863d3cb",
-   "titulo": "Quaest: 92% apoiam reduzir maioridade para 16 anos; 64% dizem ser a favor de pena de morte em casos de homicídio e estupro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/16/quaest-ideologia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/fS1rQHzQ_oelPrlGtfymmEG7JQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/K/P/gHlUHGTxK6YEtRS7vNNQ/fundacaocasa.jpg",
-   "data": "2026-11-16T09:15:00-03:00"
-  },
-  {
-   "id": "5ee056c48267",
-   "titulo": "'Prévia' do PIB do BC registra tombo de 0,9% no 3º trimestre, maior queda desde a pandemia",
-   "resumo": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), recuou 0,9% no terceiro trimestre deste ano. O resultado foi calculado pelo BC com ajuste…",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-16T09:01:50-03:00"
-  },
-  {
    "id": "765985f2d003",
    "titulo": "Aliados de Tereza ligam alerta com evento do agro em apoio a Marinho",
    "resumo": "Aliados de Tereza Cristina procuraram lideranças do agronegócio após grupo marcar encontro de apoio à candidatura de Rogério Marinho",
@@ -551,15 +560,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/07/senadora-tereza-cristina-pp-ms-metropoles-1-scaled.jpg",
    "data": "2026-11-16T02:00:51-03:00"
-  },
-  {
-   "id": "0bd7d756e277",
-   "titulo": "211 passageiros foram multados por causarem confusão em voos desde setembro, aponta Anac",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/16/anac-registra-211-casos-de-indisciplina-apos-regra-que-pune-ma-conduta-de-passageiros.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/CR6zucCUj5oixekz9fiKn_tQMEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/v/2bWYtmRxiAoppejvWBZA/age20211214029.jpg",
-   "data": "2026-11-16T00:00:00-03:00"
   },
   {
    "id": "d5cf3a2a3ed4",
@@ -578,24 +578,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/foto-3-1200x800-2.jpg",
    "data": "2026-11-14T05:00:55-03:00"
-  },
-  {
-   "id": "1aa6ff4cfd7a",
-   "titulo": "Após evitar viagens na campanha, Michelle Bolsonaro embarca para Israel",
-   "resumo": "A ex-primeira-dama e senadora eleita Michelle Bolsonaro embarcou para uma viagem de 10 dias em Israel, após evitar viagens na campanha",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/apos-evitar-viagens-na-campanha-michelle-bolsonaro-embarca-para-israel",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/07/michelle-bolsonaro-fala-com-a-imprensa-apos-se-reunir-com-valdemar-costa-neto-e-bia-kicis-metropoles-4-scaled.jpg",
-   "data": "2026-11-13T19:13:19-03:00"
-  },
-  {
-   "id": "c3628f83a902",
-   "titulo": "Valdemar avisa que parlamentares decidem se apoiam ou não Hugo Motta",
-   "resumo": "Em conversa com deputados do PL, Valdemar Costa Neto disse que \"não tem interesse\" em entrar no bloco de Hugo Motta: \"Vocês que vão definir\"",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/valdemar-avisa-que-parlamentares-decidem-se-apoiam-ou-nao-hugo-motta",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/07/presidente-do-pl-valdemar-costa-neto-fala-com-a-imprensa-apos-se-reunir-com-michelle-bolsonaro-metropoles-5-scaled.jpg",
-   "data": "2026-11-13T18:55:40-03:00"
   }
  ]
 }
