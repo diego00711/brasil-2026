@@ -1,36 +1,450 @@
 {
- "atualizado": "2026-11-18T10:51:11.952385-03:00",
- "total": 62,
+ "atualizado": "2026-11-18T18:51:11.057449-03:00",
+ "total": 64,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "de04fa142f2c",
-   "titulo": "Trump, Putin e Xi se reúnem em jantar na China antes de cúpula",
-   "resumo": "Líderes dos EUA, Rússia e China terão encontro trilateral na 5ª feira (19.nov) para discutir segurança global",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-putin-e-xi-se-reunem-em-jantar-na-china-antes-de-cupula/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/6ZYHZnjYauE/hqdefault.jpg",
-   "data": "2026-11-18T10:48:09-03:00"
+   "id": "a80bc690cd81",
+   "titulo": "Prerrogativas aciona PGR após Jordy chamar Lula de “bêbado”",
+   "resumo": "O grupo Prerrogativas apresentou nesta quarta-feira, 18, uma notícia de fato à Procuradoria-Geral da República (PGR) após o senador eleito Carlos Jordy (PL-RJ) afirmar que o Brasil estava “na mão de um bêbado”, em referência ao presidente L…",
+   "link": "https://oantagonista.com.br/brasil/prerrogativas-aciona-pgr-apos-jordy-chamar-lula-de-bebado/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/img20260513144128370.jpg",
+   "data": "2026-11-18T18:46:46-03:00"
   },
   {
-   "id": "d0a206709f1e",
-   "titulo": "Crise na PF: associação pede ao Ministério da Justiça para ouvir delegados afastados",
-   "resumo": "A Associação Nacional dos Delegados de Polícia Federal (ADPF) enviou um ofício ao Ministério da Justiça, nesta quarta-feira (18), pedindo esclarecimentos em relação aos delegados afastados do caso Master.",
-   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/18/crise-na-pf-associacao-pede-ao-ministerio-da-justica-para-ouvir-delegados-afastados.ghtml",
+   "id": "8d37b2c8ff81",
+   "titulo": "Multiplan inaugura expansão de R$ 320 mi no ParkShopping, em Brasília",
+   "resumo": "Ampliação acrescenta quase 9.000 m² de área locável e 60 operações ao empreendimento na capital federal; empresa conclui ciclo de quase R$ 2 bilhões em investimentos",
+   "link": "https://www.poder360.com.br/poder-economia/multiplan-inaugura-expansao-de-r-320-mi-no-parkshopping-em-brasilia/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/GPFO76avmTE/hqdefault.jpg",
+   "data": "2026-11-18T18:34:08-03:00"
+  },
+  {
+   "id": "20920c8a6e8f",
+   "titulo": "ASSISTA: Senado analisa e vota destaques e emendas apresentadas ao texto do ajuste fiscal",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/D7QfrIvy7sdEkRFwe9OMWebz9Tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/2nE33AQbA0nFnRt9xgXw/55661289905-87394a5a56-k.jpg",
+   "data": "2026-11-18T18:33:28-03:00"
+  },
+  {
+   "id": "6da02d510a94",
+   "titulo": "Multiplan entra em compasso de espera diante de incertezas, diz CEO",
+   "resumo": "Eduardo Peres diz que depois de 7 expansões em 3 anos, empresa priorizará a consolidação dos empreendimentos e aguardará sinais sobre o consumo e os rumos da economia para definir novos investimentos",
+   "link": "https://www.poder360.com.br/poder-economia/multiplan-entra-em-compasso-de-espera-diante-de-incertezas-diz-ceo/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/GPFO76avmTE/hqdefault.jpg",
+   "data": "2026-11-18T18:32:19-03:00"
+  },
+  {
+   "id": "63a2a5bde7fe",
+   "titulo": "Valdemar se explica após chamar candidatura de Nikolas à Câmara de “loucura”",
+   "resumo": "O presidente nacional do PL, Valdemar Costa Neto, tentou se justificar nesta quarta-feira, 18, sobre a declaração em que classificou a possível candidatura de Nikolas Ferreira (PL-MG) à presidência da Câmara dos Deputados como “loucura”. Em…",
+   "link": "https://oantagonista.com.br/brasil/valdemar-se-explica-apos-chamar-candidatura-de-nikolas-a-camara-de-loucura/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55118143853_0596808e8c_k-e1775136821837.jpg",
+   "data": "2026-11-18T18:21:27-03:00"
+  },
+  {
+   "id": "e26a157bef26",
+   "titulo": "Moro critica ajuste fiscal e diz que União transfere conta aos estados",
+   "resumo": "O senador Sérgio Moro (PL-PR) criticou nesta quarta-feira, 18, o projeto de ajuste fiscal em discussão no Senado e afirmou que a União tenta equilibrar as contas públicas à custa dos estados. Governador eleito do Paraná, ele defendeu que o …",
+   "link": "https://oantagonista.com.br/brasil/moro-critica-ajuste-fiscal-e-diz-que-uniao-transfere-conta-aos-estados/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55502619386_3b09859865_o-e1788610067366.jpg",
+   "data": "2026-11-18T17:58:06-03:00"
+  },
+  {
+   "id": "fce331d3c46b",
+   "titulo": "Miami Heat muda nome e ginásio para promover GTA 6",
+   "resumo": "Equipe de basquete norte-americana usará peças pretas e rosas durante a partida contra o Milwaukee Bucks pela NBA",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/miami-heat-muda-nome-e-ginasio-para-promover-gta-6/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Camisa-Miami-Heat-GTA.jpg",
+   "data": "2026-11-18T17:45:25-03:00"
+  },
+  {
+   "id": "590b84977902",
+   "titulo": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/29IWYLsk_lmVPhP5zvgHXwFwjGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/KcX4wTRCKJ9RAoWTRUfQ/montagem-horizontal-1280x720px-1-.jpg",
+   "data": "2026-11-18T17:44:21-03:00"
+  },
+  {
+   "id": "bf2778a91556",
+   "titulo": "“Loucura”, diz Valdemar sobre Nikolas na presidência da Câmara",
+   "resumo": "Presidente do PL afirma que deputado de 30 anos não tem idade mínima para assumir o posto na linha sucessória da Presidência da Casa",
+   "link": "https://www.poder360.com.br/poder-congresso/loucura-diz-valdemar-sobre-nikolas-na-presidencia-camara/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-18T17:42:30-03:00"
+  },
+  {
+   "id": "4542489fdecc",
+   "titulo": "TCU libera recursos federais para último trecho da Transnordestina",
+   "resumo": "Corte de Contas autoriza Infra S.A. a contratar obras de segmento que integra fase 3, que liga Salgueiro a Suape, em Pernambuco",
+   "link": "https://www.poder360.com.br/poder-economia/tcu-libera-recursos-federais-para-ultimo-trecho-da-transnordestina/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-18T17:36:50-03:00"
+  },
+  {
+   "id": "a3cbcaaea8ed",
+   "titulo": "Braga diz que corte maior no ajuste fiscal ameaça programas sociais",
+   "resumo": "O relator do projeto de ajuste fiscal no Senado, Eduardo Braga (MDB-AM), afirmou nesta quarta-feira, 18, que a proposta da oposição de ampliar o corte no crescimento das despesas públicas poderia comprometer programas sociais do governo Lul…",
+   "link": "https://oantagonista.com.br/brasil/braga-diz-que-corte-maior-no-ajuste-fiscal-ameaca-programas-sociais/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/eduardo-braga-1.jpg",
+   "data": "2026-11-18T17:36:35-03:00"
+  },
+  {
+   "id": "1a6618fb7cc0",
+   "titulo": "PF investiga vazamento de informações sobre relatórios citando ministros do STF",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/pf-investiga-vazamento-de-informacoes-sobre-relatorios-citando-ministros-do-stf.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/UYQYYdEViyLkCb0z20mUsM6dY38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/6/VgCLcnRoKjf3mMwqdmfQ/ton-molina.jpg",
+   "data": "2026-11-18T17:32:59-03:00"
+  },
+  {
+   "id": "4b01fe58050b",
+   "titulo": "Câmara aprova projeto que pune político que não colaborar com transição entre governos",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/camara-aprova-projeto-que-pune-politico-que-nao-colaborar-com-transicao-entre-governos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/JXIKokmvmhpWJheCeu0MqCe3q4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/NANIAMTZe0eEb3soFNPg/55649391240-f2708adb60-k-1-.jpg",
+   "data": "2026-11-18T17:25:41-03:00"
+  },
+  {
+   "id": "350bdf99e725",
+   "titulo": "Marina Silva defende indicação de mulher negra para vaga no STF",
+   "resumo": "A ex-ministra do Meio Ambiente Marina Silva (Rede-SP) compartilhou uma ação de movimentos da sociedade civil pela nomeação de uma mulher negra na vaga aberta no Supremo Tribunal Federal (STF). No vídeo em que participa, Marina afirma que as…",
+   "link": "https://oantagonista.com.br/brasil/marina-silva-defende-indicacao-de-mulher-negra-para-vaga-no-stf/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/raf4302-scaled.jpg",
+   "data": "2026-11-18T17:21:21-03:00"
+  },
+  {
+   "id": "7afb9920b67a",
+   "titulo": "Respostas de Andrei e ministro “não correspondem aos fatos”, diz Vieira",
+   "resumo": "O senador Alessandro Vieira (MDB-SE) disse nesta quarta-feira, 18, que as explicações apresentadas pelo diretor-geral da Polícia Federal, Andrei Rodrigues, e pelo ministro da Justiça, Wellington César Lima e Silva, sobre a elaboração de rel…",
+   "link": "https://oantagonista.com.br/brasil/respostas-de-andrei-e-ministro-nao-correspondem-aos-fatos-diz-vieira/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55206683152_b5f533ac97_k.jpg",
+   "data": "2026-11-18T17:19:04-03:00"
+  },
+  {
+   "id": "b9ca3352818d",
+   "titulo": "Andrei evita responder sobre áudios que citam ingressos de F1 para filhos",
+   "resumo": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, evitou responder nesta quarta-feira, 18, durante audiência no Senado, a um questionamento sobre os áudios que citam um pedido a Daniel Vorcaro de ingressos de Fórmula 1 para os filh…",
+   "link": "https://oantagonista.com.br/brasil/andrei-evita-responder-sobre-audios-que-citam-ingressos-de-f1-para-filhos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/05/cdad3333-fe46-4b2c-bc54-9229d1d32069.jpg",
+   "data": "2026-11-18T17:17:19-03:00"
+  },
+  {
+   "id": "ab692fa7258e",
+   "titulo": "Andrei diz que delegados afastados do caso Master descumpriram ordem da direção da PF",
+   "resumo": "Em audiência no Senado, o chefe da PF apontou divergências sobre relatórios que mencionavam ministros do STF na investigação do caso Master.",
+   "link": "https://www.gazetadopovo.com.br/republica/andrei-diz-que-delegados-afastados-do-caso-master-descumpriram-ordem-da-direcao-da-pf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/18165005/55659762122_8b8e701e70_o-960x540.jpg",
+   "data": "2026-11-18T17:09:09-03:00"
+  },
+  {
+   "id": "6b478744fd25",
+   "titulo": "Dólar bate R$ 5,87 e segue no maior patamar desde abril de 2025",
+   "resumo": "Moeda brasileira é pressionada por impasse na votação do pacote fiscal; dólar avançou 1,46% na sessão",
+   "link": "https://www.poder360.com.br/poder-economia/dolar-bate-r-586-e-segue-no-maior-patamar-desde-abril-de-2025/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-18-nov-2026-01-scaled.png",
+   "data": "2026-11-18T17:08:19-03:00"
+  },
+  {
+   "id": "c0ff1092cfaa",
+   "titulo": "Toyota prioriza estabilidade de vendas diante de avanço chinês",
+   "resumo": "Depois de ser ultrapassada pela BYD em ranking, montadora aposta em novos modelos e planejamento de longo prazo",
+   "link": "https://www.poder360.com.br/poder-economia/toyota-prioriza-estabilidade-de-vendas-diante-de-avanco-chines/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/XmQJvwg_GbE/hqdefault.jpg",
+   "data": "2026-11-18T16:56:54-03:00"
+  },
+  {
+   "id": "6c1563930f0d",
+   "titulo": "Fed alerta para dívida ligada à IA e propõe novas altas de juros",
+   "resumo": "Ata do banco central dos EUA aponta riscos no financiamento de centros de dados e indica aperto monetário contra inflação",
+   "link": "https://www.poder360.com.br/poder-economia/fed-alerta-para-divida-ligada-a-ia-e-propoe-novas-altas-de-juros/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-18T16:40:16-03:00"
+  },
+  {
+   "id": "8a8e173d6c95",
+   "titulo": "Novo lança candidato à Câmara e diz querer unir direita",
+   "resumo": "O partido Novo afirma que o lançamento do deputado federal eleito Paulo Eduardo Martins (Novo-PR) à presidência da Câmara dos Deputados não tem o objetivo de dividir a oposição, mas de iniciar uma articulação para unificar a direita em torn…",
+   "link": "https://oantagonista.com.br/brasil/novo-lanca-candidato-a-camara-e-diz-querer-unir-direita/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-18T163551.432.png",
+   "data": "2026-11-18T16:39:06-03:00"
+  },
+  {
+   "id": "ab8d7af49f59",
+   "titulo": "Lula visitará cacique Raoni na 5ª feira em Mato Grosso",
+   "resumo": "Presidente irá à casa do líder indígena, em Peixoto de Azevedo, acompanhado do ministro dos Povos Indígenas, Eloy Terena; Raoni se recupera de uma infecção pulmonar e trata de um câncer no aparelho digestório",
+   "link": "https://www.poder360.com.br/poder-governo/lula-visitara-cacique-raoni-na-5a-feira-em-mato-grosso/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-18T16:37:28-03:00"
+  },
+  {
+   "id": "f3ebbc7d5f47",
+   "titulo": "Associação de juízes pede rejeição de propostas de redução da maioridade penal",
+   "resumo": "A Associação Juízes para a Democracia (AJD) enviou nesta quarta-feira, 18, a parlamentares um ofício em que pede a rejeição de cinco propostas de emenda à Constituição (PECs) que preveem a redução da maioridade penal. Três das propostas est…",
+   "link": "https://oantagonista.com.br/brasil/associacao-de-juizes-pede-rejeicao-de-propostas-de-reducao-da-maioridade-penal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/foto-canva-91.png",
+   "data": "2026-11-18T16:35:28-03:00"
+  },
+  {
+   "id": "bbbe8789b457",
+   "titulo": "Andrei nega subjetividade e atribui saída de delegados a “quebra de confiança”",
+   "resumo": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, negou nesta quarta-feira, 18, que tenha havido subjetividade na avaliação dos relatórios que levaram ao afastamento de dois delegados da corporação de funções de chefia. Em audiênci…",
+   "link": "https://oantagonista.com.br/brasil/andrei-nega-subjetividade-e-atribui-saida-de-delegados-a-quebra-de-confianca/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55656404273_3472518a10_6k-scaled.jpg",
+   "data": "2026-11-18T16:34:02-03:00"
+  },
+  {
+   "id": "77589768e5ba",
+   "titulo": "Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados",
+   "resumo": "Diretor-geral da PF Andrei Rodrigues fala ao Senado sobre troca de delegados Eles foram afastados de suas funções após elaboração de relatórios sobre o envolvimento de ministros do STF com Daniel Vorcaro, dono do Master. Diretor-geral da PF…",
+   "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml",
    "fonte": "G1 Política",
    "imagem": "",
-   "data": "2026-11-18T10:48:05-03:00"
+   "data": "2026-11-18T16:29:37-03:00"
   },
   {
-   "id": "cda2018ac422",
-   "titulo": "CCJ do Senado aprova aumento de penas para motoristas que provocam acidentes graves sob efeito de álcool ou drogas",
+   "id": "b9cd487ea88f",
+   "titulo": "Senado rejeita mudanças no ajuste fiscal, faz acordo sobre Lei Kandir e destina recursos economizados com supersalários",
    "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/ccj-do-senado-aprova-aumento-de-penas-para-motoristas-que-provocam-acidentes-graves-sob-efeito-de-alcool-ou-drogas.ghtml",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-comeca-a-votar-requerimentos-para-modificar-proposta-de-ajuste-fiscal-de-lula.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/rlOG2wSJ02-vA_-BQgl5LNrt1h0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/t/EXokLBSBO8RM5NK1Yl0g/g1.png",
-   "data": "2026-11-18T10:45:04-03:00"
+   "imagem": "https://s2-g1.glbimg.com/hSWM__7Sk8uw5I-5Isqal7YCMwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/D/X46BXWRDu5GBtRQnjATg/55630660960-279b9cd611-4k.jpg",
+   "data": "2026-11-18T16:25:33-03:00"
+  },
+  {
+   "id": "340fddd890d0",
+   "titulo": "“Ouvirei todos os delegados da PF que me procurarem”, diz ministro da Justiça",
+   "resumo": "O ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, afirmou nesta quarta-feira, 18, em audiência no Senado, que vai ouvir todos os delegados da Polícia Federal (PF) que o procurarem. A declaração foi dada após a senado…",
+   "link": "https://oantagonista.com.br/brasil/ouvirei-todos-os-delegados-da-pf-que-me-procurarem-diz-ministro-da-justica/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/ministro-da-justica-1.jpg",
+   "data": "2026-11-18T16:23:17-03:00"
+  },
+  {
+   "id": "bb8472f16380",
+   "titulo": "Enem 2026: leia o gabarito oficial das provas",
+   "resumo": "Inep liberou respostas dos 2 domingos de exame; notas saem em 18 de janeiro e pedidos de reaplicação vão até 6ª feira",
+   "link": "https://www.poder360.com.br/poder-educacao/enem-2026-leia-o-gabarito-oficial-das-provas/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-18T16:14:01-03:00"
+  },
+  {
+   "id": "d97a21abed40",
+   "titulo": "Governo tem votos para concluir votação do pacote fiscal no Senado, avalia ministro",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/governo-tem-votos-para-concluir-votacao-do-pacote-fiscal-no-senado-avalia-ministro.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/9pbMiHIXm8aY92scCgQdNSrB2hE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/m/bX9z5wQAy2vY4lOjraTg/captura-de-tela-2026-10-15-220432.png",
+   "data": "2026-11-18T16:12:19-03:00"
+  },
+  {
+   "id": "a7e56f4217a3",
+   "titulo": "Áudios revelam pedido de ingressos de F1 a Vorcaro para filhos do chefe da PF, diz portal",
+   "resumo": "Vorcaro teria recebido a solicitação de Alexandre Bacelar em novembro de 2024, para atender aos filhos do diretor-geral da PF.",
+   "link": "https://www.gazetadopovo.com.br/republica/audios-revelam-pedido-de-ingressos-de-f1-a-vorcaro-para-filhos-do-chefe-da-pf-diz-portal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/03102819/img20251103160851564-960x540.jpg",
+   "data": "2026-11-18T15:59:34-03:00"
+  },
+  {
+   "id": "d68a5226450d",
+   "titulo": "Novo lança deputado eleito Paulo Martins candidato à presidência da Câmara dos Deputados",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/novo-lanca-deputado-eleito-paulo-martins-candidato-a-presidencia-da-camara-dos-deputados.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/U3pCdqefsq11sZLDzUsXELazD2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/4/gVCZopQEmtSpBOuKWYGQ/paulo-martins-vice-prefeito-curitiba.png",
+   "data": "2026-11-18T15:56:13-03:00"
+  },
+  {
+   "id": "bc6a3c928c91",
+   "titulo": "Alessandro Vieira rebate comparação de diretor da PF sobre relatórios",
+   "resumo": "O senador Alessandro Vieira (MDB-SE) rejeitou nesta quarta-feira, 18, durante audiência no Senado, uma comparação feita pelo diretor-geral da Polícia Federal (PF), Andrei Rodrigues, para justificar a atuação da corporação na elaboração dos …",
+   "link": "https://oantagonista.com.br/brasil/alessandro-vieira-rebate-comparacao-de-diretor-da-pf-sobre-relatorios/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55206641457_0e1e8561e2_o-1-e1776529838234.jpg",
+   "data": "2026-11-18T15:51:07-03:00"
+  },
+  {
+   "id": "3193e0a8a497",
+   "titulo": "Ainda sem mandato, Deltan vai à audiência com chefe da PF no Senado",
+   "resumo": "Deltan Dallagnol, que assume como senador em 2027, compareceu em audiência no Senado com o diretor-geral da PF, Andrei Rodrigues",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/ainda-sem-mandato-deltan-vai-a-audiencia-com-chefe-da-pf-no-senado",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/08/ex-deputado-deltan-dallagnol-deixa-qg-eleitoral-do-pl-no-lago-sul-metropoles-1-scaled.jpeg",
+   "data": "2026-11-18T15:43:24-03:00"
+  },
+  {
+   "id": "23fabc47e1f5",
+   "titulo": "Na FAO, Wellington Dias celebra avanços no combate à fome",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-18T15:40:00-03:00"
+  },
+  {
+   "id": "3a74045ad635",
+   "titulo": "Reforma tributária: alíquota de 11,3% da CBS pode valer só em 2027 e mudar depois; entenda",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/EtAxVdVhhw4e_lXanFDSX4aDEpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/W/09DKLzSbAfaDuGP7iZpw/55658673760-a46ddb49cb-o.jpg",
+   "data": "2026-11-18T15:28:42-03:00"
+  },
+  {
+   "id": "723248bf4408",
+   "titulo": "Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para presidente do STF",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tcQEiMyCBVdYpHFwKhRTq01NnYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/e/VCLAQGQaW6PysupbUKIg/montagem-horizontal-1200px-8-.jpg",
+   "data": "2026-11-18T15:24:57-03:00"
+  },
+  {
+   "id": "1be30e64b413",
+   "titulo": "Revisão dos relatórios foi necessária porque pedido de Fachin foi feito à direção da PF, diz Andrei",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/revisao-dos-relatorios-foi-necessaria-porque-pedido-de-fachin-foi-feito-a-direcao-da-pf-diz-andrei.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/7rw7D3IAB1kki4347OK0R-Hy1aM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/L/Yhv1JHQLKSrFAqwwAHpQ/54931868841-c47dccc61a-z.webp",
+   "data": "2026-11-18T15:21:36-03:00"
+  },
+  {
+   "id": "3a990335c780",
+   "titulo": "Relatórios da Polícia Federal sobre ministros do STF no caso Master provocam tensão no tribunal",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/18/relatorios-da-policia-federal-sobre-ministros-do-stf-no-caso-master-provocam-tensao-no-tribunal.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/N1Fw1tfeTqEXfFPjByZGLKYqMu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/0/BcVeo4RwazJfZ1nRMgUA/fotojet-7-.jpg",
+   "data": "2026-11-18T15:01:09-03:00"
+  },
+  {
+   "id": "9628678ca093",
+   "titulo": "Líder da oposição diz que governo Lula rejeitou contraproposta de ajuste fiscal",
+   "resumo": "No debate sobre o ajuste fiscal, a contraproposta prevê corte de subsídios, mudanças nas despesas e limite para os gastos públicos.",
+   "link": "https://www.gazetadopovo.com.br/republica/lider-da-oposicao-diz-que-governo-lula-rejeitou-contraproposta-de-ajuste-fiscal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16221758/rogerio-marinho-3-960x540.jpg",
+   "data": "2026-11-18T14:41:06-03:00"
+  },
+  {
+   "id": "695a96d2a601",
+   "titulo": "EUA impõem restrições ao Brasil em chips de IA para barrar avanço da China",
+   "resumo": "Este episódio do Podcast 15 Minutos analisa a inclusão do Brasil em uma lista restrita do Departamento de Comércio dos Estados Unidos",
+   "link": "https://www.gazetadopovo.com.br/republica/eua-impoem-restricoes-ao-brasil-em-chips-de-ia-para-barrar-avanco-da-china/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/14101134/id_15_minutos_completo-960x540.png",
+   "data": "2026-11-18T13:56:27-03:00"
+  },
+  {
+   "id": "d56ccd690474",
+   "titulo": "Marina Silva integra vídeo cobrando Lula por mulher negra no STF",
+   "resumo": "Ex-ministra se junta a advogada do Prerrogativas e deputada petista enquanto ala defende nova indicação de Messias. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/marina-silva-integra-video-cobrando-lula-por-mulher-negra-no-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/18134259/Design-sem-nome-13-960x540.jpg",
+   "data": "2026-11-18T13:44:46-03:00"
+  },
+  {
+   "id": "dd69326c5e52",
+   "titulo": "PT apresenta alternativa ao ajuste fiscal com mais impostos e mudança na autonomia do BC",
+   "resumo": "A bancada entregou sete projetos a Bruno Moretti em meio às divergências entre integrantes do PT sobre o ajuste fiscal do governo Lula.",
+   "link": "https://www.gazetadopovo.com.br/republica/pt-apresenta-alternativa-ao-ajuste-fiscal-com-mais-impostos-e-mudanca-na-autonomia-do-bc/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/18132437/Design-sem-nome-46-960x540.jpg",
+   "data": "2026-11-18T13:34:01-03:00"
+  },
+  {
+   "id": "e7554cf8e12b",
+   "titulo": "“Teatro de ridículos”, diz professor da FGV sobre reunião de Congresso e Moraes",
+   "resumo": "No programa Última Análise desta quarta-feira (17), os comentaristas analisam o que está por trás de manobra de Alcolumbre no Senado.",
+   "link": "https://www.gazetadopovo.com.br/republica/teatro-do-ridiculo-a-reuniao-entre-congresso-nacional-e-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/06215459/alcolumbre-motta-maioridade-penal-1-960x540.jpg",
+   "data": "2026-11-18T12:51:22-03:00"
+  },
+  {
+   "id": "2f4521b34d3e",
+   "titulo": "Lindbergh e Moretti posam juntos para foto após atritos por ajuste fiscal",
+   "resumo": "Lindbergh apresentou a Moretti alternativas ao pacote e defendeu a retirada dos investimentos públicos do ajuste, além de maior tributação.",
+   "link": "https://www.gazetadopovo.com.br/republica/lindbergh-e-moretti-posam-juntos-para-foto-apos-atritos-por-ajuste-fiscal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/18122325/Design-sem-nome-45-960x540.jpg",
+   "data": "2026-11-18T12:40:45-03:00"
+  },
+  {
+   "id": "6565d85e07e9",
+   "titulo": "Janones reage a críticas em meio a racha no PT por ajuste fiscal",
+   "resumo": "Lindbergh Farias questionou a postura de Janones, que classificou como \"traição\" as críticas ao presidente Lula.",
+   "link": "https://www.gazetadopovo.com.br/republica/janones-reage-a-criticas-em-meio-a-racha-no-pt-por-ajuste-fiscal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03124315/EXERCITO-JANONES-960x540.jpg",
+   "data": "2026-11-18T11:47:21-03:00"
+  },
+  {
+   "id": "7b61e83bfec6",
+   "titulo": "Juiz federal atende Nikolas Ferreira e suspende licitação de iPhones do Senado",
+   "resumo": "Magistrado explicou que lei veda compra de itens de luxo pelo poder público e viu restrição à concorrência. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/juiz-federal-atende-nikolas-ferreira-e-suspende-licitacao-de-iphones-do-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/18114511/Design-sem-nome-11-960x540.jpg",
+   "data": "2026-11-18T11:45:54-03:00"
+  },
+  {
+   "id": "dd702a97d3bb",
+   "titulo": "Politização do Supremo contamina a Polícia Federal e ameaça o caso Master",
+   "resumo": "Andrei Rodrigues diz que “não há crise, racha interno, nem perda de autonomia” na PF. Falta dizer que não há interferência no caso Master.",
+   "link": "https://www.gazetadopovo.com.br/vozes/renan-ramalho/politizacao-do-supremo-contamina-a-policia-federal-e-ameaca-o-caso-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16182040/Andrei-Rodrigues-PF-960x540.jpg",
+   "data": "2026-11-18T11:45:29-03:00"
+  },
+  {
+   "id": "e856d185d24c",
+   "titulo": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-18T11:12:00-03:00"
+  },
+  {
+   "id": "5bc774bc83f8",
+   "titulo": "Governo Lula prevê gasto de R$ 75 milhões com três empresas de comunicação",
+   "resumo": "Contratação prevê atendimento à imprensa, produção de conteúdo e monitoramento de mídia, com contratos iniciais de 12 meses.",
+   "link": "https://www.gazetadopovo.com.br/republica/governo-lula-preve-gasto-r-75-milhoes-com-tres-empresas-de-comunicacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/11180735/vice-geraldo-alckmin-960x540.jpg",
+   "data": "2026-11-18T11:09:10-03:00"
   },
   {
    "id": "f3e4f1ec35ae",
@@ -39,34 +453,7 @@
    "link": "https://www.metropoles.com/colunas/igor-gadelha/justica-atende-nikolas-e-suspende-pregao-de-iphones-do-senado",
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/04/whatsapp-image-2026-04-08-at-200326.jpg",
-   "data": "2026-11-18T10:43:51-03:00"
-  },
-  {
-   "id": "db9391378748",
-   "titulo": "Parcela de petróleo da União no pré-sal cresce 67% em 1 ano",
-   "resumo": "Produção total nos campos do pré-sal atinge 1,95 milhão de barris por dia em setembro",
-   "link": "https://www.poder360.com.br/poder-energia/parcela-de-petroleo-da-uniao-no-pre-sal-cresce-67-em-1-ano/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T10:40:22-03:00"
-  },
-  {
-   "id": "ef338cdf84a2",
-   "titulo": "Juros e tributos andaram na direção errada, diz conselheiro do Bradesco",
-   "resumo": "Luiz Carlos Trabuco afirma que a piora nos custos logísticos e encargos trabalhistas supera avanços na escolaridade",
-   "link": "https://www.poder360.com.br/poder-economia/juros-e-tributos-andaram-na-direcao-errada-diz-conselheiro-do-bradesco/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T10:27:20-03:00"
-  },
-  {
-   "id": "bbee8e1a33ef",
-   "titulo": "PT propõe a Moretti taxar super-ricos e mudar autonomia do BC",
-   "resumo": "Deputados entregam ao ministro 7 projetos fiscais para taxar lucros, dividendos e títulos isentos, além de rever o teto de gastos",
-   "link": "https://www.poder360.com.br/poder-congresso/pt-propoe-a-moretti-taxar-super-ricos-e-mudar-autonomia-do-bc/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T10:24:18-03:00"
+   "data": "2026-11-18T10:40:51-03:00"
   },
   {
    "id": "e3f743900218",
@@ -78,177 +465,6 @@
    "data": "2026-11-18T10:16:10-03:00"
   },
   {
-   "id": "1cd538c53da7",
-   "titulo": "Mulheres pretas ocupam 1,7% dos cargos de chefia no setor privado",
-   "resumo": "Homens brancos representam 42% dos dirigentes, diretores e gerentes do setor privado, segundo o IBGE",
-   "link": "https://www.poder360.com.br/poder-brasil/mulheres-pretas-ocupam-17-dos-cargos-de-chefia-no-setor-privado/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/ibge-pretos-brancos-pardos-17-nov-2026-06-scaled.jpg",
-   "data": "2026-11-18T10:00:15-03:00"
-  },
-  {
-   "id": "e6a1b5165d61",
-   "titulo": "Homens negros foram 71,3% das vítimas de homicídio em 2024",
-   "resumo": "Percentual é quase 4 vezes o registrado entre homens brancos, que representaram 18,4% das vítimas",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/homens-negros-foram-713-das-vitimas-de-homicidio-em-2024/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/ibge-pretos-brancos-pardos-17-nov-2026-04-scaled.jpg",
-   "data": "2026-11-18T10:00:15-03:00"
-  },
-  {
-   "id": "0c5b742db1cd",
-   "titulo": "Brancos com ensino superior recebem R$ 16,10/hora a mais que negros",
-   "resumo": "Levantamento do IBGE compara rendimentos de homens com a mesma formação; desigualdade também é registrada entre mulheres",
-   "link": "https://www.poder360.com.br/poder-brasil/brancos-com-ensino-superior-recebem-r-161-hora-a-mais-que-negros/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/ibge-pretos-brancos-pardos-17-nov-2026-01-scaled.jpg",
-   "data": "2026-11-18T10:00:10-03:00"
-  },
-  {
-   "id": "43e2fd408fc4",
-   "titulo": "De Ferrari a iate: veja apreensões da PF em operação contra apostas ilegais",
-   "resumo": "Operação Cash Out apreendeu 5 aeronaves, 14 veículos e um iate de R$ 40 milhões, além de determinar o bloqueio de R$ 2,3 bilhões",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/de-ferrari-a-iate-veja-apreensoes-da-pf-em-operacao-contra-apostas-ilegais/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Ferrari-812-Competizione-apreendida.jpg",
-   "data": "2026-11-18T09:46:48-03:00"
-  },
-  {
-   "id": "738b983f5105",
-   "titulo": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/18/um-ano-depois-fraude-do-banco-master-deixou-prejuizo-de-r-76-bilhoes.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/BRR9ORRvLATEv00m6mZIKXChf8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/B/8HwobsQGmFfkAmrv1NCA/0g0a6467.jpg",
-   "data": "2026-11-18T09:42:37-03:00"
-  },
-  {
-   "id": "927e8e26836b",
-   "titulo": "Andrei percorre os três Poderes em meio à crise na PF",
-   "resumo": "Diretor-geral prestará esclarecimentos ao Senado e entregará relatório sobre ministros do Supremo a Fachin. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/andrei-percorre-os-tres-poderes-em-meio-a-crise-na-pf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/18093719/Design-sem-nome-9-960x540.jpg",
-   "data": "2026-11-18T09:39:50-03:00"
-  },
-  {
-   "id": "a2573f968367",
-   "titulo": "Janones defende ajuste fiscal e critica “acusações irresponsáveis”",
-   "resumo": "Deputado afirma que Lula precisa lidar com o Congresso, restrições orçamentárias e com “forças políticas”",
-   "link": "https://www.poder360.com.br/poder-governo/janones-defende-ajuste-fiscal-e-critica-acusacoes-irresponsaveis/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/X-Janones-17nov20261.png",
-   "data": "2026-11-18T09:34:36-03:00"
-  },
-  {
-   "id": "021c562dd64b",
-   "titulo": "Desemprego cai em 8 das 27 unidades da Federação no 3º trimestre",
-   "resumo": "Taxa nacional recuou para 5,2%, ante 5,4% no trimestre anterior; rendimento médio chegou a R$ 3.790",
-   "link": "https://www.poder360.com.br/poder-economia/desemprego-cai-em-8-das-27-unidades-da-federacao-no-3o-trimestre/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T09:21:36-03:00"
-  },
-  {
-   "id": "5bf8a456f9a5",
-   "titulo": "Vice-prefeito de Curitiba quer ser Presidente da Câmara",
-   "resumo": "O vice-prefeito de Curitiba e deputado federal eleito Paulo Martins (Novo-PR) vai lançar, nesta quarta-feira, 18, sua pré-candidatura à Presidência da Câmara. O anúncio oficial ocorrerá por meio de uma entrevista coletiva marcada para a tar…",
-   "link": "https://oantagonista.com.br/brasil/vice-prefeito-de-curitiba-quer-ser-presidente-da-camara/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Paulo_Martins-1.jpeg",
-   "data": "2026-11-18T09:07:21-03:00"
-  },
-  {
-   "id": "94c1adcfb19f",
-   "titulo": "Henrique Vorcaro, pai do dono do Master, fez operações suspeitas com alvo da PF e fundo de gestora mineira",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/henrique-vorcaro-pai-do-dono-do-master-fez-operacoes-suspeitas-com-alvo-da-pf-e-fundo-de-gestora-mineira.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg",
-   "data": "2026-11-18T09:07:15-03:00"
-  },
-  {
-   "id": "d7782b194dfa",
-   "titulo": "Diretor-geral da PF irá a audiência para explicar interferência no órgão",
-   "resumo": "O diretor-geral da Polícia Federal, Andrei Rodrigues, confirmou na manhã desta quarta-feira, 18, que vai participar da audiência pública marcada pela Comissão de Constituição e Justiça (CCJ) e pela Comissão de Segurança Pública (CSP) do Sen…",
-   "link": "https://oantagonista.com.br/brasil/diretor-geral-da-pf-ira-a-audiencia-para-explicar-interferencia-no-orgao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/05/cdad3333-fe46-4b2c-bc54-9229d1d32069.jpg",
-   "data": "2026-11-18T08:42:26-03:00"
-  },
-  {
-   "id": "ea2bab228af6",
-   "titulo": "Risco de derrota no ajuste fiscal mostra que Lula terá de ceder mais espaço ao Centrão e partidos da Frente Ampla",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/risco-de-derrota-no-ajuste-fiscal-mostra-que-lula-tera-de-ceder-mais-espaco-ao-centrao-e-partidos-da-frente-ampla.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/_nfWpnUBrmRWBq0LEk5qwNMlG1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/4/g3Bs83TTuIhzANgQy8Uw/globo-canal-4-20261117-2000-frame-95074.jpeg",
-   "data": "2026-11-18T08:25:25-03:00"
-  },
-  {
-   "id": "09b8f7a3bbe9",
-   "titulo": "Diretor da PF confirma que irá ao Senado prestar esclarecimentos sobre troca de delegados",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/diretor-da-pf-confirma-que-ira-ao-senado-prestar-esclarecimentos-sobre-troca-de-delegados.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/3TILUewXa7jvcAaL7edXTZ49xi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/x/9V1VSBTaGDGCgPe22llg/54931850346-d62e6d0628-o-1-.jpg",
-   "data": "2026-11-18T08:13:56-03:00"
-  },
-  {
-   "id": "387795cae3db",
-   "titulo": "Análise: Por que Alcolumbre pressiona Moraes pelo julgamento da Lei da Dosimetria?",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/18/analise-alcolumbre-moraes-dosimetria.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Cx_HyqczA_LSMl3dUJ1BApviYL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/W/ckAyAiRry29rR7IaQATA/fotojet-6-.jpg",
-   "data": "2026-11-18T07:38:51-03:00"
-  },
-  {
-   "id": "cf8edd034799",
-   "titulo": "Depois de duas décadas observando explosões cósmicas, telescópio caiu na atmosfera e tentativa de resgate também fracassou",
-   "resumo": "Após quase 22 anos de atividades científicas, o Observatório Swift, da NASA, reentrou na atmosfera terrestre em 4 de novembro de 2026. O encerramento da missão ocorreu depois que uma tentativa de elevar sua órbita utilizando uma espaçonave …",
-   "link": "https://oantagonista.com.br/brasil/depois-de-duas-decadas-observando-explosoes-cosmicas-telescopio-caiu-na-atmosfera-e-tentativa-de-resgate-tambem-fracassou/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Satellite_reentering_Earth_atmos…_66bdd0a1.jpg",
-   "data": "2026-11-18T07:33:00-03:00"
-  },
-  {
-   "id": "40b9261e795d",
-   "titulo": "PF quer ouvir Vorcaro após ex-sócio de Leo Dias relatar pagamentos a influenciadores",
-   "resumo": "Inquérito apura recrutamento para campanha contra o Banco Central e em favor do Banco Master. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pf-quer-ouvir-vorcaro-apos-ex-socio-de-leo-dias-relatar-pagamentos-a-influenciadores/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/18071132/Design-sem-nome-6-960x540.jpg",
-   "data": "2026-11-18T07:13:46-03:00"
-  },
-  {
-   "id": "0fde0176b2e6",
-   "titulo": "Os filhos que lutam na Justiça para apagar nomes de pais ausentes ou abusivos dos documentos: 'Só quero por um ponto final nesta história'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/os-filhos-que-lutam-na-justica-para-apagar-nomes-de-pais-ausentes-ou-abusivos-dos-documentos-so-quero-por-um-ponto-final-nesta-historia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/1rNor-T2yBpvOQHiM30pO4D7umk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/Fv4hlcQB6GELkaPn7dOw/f14c0fc0-9bd1-11f1-aed2-8d6da8d75094.jpg.webp",
-   "data": "2026-11-18T05:41:07-03:00"
-  },
-  {
-   "id": "35a32e0e2cc9",
-   "titulo": "Uma obra de 27 km está sendo escavada debaixo do mar e terá rotatórias dentro da própria montanha para eliminar travessias de balsa no litoral europeu",
-   "resumo": "O túnel Rogfast, em construção na Noruega, deverá se tornar o túnel rodoviário submarino mais longo e profundo do mundo. Com aproximadamente 27 quilômetros de extensão, a obra terá rotatórias subterrâneas e deverá reduzir em cerca de 40 min…",
-   "link": "https://oantagonista.com.br/brasil/uma-obra-de-27-km-esta-sendo-escavada-debaixo-do-mar-e-tera-rotatorias-dentro-da-propria-montanha-para-eliminar-travessias-de-balsa-no-litoral-europeu/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Subsea_tunnel_roundabout_archite…_ccd45d2f.jpg",
-   "data": "2026-11-18T02:30:00-03:00"
-  },
-  {
-   "id": "7d34a91e4025",
-   "titulo": "Petroleiro da frota fantasma russa ancora no Brasil com carga bilionária de diesel",
-   "resumo": "Petroleiro russo Leruo ancora no Amazonas e revela como o Brasil se tornou rota bilionária para o diesel da frota fantasma sancionada pelo Ocidente.",
-   "link": "https://www.gazetadopovo.com.br/republica/petroleiro-da-frota-fantasma-russa-ancora-no-brasil-com-carga-bilionaria-de-diesel/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/18020356/Alcyone_T_IMO_9385831_T_Hamburg_12-07-2023_2-1-960x540.jpg",
-   "data": "2026-11-18T02:03:50-03:00"
-  },
-  {
    "id": "cb2f9b3657b3",
    "titulo": "O \"jogo combinado\" de Motta e Alcolumbre com Moraes sobre a dosimetria",
    "resumo": "Lideranças do Judiciário e do Legislativo veem \"jogo combinado\" de Motta e Alcolumbre com Alexandre de Moraes em reunião sobre dosimetria",
@@ -256,60 +472,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2025/12/03165855/WhatsApp-Image-2025-12-03-at-16.56.06.jpg",
    "data": "2026-11-18T02:00:44-03:00"
-  },
-  {
-   "id": "54d0bebf5512",
-   "titulo": "'Identidade e memória': entenda por que o STF agora tem uma escultura de Xangô no acesso ao plenário",
-   "resumo": "",
-   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/identidade-e-memoria-entenda-por-que-o-stf-agora-tem-uma-escultura-de-xango-no-acesso-ao-plenario.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/rwqXu-hn5UibmuPt_9qL1gwmvc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/z/KeMdx0SUqkMEpa4nIHsg/clb-inauguracao-stf-1-.jpeg",
-   "data": "2026-11-18T02:00:00-03:00"
-  },
-  {
-   "id": "c9257cc3e172",
-   "titulo": "Vespas põem ovos em vítimas vivas e evolução revela caminho sem volta",
-   "resumo": "Uma pesquisa com 697 espécies de vespas parasitoides revelou que determinadas estratégias de reprodução são praticamente irreversíveis. Ao desenvolverem mecanismos para explorar hospedeiros vivos, esses insetos passaram por transformações q…",
-   "link": "https://oantagonista.com.br/brasil/vespas-poem-ovos-em-vitimas-vivas-e-evolucao-revela-caminho-sem-volta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Vespa_parasitoide_ovipondo_em_la…_9d92d600.jpg",
-   "data": "2026-11-18T00:46:00-03:00"
-  },
-  {
-   "id": "757867db92a3",
-   "titulo": "Correios, Banco do Brasil e Petrobras: a saúde financeira das estatais - O Assunto #1848",
-   "resumo": "",
-   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/18/correios-banco-do-brasil-e-petrobras-a-saude-financeira-das-estatais-o-assunto-1848.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/M4qbi4UMQr4-piqDgVb6GA6U8yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/r/pnERlmQ5ilkJ00KRlsSA/globo-canal-4-20261116-2000-frame-69724.jpeg",
-   "data": "2026-11-18T00:30:00-03:00"
-  },
-  {
-   "id": "a4a31905c532",
-   "titulo": "Senado deve ouvir nesta quarta ministro da Justiça e diretor da PF sobre troca de delegados",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-deve-ouvir-nesta-quarta-ministro-da-justica-sobre-troca-de-delegados-diretor-da-pf-nao-confirma-presenca.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/vNH4qi_TXkGswaOftrhCSU3kt6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/HYONlBSFCouObIOcdgVQ/gnews-celulares-frame-71100.jpeg",
-   "data": "2026-11-18T00:00:01-03:00"
-  },
-  {
-   "id": "c19756f6dc36",
-   "titulo": "Fachin recebe nesta quarta relatório da PF sobre ministros no caso Master e deve avaliar modelo para definir próximos passos",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-recebe-nesta-quarta-relatorio-da-pf-sobre-ministros-no-caso-master-e-deve-avaliar-modelo-para-definir-proximos-passos.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg",
-   "data": "2026-11-18T00:00:01-03:00"
-  },
-  {
-   "id": "7602f6503ba2",
-   "titulo": "Navio fantasma russo prometido a Trump ancora no Brasil e revela esquema bilionário de diesel",
-   "resumo": "Um quarto de todo diesel comprado pelo Brasil da Rússia está nessas condições. Petroleiro que seguia aos EUA chega ao Brasil.",
-   "link": "https://www.gazetadopovo.com.br/republica/navio-fantasma-russo-prometido-a-trump-ancora-no-brasil-e-revela-esquema-bilionario-de-diesel/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17215300/Alcyone_T_IMO_9385831_T_Hamburg_12-07-2023_2-960x540.jpg",
-   "data": "2026-11-17T22:41:04-03:00"
   },
   {
    "id": "9cf5e582a09b",
@@ -321,132 +483,6 @@
    "data": "2026-11-17T22:29:01-03:00"
   },
   {
-   "id": "4408277ccdfe",
-   "titulo": "Novo lançará Paulo Martins à presidência da Câmara dos Deputado",
-   "resumo": "Novo lançará o deputado federal eleito Paulo Martins (PR) com candidato à presidência da Câmara. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/novo-lancara-paulo-martins-a-presidencia-da-camara-dos-deputado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17220056/paulo-martins-novo-960x540.jpg",
-   "data": "2026-11-17T22:02:29-03:00"
-  },
-  {
-   "id": "a6fb1ab3e74c",
-   "titulo": "STF instala escultura de Oxê de Xangô no Salão Nobre",
-   "resumo": "O Supremo Tribunal Federal passou a expor, desde esta terça-feira, 17, uma escultura de Oxê de Xangô, machado de duas lâminas que representa a justiça na tradição iorubá e nas religiões de matriz africana. A peça fica no Salão Nobre, no seg…",
-   "link": "https://oantagonista.com.br/brasil/stf-instala-escultura-de-oxe-de-xango-no-salao-nobre/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/esculturaoxe-1.jpg",
-   "data": "2026-11-17T22:02:13-03:00"
-  },
-  {
-   "id": "b21fb2e1e2fa",
-   "titulo": "Irã “não tem bomba nuclear” e “não tem interesse de construir”, diz Lula",
-   "resumo": "O presidente Lula (PT) afirmou que o Irã não tem bomba nuclear e não pretende desenvolver uma arma deste tipo. A afirmação foi feita em conversa com o primeiro-ministro da Espanha, Pedro Sánchez, publicada nesta terça-feira, 17. “Eles não t…",
-   "link": "https://oantagonista.com.br/brasil/ira-nao-tem-bomba-nuclear-e-nao-tem-interesse-de-construir-diz-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55657495875_6b6cdf910b_k.jpg",
-   "data": "2026-11-17T21:43:02-03:00"
-  },
-  {
-   "id": "0a31d1971f6a",
-   "titulo": "Alexandre de Moraes impede conversa de Jair Bolsonaro com senadores",
-   "resumo": "O ministro Alexandre de Moraes barrou visitas de senadores a Jair Bolsonaro, dificultando a união da oposição para a eleição da presidência do Senado em 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-impede-conversa-de-jair-bolsonaro-com-senadores/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17213626/ASPA-GRANDE-2026-10-29T112442.117-960x540.jpg",
-   "data": "2026-11-17T21:36:21-03:00"
-  },
-  {
-   "id": "9c093f9dc282",
-   "titulo": "Tarcísio confirma secretários e deixa pastas políticas em aberto",
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), reeleito em outubro, divulgou nesta terça-feira, 17, os titulares de quatro áreas da administração estadual. Só uma teve troca: Leonardo Sultani, até então número dois da Gestão…",
-   "link": "https://oantagonista.com.br/brasil/tarcisio-confirma-secretarios-e-deixa-pastas-politicas-em-aberto/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55649407456_6cf10445cc_3k-e1794574479728.jpg",
-   "data": "2026-11-17T21:26:16-03:00"
-  },
-  {
-   "id": "024c3628f6b5",
-   "titulo": "Um ano após quebra do Master, bilhões em dinheiro público seguem em risco",
-   "resumo": "Um ano após quebra do Banco Master, rombo ainda ameaça fundos de previdência e obriga governos a usar dinheiro público para cobrir prejuízos.",
-   "link": "https://www.gazetadopovo.com.br/economia/um-ano-banco-master-cofres-publicos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30223720/banco-master-960x540.jpg",
-   "data": "2026-11-17T21:25:21-03:00"
-  },
-  {
-   "id": "62e1c465b53d",
-   "titulo": "Alcolumbre diz que pode concluir votação do ajuste fiscal nesta quarta",
-   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), declarou na terça-feira, 17, que a Casa reúne apoio para finalizar na quarta, 18, a votação do pacote de ajuste fiscal. Os destaques ao projeto, que ainda precisam ser votados, ficaram par…",
-   "link": "https://oantagonista.com.br/brasil/alcolumbre-diz-que-pode-concluir-votacao-do-ajuste-fiscal-nesta-quarta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591802936_48ff5c60aa_k.jpg",
-   "data": "2026-11-17T21:03:40-03:00"
-  },
-  {
-   "id": "77e79c087c79",
-   "titulo": "PF indicia 17 por compra irregular respiradores, mas exclui Rui Costa",
-   "resumo": "Investigação apurava irregularidades na compra de respiradores durante a pandemia pelo Consórcio Nordeste, então presidido por Rui Costa.",
-   "link": "https://www.gazetadopovo.com.br/republica/pf-indicia-17-por-compra-irregular-respiradores-mas-exclui-rui-costa/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17210137/rui-costa-960x540.jpg",
-   "data": "2026-11-17T21:02:33-03:00"
-  },
-  {
-   "id": "381ff70d8f5c",
-   "titulo": "Lula critica o Escudo das Américas e o alinhamento aos EUA e acusa Trump de “inventar” guerra contra o Irã",
-   "resumo": "Lula critica países que aderiram ao Escudo das Américas de Trump e acusa os EUA de inventar justificativas para iniciar guerra contra o Irã.",
-   "link": "https://www.gazetadopovo.com.br/mundo/lula-critica-o-escudo-das-americas-e-o-alinhamento-aos-eua-e-acusa-trump-de-inventar-guerra-contra-o-ira/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17204721/lula-trump-ira-escudo-das-americas-960x540.jpg",
-   "data": "2026-11-17T20:54:18-03:00"
-  },
-  {
-   "id": "88b043262960",
-   "titulo": "Lindbergh Farias alerta que pacote fiscal pode causar recessão no Brasil",
-   "resumo": "O deputado Lindbergh Farias afirma que o ajuste fiscal de Lula pode causar recessão e comprometer a governabilidade, revelando divisão interna no PT.",
-   "link": "https://www.gazetadopovo.com.br/republica/lindbergh-farias-alerta-que-pacote-fiscal-pode-causar-recessao-no-brasil/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17205351/img20260202191813935-1-960x540.jpg",
-   "data": "2026-11-17T20:53:45-03:00"
-  },
-  {
-   "id": "3647c98564ce",
-   "titulo": "Governo Lula desiste de contrato de R$ 722 mil para serviços de massagem",
-   "resumo": "O governo Lula desistiu nesta terça-feira, 17, de seguir adiante com a contratação de serviços de massagens estimada 722,3 mil reais pelo Ministério dos Direitos Humanos, revelada por O Antagonista. Em nota, a pasta justifica a decisão com …",
-   "link": "https://oantagonista.com.br/brasil/governo-lula-desiste-de-contrato-de-r-722-mil-para-servicos-de-massagem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55637120419_2590dc23b0_4k-scaled.jpg",
-   "data": "2026-11-17T20:43:30-03:00"
-  },
-  {
-   "id": "d7a6269b216a",
-   "titulo": "Janones usa 2013 contra Lindbergh",
-   "resumo": "O deputado federal André Janones (Avante-MG) voltou a rebater nesta terça-feira, 17, os críticos no campo governista ao projeto de ajuste fiscal apoiado pelo governo Lula (PT). Um dos críticos mais vocais é o deputado Lindbergh Farias (PT-R…",
-   "link": "https://oantagonista.com.br/brasil/janones-usa-2013-contra-lindbergh/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/img20260514111530341.jpg",
-   "data": "2026-11-17T20:34:16-03:00"
-  },
-  {
-   "id": "5231e4752785",
-   "titulo": "Lula gravará vídeo para defender ajuste fiscal após “fogo amigo”",
-   "resumo": "O governo Lula decidiu responder às críticas de aliados com um vídeo do presidente nas redes sociais em defesa do pacote de ajuste fiscal enviado ao Congresso. Segundo O Globo, a gravação foi combinada em reunião no Palácio da Alvorada, na …",
-   "link": "https://oantagonista.com.br/brasil/lula-gravara-video-para-defender-ajuste-fiscal-apos-fogo-amigo/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55220171823_4b233ba3b2_3k.jpg",
-   "data": "2026-11-17T20:25:34-03:00"
-  },
-  {
-   "id": "5f531185d48b",
-   "titulo": "Fachin diz que STF pode julgar Lei da Dosimetria neste ano se Moraes liberar ações",
-   "resumo": "Fachin condicionou a análise à liberação dos processos por Moraes, relator das ações que questionam a Lei da Dosimetria.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-diz-que-stf-pode-julgar-lei-da-dosimetria-neste-ano-se-moraes-liberar-acoes/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17201946/fachin-960x540.jpg",
-   "data": "2026-11-17T20:20:50-03:00"
-  },
-  {
    "id": "a3e797122ef5",
    "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/…",
@@ -454,15 +490,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-17T19:23:00-03:00"
-  },
-  {
-   "id": "a746e55f029c",
-   "titulo": "Deputado do PL lança candidatura para disputar comando da Câmara contra Motta",
-   "resumo": "Deputado Luiz Philippe de Orleans e Bragança anuncia candidatura própria à Presidência da Câmara em 2027 para enfrentar Hugo Motta",
-   "link": "https://www.gazetadopovo.com.br/republica/deputado-do-pl-lanca-candidatura-propria-para-disputar-comando-da-camara-em-2027/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17183959/Luiz-Philippe-de-Orleans-e-Braganca-960x540.jpg",
-   "data": "2026-11-17T19:21:02-03:00"
   },
   {
    "id": "b97ef51e345b",
@@ -553,15 +580,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-16T15:09:00-03:00"
-  },
-  {
-   "id": "8728a2389307",
-   "titulo": "Deputadas propõem mudar contagem de férias na CLT para só valer dia útil",
-   "resumo": "Deputadas Sâmia Bomfim e Duda Salabert, ambas do PSol, apresentam projeto para que período de férias seja contado apenas nos dias úteis",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/deputadas-propoem-mudar-contagem-de-ferias-na-clt-para-so-valer-dia-util",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/02/04202033/030225-KN-Deputada-Federal-Samia-Bomfim-033.jpg",
-   "data": "2026-11-16T15:00:43-03:00"
   }
  ]
 }
