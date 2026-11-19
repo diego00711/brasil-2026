@@ -1,10 +1,226 @@
 {
- "atualizado": "2026-11-19T00:15:50.241493-03:00",
+ "atualizado": "2026-11-19T09:53:14.010955-03:00",
  "total": 65,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
+  {
+   "id": "a53b05cf63ae",
+   "titulo": "Dívida pública deve se estabilizar em dois ou três anos, diz Moretti",
+   "resumo": "O ministro do Planejamento, Bruno Morreti, afirmou nesta quinta-feira (19) que a dívida pública deve se estabilizar nos próximos dois ou três anos, segundo a trajetória prevista na Lei de Diretrizes Orçamentárias (LDO). Segundo ele, o gover…",
+   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/divida-publica-deve-se-estabilizar-em-dois-ou-tres-anos-diz-moretti.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-19T09:51:49-03:00"
+  },
+  {
+   "id": "40075dba928d",
+   "titulo": "Célia Xakriabá ironiza Bilynskyj: “Sonho do senhor é ser mulher”",
+   "resumo": "Deputada do Psol acusou integrante do PL de violência contra ex-companheira; ele negou e disse que registraria BO por calúnia",
+   "link": "https://www.poder360.com.br/poder-congresso/celia-xakriaba-ironiza-bilynskyj-sonho-do-senhor-e-ser-mulher/",
+   "fonte": "Poder360",
+   "imagem": "https://www.poder360.com.br/wp-content/themes/poder/assets/img/drive-premium/gif-form-Drive.gif",
+   "data": "2026-11-19T09:48:43-03:00"
+  },
+  {
+   "id": "e13d6e8e0558",
+   "titulo": "Distribuidoras de gás pedem redução de custos de transporte no Brasil",
+   "resumo": "Carta defende 7 medidas para ampliar a oferta e a concorrência; setor estima redução de US$ 5 por milhão de BTU",
+   "link": "https://www.poder360.com.br/poder-infra/distribuidoras-de-gas-pedem-reducao-de-custos-de-transporte-no-brasil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:33:51-03:00"
+  },
+  {
+   "id": "6106a427c9e4",
+   "titulo": "Depois da vitória no Senado, líderes governistas revelam que Lula fará novo ajuste nas contas públicas",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/19/depois-da-vitoria-no-senado-lideres-governistas-revelam-que-lula-fara-novo-ajuste-nas-contas-publicas.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/VUmHauUJFc-jOG8IQ-dP2Mj9kdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/K/W6wnHFQ9ugpMGEkj1ITw/2026-11-11t150331z-1848656573-rc2gioa8v2h7-rtrmadp-3-brazil-economy-tax.jpg",
+   "data": "2026-11-19T09:33:37-03:00"
+  },
+  {
+   "id": "fbab71a180ac",
+   "titulo": "100 maiores doadores das eleições de 2026 destinaram R$ 163,4 milhões a campanhas e partidos; veja quem são",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/19/maiores-doadores-eleicoes-2026.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/YS6O6alHRL_5ANsE_9bhNWYqRXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/D/e9UxE3TxCOpdnGj6ld0Q/montagem-horizontal-1280x720px-35-.jpg",
+   "data": "2026-11-19T09:27:58-03:00"
+  },
+  {
+   "id": "70dbf997d047",
+   "titulo": "Dólar abre em alta e vai a R$ 5,90",
+   "resumo": "Cotação da moeda norte-americana subia 0,61% na manhã desta 5ª feira (19.nov)",
+   "link": "https://www.poder360.com.br/poder-economia/dolar-abre-em-alta-e-vai-a-r-590/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:25:09-03:00"
+  },
+  {
+   "id": "e8b0861c9209",
+   "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+   "resumo": "Senador associou o presidente a Nicolás Maduro e crimes como tráfico de drogas; caso deve ser analisado pela 1ª Turma do STF",
+   "link": "https://www.poder360.com.br/poder-justica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:20:40-03:00"
+  },
+  {
+   "id": "e11e6c04a875",
+   "titulo": "São Paulo negocia naming rights do Morumbi com o Bradesco",
+   "resumo": "Clube e banco negam conversas; parceria atual com a Mondelez, dona do Bis, soma R$ 75 milhões em 3 anos",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/sao-paulo-negocia-naming-rights-do-morumbi-com-o-bradesco/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:19:40-03:00"
+  },
+  {
+   "id": "a79790ea1b8b",
+   "titulo": "Trump, Xi e Putin defendem reforma da ONU e falam em risco nuclear",
+   "resumo": "Em declaração conjunta, EUA, China e Rússia não mencionam guerras; falam em manter “fluxos energéticos estáveis” e evitar “guerra nuclear”",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-xi-e-putin-defendem-reforma-da-onu-e-risco-nuclear/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:09:05-03:00"
+  },
+  {
+   "id": "116a32ac3c5f",
+   "titulo": "Saiba quem são os 3 candidatos à presidência da Fifa",
+   "resumo": "Infantino busca reeleição para 4º mandato e enfrenta francês e japonês na disputa pela organização máxima do futebol",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/saiba-quem-sao-os-3-candidatos-a-presidencia-da-fifa/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T09:07:01-03:00"
+  },
+  {
+   "id": "4c4f031d6146",
+   "titulo": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1",
+   "resumo": "Lula assina nesta quinta decreto com regras para o fim da escala 6x1 Transição para a jornada 5x2 está prevista para começar em 16 de dezembro, com dois dias de folga por semana e redução da carga horária sem corte salarial. Lula deve assin…",
+   "link": "https://g1.globo.com/politica/ao-vivo/lula-decreto-regras-fim-da-escala-6x1.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-19T09:04:35-03:00"
+  },
+  {
+   "id": "b05d25b7cf4e",
+   "titulo": "Lula fará visita ao cacique Raoni durante viagem a Mato Grosso nesta quinta",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/19/lula-viaja-a-mato-grosso-nesta-quinta-feira-e-visita-cacique-raoni.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/L28wuO4lY2WuzAT_sKS4YUbrJic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/M/8Yu0KiRy2yHBolj5Tc8g/videoframe-2705370.png",
+   "data": "2026-11-19T08:33:52-03:00"
+  },
+  {
+   "id": "97984c536119",
+   "titulo": "Três brasileiros estão entre os 50 goleiros mais valiosos do futebol",
+   "resumo": "Joan García, do Barcelona, lidera levantamento; Luiz Júnior, Otávio Costa e Carlos Miguel aparecem entre os 50 primeiros",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/tres-brasileiros-estao-entre-os-50-goleiros-mais-valiosos-do-futebol/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T08:28:29-03:00"
+  },
+  {
+   "id": "c691e8380bcf",
+   "titulo": "Vou para a rua se governo der dinheiro a clubes, diz Casagrande",
+   "resumo": "Ex-jogador critica pedido de ajuda financeira de clubes ao governo Lula e responsabiliza dirigentes pela crise do Corinthians",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/vou-para-a-rua-se-governo-der-dinheiro-a-clubes-diz-casagrande/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/d8XO6hle45U/hqdefault.jpg",
+   "data": "2026-11-19T08:19:52-03:00"
+  },
+  {
+   "id": "1fad1362f225",
+   "titulo": "PSB e PDT acertam federação que pode salvar sigla de Lupi da cláusula de barreira",
+   "resumo": "PDT não obteve votação nacional necessária para obter fundo partidário e tempo de propaganda. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/psb-e-pdt-acertam-federacao-que-pode-salvar-sigla-de-lupi-da-clausula-de-barreira/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19081454/Design-sem-nome-17-960x540.jpg",
+   "data": "2026-11-19T08:15:51-03:00"
+  },
+  {
+   "id": "ccc5a566d14f",
+   "titulo": "Governo regulamenta o fim da 6 X 1 nesta 5ª feira",
+   "resumo": "Lula assina decreto; medida foi uma das bandeiras de campanha para a reeleição do petista",
+   "link": "https://www.poder360.com.br/poder-governo/governo-regulamenta-o-fim-da-6-x-1-nesta-5a-feira/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-19T08:03:34-03:00"
+  },
+  {
+   "id": "cedab1a556f5",
+   "titulo": "Conselho da ANPD rejeita recurso e mantém suspensas transmissões ao vivo do Discord no Brasil",
+   "resumo": "",
+   "link": "https://g1.globo.com/tecnologia/noticia/2026/11/19/conselho-da-anpd-rejeita-recurso-e-mantem-suspensas-transmissoes-ao-vivo-do-discord-no-brasil.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg",
+   "data": "2026-11-19T08:00:00-03:00"
+  },
+  {
+   "id": "299e2e922bfd",
+   "titulo": "Gonet defende prorrogação de investigações do caso Master contra Jaques Wagner",
+   "resumo": "Manifestação responde a consulta de Fachin após pedido da PF por mais prazo para diligências. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/gonet-defende-prorrogacao-de-investigacoes-do-caso-master-contra-jaques-wagner/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19071315/Design-sem-nome-15-1-960x540.jpg",
+   "data": "2026-11-19T07:15:06-03:00"
+  },
+  {
+   "id": "4a603a3564dc",
+   "titulo": "Aposta do Novo vê candidatura do PL como \"complementar\" contra Motta",
+   "resumo": "Deputado Paulo Martins, lançado oficialmente candidato contra Hugo Motta pelo Partido Novo, diz que já procurou nomes do PL para disputa",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/aposta-do-novo-ve-candidatura-do-pl-como-complementar-contra-motta",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/11/paulo-martins-edit.jpg",
+   "data": "2026-11-19T05:00:18-03:00"
+  },
+  {
+   "id": "e8745cdec56d",
+   "titulo": "Motta busca diálogo com Nikolas",
+   "resumo": "Segundo apurou a coluna, Hugo Motta e Nikolas Ferreira se cumprimentaram em reunião na terça-feira (17/11), quando combinaram de conversar",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/motta-busca-dialogo-com-nikolas",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/11/foto-nikolas-hugo-motta.jpg",
+   "data": "2026-11-19T02:00:45-03:00"
+  },
+  {
+   "id": "1e8b1ab04a31",
+   "titulo": "Machado de Xangô, crucifixos e Cristo de madeira: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília",
+   "resumo": "",
+   "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/machado-de-xango-crucifixos-e-cristo-de-madeira-veja-simbolos-religiosos-ja-instalados-nas-sedes-dos-tres-poderes-em-brasilia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/-8iwTEfeWbxs8sQZbhZneO_BwvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/E9dt4qRdWBTYAC5rL1Ig/imagem-g1-2026-11-18t201843.578.png",
+   "data": "2026-11-19T02:00:02-03:00"
+  },
+  {
+   "id": "0ecea1b7c6fc",
+   "titulo": "Crise na Polícia Federal coloca em xeque investigação sobre o Banco Master",
+   "resumo": "Entenda como a disputa na Polícia Federal e o afastamento de delegados podem comprometer a investigação do Banco Master e as provas enviadas ao STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/crise-na-policia-federal-coloca-em-xeque-investigacao-sobre-o-banco-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19012506/ASPA-GRANDE-2026-10-09T093335.554-960x540.jpg",
+   "data": "2026-11-19T01:25:01-03:00"
+  },
+  {
+   "id": "ab62c440fe5b",
+   "titulo": "Senadores acusam chefe da PF de alterar relatórios para proteger ministros do STF",
+   "resumo": "Senadores acusam cúpula da PF de interferir em relatórios sobre ministros do STF no caso Master. Entenda a polêmica que envolve Andrei Rodrigues e o Senado.",
+   "link": "https://www.gazetadopovo.com.br/republica/senadores-acusam-chefe-da-pf-de-alterar-relatorios-para-proteger-ministros-do-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19012200/andrei-rodrigues-pf-alessandro-vieira-senado-interferencia-stf-1-960x540.jpg",
+   "data": "2026-11-19T01:21:57-03:00"
+  },
+  {
+   "id": "389accf7ef61",
+   "titulo": "Valdemar recua após chamar candidatura de Nikolas à presidência da Câmara de “loucura”",
+   "resumo": "Valdemar voltou atrás após citar limite de idade e afirmou que Nikolas reúne condições para disputar a presidência da Câmara.",
+   "link": "https://www.gazetadopovo.com.br/republica/valdemar-recua-apos-chamar-candidatura-de-nikolas-a-presidencia-da-camara-de-loucura/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19000027/valdemar-nikolas-960x540.jpg",
+   "data": "2026-11-19T00:22:33-03:00"
+  },
   {
    "id": "4db39ebcb84b",
    "titulo": "Criança completa 4 anos e pais pensam em tirar a cadeirinha, mas especialistas alertam para um detalhe que muda essa decisão",
@@ -21,6 +237,15 @@
    "link": "https://g1.globo.com/politica/noticia/2026/11/19/ajuste-fiscal-moretti-diz-que-texto-aprovado-pelo-senado-preserva-politicas-sociais-essenciais-em-2027.ghtml",
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/Po7nuyLhz0m7jX9gpJ_RUnTPpjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Y/2Ofwy1SUeB8AhSWFTKGw/54841143876-e5619e96d1-b.jpg",
+   "data": "2026-11-19T00:00:00-03:00"
+  },
+  {
+   "id": "346c384a49e4",
+   "titulo": "Governo regulamenta jornada 5x2 nesta quinta-feira; Lula assina decreto com novas regras",
+   "resumo": "",
+   "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/governo-regulamenta-da-jornada-5x2-nesta-quinta-feira-lula-assina-decreto-com-novas-regras.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/dCZ7s03W54f8VeBnyMUqfyFcuEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/AJxLxMTbGKUBriI28OqQ/carteira-2.jpg",
    "data": "2026-11-19T00:00:00-03:00"
   },
   {
@@ -42,15 +267,6 @@
    "data": "2026-11-19T00:00:00-03:00"
   },
   {
-   "id": "94996b41a3da",
-   "titulo": "PSB e PDT oficializam federação e João Campos será o presidente",
-   "resumo": "Configuração é válida por pelo menos 4 anos e permite que candidatos com menos votos sejam beneficiados; aliança fortalece a centro-esquerda",
-   "link": "https://www.poder360.com.br/poder-partidos-politicos/psb-e-pdt-oficializam-federacao-e-joao-campos-sera-o-presidente/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/cbz2hHVPysI/hqdefault.jpg",
-   "data": "2026-11-18T23:41:40-03:00"
-  },
-  {
    "id": "25025406c876",
    "titulo": "Sem avanço nas negociações, Brasil pede à OMC para julgar tarifaço imposto pelos EUA",
    "resumo": "",
@@ -58,15 +274,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/Y5OUBctDA60pvQ47Y6qiCNV63BI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp",
    "data": "2026-11-18T23:41:14-03:00"
-  },
-  {
-   "id": "2335ed75a715",
-   "titulo": "Saiba como votou cada senador nos destaques do ajuste fiscal",
-   "resumo": "Plenário derrubou 3 propostas da oposição sobre gastos, previdência e tributos; texto segue para a Câmara",
-   "link": "https://www.poder360.com.br/poder-congresso/saiba-como-votou-cada-senador-nos-destaques-do-ajuste-fiscal/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T23:25:14-03:00"
   },
   {
    "id": "922545ec860f",
@@ -78,42 +285,6 @@
    "data": "2026-11-18T23:23:54-03:00"
   },
   {
-   "id": "c8b602bba161",
-   "titulo": "Acordo apenas reduziu prejuízo do ajuste fiscal, diz Marinho",
-   "resumo": "Senador criticou Davi Alcolumbre por suspender votação na 3ª feira e o chamou de “líder informal” do Planalto; governo e oposição chegaram a entendimento sobre a Lei Kandir",
-   "link": "https://www.poder360.com.br/poder-congresso/acordo-apenas-reduziu-prejuizo-do-ajuste-fiscal-diz-marinho/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T23:14:12-03:00"
-  },
-  {
-   "id": "896e0726e682",
-   "titulo": "Cid Gomes chama Galípolo de “cavalo de Troia do mercado”",
-   "resumo": "Durante votação do ajuste fiscal, senador afirmou que custo da dívida ofusca corte de gastos e criticou a política de juros do BC",
-   "link": "https://www.poder360.com.br/poder-congresso/cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/IUeAafRA0cU/hqdefault.jpg",
-   "data": "2026-11-18T22:40:22-03:00"
-  },
-  {
-   "id": "2f7eee8e6e7e",
-   "titulo": "Bet usava CPF de mortos e menores para lavar dinheiro, diz Fisco",
-   "resumo": "Operação conjunta bloqueia R$ 2,3 bilhões em ativos, apreende bens de luxo e aponta sonegação bilionária mesmo após regulamentação do setor",
-   "link": "https://www.poder360.com.br/poder-seguranca-publica/bet-usava-cpf-de-mortos-e-menores-para-lavar-dinheiro-diz-fisco/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/WUKphaiy5Kk/hqdefault.jpg",
-   "data": "2026-11-18T22:29:50-03:00"
-  },
-  {
-   "id": "77338695c472",
-   "titulo": "Lula tenta acertar com Alcolumbre vaga no STF e espaço no governo",
-   "resumo": "Resistência a Messias e preferência por Pacheco pesam na negociação, que também envolve o Ministério de Minas e Energia",
-   "link": "https://www.poder360.com.br/poder-governo/lula-tenta-acertar-com-alcolumbre-vaga-no-stf-e-espaco-no-governo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T22:12:18-03:00"
-  },
-  {
    "id": "2652f50688bb",
    "titulo": "Fachin encaminha à PGR relatórios da PF sobre ministros do STF",
    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, recebeu nesta quarta-feira, 18, os relatórios da Polícia Federal (PF) que mencionam ministros da Corte e foram produzidos a partir de conversas extraídas do celular de Daniel Vor…",
@@ -121,15 +292,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530389404_2bc4c1682d_4k-scaled.jpg",
    "data": "2026-11-18T21:41:00-03:00"
-  },
-  {
-   "id": "dea7d80d96b8",
-   "titulo": "Câmara inicia votação de ajuste fiscal na 2ª feira",
-   "resumo": "Sessão extraordinária foi anunciada por Hugo Motta depois de o Senado aprovar emendas do texto nesta 4ª feira",
-   "link": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T21:40:48-03:00"
   },
   {
    "id": "126073dfc69c",
@@ -168,15 +330,6 @@
    "data": "2026-11-18T21:20:52-03:00"
   },
   {
-   "id": "3c5362b1b8cc",
-   "titulo": "Impacto do ajuste fiscal caiu de R$ 56 bi para R$ 50 bi, diz Braga",
-   "resumo": "Redução na projeção decorre de acordo sobre repasses aos Estados; projeto aprovado no Senado vai à Câmara",
-   "link": "https://www.poder360.com.br/poder-congresso/impacto-do-ajuste-fiscal-caiu-de-r-56-bi-para-r-50-bi-diz-braga/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T21:18:31-03:00"
-  },
-  {
    "id": "549386fe9c1c",
    "titulo": "Alcolumbre diz que derrotados nas eleições tentam desqualificar projetos",
    "resumo": "O presidente da Casa, Davi Alcolumbre (União-AP), afirmou nesta quarta-feira, 18, que políticos derrotados nas eleições de outubro tentam “desqualificar” propostas importantes para o país. “O que nós estamos vivendo no Brasil nos últimos me…",
@@ -193,33 +346,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/18195515/andrei-rodrigues-pf-2-960x540.jpg",
    "data": "2026-11-18T21:16:32-03:00"
-  },
-  {
-   "id": "73f9577811f8",
-   "titulo": "Fachin vai enviar à PGR relatórios sobre ministros do STF e Master",
-   "resumo": "Presidente do Supremo dará prazo de 15 dias para manifestação da Procuradoria; os documentos entregues pela PF seguem, por ora, sob sigilo",
-   "link": "https://www.poder360.com.br/poder-justica/fachin-vai-enviar-a-pgr-relatorios-sobre-ministros-do-stf-e-master/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T21:09:39-03:00"
-  },
-  {
-   "id": "809533835f2c",
-   "titulo": "Governo Lula tenta preservar acordo do ajuste fiscal na Câmara",
-   "resumo": "Planalto tenta preservar texto aprovado no Senado, com Guimarães cobrando rapidez e Moretti e Sidônio na articulação da proposta",
-   "link": "https://www.poder360.com.br/poder-governo/governo-lula-tenta-preservar-acordo-do-ajuste-fiscal-na-camara/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-18T21:01:03-03:00"
-  },
-  {
-   "id": "d39ef5ecf623",
-   "titulo": "Fachin encaminhará relatórios da PF sobre ministros citados em mensagens de Vorcaro para PGR",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-relatorios-da-pf-sobre-ministros-citados-em-mensagens-de-vorcaro-pgr.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg",
-   "data": "2026-11-18T20:50:04-03:00"
   },
   {
    "id": "824c37b6e1d6",
@@ -249,15 +375,6 @@
    "data": "2026-11-18T20:45:41-03:00"
   },
   {
-   "id": "01cd65052917",
-   "titulo": "Motta diz que vai convocar sessão para votar ajuste fiscal na segunda-feira",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/fYCviR4lrsMZyaYGaULNOlJbvPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/l/dSAaeCRbqGU963IkJuGQ/fta20251209251.jpg",
-   "data": "2026-11-18T20:41:54-03:00"
-  },
-  {
    "id": "3a0734fef62e",
    "titulo": "PGR denuncia Flávio Bolsonaro por suposta calúnia contra Lula",
    "resumo": "PGR denuncia Flávio Bolsonaro ao Supremo Tribunal Federal por suposta calúnia contra Lula. Leia na Gazeta do Povo.",
@@ -274,15 +391,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Andrei.jpg",
    "data": "2026-11-18T20:15:42-03:00"
-  },
-  {
-   "id": "c09d6f207ab2",
-   "titulo": "PSB e PDT oficializam federação partidária; entenda como funciona a união",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/psb-pdt-federacao-entenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/1G9BSRM6WiCn2kGRUjxaoVqfM-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/lDMffMQvaveCY7D8wAmA/whatsapp-image-2026-11-18-at-22.40.20.jpeg",
-   "data": "2026-11-18T19:56:40-03:00"
   },
   {
    "id": "5c08f1505861",
@@ -321,24 +429,6 @@
    "data": "2026-11-18T19:39:00-03:00"
   },
   {
-   "id": "3abed9c162c9",
-   "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/NKo4qFfDMjWOVU10pq3zH5S7UvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/G/Yrm4ajTmysTXQ0NeXbVA/montagem-horizontal-1280x720px-20-.jpg",
-   "data": "2026-11-18T19:38:11-03:00"
-  },
-  {
-   "id": "4b18d811c1c1",
-   "titulo": "Como cada senador votou no texto final do ajuste fiscal",
-   "resumo": "O texto final do projeto do ajuste fiscal do governo Lula foi aprovado por 69 votos a 2. Veja como votou cada senador.",
-   "link": "https://www.gazetadopovo.com.br/republica/como-cada-senador-votou-no-texto-final-do-ajuste-fiscal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/18193431/como-votou-senador-ajuste-fiscal-960x540.jpg",
-   "data": "2026-11-18T19:35:46-03:00"
-  },
-  {
    "id": "80bf34fcca95",
    "titulo": "Galípolo é “um cavalo de troia do mercado”, diz Cid Gomes",
    "resumo": "Cid Gomes, líder da bancada do PSB no Senado, afirmou nesta quarta-feira, 18, que o presidente do Banco Central (BC), Gabriel Galípolo, é um “cavalo de troia” do mercado financeiro dentro do governo. A declaração foi feita durante a votação…",
@@ -346,33 +436,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2021/12/Cid-Gomes-4.jpg",
    "data": "2026-11-18T19:33:49-03:00"
-  },
-  {
-   "id": "73af8ea43cc4",
-   "titulo": "Andrei entrega a Fachin relatórios sobre ministros citados em mensagens de Vorcaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-fachin-relatorios-ministros-mensagens-vorcaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/N9GxKt7od7sLKLuYWagvqNYLN4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/So1vUETxKW1AOTw0S4Ng/montagem-horizontal-1200px-9-.jpg",
-   "data": "2026-11-18T19:26:55-03:00"
-  },
-  {
-   "id": "20920c8a6e8f",
-   "titulo": "Senado aprova texto final do ajuste fiscal; proposta segue para Câmara",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/D7QfrIvy7sdEkRFwe9OMWebz9Tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/2nE33AQbA0nFnRt9xgXw/55661289905-87394a5a56-k.jpg",
-   "data": "2026-11-18T19:14:26-03:00"
-  },
-  {
-   "id": "ab692fa7258e",
-   "titulo": "Andrei diz que delegados afastados do caso Master descumpriram ordem da direção da PF",
-   "resumo": "Em audiência no Senado, o chefe da PF apontou divergências sobre relatórios que mencionavam ministros do STF na investigação do caso Master.",
-   "link": "https://www.gazetadopovo.com.br/republica/andrei-diz-que-delegados-afastados-do-caso-master-descumpriram-ordem-da-direcao-da-pf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/18165005/55659762122_8b8e701e70_o-960x540.jpg",
-   "data": "2026-11-18T19:06:05-03:00"
   },
   {
    "id": "e4ed667ef650",
@@ -384,15 +447,6 @@
    "data": "2026-11-18T19:05:19-03:00"
   },
   {
-   "id": "09d35bc8cefd",
-   "titulo": "Ministro de Lula sinaliza novas medidas fiscais em meio à desconfiança do mercado",
-   "resumo": "Durigan garantiu que o ajuste fiscal em discussão no Senado representa apenas o início dos esforços do governo Lula para melhorar as contas.",
-   "link": "https://www.gazetadopovo.com.br/republica/ministro-de-lula-sinaliza-novas-medidas-fiscais-em-meio-a-desconfianca-do-mercado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16123824/lula-dario-durigan-ajuste-fiscal-960x540.jpg",
-   "data": "2026-11-18T18:59:58-03:00"
-  },
-  {
    "id": "2687c78927cd",
    "titulo": "João Campos será o 1º presidente da Federação PSB/PDT",
    "resumo": "João Campos, atual presidente nacional do PSB, será o primeiro a comandar federação com o PDT e revezará cargo com Carlos Lupi",
@@ -400,33 +454,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/09/joao-campos.jpg",
    "data": "2026-11-18T18:52:10-03:00"
-  },
-  {
-   "id": "590b84977902",
-   "titulo": "Eleição para presidente da Câmara causa divisão no PL, e Nikolas ameaça deixar partido",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/29IWYLsk_lmVPhP5zvgHXwFwjGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/KcX4wTRCKJ9RAoWTRUfQ/montagem-horizontal-1280x720px-1-.jpg",
-   "data": "2026-11-18T17:44:21-03:00"
-  },
-  {
-   "id": "1a6618fb7cc0",
-   "titulo": "PF investiga vazamento de informações sobre relatórios citando ministros do STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/18/pf-investiga-vazamento-de-informacoes-sobre-relatorios-citando-ministros-do-stf.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/UYQYYdEViyLkCb0z20mUsM6dY38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/6/VgCLcnRoKjf3mMwqdmfQ/ton-molina.jpg",
-   "data": "2026-11-18T17:32:59-03:00"
-  },
-  {
-   "id": "a7e56f4217a3",
-   "titulo": "Áudios revelam pedido de ingressos de F1 a Vorcaro para filhos do chefe da PF, diz portal",
-   "resumo": "Vorcaro teria recebido a solicitação de Alexandre Bacelar em novembro de 2024, para atender aos filhos do diretor-geral da PF.",
-   "link": "https://www.gazetadopovo.com.br/republica/audios-revelam-pedido-de-ingressos-de-f1-a-vorcaro-para-filhos-do-chefe-da-pf-diz-portal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/03102819/img20251103160851564-960x540.jpg",
-   "data": "2026-11-18T15:59:34-03:00"
   },
   {
    "id": "3193e0a8a497",
@@ -445,15 +472,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-18T15:40:00-03:00"
-  },
-  {
-   "id": "9628678ca093",
-   "titulo": "Líder da oposição diz que governo Lula rejeitou contraproposta de ajuste fiscal",
-   "resumo": "No debate sobre o ajuste fiscal, a contraproposta prevê corte de subsídios, mudanças nas despesas e limite para os gastos públicos.",
-   "link": "https://www.gazetadopovo.com.br/republica/lider-da-oposicao-diz-que-governo-lula-rejeitou-contraproposta-de-ajuste-fiscal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16221758/rogerio-marinho-3-960x540.jpg",
-   "data": "2026-11-18T14:41:06-03:00"
   },
   {
    "id": "e856d185d24c",
@@ -562,24 +580,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/04/lula-e-janja-palacio-do-planalto.jpeg",
    "data": "2026-11-17T07:00:47-03:00"
-  },
-  {
-   "id": "8edc72909a24",
-   "titulo": "Deputados do PL viajam à China para \"aprender\" sobre sistema comunista",
-   "resumo": "Assembleia Legislativa de SC autorizou e bancou missão de deputados estaduais do PL à China para \"aprender\" sobre sistema político comunista",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/deputados-do-pl-viajam-a-china-para-aprender-sobre-sistema-comunista",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/08/China-retalia-Trump-e-anuncia-taxas-de-34-sobre-importacoes-dos-EUA.jpg",
-   "data": "2026-11-17T05:00:08-03:00"
-  },
-  {
-   "id": "3e3041bf3a82",
-   "titulo": "Ala pragmática do PL recorre a Flávio para destravar aliança com Motta",
-   "resumo": "Para ala pragmática do PL, eventual apoio de Flávio será decisivo para convencer maioria da bancada a apoiar reeleição de Hugo Motta",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/ala-pragmatica-do-pl-recorre-a-flavio-para-destravar-alianca-com-motta",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/10/flavio-eua-getty4.jpg",
-   "data": "2026-11-17T02:00:46-03:00"
   },
   {
    "id": "8bc7fd47a308",
