@@ -1,17 +1,170 @@
 {
- "atualizado": "2026-11-20T00:03:31.393074-03:00",
+ "atualizado": "2026-11-20T08:26:53.805553-03:00",
  "total": 67,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
+   "id": "7623b68915eb",
+   "titulo": "Líder do MST chama ajuste fiscal de enganação e pede jovens no governo",
+   "resumo": "Stedile defende mudança geracional na Esplanada: “Quando o PT, a CUT e o MST foram fundados, éramos jovens. Agora, estamos acomodados”",
+   "link": "https://www.poder360.com.br/poder-governo/lider-do-mst-chama-ajuste-fiscal-de-enganacao-e-pede-jovens-no-governo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-20T08:18:00-03:00"
+  },
+  {
+   "id": "d8ec2a47429b",
+   "titulo": "Crescimento da produção industrial da China desacelera",
+   "resumo": "Setor de transformação impulsionou, mas fabricação de automóveis e matérias-primas arrefeceram",
+   "link": "https://www.poder360.com.br/poder-china/crescimento-da-producao-industrial-da-china-desacelera/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-20T08:15:59-03:00"
+  },
+  {
+   "id": "f9bd4de02bf0",
+   "titulo": "Comissões pedem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
+   "resumo": "Propostas de 16 colegiados ainda dependem de análise da Comissão Mista de Orçamento e de aprovação pelo Congresso",
+   "link": "https://www.poder360.com.br/poder-congresso/comissoes-pedem-r-859-bilhoes-em-emendas-ao-orcamento-de-2027/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-20T08:13:46-03:00"
+  },
+  {
+   "id": "d52f448da232",
+   "titulo": "Caso Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ldgzRjZcSJRT4qHvZV9lPdJVX-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/SlZ1oxRQS5e696yBBlfQ/55590654107-4186887e84-k.jpg",
+   "data": "2026-11-20T08:01:26-03:00"
+  },
+  {
+   "id": "d5ff8f23038f",
+   "titulo": "Crusoé: O último escudo de Moraes",
+   "resumo": "Com medo de sofrer um impeachment a partir do ano que vem, o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes intensificou uma campanha no Legislativo e no Executivo para garantir que o atual presidente do Senado, Davi Alcolum…",
+   "link": "https://oantagonista.com.br/brasil/crusoe-o-ultimo-escudo-de-moraes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/CSE-Web-Capa-19.png",
+   "data": "2026-11-20T07:55:15-03:00"
+  },
+  {
+   "id": "f3e1b9468dba",
+   "titulo": "Leia a íntegra do pedido da OAB para Van Hattem ser julgado no plenário",
+   "resumo": "Entidade solicita que Dino reconsidere decisão que manteve o caso no ambiente virtual; deputado foi denunciado por calúnia e injúria",
+   "link": "https://www.poder360.com.br/poder-flash/leia-a-integra-do-pedido-da-oab-para-van-hattem-ser-julgado-no-plenario/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-20T07:46:17-03:00"
+  },
+  {
+   "id": "aeda7d2f8b1e",
+   "titulo": "OAB discorda de Dino e pede que STF julgue Van Hattem presencialmente",
+   "resumo": "Entidade quer reverter decisão do ministro e assegurar manifestação dos advogados em tempo real",
+   "link": "https://www.poder360.com.br/poder-justica/oab-discorda-de-dino-e-pede-que-stf-julgue-van-hattem-presencialmente/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/2_pFYMcYE9w/hqdefault.jpg",
+   "data": "2026-11-20T07:45:55-03:00"
+  },
+  {
+   "id": "95f2a10857a9",
+   "titulo": "Clima afeta produção e eleva preço do tomate em diversas capitais",
+   "resumo": "Florianópolis, Rio de Janeiro e Fortaleza registraram altas superiores a 120% no preço do quilo",
+   "link": "https://www.poder360.com.br/poder-agro/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais/",
+   "fonte": "Poder360",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1709204&o=node",
+   "data": "2026-11-20T07:31:03-03:00"
+  },
+  {
+   "id": "6ccadbd5e68b",
+   "titulo": "Revisão fiscal eleva investimentos de SP a recorde de R$ 44,7 bi em 2027",
+   "resumo": "Proposta orçamentária estima volume da história do Estado, mais de 4 vezes o registrado em 2019; corte de isenções abriu espaço de quase R$ 10 bi ao ano",
+   "link": "https://www.poder360.com.br/poder-economia/revisao-fiscal-eleva-investimentos-de-sp-a-recorde-de-r-447-bi-em-2027/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-20T07:00:56-03:00"
+  },
+  {
+   "id": "1090432cbf4a",
+   "titulo": "Vice de Flávio libera projeto que proíbe novos \"inquéritos das fake news\"",
+   "resumo": "Alfredo Gaspar, vice de Flávio Bolsonaro na eleição, apresentou relatório sobre projeto que proíbe juízes de abrirem inquéritos de ofício",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/vice-de-flavio-libera-projeto-que-proibe-novos-inqueritos-das-fake-news",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/11/10181708/O-deputado-Alfredo-Gaspar-relator-da-CPMI-do-INSS-comissao-durante-o-depoimento-de-Igor-Dias-Delecrode-ex-dirigente-da-Aasap-Metropoles-1.jpg",
+   "data": "2026-11-20T07:00:25-03:00"
+  },
+  {
+   "id": "e24e473f4d59",
+   "titulo": "“Vamos fazer impeachment de ministros”, diz van Hattem",
+   "resumo": "No programa Última Análise desta quinta-feira (19), convidados falam a respeito de censura do STF contra deputado federal van Hattem.",
+   "link": "https://www.gazetadopovo.com.br/republica/vamos-fazer-impeachment-de-ministros-diz-van-hattem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2023/01/31204716/marcel-van-hattem-crop-20230131234700-960x540.jpg",
+   "data": "2026-11-20T06:59:02-03:00"
+  },
+  {
+   "id": "449ca083c892",
+   "titulo": "Ajuste fiscal é transformador para o país, diz economista do Insper",
+   "resumo": "Sérgio Firpo diz que sociedade precisa se envolver em debate sobre corte de receita e de isenções",
+   "link": "https://www.poder360.com.br/poder-economia/ajuste-fiscal-e-transformador-para-o-pais-diz-economista-do-insper/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/OrhEFXguKiM/hqdefault.jpg",
+   "data": "2026-11-20T06:00:59-03:00"
+  },
+  {
+   "id": "25aa0c492f99",
+   "titulo": "Real perde 7,50% em 2026 e tem 5º pior desempenho ante o dólar",
+   "resumo": "Moeda norte-americana subiu 15,3% de 23 de outubro a 18 de novembro, período que teve o impacto da reeleição de Lula",
+   "link": "https://www.poder360.com.br/poder-economia/real-perde-752-em-2026-e-tem-5o-pior-desempenho-ante-o-dolar/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/ranking-moedas-frente-ao-dolar-1jan-a-19nov2026-scaled.png",
+   "data": "2026-11-20T06:00:53-03:00"
+  },
+  {
+   "id": "ec9f2414bbb7",
+   "titulo": "Disque 100 registra 3.270 casos de racismo em 2026",
+   "resumo": "Ocorrências contabilizadas até novembro quintuplicaram em relação ao total registrado em 2015",
+   "link": "https://www.poder360.com.br/poder-brasil/disque-100-registra-3-270-casos-de-racismo-em-2026/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/consciencia-negra-casos-registrados-18-nov-2026-1-03-scaled.jpg",
+   "data": "2026-11-20T06:00:49-03:00"
+  },
+  {
+   "id": "eddfb6e80dca",
+   "titulo": "PL tenta convencer deputado do Republicanos a concorrer contra Motta",
+   "resumo": "Articulação para convencer deputado do Republicanos a disputar presidência da Câmara é liderada pela ala do PL contrária ao apoio a Motta",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/pl-tenta-convencer-deputado-do-republicanos-a-concorrer-contra-motta",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/02/presidente-da-camara-dos-deputados-hugo-motta-republicanos-pb-fala-ao-metropoles-sobre-agenda-da-casa-e-sobre-as-eleicoes-de-20262.jpeg",
+   "data": "2026-11-20T05:00:49-03:00"
+  },
+  {
+   "id": "64d3e3b432b3",
+   "titulo": "Paulo Martins e Luiz Philippe desafiam favoritismo de Hugo Motta na Câmara",
+   "resumo": "Conheça os perfis de Paulo Martins e Luiz Philippe, os deputados que lançaram candidaturas para enfrentar Hugo Motta na disputa pela presidência da Câmara.",
+   "link": "https://www.gazetadopovo.com.br/republica/paulo-martins-e-luiz-philippe-desafiam-favoritismo-de-hugo-motta-na-camara/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/20015430/Design-sem-nome-48-1-960x540.jpg",
+   "data": "2026-11-20T01:54:24-03:00"
+  },
+  {
+   "id": "d71bbf8d9add",
+   "titulo": "Ministro Edson Fachin centraliza investigações sobre o Banco Master no STF",
+   "resumo": "Entenda por que o ministro Edson Fachin assumiu o caso Banco Master e quais são as suspeitas envolvendo ministros do STF em relatórios da Polícia Federal.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministro-edson-fachin-centraliza-investigacoes-sobre-o-banco-master-no-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/20013622/Alexandre-de-Moraes-Dias-Toffoli-Edson-Fachin-e-Andre-Mendonca-no-STF-1-960x540.jpg",
+   "data": "2026-11-20T01:36:12-03:00"
+  },
+  {
    "id": "f2fb2266a099",
    "titulo": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
-   "resumo": "Pessoas negras representaram 45% dos novos ingressos na administração pública federal nos últimos quatro anos. Entre 2023 e outubro de 2026, a administração pública federal registrou 11.543 vínculos a mais de pessoas negras. Segundo o gover…",
+   "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pessoas-negras-representaram-45percent-dos-novos-servidores-publicos-nos-ultimos-quatro-anos.ghtml",
    "fonte": "G1 Política",
-   "imagem": "",
+   "imagem": "https://s2-g1.glbimg.com/F0_nm0AKZQtCxQFoDB3S5gg0StE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/5/oGN9HwS02Wb3FDoBrAsQ/cnu-no-recife.jpeg",
    "data": "2026-11-20T00:00:01-03:00"
   },
   {
@@ -78,15 +231,6 @@
    "data": "2026-11-19T23:45:33-03:00"
   },
   {
-   "id": "739c297135f6",
-   "titulo": "Bukele anuncia candidatura ao 3º mandato em El Salvador",
-   "resumo": "Presidente disputará eleição em fevereiro de 2027 após reforma que permitiu reeleições ilimitadas; pesquisas indicam favoritismo",
-   "link": "https://www.poder360.com.br/poder-internacional/bukele-anuncia-candidatura-ao-3o-mandato-em-el-salvador/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T23:23:16-03:00"
-  },
-  {
    "id": "470f723cc4b0",
    "titulo": "PSD recorre de decisão de Zanin e volta a pedir segundo turno no Rio de Janeiro",
    "resumo": "O PSD sustenta que não tem acesso a recursos no TSE e defende que a ADPF permite discutir diretamente questões constitucionais.",
@@ -94,15 +238,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2023/04/13155957/eduardo-paes-crop-20230413185937-960x540.jpg",
    "data": "2026-11-19T23:16:49-03:00"
-  },
-  {
-   "id": "e99d24f77133",
-   "titulo": "Assista aos discursos de Xi, Trump e Putin em inédita reunião trilateral",
-   "resumo": "Líderes de China, Rússia e EUA se encontram em Shenzhen; guerra na Ucrânia, armas nucleares e Irã dominaram as falas",
-   "link": "https://www.poder360.com.br/poder-internacional/assista-aos-discursos-de-xi-trump-e-putin-em-inedita-reuniao-trilateral/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/JCoi1Ogm9hY/hqdefault.jpg",
-   "data": "2026-11-19T23:16:04-03:00"
   },
   {
    "id": "a0617cbfd693",
@@ -121,15 +256,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/19223440/55662493824_34ceb73f60_k-960x540.jpg",
    "data": "2026-11-19T22:53:53-03:00"
-  },
-  {
-   "id": "6ac9cf572941",
-   "titulo": "Fachin envia à PGR 4 relatórios da PF sobre ministros do STF",
-   "resumo": "Documentos citam Moraes, Mendonça, Nunes Marques e Toffoli em mensagens encontradas no celular de Vorcaro; Paulo Gonet avaliará o material",
-   "link": "https://www.poder360.com.br/poder-justica/fachin-envia-a-pgr-4-relatorios-da-pf-sobre-ministros-do-stf/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T22:15:37-03:00"
   },
   {
    "id": "2c39b7f56730",
@@ -168,24 +294,6 @@
    "data": "2026-11-19T21:34:06-03:00"
   },
   {
-   "id": "d3d0cdc2d783",
-   "titulo": "JPMorgan, Visa e Mastercard relatam ataque cibernético",
-   "resumo": "Invasões a fornecedores terceirizados expuseram dados de clientes, incluindo e-mails e nomes",
-   "link": "https://www.poder360.com.br/poder-tech/jpmorgan-visa-e-mastercard-relatam-ataque-cibernetico/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-jpmorgan.png",
-   "data": "2026-11-19T21:31:21-03:00"
-  },
-  {
-   "id": "c2851ebdde5d",
-   "titulo": "Justiça mantém condenação de Sikêra Júnior por ofensas à “Globo”",
-   "resumo": "Apresentador e \"TV A Crítica\" terão de pagar R$ 100 mil por declarações contra emissora; decisão de 2ª instância ainda cabe recurso",
-   "link": "https://www.poder360.com.br/poder-justica/justica-mantem-condenacao-de-sikera-junior-por-ofensas-a-globo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T21:23:55-03:00"
-  },
-  {
    "id": "214ab627fabe",
    "titulo": "Caso Van Hattem testa terreno para radicalização autoritária do STF contra parlamentares",
    "resumo": "Em ação relatada por Dino, Van Hattem é alvo de denúncia criminal por denunciar possíveis irregularidades cometidas por agente público.",
@@ -202,15 +310,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/lluT9WuWRNPvtDW4qMR3SDlVH7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/2/rJ8EdBQ4eikdLaYhBvYQ/55649524053-8fb20ce2fc-k.jpg",
    "data": "2026-11-19T21:06:16-03:00"
-  },
-  {
-   "id": "1c631962f0f8",
-   "titulo": "Milhares protestam contra a reforma tributária na Colômbia",
-   "resumo": "Sindicatos e oposição protestam contra ajuste fiscal proposto pelo atual presidente, Abelardo de la Espriella",
-   "link": "https://www.poder360.com.br/poder-internacional/milhares-protestam-contra-a-reforma-tributaria-na-colombia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T21:05:21-03:00"
   },
   {
    "id": "0b71e915005e",
@@ -231,24 +330,6 @@
    "data": "2026-11-19T20:59:26-03:00"
   },
   {
-   "id": "154f95713890",
-   "titulo": "iFood tem novo vazamento e expõe CPF de entregadores",
-   "resumo": "Empresa não divulga número de afetados, mas diz que senhas e cartões não foram acessados; em dezembro de 2025, houve o vazamento de dados de 1,2 milhões de usuários da plataforma",
-   "link": "https://www.poder360.com.br/poder-tech/ifood-tem-novo-vazamento-e-expoe-cpf-de-entregadores/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T20:55:03-03:00"
-  },
-  {
-   "id": "5cd30a0b7adb",
-   "titulo": "Em comunicado, líderes empresariais pedem que COP31 apoie eletrificação",
-   "resumo": "Documento assinado por empresas como Siemens, Volvo e Nestlé pede sinalização política para destravar investimentos e acelerar a transição energética",
-   "link": "https://www.poder360.com.br/poder-energia/em-comunicado-lideres-empresariais-pedem-que-cop31-apoie-eletrificacao/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T20:38:56-03:00"
-  },
-  {
    "id": "2378ae13fc37",
    "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
    "resumo": "",
@@ -256,15 +337,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/RVoT4Zq20buzERW89XU9RfNr7Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/q/VYBfx7QyeiDzDUd6kiZw/kayo-magalhaes.jpg",
    "data": "2026-11-19T20:37:50-03:00"
-  },
-  {
-   "id": "8933fe2d625d",
-   "titulo": "Após pedido, ministério vai ouvir delegados afastados do caso Master",
-   "resumo": "Segundo o diretor-geral da PF, afastamentos ocorreram por “quebra na fundamental relação de confiança”",
-   "link": "https://www.poder360.com.br/poder-justica/apos-pedido-ministerio-vai-ouvir-delegados-afastados-do-caso-master/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T20:33:49-03:00"
   },
   {
    "id": "b6b4ef468d9c",
@@ -285,15 +357,6 @@
    "data": "2026-11-19T20:23:16-03:00"
   },
   {
-   "id": "71f9e1f8a857",
-   "titulo": "TV do Ratinho demite 20 profissionais e encerra programas",
-   "resumo": "Emissora \"Rede Massa\", afiliada do \"SBT\" no Paraná, atribui cortes à proibição das bets e ao fim da escala 6 X 1",
-   "link": "https://www.poder360.com.br/poder-midia/tv-do-ratinho-demite-20-profissionais-e-encerra-programas/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-19T20:22:57-03:00"
-  },
-  {
    "id": "4c01e599a9cf",
    "titulo": "Lula assina decreto que estabelece novas regras para a jornada de trabalho",
    "resumo": "Confira as regras do novo decreto que regulamenta a escala 5x2, os prazos para redução da jornada e como fica o cálculo do salário-hora do trabalhador.",
@@ -310,24 +373,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/07/55340657312_28430a97d7_o-scaled.jpg",
    "data": "2026-11-19T20:05:40-03:00"
-  },
-  {
-   "id": "c784f5252a57",
-   "titulo": "Moraes marca julgamento sobre Lei da Dosimetria, que pode beneficiar Bolsonaro",
-   "resumo": "Moraes marcou o julgamento das ações que questionam a validade da Lei da Dosimetria, que pode beneficiar Bolsonaro.",
-   "link": "https://www.gazetadopovo.com.br/republica/moraes-marca-julgamento-sobre-lei-da-dosimetria-que-pode-beneficiar-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/19182938/moraes-3-960x540.jpg",
-   "data": "2026-11-19T19:33:06-03:00"
-  },
-  {
-   "id": "39aed065907f",
-   "titulo": "Justiça mantém condenação de Janones por falsa acusação contra Carlos Vereza",
-   "resumo": "Justiça rejeitou recurso de Janones, manteve a indenização por danos morais e determinou retratação pública por falsa acusação de pedofilia.",
-   "link": "https://www.gazetadopovo.com.br/republica/justica-mantem-condenacao-de-janones-por-falsa-acusacao-contra-carlos-vereza/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/12154804/EFEEPACLEMENS-BILAN-12-960x540.jpg",
-   "data": "2026-11-19T19:27:45-03:00"
   },
   {
    "id": "27de95523471",
@@ -375,15 +420,6 @@
    "data": "2026-11-19T18:35:39-03:00"
   },
   {
-   "id": "89bcd183a2a2",
-   "titulo": "Caso Master: Fachin arquiva 6 relatórios sobre ministros do STF e envia 4 à PGR",
-   "resumo": "Os documentos enviados por Fachin reúnem menções aos próprios ministros em mensagens extraídas dos celulares de Vorcaro e Fabiano Zettel.",
-   "link": "https://www.gazetadopovo.com.br/republica/caso-master-fachin-compartilha-relatorios-da-pf-com-ministros-do-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/27173027/fachin-stf-3-960x540.jpg",
-   "data": "2026-11-19T18:32:05-03:00"
-  },
-  {
    "id": "275fee1adc2d",
    "titulo": "Lula oficializa redução da jornada e enfrenta resistência de empresários",
    "resumo": "O presidente Lula (PT) assinou, nesta quinta-feira, 19, o decreto que regulamenta o fim da escala 6×1 e estabelece a jornada de trabalho 5×2 no país. A primeira etapa da transição começa em 16 de dezembro, com a redução da carga horária sem…",
@@ -402,15 +438,6 @@
    "data": "2026-11-19T18:20:39-03:00"
   },
   {
-   "id": "9e02dbfdc2e8",
-   "titulo": "Crusoé: Senador do PL vota com Lula e diz que agiu para proteger Brasília",
-   "resumo": "O senador Izalci Lucas (PL-DF) justificou seu voto favorável ao ajuste fiscal do governo Lula como uma decisão em defesa dos interesses do Distrito Federal. Em nota à imprensa, o parlamentar afirmou que a posição não representou apoio ao go…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-senador-do-pl-vota-com-lula-e-diz-que-agiu-para-proteger-brasilia/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/izalci-lucas-2.jpg",
-   "data": "2026-11-19T18:03:19-03:00"
-  },
-  {
    "id": "70eb68d391b7",
    "titulo": "Mercado de câmbio trava após fala de Lula sobre escolha de ministros e BC intervém com leilão de dólar",
    "resumo": "",
@@ -418,15 +445,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/cdKPdcgRIVe1Ivu7MS-0-MAWZV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/T/S3eoxkTjmcBdiTsnIZuQ/55662305561-8b8b204ca0-o.jpg",
    "data": "2026-11-19T16:28:15-03:00"
-  },
-  {
-   "id": "abb1f69f4502",
-   "titulo": "Defesa diz que Bolsonaro não vota na eleição do Senado e recorre para que ex-presidente receba visita de Marinho",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/19/defesa-diz-que-bolsonaro-nao-tem-voto-na-eleicao-do-senado-e-recorre-para-que-ex-presidente-receba-marinho.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/F94EhO9rXa2xJWOj7B1j40wLy8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/7/QN52E2QPSaMnlPCRRLNQ/bolsonaro-rogerio-marinho.jpg",
-   "data": "2026-11-19T15:51:18-03:00"
   },
   {
    "id": "e534ac1e912e",
@@ -564,15 +582,6 @@
    "data": "2026-11-18T02:00:44-03:00"
   },
   {
-   "id": "9cf5e582a09b",
-   "titulo": "Lula recebe chefe da PF após polêmica sobre troca de delegados",
-   "resumo": "Conversa entre presidente Lula e diretor-geral da PF, Andrei Rodrigues, aconteceu na noite da terça-feira (17/11), no Palácio da Alvorada",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-recebe-chefe-da-pf-apos-polemica-sobre-troca-de-delegados",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/Presidente-Lula-e-diretor-PF-Andrei-Augusto-Passos-Rodrigues-participam-da-cerimonia-de-Assinatura-de-Contrato-entre-BNDES-e-MJSP-recursos-do-Fundo-Amazonia3.jpg",
-   "data": "2026-11-17T22:29:01-03:00"
-  },
-  {
    "id": "a3e797122ef5",
    "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/…",
@@ -589,15 +598,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-17T18:54:00-03:00"
-  },
-  {
-   "id": "c2d38cae0c83",
-   "titulo": "Cúpula do PL se reúne para definir posição na eleição da Câmara",
-   "resumo": "Cúpula do PL se reunirá para tratar de eleição à presidência da Câmara e pode sacramentar nome de Nikolas Ferreira contra Hugo Motta",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/cupula-do-pl-se-reune-para-definir-posicao-na-eleicao-da-camara",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/05/nikolas-ferreira.jpg",
-   "data": "2026-11-17T18:33:28-03:00"
   },
   {
    "id": "87d34754f6c7",
