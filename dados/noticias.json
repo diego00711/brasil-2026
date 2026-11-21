@@ -1,90 +1,324 @@
 {
- "atualizado": "2026-11-21T06:39:07.776505-03:00",
- "total": 65,
+ "atualizado": "2026-11-21T14:23:46.917177-03:00",
+ "total": 66,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "519239266444",
-   "titulo": "Público rejeita notícias feitas por IA, mas usa ferramenta para busca",
-   "resumo": "Pesquisa do Reuters Institute indica que 24% dos entrevistados viram informe de conteúdo produzido com IA em notícias",
-   "link": "https://www.poder360.com.br/nieman/publico-rejeita-noticias-feitas-por-ia-mas-usa-ferramenta-para-busca/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/grafico-Nieman-IA-21.nov_.2026-01.png",
-   "data": "2026-11-21T06:33:26-03:00"
+   "id": "630c7c3fa4b3",
+   "titulo": "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/o-sistema-financeiro-nao-vai-me-ensinar-dirigir-o-brasil-diz-lula\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/o-sistema-financeiro-nao-vai-me-ensinar-dirigir-o-brasil-diz-lula",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-21T14:12:00-03:00"
   },
   {
-   "id": "1dfdf7815788",
-   "titulo": "União poderá ajudar municípios a elaborar plano diretor",
-   "resumo": "Proposta altera o Estatuto da Cidade e condiciona o apoio federal à disponibilidade orçamentária e financeira",
-   "link": "https://www.poder360.com.br/poder-congresso/uniao-podera-ajudar-municipios-a-elaborar-plano-diretor/",
+   "id": "234476f234bd",
+   "titulo": "Votação da PEC da autonomia do BC ficará para 2027",
+   "resumo": "Para articuladores no Senado e Galípolo, Congresso mais à direita e menor disputa política podem facilitar aprovação",
+   "link": "https://www.poder360.com.br/poder-economia/votacao-da-pec-de-autonomia-do-bc-ficara-para-2027/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-21T06:30:06-03:00"
+   "data": "2026-11-21T14:00:56-03:00"
   },
   {
-   "id": "c0aff14de80d",
-   "titulo": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
-   "resumo": "Proposta obriga a Anvisa a autorizar a produção e a comercialização dos dispositivos e amplia o controle sobre falhas",
-   "link": "https://www.poder360.com.br/poder-congresso/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos/",
+   "id": "59bcfc1bad61",
+   "titulo": "Diretor de Regulação deve se aposentar do BC, mas permanecer na cúpula",
+   "resumo": "Gilneu Vivan pode deixar o funcionalismo público em 2027 e continuar na diretoria, dispensando uma nova indicação de Lula",
+   "link": "https://www.poder360.com.br/poder-economia/diretor-de-regulacao-deve-se-aposentar-do-bc-mas-permanecer-na-cupula/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-21T06:15:38-03:00"
+   "data": "2026-11-21T14:00:25-03:00"
   },
   {
-   "id": "ce15c88e7ce4",
-   "titulo": "Telebras estima iniciar operação de data center de IA em 1 ano",
-   "resumo": "Anatel formalizou a destinação de R$ 375 milhões em recursos remanescentes do leilão do 5G para o empreendimento",
-   "link": "https://www.poder360.com.br/poder-infra/telebras-estima-iniciar-operacao-de-data-center-de-ia-em-1-ano/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/WzuUwhJhgKU/hqdefault.jpg",
-   "data": "2026-11-21T06:00:55-03:00"
-  },
-  {
-   "id": "055994875d30",
-   "titulo": "Projeto cria auxílio financeiro temporário para mulheres vítimas de violência",
-   "resumo": "Conforme a proposta, o benefício temporário será pago por municípios e pelo DF e integrará o rol de medidas da Lei Maria da Penha",
-   "link": "https://www.poder360.com.br/poder-congresso/projeto-cria-auxilio-financeiro-temporario-para-mulheres-vitimas-de-violencia/",
+   "id": "05c17ad7efa8",
+   "titulo": "Galípolo perde influência para as próximas escolhas da diretoria do BC",
+   "resumo": "Desgaste na relação com o governo e mudança no comando da Fazenda devem reduzir o peso do presidente do BC nas próximas indicações",
+   "link": "https://www.poder360.com.br/poder-economia/galipolo-perde-influencia-para-as-proximas-escolhas-da-diretoria-do-bc/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-21T06:00:47-03:00"
+   "data": "2026-11-21T14:00:17-03:00"
   },
   {
-   "id": "41738a1851f0",
-   "titulo": "Brasil corre contra o tempo para não perder único satélite de defesa",
-   "resumo": "Governo tem aproximadamente 6 anos para substituir sua única sonda capaz de atender a demanda de comunicação crítica",
-   "link": "https://www.poder360.com.br/poder-infra/brasil-corre-contra-o-tempo-para-nao-perder-unico-satelite-de-defesa/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/sistema-satelite-defesa-20-nov-2026-scaled.png",
-   "data": "2026-11-21T06:00:28-03:00"
-  },
-  {
-   "id": "4f466a2a5eed",
-   "titulo": "Infra em 1 Minuto: transportadoras tentam evitar revisão tarifária",
-   "resumo": "Pedro Rodrigues, do CBIE, critica pressão de empresas de gás sobre a ANP e defende independência da agência",
-   "link": "https://www.poder360.com.br/poder-infra/infra-em-1-minuto-transportadoras-tentam-evitar-revisao-tarifaria/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/N5Pn51kasH4/hqdefault.jpg",
-   "data": "2026-11-21T06:00:16-03:00"
-  },
-  {
-   "id": "a2eac3dc546a",
-   "titulo": "Telebras mira autonomia financeira e projeta fim de aportes do governo",
-   "resumo": "Estatal de telecomunicações acumula prejuízo de R$ 90,7 milhões em 2026, apesar de ter recebido R$ 169,9 milhões em subvenções orçamentárias",
-   "link": "https://www.poder360.com.br/poder-economia/telebras-mira-autonomia-financeira-e-projeta-fim-de-aportes-do-governo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/sistema-satelite-defesa-20-nov-2026-copia-scaled.png",
-   "data": "2026-11-21T06:00:04-03:00"
-  },
-  {
-   "id": "541a3aef2618",
-   "titulo": "Católica avalia dar titulo de santo a 3 ex-estudantes de Harvard",
-   "resumo": "Candidatos formados na universidade foram indicados ao processo por terem exercido feitos de bondade",
-   "link": "https://www.poder360.com.br/poder-internacional/catolica-avalia-dar-titulo-de-santo-a-3-ex-estudantes-de-harvard/",
+   "id": "27eceebe01ae",
+   "titulo": "Violência dificulta combate a surto de ebola na RD Congo, diz ONU",
+   "resumo": "Epidemia deixa 5,4 mil mortos e atinge crianças em oito províncias, com ataques a serviços de saúde",
+   "link": "https://www.poder360.com.br/poder-saude/violencia-dificulta-combate-a-surto-de-ebola-na-rd-congo-diz-onu/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-21T05:00:56-03:00"
+   "data": "2026-11-21T14:00:06-03:00"
+  },
+  {
+   "id": "96c26c0151f2",
+   "titulo": "Crítico dos juros elevados, Lula pode reformular BC; saiba os cotados",
+   "resumo": "Duas diretorias estão vagas e presidente poderá indicar outros 2 nomes em fevereiro de 2027, totalizando 4 indicações",
+   "link": "https://www.poder360.com.br/poder-economia/critico-dos-juros-elevados-lula-pode-reformular-bc-saiba-os-cotados/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/lula-perfil-banco-central-20-nov-2026-scaled.png",
+   "data": "2026-11-21T14:00:05-03:00"
+  },
+  {
+   "id": "66f343bfab1a",
+   "titulo": "Moraes autoriza visitas de familiares a Bolsonaro em hospital",
+   "resumo": "Decisão atende a pedido da defesa; ex-presidente foi internado na 6ª feira com dores abdominais e quadro de obstrução",
+   "link": "https://www.poder360.com.br/poder-justica/moraes-autoriza-visitas-de-familiares-a-bolsonaro-em-hospital/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T13:50:43-03:00"
+  },
+  {
+   "id": "b58894412a8e",
+   "titulo": "Moraes autoriza Carlos a visitar Bolsonaro no hospital, mas sem celular",
+   "resumo": "Alexandre de Moraes autorizou Carlos, Jair Renan, e as enteadas Laura Firmo e Letícia Firmo, a visitarem Jair Bolsonaro durante internação.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-carlos-a-visitar-bolsonaro-no-hospital-mas-sem-celular/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2022/02/23164427/carlos-e-jair-bolsonaro-russia-crop-20220223194409-960x540.jpg",
+   "data": "2026-11-21T13:50:19-03:00"
+  },
+  {
+   "id": "77bab957f8da",
+   "titulo": "Bolsonaro é internado na UTI com \"abdômen agudo obstrutivo\"",
+   "resumo": "O ex-presidente Jair Bolsonaro foi internado na UTI do hospital DF Star, em Brasília, com o diagnóstico de “abdômen agudo obstrutivo”",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/bolsonaro-e-internado-na-uti-com-abdomen-agudo-obstrutivo",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/6cd8a593-jair-bolsonaro.jpg",
+   "data": "2026-11-21T13:47:51-03:00"
+  },
+  {
+   "id": "8b8025d48c49",
+   "titulo": "Resumo da semana: ajuste fiscal de Lula gera racha na base do governo e protestos nas ruas",
+   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
+   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-ajuste-fiscal-de-lula-gera-racha-na-base-do-governo-e-protestos-nas-ruas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/19183732/thumb-gazeta-agora_cortes-28-960x540.jpg",
+   "data": "2026-11-21T13:31:00-03:00"
+  },
+  {
+   "id": "9fede8b7eb91",
+   "titulo": "Houve um pavor no mundo quando não ganhei o 1º turno, diz Lula",
+   "resumo": "Segundo o petista, a comunidade internacional enxergava sua derrota como o fim do regime democrático no Brasil",
+   "link": "https://www.poder360.com.br/poder-governo/houve-um-pavor-no-mundo-quando-nao-ganhei-o-1o-turno-diz-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T13:14:44-03:00"
+  },
+  {
+   "id": "23b2a522c845",
+   "titulo": "Fala de Flávio contra resultado da eleição motivou Moraes a apreender passaporte",
+   "resumo": "Pronunciamento de Flávio Bolsonaro contra reeleição de Lula foi citada por Alexandre de Moraes em ordem para apreender passaportes.",
+   "link": "https://www.gazetadopovo.com.br/republica/fala-de-flavio-contra-resultado-da-eleicao-motivou-moraes-a-apreender-passaporte/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10214519/flavio-bolsonaro-1-960x540.jpg",
+   "data": "2026-11-21T13:08:56-03:00"
+  },
+  {
+   "id": "449bd6dbe13e",
+   "titulo": "Lula diz que passaria faixa a Flávio se perdesse eleição",
+   "resumo": "Presidente afirmou que cumpriria o papel de transferir o cargo ao vencedor e ironizou fuga do adversário para os EUA",
+   "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-passaria-faixa-a-flavio-se-perdesse-eleicao/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/w-RqBT5BJe4/hqdefault.jpg",
+   "data": "2026-11-21T13:08:55-03:00"
+  },
+  {
+   "id": "92d5087c5eb4",
+   "titulo": "Mulheres comandam 63% dos negócios na Rocinha, diz estudo",
+   "resumo": "Pesquisa com 1.670 empreendedores mostra que 70% são negros e que 84% começaram as atividades com recursos próprios",
+   "link": "https://www.poder360.com.br/poder-pesquisas/mulheres-comandam-63-dos-negocios-na-rocinha-diz-estudo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T13:00:51-03:00"
+  },
+  {
+   "id": "ebf18c973e0b",
+   "titulo": "Lula confirma que Janja coordenará cerimônia de posse",
+   "resumo": "Presidente fez afirmação em live com Janones neste sábado (21.nov.2026)",
+   "link": "https://www.poder360.com.br/poder-governo/lula-confirma-que-janja-coordenara-cerimonia-de-posse/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/w-RqBT5BJe4/hqdefault.jpg",
+   "data": "2026-11-21T12:52:53-03:00"
+  },
+  {
+   "id": "46729dbb8b8b",
+   "titulo": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/UjqbXhpT373-NxPXHa9WX9yOyYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/n/y/0AwcxTSB62baPHarW3kA/globo-canal-4-4-28-frame-314568.jpeg",
+   "data": "2026-11-21T12:48:34-03:00"
+  },
+  {
+   "id": "c5d8510fb29c",
+   "titulo": "Moraes libera visita de familiares a Bolsonaro no hospital",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou neste sábado, 21, a visita dos filhos e de uma enteada de Jair Bolsonaro ao ex-presidente durante sua internação no Hospital DF Star, em Brasília. A decisão permit…",
+   "link": "https://oantagonista.com.br/brasil/moraes-libera-visita-de-familiares-a-bolsonaro-no-hospital/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55620004836_7068782c11_5k-scaled-e1793985495177.jpg",
+   "data": "2026-11-21T12:47:14-03:00"
+  },
+  {
+   "id": "82cf5e4dae0c",
+   "titulo": "Lula rebate críticas da esquerda ao pacote de ajuste fiscal",
+   "resumo": "Lula (PT) criticou neste sábado, 21, setores da esquerda que se opuseram ao pacote de ajuste fiscal apresentado pelo governo. Em transmissão ao vivo com o deputado federal André Janones (Rede-MG), o petista também atacou representantes da F…",
+   "link": "https://oantagonista.com.br/brasil/lula-rebate-criticas-da-esquerda-ao-pacote-de-ajuste-fiscal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-e-ajuste.png",
+   "data": "2026-11-21T12:38:46-03:00"
+  },
+  {
+   "id": "5229a373f211",
+   "titulo": "Lula reage a críticas da esquerda ao ajuste fiscal e ataca “yuppies da Faria Lima”",
+   "resumo": "Lula reage às críticas da esquerda ao ajuste fiscal, ataca a Faria Lima e reafirma compromisso com reajustes reais do salário mínimo.",
+   "link": "https://www.gazetadopovo.com.br/economia/lula-reage-a-criticas-da-esquerda-ao-ajuste-fiscal-e-ataca-yuppies-da-faria-lima/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21122928/WhatsApp-Image-2026-11-21-at-12.28.38-960x426.jpeg",
+   "data": "2026-11-21T12:31:50-03:00"
+  },
+  {
+   "id": "6bba826ac8f9",
+   "titulo": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-21T12:20:00-03:00"
+  },
+  {
+   "id": "b2c091de9f3c",
+   "titulo": "Rio Grande do Sul tem 36 municípios afetados por temporal",
+   "resumo": "A tempestade que atingiu o Rio Grande do Sul na madrugada de sexta-feira, 20, deixou três mortos, 60 feridos e quase 20 mil pessoas afetadas em 36 municípios. Tupanciretã, na região central do estado, concentrou os maiores estragos: mais de…",
+   "link": "https://oantagonista.com.br/brasil/rio-grande-do-sul-tem-36-municipios-afetados-por-temporal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Rio-Grande-do-Sul.png",
+   "data": "2026-11-21T11:44:38-03:00"
+  },
+  {
+   "id": "e166a60f4730",
+   "titulo": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/FSzRxvNbxiAsjh0hlems2tDjkfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/pHNAIDTJKT7eU5SAqEuw/lula-live-janones.png",
+   "data": "2026-11-21T11:27:51-03:00"
+  },
+  {
+   "id": "2d35a8ad2560",
+   "titulo": "Moraes antecipa voto no STF para tornar Van Hattem réu por calúnia contra Shor",
+   "resumo": "Alexandre de Moraes apresentou voto contra Marcel Van Hattem em sessão virtual após Cristiano Zanin pedir julgamento presencial no STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-antecipa-voto-no-stf-para-tornar-van-hattem-reu-por-calunia-contra-shor/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21112122/Alexandre-de-Moraes-STF-660x372.jpg",
+   "data": "2026-11-21T11:22:44-03:00"
+  },
+  {
+   "id": "549ca8f1ea45",
+   "titulo": "O que Lula prometeu para a economia em 2022 e não entregou",
+   "resumo": "Balanço das promessas apresentadas em 2022 mostra que Lula 3 teve resultados pouco consistentes na agenda de mudanças estruturais da economia",
+   "link": "https://www.gazetadopovo.com.br/economia/promessas-lula-2022-economia/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/13143035/lula-posse-2023-promessas-economia-2022-960x540.jpg",
+   "data": "2026-11-21T10:44:44-03:00"
+  },
+  {
+   "id": "2d00ff68b36b",
+   "titulo": "Defesa pede a Moraes autorização para visitas diárias dos filhos a Bolsonaro",
+   "resumo": "Defesa de Jair Bolsonaro pede a Moraes autorização para visitas diárias dos filhos durante internação no Hospital DF Star, em Brasília.",
+   "link": "https://www.gazetadopovo.com.br/republica/defesa-pede-a-moraes-autorizacao-para-visitas-diarias-dos-filhos-a-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
+   "data": "2026-11-21T10:37:37-03:00"
+  },
+  {
+   "id": "49364302abc3",
+   "titulo": "Moraes manda prender homem condenado pelos atos do 8/1",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou a prisão de Gibrail Pereira de Souza, de 61 anos, condenado a 14 anos de reclusão por participação nos atos de 8 de janeiro de 2023. A ordem foi expedida à…",
+   "link": "https://oantagonista.com.br/brasil/moraes-manda-prender-homem-condenado-pelos-atos-do-8-1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55489696819_c15c50650f_k.jpg",
+   "data": "2026-11-21T10:31:11-03:00"
+  },
+  {
+   "id": "5d8139787e03",
+   "titulo": "Bolsonaro pede a Moraes autorização para visitas diárias dos filhos",
+   "resumo": "A defesa de Jair Bolsonaro notificou o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), sobre a internação do ex-presidente em Brasília e pediu autorização para visitas diárias dos filhos. Como mostramos, Bolsonaro foi levad…",
+   "link": "https://oantagonista.com.br/brasil/bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-dos-filhos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/09/14092025-pzzb3094-1-scaled.jpg",
+   "data": "2026-11-21T10:04:04-03:00"
+  },
+  {
+   "id": "e085e2fdd076",
+   "titulo": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg",
+   "data": "2026-11-21T09:14:12-03:00"
+  },
+  {
+   "id": "6b491f219ec3",
+   "titulo": "Letícia Barros na Crusoé: A anatomia do PL das big techs",
+   "resumo": "Menos de um mês depois da reeleição de Lula à Presidência da República, os donos do poder já movem as peças do tabuleiro político para expandir o controle estatal. Desta vez, o “PL das big techs” surgiu como o instrumento pelo qual o govern…",
+   "link": "https://oantagonista.com.br/brasil/leticia-barros-na-crusoe-a-anatomia-do-pl-das-big-techs/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Big-Brother-scaled-1.jpg",
+   "data": "2026-11-21T09:00:00-03:00"
+  },
+  {
+   "id": "5dd43d3d7f8e",
+   "titulo": "Combate ao crime organizado deve mirar regiões com menos negros, diz Dino",
+   "resumo": "O ministro Flávio Dino (foto), do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira, 20, que o combate ao crime organizado no Brasil deveria voltar a atenção para regiões com menor presença de pessoas negras. Segundo ele, é nesses l…",
+   "link": "https://oantagonista.com.br/brasil/combate-ao-crime-organizado-deve-mirar-regioes-com-menos-negros-diz-dino/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530238541_3deb6c7ebe_k.jpg",
+   "data": "2026-11-21T08:26:39-03:00"
+  },
+  {
+   "id": "edeb91ff9de6",
+   "titulo": "Roberto Reis na Crusoé: Dilma 2, agora de barba",
+   "resumo": "A posse será de Lula 4, mas os problemas já lembram Dilma 2: uma reeleição muito polarizada, apertada, que não restaura a confiança, promessas que não cabem no Orçamento e um partido sem juízo brigando com o governo que acabou de eleger. A …",
+   "link": "https://oantagonista.com.br/brasil/roberto-reis-na-crusoe-dilma-2-agora-de-barba/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/dilma-barbada.jpg",
+   "data": "2026-11-21T08:00:00-03:00"
+  },
+  {
+   "id": "d69f5b8015c8",
+   "titulo": "Moraes acompanha Dino e vota para manter suspensa privatização da Celepar",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), votou para manter suspensa a privatização da Celepar, estatal de tecnologia do Paraná. O magistrado acompanhou o voto de Flávio Dino, com ressalvas, e apontou para os…",
+   "link": "https://oantagonista.com.br/brasil/moraes-acompanha-dino-e-vota-para-manter-suspensa-privatizacao-da-celepar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530053878_01814faa1d_3k.jpg",
+   "data": "2026-11-21T07:47:18-03:00"
+  },
+  {
+   "id": "9161a2cf458d",
+   "titulo": "Presidente do Novo condena voto de Dino para tornar Van Hattem réu",
+   "resumo": "O presidente do Novo, Eduardo Ribeiro (foto), afirmou que o voto do ministro Flávio Dino, do Supremo Tribunal Federal (STF), para tornar o deputado federal Marcel Van Hattem (Novo-RS) réu por calúnia e injúria cria um “precedente extremamen…",
+   "link": "https://oantagonista.com.br/brasil/presidente-do-novo-condena-voto-de-dino-para-tornar-van-hattem-reu/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/8ab3b6e47ef38f5d8730959d872006fdf1cee6c5-1.png",
+   "data": "2026-11-21T07:30:30-03:00"
+  },
+  {
+   "id": "eb3c588447c3",
+   "titulo": "Carlos relata piora na saúde de Bolsonaro e prevê nova cirurgia",
+   "resumo": "Carlos Bolsonaro afirmou na manhã deste sábado, 21, que o ex-presidente Jair Bolsonaro pode precisar passar por uma nova cirurgia em razão das complicações decorrentes da facada sofrida em 2018. Segundo o senador eleito, o ex-presidente vol…",
+   "link": "https://oantagonista.com.br/brasil/carlos-relata-piora-na-saude-de-bolsonaro-e-preve-nova-cirurgia/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Jair-Bolsonaro.png",
+   "data": "2026-11-21T07:13:07-03:00"
+  },
+  {
+   "id": "0f6b0b2c753d",
+   "titulo": "Abertura de sigilo de relatório da PF não resolve a questão, diz Gilmar",
+   "resumo": "O ministro Gilmar Mendes (foto), do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira, 20, que a retirada do sigilo dos relatórios da Polícia Federal (PF) sobre as relações de magistrados da Corte com Daniel Vorcaro não resolverá a …",
+   "link": "https://oantagonista.com.br/brasil/abertura-de-sigilo-de-relatorio-da-pf-nao-resolve-a-questao-diz-gilmar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55461914928_33c1f8c232_3k-e1789750112487.jpg",
+   "data": "2026-11-21T06:55:54-03:00"
   },
   {
    "id": "ede6a7c16fe3",
@@ -94,15 +328,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/Daniella-Marques-durante-Coletiva-de-imprensa-apos-a-solenidade-de-posse-da-nova-presidente-da-Caixa1.jpeg",
    "data": "2026-11-21T05:00:54-03:00"
-  },
-  {
-   "id": "f04732e9aaf3",
-   "titulo": "Moraes vota para tornar Van Hattem réu por críticas a seu assessor",
-   "resumo": "PGR denunciou deputado por falas de 2024 contra Fábio Shor, que passou a integrar o gabinete do ministro em março",
-   "link": "https://www.poder360.com.br/poder-justica/moraes-vota-para-tornar-van-hattem-reu-por-criticas-a-seu-assessor/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T01:10:40-03:00"
   },
   {
    "id": "5c148ca0e1a3",
@@ -116,10 +341,10 @@
   {
    "id": "a1fc23e89ee5",
    "titulo": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
-   "resumo": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financ…",
+   "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
    "fonte": "G1 Política",
-   "imagem": "",
+   "imagem": "https://s2-g1.glbimg.com/Nio80kZDGtxyGX5ESTjm_RdWSsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/L/fBqFu1Qzy0te0w4PwSaQ/52830107256-f3a8e5c381-k.jpg",
    "data": "2026-11-20T22:50:53-03:00"
   },
   {
@@ -141,15 +366,6 @@
    "data": "2026-11-20T21:36:42-03:00"
   },
   {
-   "id": "1b6817971f3b",
-   "titulo": "Van Hattem aponta vínculo entre Moraes e delegado da PF",
-   "resumo": "O deputado federal Marcel Van Hattem (Novo-RS) questionou a imparcialidade do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), após o magistrado pelo recebimento da denúncia contra o parlamentar por calúnia e injúria contra …",
-   "link": "https://oantagonista.com.br/brasil/van-hattem-aponta-vinculo-entre-moraes-e-delegado-da-pf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20220714163122989-1.jpg",
-   "data": "2026-11-20T21:32:01-03:00"
-  },
-  {
    "id": "e147a84202d6",
    "titulo": "“Exército do Lula” perde 1,4 milhão de seguidores após racha na esquerda",
    "resumo": "Canal do WhatsApp liderado pelo deputado André Janones sofreu esvaziamento em meio a embate sobre ajuste fiscal",
@@ -157,15 +373,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/13133347/lula-janones-mentiras-960x540.jpg",
    "data": "2026-11-20T21:32:00-03:00"
-  },
-  {
-   "id": "639786249619",
-   "titulo": "Moraes antecipa voto e acompanha Dino para tornar Van Hattem réu",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira, 20, pelo recebimento da denúncia contra o deputado federal Marcel van Hattem (Novo-RS). O magistrado acompanhou o relator, Flávio Dino. Com isso, o …",
-   "link": "https://oantagonista.com.br/brasil/moraes-antecipa-voto-e-acompanha-dino-para-tornar-van-hattem-reu/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Alexandre-de-Moraes-scaled-1.jpg",
-   "data": "2026-11-20T21:31:31-03:00"
   },
   {
    "id": "12777fc634ce",
@@ -186,15 +393,6 @@
    "data": "2026-11-20T21:23:24-03:00"
   },
   {
-   "id": "9201e5a650f3",
-   "titulo": "Defesa Civil aponta microexplosão como causa de destruição em Tupanciretã",
-   "resumo": "A Defesa Civil do Rio Grande do Sul informou nesta sexta-feira, 20, que uma supercélula associada a uma microexplosão provocou a destruição em Tupanciretã e em municípios próximos. Três mortes foram confirmadas, e o número de feridos ainda …",
-   "link": "https://oantagonista.com.br/brasil/defesa-civil-aponta-microexplosao-como-causa-de-destruicao-em-tupancireta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-20-210652-1.png",
-   "data": "2026-11-20T21:15:14-03:00"
-  },
-  {
    "id": "ac0e28fc47eb",
    "titulo": "Defesa de Vorcaro diz que decisão de Fachin “viola a Constituição”",
    "resumo": "Advogados do ex-controlador do Banco Master contestam decisão que manteve prisão preventiva do ex-banqueiro",
@@ -213,42 +411,6 @@
    "data": "2026-11-20T20:56:40-03:00"
   },
   {
-   "id": "435c28e04b93",
-   "titulo": "Flávio pede homenagem a Bolsonaro após internação",
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ) pediu nesta sexta-feira, 20, no X, que apoiadores publiquem fotos com Jair Bolsonaro (PL) em homenagem ao ex-presidente, internado em Brasília. “Força, Pai! Deus no comando sempre! Vamos fazer uma homenage…",
-   "link": "https://oantagonista.com.br/brasil/flavio-pede-homenagem-a-bolsonaro-apos-internacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/Flavio-Bolsonaro-e-Jair-Bolsonaro.jpg",
-   "data": "2026-11-20T20:45:12-03:00"
-  },
-  {
-   "id": "2a53c5225d07",
-   "titulo": "Bolsonaro é internado após quadro de dor abdominal; cirurgia não é descartada",
-   "resumo": "Segundo boletim médico divulgado pelo hospital, ex-presidente está internado para realização de exames e investigação",
-   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-levado-hospital-apos-quadro-dor-abdominal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/13232947/jair-bolsonaro-1-960x540.jpg",
-   "data": "2026-11-20T20:41:33-03:00"
-  },
-  {
-   "id": "f06d7326105e",
-   "titulo": "“Nível de destruição é dramático”, diz Leite sobre Tupanciretã",
-   "resumo": "O governador do Rio Grande do Sul, Eduardo Leite (PSD), classificou como “dramático” o nível de destruição em Tupanciretã, município atingido por uma tempestade associada a uma supercélula, com indícios de microexplosão e ventos de 114 km/h…",
-   "link": "https://oantagonista.com.br/brasil/nivel-de-destruicao-e-dramatico-diz-leite-sobre-tupancireta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/52648926791_e88ba38c38_c-529x353-1.jpg",
-   "data": "2026-11-20T20:40:42-03:00"
-  },
-  {
-   "id": "6d6f1b6fad16",
-   "titulo": "Bolsonaro tem obstrução intestinal quase completa, diz Carlos",
-   "resumo": "O senador eleito Carlos Bolsonaro (PL-SC, foto) informou que o ex-presidente Jair Bolsonaro (PL) apresentou nesta sexta, 20, um quadro de obstrução intestinal quase completa, após ser internado no Hospital DF Star, em Brasília. Em publicaçã…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-tem-obstrucao-intestinal-quase-completa-diz-carlos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/Captura-de-Tela-2026-02-15-as-09.34.02-e1771158963902.png",
-   "data": "2026-11-20T20:24:16-03:00"
-  },
-  {
    "id": "93f745eaed55",
    "titulo": "“Zanin fez o correto”, diz Van Hattem sobre julgamento no STF",
    "resumo": "Deputado elogiou decisão que levou caso para sessão presencial e cobrou posicionamento dos presidentes do Congresso",
@@ -256,60 +418,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/19122001/marcel-van-hattem_shor_stf-960x540.jpg",
    "data": "2026-11-20T20:24:03-03:00"
-  },
-  {
-   "id": "a1679d6c56e5",
-   "titulo": "Marinho: Bolsonaro “continua preso por crime impossível em país de impunidades”",
-   "resumo": "O líder da oposição no Senado, Rogério Marinho (PL-RN), afirmou nesta sexta-feira, 20, estar “em oração” por Jair Bolsonaro (PL) após a internação do ex-presidente em Brasília. Em publicação no X, o senador atribuiu os problemas de saúde de…",
-   "link": "https://oantagonista.com.br/brasil/marinho-bolsonaro-continua-preso-por-crime-impossivel-em-pais-de-impunidades/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2023/09/53199885580_504e571ecd_o-scaled.jpg",
-   "data": "2026-11-20T20:10:04-03:00"
-  },
-  {
-   "id": "1fdbd84f70b5",
-   "titulo": "Marinho acusa Dino de relativizar imunidade parlamentar no caso Van Hattem",
-   "resumo": "O líder da oposição no Senado, Rogério Marinho (PL-RN), criticou nesta sexta-feira, 20, o voto do ministro Flávio Dino, do Supremo Tribunal Federal (STF), para tornar o deputado federal Marcel van Hattem (Novo-RS) réu por calúnia e injúria …",
-   "link": "https://oantagonista.com.br/brasil/marinho-acusa-dino-de-relativizar-imunidade-parlamentar-no-caso-van-hattem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55648675187_e3bca3bcdc_o-scaled.jpg",
-   "data": "2026-11-20T20:06:43-03:00"
-  },
-  {
-   "id": "2cd06e36cfb0",
-   "titulo": "STF tem “experiência” com impeachment, diz Gilmar",
-   "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira, 20, que a Corte tem “experiência” em relação a pedidos de impeachment de magistrados. “Já tivemos, no último período, muitos ataques ao Supremo Tribunal…",
-   "link": "https://oantagonista.com.br/brasil/stf-tem-experiencia-com-impeachment-diz-gilmar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55563722980_aa0648787b_k.jpg",
-   "data": "2026-11-20T19:55:18-03:00"
-  },
-  {
-   "id": "060114045f32",
-   "titulo": "Itamaraty repudia ataques que atingiram Embaixada do Brasil em Kiev",
-   "resumo": "O Itamaraty repudiou nesta sexta-feira, 20, os ataques russos a Kiev, capital da Ucrânia, que impactaram, com destroços de drones, as Embaixadas de Brasil, África do Sul, Áustria e Países Baixos na quinta, 19. Segundo o governo brasileiro, …",
-   "link": "https://oantagonista.com.br/brasil/itamaraty-repudia-ataques-que-atingiram-embaixada-do-brasil-em-kiev/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Itamaraty.jpg",
-   "data": "2026-11-20T19:34:47-03:00"
-  },
-  {
-   "id": "61494e3e53b7",
-   "titulo": "Prefeito relata destruição em Tupanciretã após temporal",
-   "resumo": "O prefeito de Tupanciretã, Gustavo Terra, afirmou nesta sexta-feira, 20, que todo o comércio do município gaúcho foi destruído após uma forte tempestade atingir a cidade do Rio Grande do Sul durante a madrugada A Defesa Civil confirmou a te…",
-   "link": "https://oantagonista.com.br/brasil/prefeito-relata-destruicao-em-tupancireta-apos-temporal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-20-193145-1.png",
-   "data": "2026-11-20T19:32:45-03:00"
-  },
-  {
-   "id": "5f1aec0cc8e1",
-   "titulo": "Van Hattem reage a pedido de destaque de Zanin no STF",
-   "resumo": "O deputado federal Marcel van Hattem (Novo-RS) afirmou que o ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), acertou ao pedir destaque no julgamento da denúncia contra o parlamentar, interrompendo a análise no plenário virtual.…",
-   "link": "https://oantagonista.com.br/brasil/van-hattem-reage-a-pedido-de-destaque-de-zanin-no-stf/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/07/img20250710134553059-scaled.jpg",
-   "data": "2026-11-20T19:10:12-03:00"
   },
   {
    "id": "643a627cb784",
@@ -321,15 +429,6 @@
    "data": "2026-11-20T18:28:06-03:00"
   },
   {
-   "id": "3a7205a08c1f",
-   "titulo": "Cristiano Zanin interrompe julgamento de Marcel van Hattem no STF",
-   "resumo": "O ministro Cristiano Zanin paralisou o julgamento de Marcel van Hattem no STF. Caso sobre calúnia contra delegado da PF será analisado em sessão presencial.",
-   "link": "https://www.gazetadopovo.com.br/republica/cristiano-zanin-interrompe-julgamento-de-marcel-van-hattem-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/20182645/ASPA-GRANDE-2026-09-25T194716.470-960x540.jpg",
-   "data": "2026-11-20T18:26:39-03:00"
-  },
-  {
    "id": "856c4043fffd",
    "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -337,15 +436,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-20T18:12:00-03:00"
-  },
-  {
-   "id": "05580166b685",
-   "titulo": "Entidades manifestam preocupação e perplexidade com julgamento de Van Hattem",
-   "resumo": "Diversas entidades do Rio Grande do Sul ressaltaram importância da imunidade parlamentar e alertaram para precedente de risco",
-   "link": "https://www.gazetadopovo.com.br/republica/entidades-preocupacao-julgamento-van-hattem/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/07234835/marcel-van-hattem-960x540.jpg",
-   "data": "2026-11-20T18:08:08-03:00"
   },
   {
    "id": "ac471cea21ad",
@@ -357,15 +447,6 @@
    "data": "2026-11-20T18:03:25-03:00"
   },
   {
-   "id": "e9add77fdb16",
-   "titulo": "Relatório da PF prova que André Mendonça contrariou interesse de Vorcaro no STF",
-   "resumo": "\"Notícia ruim/O André Mendonça foi contra/Está 3 a 2\", dizem mensagens encaminhadas por Daniel Vorcaro após julgamento no STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/relatorio-da-pf-prova-que-andre-mendonca-contrariou-interesse-de-vorcaro-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/20173538/Andre-Mendonca-e-Alexandre-de-Moraes-no-STF-960x540.jpg",
-   "data": "2026-11-20T17:35:57-03:00"
-  },
-  {
    "id": "85bfd5ca9ff0",
    "titulo": "Bolsonaro é internado após sentir dores abdominais",
    "resumo": "",
@@ -373,33 +454,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/46fp6f5WWQKEGzNwfLRvF3e7UII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg",
    "data": "2026-11-20T17:15:13-03:00"
-  },
-  {
-   "id": "e89acfb1c8e8",
-   "titulo": "Dino aceita denúncia contra ex-ministro de Lula por desvio de emendas",
-   "resumo": "Ministro do STF votou para tornar réus o deputado federal e mais cinco pessoas acusadas de desviar emendas parlamentares",
-   "link": "https://www.gazetadopovo.com.br/republica/dino-aceita-denuncia-ex-ministro-lula-desvio-emendas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2024/06/24100821/etica-na-politica-660x372.jpg",
-   "data": "2026-11-20T17:09:04-03:00"
-  },
-  {
-   "id": "db256f3aed89",
-   "titulo": "Flávio Dino apresenta voto para transformar Marcel van Hattem em réu no STF",
-   "resumo": "Ministro Flávio Dino vota pelo recebimento de denúncia contra Marcel van Hattem. Deputado é acusado de calúnia e injúria contra delegado da PF.",
-   "link": "https://www.gazetadopovo.com.br/republica/flavio-dino-apresenta-voto-para-transformar-marcel-van-hattem-em-reu-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/20165010/ASPA-GRANDE-2026-10-27T105753.135-960x540.jpg",
-   "data": "2026-11-20T16:50:04-03:00"
-  },
-  {
-   "id": "51ee4e1c76bf",
-   "titulo": "Moraes mantém retenção de passaportes e proibições impostas a Flávio Bolsonaro",
-   "resumo": "Alexandre de Moraes vota para manter passaportes de Flávio Bolsonaro cancelados após senador descumprir ordens judiciais e deixar o país.",
-   "link": "https://www.gazetadopovo.com.br/republica/moraes-mantem-retencao-de-passaportes-e-proibicoes-impostas-a-flavio-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/20163147/flavio-1-960x540.jpg",
-   "data": "2026-11-20T16:31:37-03:00"
   },
   {
    "id": "529944141fde",
@@ -436,33 +490,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/xxiKPwiQLBS-BWcsnEFTqqf0nfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/w/OAz8r3RBWAoAuuUK0dvw/2026-10-28t133344z-931556810-rc2dcoanfocy-rtrmadp-3-brazil-usa.jpg",
    "data": "2026-11-20T11:17:49-03:00"
-  },
-  {
-   "id": "052291ff77a5",
-   "titulo": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/caso-master-fachin-mantem-prisao-do-ex-banqueiro-daniel-vorcaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/4mgP-BLmOEN-GZDIG2oQXznFBC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/tKA3WvRZ23D9gA1d2RKA/vorcaro-depoe.png",
-   "data": "2026-11-20T09:25:23-03:00"
-  },
-  {
-   "id": "7ab2d7c13ee1",
-   "titulo": "Master: relatório da PF sobre Mendonça cita tentativas de aproximação de Vorcaro ao ministro do STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/20/master-relatorio-da-pf-sobre-mendonca-cita-tentativas-de-aproximacao-de-vorcaro-ao-ministro-do-stf.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/qrHttzhcAXN1RIeqnCZZUJ7N4_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/a/vLrGcISnSoxJyQ8xvFBg/55574114509-aab923515e-k.jpg",
-   "data": "2026-11-20T08:43:51-03:00"
-  },
-  {
-   "id": "d52f448da232",
-   "titulo": "Caso Master: Mendonça pede, e Fachin torna público relatório da PF com menções ao ministro do STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/ldgzRjZcSJRT4qHvZV9lPdJVX-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/SlZ1oxRQS5e696yBBlfQ/55590654107-4186887e84-k.jpg",
-   "data": "2026-11-20T08:01:26-03:00"
   },
   {
    "id": "1090432cbf4a",
@@ -564,15 +591,6 @@
    "data": "2026-11-18T19:39:00-03:00"
   },
   {
-   "id": "2687c78927cd",
-   "titulo": "João Campos será o 1º presidente da Federação PSB/PDT",
-   "resumo": "João Campos, atual presidente nacional do PSB, será o primeiro a comandar federação com o PDT e revezará cargo com Carlos Lupi",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/joao-campos-sera-o-1o-presidente-da-federacao-psb-pdt",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/joao-campos.jpg",
-   "data": "2026-11-18T18:52:10-03:00"
-  },
-  {
    "id": "23fabc47e1f5",
    "titulo": "Na FAO, Wellington Dias celebra avanços no combate à fome",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/as…",
@@ -580,15 +598,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-18T15:40:00-03:00"
-  },
-  {
-   "id": "e856d185d24c",
-   "titulo": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-e…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-18T11:12:00-03:00"
   }
  ]
 }
