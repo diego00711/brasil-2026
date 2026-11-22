@@ -1,10 +1,127 @@
 {
- "atualizado": "2026-11-21T20:06:08.770866-03:00",
- "total": 65,
+ "atualizado": "2026-11-22T03:34:34.500424-03:00",
+ "total": 64,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
+  {
+   "id": "5b269a29c9bb",
+   "titulo": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/baIHCsfEc3el4JdGVkbxZ-Y-r48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/E/WoJsAKQbOzBpPvBhohog/guarda-municipal-semsc-foto-jonatas-medeiros-9906.jpeg",
+   "data": "2026-11-22T00:00:00-03:00"
+  },
+  {
+   "id": "93640836281e",
+   "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
+   "data": "2026-11-22T00:00:00-03:00"
+  },
+  {
+   "id": "efce93b93956",
+   "titulo": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/AQKbMOuPMiqZtl76Nub_CFPF75I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/U9vNoXQ2amMvfssbZOKw/tct61cmm0nfdcmoynccifl2oxcp0yofz7qyqrnxl.jpg",
+   "data": "2026-11-22T00:00:00-03:00"
+  },
+  {
+   "id": "854c5336eaa9",
+   "titulo": "Sul terá temporais com rajadas de vento acima de 80 km/h no domingo",
+   "resumo": "Nova frente fria aumenta risco de vendavais e granizo; chuva pode atingir 120 mm em áreas do Rio Grande do Sul",
+   "link": "https://www.poder360.com.br/poder-brasil/sul-tera-temporais-com-rajadas-de-vento-acima-de-80-km-h-no-domingo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T23:04:02-03:00"
+  },
+  {
+   "id": "9000bfa170de",
+   "titulo": "Veja imagens dos estragos causados por vendavais no Sul do Brasil",
+   "resumo": "Temporais deixaram 5 mortos e 265 feridos no RS; Paraná registrou 2 tornados e Santa Catarina teve casas destelhadas",
+   "link": "https://www.poder360.com.br/poder-brasil/veja-imagens-dos-estragos-causados-por-vendavais-no-sul-do-brasil/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/VENDAVALK-ADALBERTO.png",
+   "data": "2026-11-21T22:30:28-03:00"
+  },
+  {
+   "id": "da5c94a72e63",
+   "titulo": "Após viagem, Michelle vai a hospital em que Bolsonaro está internado",
+   "resumo": "Senadora eleita e ex-primeira-dama retornou de viagem neste sábado; ela estava em Israel desde a semana passada",
+   "link": "https://www.poder360.com.br/poder-gente/apos-viagem-michelle-vai-a-hospital-em-que-bolsonaro-esta-internado/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T22:13:12-03:00"
+  },
+  {
+   "id": "d131d0d1968d",
+   "titulo": "Sobe para 5 número de mortos em temporais no Rio Grande do Sul",
+   "resumo": "Defesa Civil confirmou nova morte em Tupanciretã; município registra 265 feridos e quase 20.000 pessoas desalojadas ou desabrigadas",
+   "link": "https://www.poder360.com.br/poder-brasil/sobe-para-5-numero-de-mortos-em-temporais-no-rio-grande-do-sul/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/tornado.jpg",
+   "data": "2026-11-21T22:01:44-03:00"
+  },
+  {
+   "id": "fca3a86c5731",
+   "titulo": "PL terá 20% do total de deputados estaduais para avançar com projetos da direita no país",
+   "resumo": "PL sai das urnas com o maior total de deputados estaduais: 212 eleitos nos estados e no DF. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/brasil/pl-deputados-estaduais-projetos-direita-pais/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/11165103/Paulo-Melo-PL-960x540.jpg",
+   "data": "2026-11-21T21:25:56-03:00"
+  },
+  {
+   "id": "6223569ced4e",
+   "titulo": "Morre Joe Wallach, um dos fundadores da “TV Globo”, aos 103 anos",
+   "resumo": "Norte-americano naturalizado brasileiro ajudou a criar a Globosat e fundou a rede \"Telemundo\" nos EUA",
+   "link": "https://www.poder360.com.br/poder-brasil/morre-joe-wallach-um-dos-fundadores-da-tv-globo-aos-103-anos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T21:13:10-03:00"
+  },
+  {
+   "id": "4714bdab51d2",
+   "titulo": "Bolsonaro tem tornozeleira retirada durante internação na UTI",
+   "resumo": "Ministro do STF Alexandre de Moraes determinou que equipamento seja recolocado após alta hospitalar; ex-presidente está internado em Brasília",
+   "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T20:42:13-03:00"
+  },
+  {
+   "id": "ace708d89a95",
+   "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
+   "resumo": "Ex-presidente está internado na UTI do hospital DF Star, em Brasília, com obstrução intestinal",
+   "link": "https://www.poder360.com.br/poder-brasil/pastores-oram-por-melhora-de-bolsonaro-em-frente-a-hospital/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/tgyag1YwmU4/hqdefault.jpg",
+   "data": "2026-11-21T20:39:34-03:00"
+  },
+  {
+   "id": "0ee00df967c8",
+   "titulo": "Protestos na França reúnem 150 mil, dizem organizadores",
+   "resumo": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
+   "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-21T20:21:10-03:00"
+  },
+  {
+   "id": "6aa672133556",
+   "titulo": "“Bolsonaro está lutando para que o funcionamento do intestino volte”, diz Carlos",
+   "resumo": "Carlos Bolsonaro (PL-SC) afirmou neste sábado, 21, que o pai, o ex-presidente Jair Bolsonaro, permanece estável na UTI, mas ainda não tem previsão de alta. Segundo ele, os médicos tentam reverter a obstrução intestinal, e uma nova cirurgia …",
+   "link": "https://oantagonista.com.br/brasil/bolsonaro-esta-lutando-para-que-funcionamento-do-intestino-volte-diz-carlos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Jair-Bolsonaro.png",
+   "data": "2026-11-21T20:06:05-03:00"
+  },
   {
    "id": "47b5e2f4fc2a",
    "titulo": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
@@ -42,24 +159,6 @@
    "data": "2026-11-21T19:32:13-03:00"
   },
   {
-   "id": "a1a3f9cfdeac",
-   "titulo": "Trump posa ao lado de Putin e o chama de “meu amigo” na China",
-   "resumo": "Presidente dos EUA elogiou relação com líder russo durante encontro na China; declaração provocou críticas na Europa",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-posa-ao-lado-de-putin-e-o-chama-de-meu-amigo-na-china/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T19:07:17-03:00"
-  },
-  {
-   "id": "eec9a1edd4f9",
-   "titulo": "Países vão discutir regras para “robôs assassinos” até 2028",
-   "resumo": "Decisão foi tomada por 128 países em Genebra; EUA, Rússia e Israel resistiram à proposta de um tratado obrigatório",
-   "link": "https://www.poder360.com.br/poder-tech/paises-vao-discutir-regras-para-robos-assassinos-ate-2028/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T18:46:43-03:00"
-  },
-  {
    "id": "cab8df11d096",
    "titulo": "Lula diz ter conversado com Trump, Putin e Xi: “tomem uma cerveja juntos”",
    "resumo": "Em live com o deputado André Janones, presidente disse ter conversado com os três líderes cerca de quatro meses atrás",
@@ -69,42 +168,6 @@
    "data": "2026-11-21T18:23:00-03:00"
   },
   {
-   "id": "92d8ad4aad9e",
-   "titulo": "Tornados atingem Foz do Iguaçu e Manoel Ribas, no Paraná",
-   "resumo": "Tempestades destelharam casas, cortaram energia e elevaram para 15 o nº de tornados no Estado em 2026",
-   "link": "https://www.poder360.com.br/poder-brasil/tornados-atingem-foz-do-iguacu-e-manoel-ribas-no-parana/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T18:13:23-03:00"
-  },
-  {
-   "id": "a06849d00cc0",
-   "titulo": "Vitória de Lula simboliza defesa da democracia, diz Haddad",
-   "resumo": "Ex-ministro afirma que resultado eleitoral reflete disputa global contra a concentração de poder econômico e político",
-   "link": "https://www.poder360.com.br/poder-governo/vitoria-de-lula-simboliza-defesa-da-democracia-diz-haddad/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T18:03:58-03:00"
-  },
-  {
-   "id": "d0ecc318b333",
-   "titulo": "Haddad defende taxar super-ricos durante cúpula em Paris",
-   "resumo": "Ex-ministro afirma que imposto de 2% sobre grandes fortunas poderia arrecadar globalmente até US$ 250 bilhões por ano",
-   "link": "https://www.poder360.com.br/poder-economia/haddad-defende-taxar-super-ricos-durante-cupula-em-paris/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T18:00:58-03:00"
-  },
-  {
-   "id": "8294fa313e0c",
-   "titulo": "Itália libera carro com direção assistida da Tesla",
-   "resumo": "País é o 12º do bloco europeu a autorizar a tecnologia; motorista permanece responsável pela condução do veículo",
-   "link": "https://www.poder360.com.br/poder-tech/italia-libera-carro-com-direcao-assistida-da-tesla/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T17:45:26-03:00"
-  },
-  {
    "id": "4f1cc388b23f",
    "titulo": "Tarcísio: “Em oração pela saúde de Jair Bolsonaro”",
    "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), publicou neste sábado, 21, uma mensagem em que deseja a recuperação do ex-presidente Jair Bolsonaro (PL), internado na UTI do Hospital DF Star, em Brasília, com um quadro de obs…",
@@ -112,15 +175,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/02/55088872406_2a3d395b13_k.jpg",
    "data": "2026-11-21T17:41:51-03:00"
-  },
-  {
-   "id": "82c14dd552af",
-   "titulo": "Sociedade civil diz que COP31 tende a ser a pior da história",
-   "resumo": "Falta de consenso adia textos finais; presidência enfrenta críticas por recuos",
-   "link": "https://www.poder360.com.br/poder-sustentavel/sociedade-civil-diz-que-cop31-tende-a-ser-a-pior-da-historia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T17:39:40-03:00"
   },
   {
    "id": "6977dab08496",
@@ -139,15 +193,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Michelle.png",
    "data": "2026-11-21T17:12:25-03:00"
-  },
-  {
-   "id": "34a859113d07",
-   "titulo": "Conmebol tem R$ 88 milhões no Ueno Bank, liquidado no Paraguai",
-   "resumo": "Confederação afirma que aplicações representam 1,8% de seus ativos e que adotará medidas legais para recuperar os recursos",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/conmebol-tem-r-88-milhoes-no-ueno-bank-liquidado-no-paraguai/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T17:10:08-03:00"
   },
   {
    "id": "1fa88b390f0f",
@@ -303,15 +348,6 @@
    "data": "2026-11-21T13:31:00-03:00"
   },
   {
-   "id": "23b2a522c845",
-   "titulo": "Fala de Flávio contra resultado da eleição motivou Moraes a apreender passaporte",
-   "resumo": "Pronunciamento de Flávio Bolsonaro contra reeleição de Lula foi citada por Alexandre de Moraes em ordem para apreender passaportes.",
-   "link": "https://www.gazetadopovo.com.br/republica/fala-de-flavio-contra-resultado-da-eleicao-motivou-moraes-a-apreender-passaporte/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/10214519/flavio-bolsonaro-1-960x540.jpg",
-   "data": "2026-11-21T13:08:56-03:00"
-  },
-  {
    "id": "46729dbb8b8b",
    "titulo": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
    "resumo": "",
@@ -364,15 +400,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/FSzRxvNbxiAsjh0hlems2tDjkfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/pHNAIDTJKT7eU5SAqEuw/lula-live-janones.png",
    "data": "2026-11-21T11:27:51-03:00"
-  },
-  {
-   "id": "49364302abc3",
-   "titulo": "Moraes manda prender homem condenado pelos atos do 8/1",
-   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou a prisão de Gibrail Pereira de Souza, de 61 anos, condenado a 14 anos de reclusão por participação nos atos de 8 de janeiro de 2023. A ordem foi expedida à…",
-   "link": "https://oantagonista.com.br/brasil/moraes-manda-prender-homem-condenado-pelos-atos-do-8-1/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55489696819_c15c50650f_k.jpg",
-   "data": "2026-11-21T10:31:11-03:00"
   },
   {
    "id": "e085e2fdd076",
@@ -438,15 +465,6 @@
    "data": "2026-11-20T20:56:40-03:00"
   },
   {
-   "id": "643a627cb784",
-   "titulo": "Com menos acesso a pré-natal, mães pretas têm bebês com mais chance de nascerem prematuros e com baixo peso",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/maes-pretas-fazem-menos-consultas-de-pre-natal-e-seus-bebes-tem-mais-chance-de-nascer-com-baixo-peso-mostram-dados-do-sus.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/iyywccmNJTm_Gg3i0SDR4lMIMjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/h/AKcW2mTWy3PwlmY21kew/whatsapp-image-2026-09-30-at-20.30.43.jpeg",
-   "data": "2026-11-20T18:28:06-03:00"
-  },
-  {
    "id": "856c4043fffd",
    "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -465,15 +483,6 @@
    "data": "2026-11-20T18:03:25-03:00"
   },
   {
-   "id": "85bfd5ca9ff0",
-   "titulo": "Bolsonaro é internado após sentir dores abdominais",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/bolsonaro-hospital-apos-sentir-dores-abdominais.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/46fp6f5WWQKEGzNwfLRvF3e7UII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg",
-   "data": "2026-11-20T17:15:13-03:00"
-  },
-  {
    "id": "529944141fde",
    "titulo": "Aliados de Mendonça veem relatório como armação para tirá-lo do Caso Master",
    "resumo": "Decisão de Edson Fachin de não arquivar relatório sobre André Mendonça provocou desconfiança entre os aliados do relator do Caso Master",
@@ -490,15 +499,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/fachada-do-stf-do-supremo-tribunal-federal-stf-metropoles-scaled.jpeg",
    "data": "2026-11-20T11:57:06-03:00"
-  },
-  {
-   "id": "350cb7b3df14",
-   "titulo": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/dino-vota-para-tornar-van-hattem-reu-por-calunia-e-injuria-contra-delegado-da-policia-federal.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/7mAYhOT6oFcaAE1VCQTS34M8R1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/NRdAzKRMAJBKrEC6uMLA/img20260715153243093.jpg",
-   "data": "2026-11-20T11:21:48-03:00"
   },
   {
    "id": "1090432cbf4a",
@@ -580,15 +580,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/paulo-martins-edit.jpg",
    "data": "2026-11-19T05:00:18-03:00"
-  },
-  {
-   "id": "e8745cdec56d",
-   "titulo": "Motta busca diálogo com Nikolas",
-   "resumo": "Segundo apurou a coluna, Hugo Motta e Nikolas Ferreira se cumprimentaram em reunião na terça-feira (17/11), quando combinaram de conversar",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/motta-busca-dialogo-com-nikolas",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/foto-nikolas-hugo-motta.jpg",
-   "data": "2026-11-19T02:00:45-03:00"
   }
  ]
 }
