@@ -1,10 +1,235 @@
 {
- "atualizado": "2026-11-22T03:34:34.500424-03:00",
- "total": 64,
+ "atualizado": "2026-11-22T12:13:31.504515-03:00",
+ "total": 63,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
+  {
+   "id": "9ecf377503f4",
+   "titulo": "Governo prepara política de proteção a mulheres na vida pública",
+   "resumo": "Iniciativa deve integrar plano nacional ainda em 2026; entidades cobram orçamento e atendimento permanente",
+   "link": "https://www.poder360.com.br/poder-governo/governo-prepara-politica-de-protecao-a-mulheres-na-vida-publica/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T12:11:42-03:00"
+  },
+  {
+   "id": "c683b72544b0",
+   "titulo": "FecomercioSP critica decreto de Lula sobre escala 5×2",
+   "resumo": "A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) criticou o decreto assinado pelo presidente Lula (PT) que regulamenta o fim da escala 6×1 e estabelece a jornada de trabalho 5×2 no país. A primeira e…",
+   "link": "https://oantagonista.com.br/brasil/fecomerciosp-critica-decreto-de-lula-sobre-escala-5x2/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55662268776_2bac2c83ac_6k-scaled.jpg",
+   "data": "2026-11-22T12:07:22-03:00"
+  },
+  {
+   "id": "8f78c1f10b9d",
+   "titulo": "Morre Paolo Bulgari, responsável pela expansão global da joalheria",
+   "resumo": "Empresário, de 89 anos, presidiu a marca italiana desde 1984 e liderou a venda do controle da companhia ao grupo LVMH, em 2011",
+   "link": "https://www.poder360.com.br/poder-gente/morre-paolo-bulgari-responsavel-pela-expansao-global-da-joalheria/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T11:50:12-03:00"
+  },
+  {
+   "id": "27e853568c57",
+   "titulo": "OAB-SP estima perda de R$ 200 bilhões por ano com pejotização",
+   "resumo": "Estudo entregue ao STF considera migração de 1,08 milhão de trabalhadores e calcula impacto sobre tributos e Previdência",
+   "link": "https://www.poder360.com.br/poder-justica/oab-sp-estima-perda-de-r-200-bilhoes-por-ano-com-pejotizacao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T11:33:55-03:00"
+  },
+  {
+   "id": "19fcd3d65148",
+   "titulo": "Sindicato convoca mais de 23.000 trabalhadores para greve na Alemanha",
+   "resumo": "Mobilização de 24 horas atinge 19 unidades no norte do país e pede reajuste de 5% e garantia de empregos; começará na noite deste domingo (22.nov)",
+   "link": "https://www.poder360.com.br/poder-internacional/sindicato-convoca-mais-de-23-000-trabalhadores-para-greve-na-alemanha/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T11:28:29-03:00"
+  },
+  {
+   "id": "69d5e37cc14d",
+   "titulo": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
+   "resumo": "O ministro Alexandre de Moraes autorizou a retirada da tornozeleira de Bolsonaro para a internação, mas vigília ininterrupta da PF permanece.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autorizou-retirada-de-tornozeleira-de-bolsonaro-durante-internacao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/30194006/moraes-stf-960x540.jpg",
+   "data": "2026-11-22T11:19:31-03:00"
+  },
+  {
+   "id": "59a12d3b38eb",
+   "titulo": "Damares pede orações pela recuperação de Bolsonaro",
+   "resumo": "A senadora Damares Alves (Republicanos-DF) pediu orações pela recuperação do ex-presidente Jair Bolsonaro, internado na UTI do Hospital DF Star, em Brasília. Em publicação nas redes sociais, ela afirmou: “Presidente Bolsonaro, é assim que e…",
+   "link": "https://oantagonista.com.br/brasil/damares-pede-oracoes-pela-recuperacao-de-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55195540110_9a0a97d1a1_k.jpg",
+   "data": "2026-11-22T11:07:23-03:00"
+  },
+  {
+   "id": "a8fc5791d23e",
+   "titulo": "Sidônio deixará Secom com Lula mais ativo nas redes sociais",
+   "resumo": "Secretaria de Comunicação Social passou a fazer mais postagens com presidente depois que ministro assumiu, em janeiro de 2025",
+   "link": "https://www.poder360.com.br/poder-governo/sidonio-deixara-secom-com-lula-mais-ativo-nas-redes-sociais/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T11:00:16-03:00"
+  },
+  {
+   "id": "b3ca35d4181b",
+   "titulo": "Governo descobre como documentos rurais podem ser usados para transformar terras públicas em negócios de R$ 38 milhões",
+   "resumo": "O Ministério da Justiça revelou como documentos rurais foram usados para apresentar terras da União como propriedades particulares. No Amazonas, uma investigação sobre grilagem identificou negociações que poderiam gerar mais de R$ 38 milhõe…",
+   "link": "https://oantagonista.com.br/brasil/governo-descobre-como-documentos-rurais-podem-ser-usados-para-transformar-terras-publicas-em-negocios-de-r-38-milhoes/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Open_folder_with_rural_documents.jpg",
+   "data": "2026-11-22T10:53:00-03:00"
+  },
+  {
+   "id": "30c542a17123",
+   "titulo": "Master: um ano depois, crises institucionais inundam investigações e escândalo segue sem respostas",
+   "resumo": "Primeira fase da Compliance Zero foi em 18 de novembro de 2025 com Daniel Vorcaro preso pela primeira vez. Caso do Master caminhou pouco.",
+   "link": "https://www.gazetadopovo.com.br/republica/master-um-ano-crises-institucionais-inundam-investigacoes-escandalo-sem-respostas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/16013101/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
+   "data": "2026-11-22T10:45:47-03:00"
+  },
+  {
+   "id": "e4fbb707e943",
+   "titulo": "Moraes manda retirar tornozeleira de Bolsonaro durante internação",
+   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou a retirada da tornozeleira eletrônica de Jair Bolsonaro (PL) durante a internação do ex-presidente. O equipamento deverá ser recolocado após a alta hospita…",
+   "link": "https://oantagonista.com.br/brasil/moraes-manda-retirar-tornozeleira-de-bolsonaro-durante-internacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55343412793_9388531a47_k.jpg",
+   "data": "2026-11-22T10:25:42-03:00"
+  },
+  {
+   "id": "7fdda9dbb03c",
+   "titulo": "COP31 não chega a consenso e deve terminar sem acordo climático",
+   "resumo": "Texto final omitiu combustíveis fósseis e propôs ampliar uso de eletricidade e tecnologias de captura de carbono; União Europeia e outras delegações rejeitaram a proposta",
+   "link": "https://www.poder360.com.br/poder-internacional/cop31-nao-chega-a-consenso-e-deve-terminar-sem-acordo-climatico/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T10:22:38-03:00"
+  },
+  {
+   "id": "527d3d4994cc",
+   "titulo": "Evolução da IA pode ampliar riscos à cibersegurança, diz especialista",
+   "resumo": "Agentes autônomos podem acessar sistemas e dados sensíveis sem autorização, diz pesquisador português",
+   "link": "https://www.poder360.com.br/poder-tech/evolucao-da-ia-pode-ampliar-riscos-a-ciberseguranca-diz-especialista/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T10:14:13-03:00"
+  },
+  {
+   "id": "e9500ee56a98",
+   "titulo": "Governo Lula reconhece calamidade pública em Tupanciretã",
+   "resumo": "O presidente Lula (PT) reconheceu o estado de calamidade pública em Tupanciretã, no Rio Grande do Sul, após um temporal deixar cinco mortos e 265 feridos na cidade. O reconhecimento federal da calamidade permite acelerar a liberação de recu…",
+   "link": "https://oantagonista.com.br/brasil/governo-lula-reconhece-calamidade-publica-em-tupancireta/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-22-as-09.58.49.png",
+   "data": "2026-11-22T10:03:36-03:00"
+  },
+  {
+   "id": "4c7cd76a4ad1",
+   "titulo": "Número de partidos cai desde o início da cláusula de desempenho",
+   "resumo": "Levantamento com base em dados do TSE mostra que, desde 2018, o total de siglas passou de 35 para 24",
+   "link": "https://www.poder360.com.br/poder-partidos-politicos/numero-de-partidos-cai-desde-o-inicio-da-clausula-de-desempenho/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/numero-partidos-cai-clausula-desempenho-18-nov-2026-01-scaled.png",
+   "data": "2026-11-22T10:00:37-03:00"
+  },
+  {
+   "id": "e6d5b3fc260b",
+   "titulo": "Brasil teve 1.600 intoxicações por pesticidas europeus em 2025",
+   "resumo": "Agrotóxicos são vendidos por gigantes do setor sediadas na Alemanha e Suíça, segundo investigação do Greenpeace e Public Eye",
+   "link": "https://www.poder360.com.br/poder-internacional/brasil-teve-1-600-intoxicacoes-por-pesticidas-europeus-em-2025/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T10:00:30-03:00"
+  },
+  {
+   "id": "0a9e56a49a2e",
+   "titulo": "Dennys Xavier na Crusoé: Aprendam: Estado não corta gastos",
+   "resumo": "Friedrich August von Hayek (1899–1992) foi um economista e filósofo político austríaco, naturalizado britânico, um dos principais representantes da tradição liberal do século 20. Professor da London School of Economics, da Universidade de C…",
+   "link": "https://oantagonista.com.br/brasil/dennys-xavier-na-crusoe-aprendam-estado-nao-corta-gastos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Hayek-scaled-1.jpg",
+   "data": "2026-11-22T10:00:00-03:00"
+  },
+  {
+   "id": "847b1f13ee78",
+   "titulo": "Premiação do Flamengo pelo Brasileiro vem dos direitos de TV; leia quanto",
+   "resumo": "Equipe assegura 2ª taça seguida com 80 pontos; regulamento não fixa valor em dinheiro para o vencedor",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/premiacao-do-flamengo-pelo-brasileiro-vem-dos-direitos-de-tv-leia-quanto/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T09:56:46-03:00"
+  },
+  {
+   "id": "0736c0ca1530",
+   "titulo": "Josias Teófilo na Crusoé: O novo proletário",
+   "resumo": "O sentido original do termo proletário vem do latim e se refere ao sujeito pobre cuja única contribuição ao estado seria sua prole. Na Europa dos séculos 19 e 20, significava o trabalhador urbano pobre, geralmente um operário industrial, qu…",
+   "link": "https://oantagonista.com.br/brasil/josias-teofilo-na-crusoe-o-novo-proletario/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/24629385148_6e0aa49ec9_k.jpg",
+   "data": "2026-11-22T09:00:00-03:00"
+  },
+  {
+   "id": "870373bff88e",
+   "titulo": "Vorcaro planejou criar banco com Virginia Fonseca",
+   "resumo": "Daniel Vorcaro, ex-controlador do Banco Master, chegou a planejar a criação de um banco associado à influenciadora Virginia Fonseca, diz O Globo. A ideia surgiu em 2024, durante negociações para contratá-la como garota-propaganda do Master.…",
+   "link": "https://oantagonista.com.br/brasil/vorcaro-planejou-criar-banco-com-virginia-fonseca/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/virginia-tvpop.jpg",
+   "data": "2026-11-22T08:47:20-03:00"
+  },
+  {
+   "id": "de08177157d9",
+   "titulo": "PF quer comprar carro blindado de R$ 3,8 milhões para Lula",
+   "resumo": "A Polícia Federal quer comprar três carros blindados de até R$ 3,8 milhões cada para transportar Lula (PT) e outras autoridades, diz o Uol. A corporação justifica a aquisição pelo risco de ataques de organizações criminosas, que passaram a …",
+   "link": "https://oantagonista.com.br/brasil/pf-quer-comprar-carro-blindado-de-r-38-milhoes-para-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/decreto-escala-5x2-mc_abr_19112026-6-1-e1795203861405.jpg",
+   "data": "2026-11-22T08:30:11-03:00"
+  },
+  {
+   "id": "21c290601028",
+   "titulo": "Clarita Maia na Crusoé: A República Federativa brasileira e seus Tarquínios",
+   "resumo": "República é palavra de origem romana, mas a ideia que encerra lhe é anterior. Platão concebeu a politeia como a organização política ideal, fundada na justiça, na razão e no bem comum, com dirigentes que servissem por dever cívico e não por…",
+   "link": "https://oantagonista.com.br/brasil/clarita-maia-na-crusoe-a-republica-federativa-brasileira-e-seus-tarquinios/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/1920px-David_Brutus.jpg",
+   "data": "2026-11-22T08:00:00-03:00"
+  },
+  {
+   "id": "90690c2653de",
+   "titulo": "Zanin suspende congresso do Cidadania que votaria incorporação ao PP",
+   "resumo": "O ministro Cristiano Zanin (foto), do Supremo Tribunal Federal (STF), suspendeu neste sábado, 21, o Congresso Nacional Extraordinário do Cidadania que discutiria a incorporação do partido ao PP. A decisão atendeu a um pedido do diretório da…",
+   "link": "https://oantagonista.com.br/brasil/zanin-suspende-congresso-do-cidadania-que-votaria-incorporacao-ao-pp/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55528930192_fe92ee955a_5k-scaled.jpg",
+   "data": "2026-11-22T07:21:01-03:00"
+  },
+  {
+   "id": "29e47ac51c49",
+   "titulo": "Michelle chega ao Brasil e acompanha Bolsonaro no hospital",
+   "resumo": "De volta ao Brasil após uma viagem a Israel, Michelle Bolsonaro (PL) visitou o marido, o ex-presidente Jair Bolsonaro, no hospital DF Star, em Brasília, na noite deste sábado, 21. Em publicação nas redes sociais, afirmou que ele estava sem …",
+   "link": "https://oantagonista.com.br/brasil/michelle-chega-ao-brasil-e-acompanha-bolsonaro-no-hospital/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/image-57-1-e1782385854386.jpg",
+   "data": "2026-11-22T06:58:20-03:00"
+  },
+  {
+   "id": "b89227c19abb",
+   "titulo": "CPI do Master vira omissão dupla do Congresso e do STF",
+   "resumo": "Enquanto Davi Alcolumbre segura CPI do Master no Congresso, STF não se manifesta sobre direito da minoria de abrir a comissão de inquérito",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/cpi-do-master-vira-omissao-dupla-do-congresso-e-do-stf",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/09/29174954/Alexandre-de-Moraees-e-Davi-Alcolumbre.-O-ministro-Edson-Fachin-assume-a-presidencia-do-Supremo-Tribunal-Federal-STF.-O-magistrado-tera-como-vice-presidente-o-ministro-Alexandre-de-Moraes-Metropoles-3.jpg",
+   "data": "2026-11-22T05:00:43-03:00"
+  },
   {
    "id": "5b269a29c9bb",
    "titulo": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
@@ -33,42 +258,6 @@
    "data": "2026-11-22T00:00:00-03:00"
   },
   {
-   "id": "854c5336eaa9",
-   "titulo": "Sul terá temporais com rajadas de vento acima de 80 km/h no domingo",
-   "resumo": "Nova frente fria aumenta risco de vendavais e granizo; chuva pode atingir 120 mm em áreas do Rio Grande do Sul",
-   "link": "https://www.poder360.com.br/poder-brasil/sul-tera-temporais-com-rajadas-de-vento-acima-de-80-km-h-no-domingo/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T23:04:02-03:00"
-  },
-  {
-   "id": "9000bfa170de",
-   "titulo": "Veja imagens dos estragos causados por vendavais no Sul do Brasil",
-   "resumo": "Temporais deixaram 5 mortos e 265 feridos no RS; Paraná registrou 2 tornados e Santa Catarina teve casas destelhadas",
-   "link": "https://www.poder360.com.br/poder-brasil/veja-imagens-dos-estragos-causados-por-vendavais-no-sul-do-brasil/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/VENDAVALK-ADALBERTO.png",
-   "data": "2026-11-21T22:30:28-03:00"
-  },
-  {
-   "id": "da5c94a72e63",
-   "titulo": "Após viagem, Michelle vai a hospital em que Bolsonaro está internado",
-   "resumo": "Senadora eleita e ex-primeira-dama retornou de viagem neste sábado; ela estava em Israel desde a semana passada",
-   "link": "https://www.poder360.com.br/poder-gente/apos-viagem-michelle-vai-a-hospital-em-que-bolsonaro-esta-internado/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T22:13:12-03:00"
-  },
-  {
-   "id": "d131d0d1968d",
-   "titulo": "Sobe para 5 número de mortos em temporais no Rio Grande do Sul",
-   "resumo": "Defesa Civil confirmou nova morte em Tupanciretã; município registra 265 feridos e quase 20.000 pessoas desalojadas ou desabrigadas",
-   "link": "https://www.poder360.com.br/poder-brasil/sobe-para-5-numero-de-mortos-em-temporais-no-rio-grande-do-sul/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/tornado.jpg",
-   "data": "2026-11-21T22:01:44-03:00"
-  },
-  {
    "id": "fca3a86c5731",
    "titulo": "PL terá 20% do total de deputados estaduais para avançar com projetos da direita no país",
    "resumo": "PL sai das urnas com o maior total de deputados estaduais: 212 eleitos nos estados e no DF. Leia na Gazeta do Povo.",
@@ -76,69 +265,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/11165103/Paulo-Melo-PL-960x540.jpg",
    "data": "2026-11-21T21:25:56-03:00"
-  },
-  {
-   "id": "6223569ced4e",
-   "titulo": "Morre Joe Wallach, um dos fundadores da “TV Globo”, aos 103 anos",
-   "resumo": "Norte-americano naturalizado brasileiro ajudou a criar a Globosat e fundou a rede \"Telemundo\" nos EUA",
-   "link": "https://www.poder360.com.br/poder-brasil/morre-joe-wallach-um-dos-fundadores-da-tv-globo-aos-103-anos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T21:13:10-03:00"
-  },
-  {
-   "id": "4714bdab51d2",
-   "titulo": "Bolsonaro tem tornozeleira retirada durante internação na UTI",
-   "resumo": "Ministro do STF Alexandre de Moraes determinou que equipamento seja recolocado após alta hospitalar; ex-presidente está internado em Brasília",
-   "link": "https://www.poder360.com.br/poder-justica/bolsonaro-tem-tornozeleira-retirada-durante-internacao-na-uti/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T20:42:13-03:00"
-  },
-  {
-   "id": "ace708d89a95",
-   "titulo": "Pastores oram por melhora de Bolsonaro em frente a hospital",
-   "resumo": "Ex-presidente está internado na UTI do hospital DF Star, em Brasília, com obstrução intestinal",
-   "link": "https://www.poder360.com.br/poder-brasil/pastores-oram-por-melhora-de-bolsonaro-em-frente-a-hospital/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/tgyag1YwmU4/hqdefault.jpg",
-   "data": "2026-11-21T20:39:34-03:00"
-  },
-  {
-   "id": "0ee00df967c8",
-   "titulo": "Protestos na França reúnem 150 mil, dizem organizadores",
-   "resumo": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
-   "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T20:21:10-03:00"
-  },
-  {
-   "id": "6aa672133556",
-   "titulo": "“Bolsonaro está lutando para que o funcionamento do intestino volte”, diz Carlos",
-   "resumo": "Carlos Bolsonaro (PL-SC) afirmou neste sábado, 21, que o pai, o ex-presidente Jair Bolsonaro, permanece estável na UTI, mas ainda não tem previsão de alta. Segundo ele, os médicos tentam reverter a obstrução intestinal, e uma nova cirurgia …",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-esta-lutando-para-que-funcionamento-do-intestino-volte-diz-carlos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Jair-Bolsonaro.png",
-   "data": "2026-11-21T20:06:05-03:00"
-  },
-  {
-   "id": "47b5e2f4fc2a",
-   "titulo": "Padre Kelmon quer aval de Moraes para dar “extrema-unção” a Bolsonaro",
-   "resumo": "Ex-presidente está internado na UTI com obstrução intestinal; sacerdote afirma que aguarda pedido da defesa para realizar visita religiosa",
-   "link": "https://www.poder360.com.br/poder-gente/padre-kelmon-quer-aval-de-moraes-para-dar-extrema-uncao-a-bolsonaro/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-21T19:55:24-03:00"
-  },
-  {
-   "id": "7abdc1f4b72a",
-   "titulo": "“O que está em jogo vai muito além do destino de um parlamentar”",
-   "resumo": "A Lexum, associação dedicada à defesa do Estado de Direito, criticou a atuação do Supremo Tribunal Federal (STF) no julgamento que pode tornar o deputado federal Marcel van Hattem (Novo-RS) réu por calúnia e injúria contra um delegado da Po…",
-   "link": "https://oantagonista.com.br/brasil/o-que-esta-em-jogo-vai-muito-alem-do-destino-de-um-parlamentar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/img20261112103133070.jpg",
-   "data": "2026-11-21T19:45:17-03:00"
   },
   {
    "id": "43881308807e",
@@ -150,15 +276,6 @@
    "data": "2026-11-21T19:40:50-03:00"
   },
   {
-   "id": "e7f7e47b06e3",
-   "titulo": "Ataque de drones incendeia navio cargueiro russo no mar Báltico",
-   "resumo": "Autoridades resgatam 16 tripulantes e restringem tráfego na região; embarcação deriva para águas da Finlândia",
-   "link": "https://www.poder360.com.br/poder-internacional/ataque-de-drones-incendeia-navio-cargueiro-russo-no-mar-baltico/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Imagem-21-11-2026-as-18.44.png",
-   "data": "2026-11-21T19:32:13-03:00"
-  },
-  {
    "id": "cab8df11d096",
    "titulo": "Lula diz ter conversado com Trump, Putin e Xi: “tomem uma cerveja juntos”",
    "resumo": "Em live com o deputado André Janones, presidente disse ter conversado com os três líderes cerca de quatro meses atrás",
@@ -166,15 +283,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/21122928/WhatsApp-Image-2026-11-21-at-12.28.38-960x426.jpeg",
    "data": "2026-11-21T18:23:00-03:00"
-  },
-  {
-   "id": "4f1cc388b23f",
-   "titulo": "Tarcísio: “Em oração pela saúde de Jair Bolsonaro”",
-   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), publicou neste sábado, 21, uma mensagem em que deseja a recuperação do ex-presidente Jair Bolsonaro (PL), internado na UTI do Hospital DF Star, em Brasília, com um quadro de obs…",
-   "link": "https://oantagonista.com.br/brasil/tarcisio-em-oracao-pela-saude-de-jair-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/02/55088872406_2a3d395b13_k.jpg",
-   "data": "2026-11-21T17:41:51-03:00"
   },
   {
    "id": "6977dab08496",
@@ -186,24 +294,6 @@
    "data": "2026-11-21T17:28:28-03:00"
   },
   {
-   "id": "816f486b37a9",
-   "titulo": "Após internação de Bolsonaro, Michelle publica trajeto de voo ao Brasil",
-   "resumo": "Michelle Bolsonaro (PL) antecipou o retorno de Israel ao Brasil após a internação do marido, o ex-presidente Jair Bolsonaro (PL). A ex-primeira-dama publicou neste sábado, 21, uma imagem que mostrava o trajeto do voo. “Quase chegando ao Bra…",
-   "link": "https://oantagonista.com.br/brasil/apos-internacao-de-bolsonaro-michelle-publica-trajeto-de-voo-ao-brasil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Michelle.png",
-   "data": "2026-11-21T17:12:25-03:00"
-  },
-  {
-   "id": "1fa88b390f0f",
-   "titulo": "Alexandre de Moraes ordena apreensão do passaporte de Flávio Bolsonaro",
-   "resumo": "Entenda por que Alexandre de Moraes determinou a apreensão do passaporte de Flávio Bolsonaro e as investigações sobre ligações com o advogado Willer Tomaz.",
-   "link": "https://www.gazetadopovo.com.br/republica/alexandre-de-moraes-ordena-apreensao-do-passaporte-de-flavio-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21170935/flavio-bolsonaro-1-1-960x540.jpg",
-   "data": "2026-11-21T17:09:28-03:00"
-  },
-  {
    "id": "694d19804a8c",
    "titulo": "Lula diz que Janja irá coordenar cerimônia de posse do novo mandato",
    "resumo": "Primeira-dama será responsável por organizar cerimônia que acontece no dia 5 de janeiro. Leia na Gazeta do Povo",
@@ -213,15 +303,6 @@
    "data": "2026-11-21T16:56:02-03:00"
   },
   {
-   "id": "ce0f90fb3e2c",
-   "titulo": "Cidadania adia votação sobre incorporação ao PP",
-   "resumo": "O Cidadania suspendeu o congresso que decidiria sobre a incorporação do partido ao Progressistas (PP). A reunião estava marcada para este sábado, 21, mas foi adiada em meio à resistência interna à proposta, que levaria à extinção da legenda…",
-   "link": "https://oantagonista.com.br/brasil/cidadania-adia-votacao-sobre-incorporacao-ao-pp/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/07/img20250710111254981.jpg",
-   "data": "2026-11-21T16:31:50-03:00"
-  },
-  {
    "id": "968c3f5790eb",
    "titulo": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
    "resumo": "Ex-presidente tem diagnóstico de abdômen agudo obstrutivo e, segundo boletim divulgado neste sábado (21), não há previsão de alta",
@@ -229,15 +310,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
    "data": "2026-11-21T16:06:27-03:00"
-  },
-  {
-   "id": "ea9f0464fd5e",
-   "titulo": "Janones admite métodos “eticamente duvidosos” nas redes",
-   "resumo": "O deputado federal André Janones (Rede-MG) admitiu que recorre a métodos “eticamente duvidosos” para enfrentar a “extrema direita” nas redes sociais. Em entrevista à AFP, ele comparou a estratégia a uma disputa em que os adversários não res…",
-   "link": "https://oantagonista.com.br/brasil/janones-admite-metodos-eticamente-duvidosos-nas-redes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Janones-convoca-e1795286900992.png",
-   "data": "2026-11-21T15:42:54-03:00"
   },
   {
    "id": "2a2a6d4dd3ca",
@@ -267,15 +339,6 @@
    "data": "2026-11-21T15:08:17-03:00"
   },
   {
-   "id": "69c69a72e3c4",
-   "titulo": "Maristela Basso na Crusoé: Quando a Justiça se torna um risco para o Brasil",
-   "resumo": "Durante muito tempo, o chamado risco Brasil foi associado à instabilidade econômica, à insegurança regulatória, à imprevisibilidade tributária e às turbulências políticas. Agora, uma inquietação ainda mais profunda parece ganhar espaço entr…",
-   "link": "https://oantagonista.com.br/brasil/maristela-basso-na-crusoe-quando-a-justica-se-torna-um-risco-para-o-brasil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55575489069_03f94e4311_k.jpg",
-   "data": "2026-11-21T15:00:00-03:00"
-  },
-  {
    "id": "71fd0ab370ad",
    "titulo": "Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal",
    "resumo": "<p><strong>O ex-presidente da República Jair Messias Bolsonaro está internado em unidade de terapia intensiva (UTI), no Hospital DF Star, em Brasília, com o diagnóstico de abdômen agudo obstrutivo. </strong><img src=\"https://agenciabrasil.e…",
@@ -283,24 +346,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-21T14:55:00-03:00"
-  },
-  {
-   "id": "81a91e5e8530",
-   "titulo": "Janja vai coordenar cerimônia de posse, diz Lula",
-   "resumo": "Lula (PT) afirmou neste sábado, 21, que a primeira-dama, Janja, será responsável pela organização da cerimônia de posse de seu quarto mandato, marcada para 5 de janeiro de 2027. Em transmissão ao vivo com o deputado federal André Janones (R…",
-   "link": "https://oantagonista.com.br/brasil/janja-vai-coordenar-cerimonia-de-posse-diz-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55550744440_ef84ba51a6_k.jpg",
-   "data": "2026-11-21T14:41:51-03:00"
-  },
-  {
-   "id": "04171417aa3e",
-   "titulo": "Bolsonaro segue na UTI sem previsão de alta",
-   "resumo": "Jair Bolsonaro (PL) está internado na UTI do Hospital DF Star, em Brasília, com uma obstrução intestinal. Segundo boletim médico divulgado na tarde deste sábado, 21, o ex-presidente está estável, consciente e respira sem ajuda de aparelhos.…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-segue-na-uti-sem-previsao-de-alta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/09/54578251611_8e85cc8253_k.jpg",
-   "data": "2026-11-21T14:24:44-03:00"
   },
   {
    "id": "3300b18ccb24",
@@ -339,15 +384,6 @@
    "data": "2026-11-21T13:47:51-03:00"
   },
   {
-   "id": "8b8025d48c49",
-   "titulo": "Resumo da semana: ajuste fiscal de Lula gera racha na base do governo e protestos nas ruas",
-   "resumo": "Os principais assuntos da semana estão reunidos no especial de melhores momentos do Gazeta Agora. Acompanhe.",
-   "link": "https://www.gazetadopovo.com.br/republica/resumo-da-semana-ajuste-fiscal-de-lula-gera-racha-na-base-do-governo-e-protestos-nas-ruas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/19183732/thumb-gazeta-agora_cortes-28-960x540.jpg",
-   "data": "2026-11-21T13:31:00-03:00"
-  },
-  {
    "id": "46729dbb8b8b",
    "titulo": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
    "resumo": "",
@@ -357,24 +393,6 @@
    "data": "2026-11-21T12:48:34-03:00"
   },
   {
-   "id": "c5d8510fb29c",
-   "titulo": "Moraes libera visita de familiares a Bolsonaro no hospital",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou neste sábado, 21, a visita dos filhos e de uma enteada de Jair Bolsonaro ao ex-presidente durante sua internação no Hospital DF Star, em Brasília. A decisão permit…",
-   "link": "https://oantagonista.com.br/brasil/moraes-libera-visita-de-familiares-a-bolsonaro-no-hospital/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55620004836_7068782c11_5k-scaled-e1793985495177.jpg",
-   "data": "2026-11-21T12:47:14-03:00"
-  },
-  {
-   "id": "82cf5e4dae0c",
-   "titulo": "Lula rebate críticas da esquerda ao pacote de ajuste fiscal",
-   "resumo": "Lula (PT) criticou neste sábado, 21, setores da esquerda que se opuseram ao pacote de ajuste fiscal apresentado pelo governo. Em transmissão ao vivo com o deputado federal André Janones (Rede-MG), o petista também atacou representantes da F…",
-   "link": "https://oantagonista.com.br/brasil/lula-rebate-criticas-da-esquerda-ao-pacote-de-ajuste-fiscal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Lula-e-ajuste.png",
-   "data": "2026-11-21T12:38:46-03:00"
-  },
-  {
    "id": "6bba826ac8f9",
    "titulo": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
@@ -382,15 +400,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-21T12:20:00-03:00"
-  },
-  {
-   "id": "b2c091de9f3c",
-   "titulo": "Rio Grande do Sul tem 36 municípios afetados por temporal",
-   "resumo": "A tempestade que atingiu o Rio Grande do Sul na madrugada de sexta-feira, 20, deixou três mortos, 60 feridos e quase 20 mil pessoas afetadas em 36 municípios. Tupanciretã, na região central do estado, concentrou os maiores estragos: mais de…",
-   "link": "https://oantagonista.com.br/brasil/rio-grande-do-sul-tem-36-municipios-afetados-por-temporal/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Rio-Grande-do-Sul.png",
-   "data": "2026-11-21T11:44:38-03:00"
   },
   {
    "id": "e166a60f4730",
@@ -562,24 +571,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/04/alexandre-ramagemjpg.jpeg",
    "data": "2026-11-19T12:16:50-03:00"
-  },
-  {
-   "id": "c8d625fff674",
-   "titulo": "TSE julgará contas da campanha de Lula na 1ª semana de dezembro",
-   "resumo": "Segundo ministros do TSE, julgamento das contas de Lula, primeiro passo para diplomação, deve ocorrer no início de dezembro",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/tse-julgara-contas-da-campanha-de-lula-na-1a-semana-de-dezembro",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2024/12/15142921/lula-no-sirio-em-coletiva.jpg",
-   "data": "2026-11-19T09:56:35-03:00"
-  },
-  {
-   "id": "4a603a3564dc",
-   "titulo": "Aposta do Novo vê candidatura do PL como \"complementar\" contra Motta",
-   "resumo": "Deputado Paulo Martins, lançado oficialmente candidato contra Hugo Motta pelo Partido Novo, diz que já procurou nomes do PL para disputa",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/aposta-do-novo-ve-candidatura-do-pl-como-complementar-contra-motta",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/paulo-martins-edit.jpg",
-   "data": "2026-11-19T05:00:18-03:00"
   }
  ]
 }
