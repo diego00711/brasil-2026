@@ -1,18 +1,198 @@
 {
- "atualizado": "2026-11-22T18:42:54.059392-03:00",
- "total": 60,
+ "atualizado": "2026-11-22T23:35:56.886176-03:00",
+ "total": 59,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "2e7afef0e27a",
-   "titulo": "Aldo Rebelo diz que Lula foi “patético” ao participar da COP31",
-   "resumo": "Ex-presidente da Câmara afirma que petista se assemelha a Silvério dos Reis e sucumbe a agenda colonialista do século 21 ao se posicionar pelo redução do uso dos combustíveis fósseis",
-   "link": "https://www.poder360.com.br/poder-brasil/aldo-rebelo-diz-que-lula-foi-patetico-ao-participar-da-cop31/",
+   "id": "c4f149f5aea5",
+   "titulo": "“Situações” colocaram eleição do Brasil em dúvida, diz chanceler de Milei",
+   "resumo": "Pablo Quirno questionou o processo eleitoral, mas disse que cabe ao TSE reconhecer o resultado da disputa",
+   "link": "https://www.poder360.com.br/poder-internacional/situacoes-colocaram-eleicao-do-brasil-em-duvida-diz-chanceler-de-milei/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/UAPfjPaEAIg/hqdefault.jpg",
-   "data": "2026-11-22T18:36:07-03:00"
+   "imagem": "",
+   "data": "2026-11-22T23:29:14-03:00"
+  },
+  {
+   "id": "7818fc043721",
+   "titulo": "Leia a íntegra da proposta da UE para taxar big techs",
+   "resumo": "Documento sugere cobrança de 3% sobre receitas digitais de grandes empresas de tecnologia",
+   "link": "https://www.poder360.com.br/poder-tech/leia-a-integra-da-proposta-da-ue-para-taxar-big-techs/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T23:19:17-03:00"
+  },
+  {
+   "id": "fcf33b9a0398",
+   "titulo": "Sebastião Coelho critica luz vermelha no Planalto e cobra explicação",
+   "resumo": "Em vídeo, ex-desembargador lamentou o apoio de parte dos eleitores cristãos a Lula e criticou o Congresso Nacional",
+   "link": "https://www.poder360.com.br/poder-governo/sebastiao-coelho-critica-luz-vermelha-no-planalto-e-cobra-explicacao/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/HtRuNIOGAao/hqdefault.jpg",
+   "data": "2026-11-22T23:15:42-03:00"
+  },
+  {
+   "id": "1bf1a0dcf12b",
+   "titulo": "Defesa Civil do RS emite alerta para novos temporais após 5 mortes",
+   "resumo": "Metade norte do Estado concentra o maior risco, e 3ª feira (24.nov) será o dia mais crítico; Tupanciretã foi o município mais atingido",
+   "link": "https://www.poder360.com.br/poder-brasil/defesa-civil-do-rs-emite-alerta-para-novos-temporais-apos-5-mortes/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/defesa-civil-rs-26nov.webp",
+   "data": "2026-11-22T23:09:05-03:00"
+  },
+  {
+   "id": "4016f733843d",
+   "titulo": "Flávio acusa Moraes de interferir na eleição e diz que perdeu para o “sistema”, não para Lula",
+   "resumo": "Em entrevista à Fox News, Flávio Bolsonaro acusa Moraes de interferência na eleição, questiona urnas e diz que perdeu para o sistema.",
+   "link": "https://www.gazetadopovo.com.br/mundo/flavio-acusa-moraes-de-interferir-na-eleicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21170935/flavio-bolsonaro-1-1-960x540.jpg",
+   "data": "2026-11-22T22:50:12-03:00"
+  },
+  {
+   "id": "00f8beeb00e1",
+   "titulo": "Gilmar Mendes admite que falta autocontenção aos ministros do STF",
+   "resumo": "Gilmar Mendes afirma que o STF é um dos tribunais mais poderosos do mundo, admite falta de autocontenção e comenta suspeitas envolvendo o Banco Master.",
+   "link": "https://www.gazetadopovo.com.br/republica/gilmar-mendes-admite-que-falta-autocontencao-aos-ministros-do-stf/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/22225007/gilmar-mendes-master-autocontencao-stf-1-960x540.jpg",
+   "data": "2026-11-22T22:50:02-03:00"
+  },
+  {
+   "id": "f9ea958b66f6",
+   "titulo": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
+   "resumo": "Partido amplia bancada em 20,6% e consolida maioria no Congresso; 4 disputas ainda aguardam definição",
+   "link": "https://www.poder360.com.br/poder-internacional/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/midterms-congresso-camara-eua-6-nov-2026-lista-scaled.jpg",
+   "data": "2026-11-22T22:08:33-03:00"
+  },
+  {
+   "id": "4b2df993e179",
+   "titulo": "Estudantes de gestão pública pedem a Lula demissão de Esther Dweck",
+   "resumo": "Manifesto da Fenecap será entregue a Lula na 2ª feira (23.nov); entidade cita falta de diálogo e defende regulamentação das profissões",
+   "link": "https://www.poder360.com.br/poder-governo/estudantes-de-gestao-publica-pedem-a-lula-demissao-de-esther-dweck/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T21:57:43-03:00"
+  },
+  {
+   "id": "c617ab5eb3b4",
+   "titulo": "Lula, ala autoritária do STF e desertores do PL ameaçam comando do Senado pela oposição",
+   "resumo": "Para derrotar Alcolumbre na eleição que define o presidente do Senado, a direita terá de enfrentar ameaças que vêm de diversas frentes.",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/lula-ala-autoritaria-do-stf-e-desertores-do-pl-ameacam-comando-do-senado-pela-oposicao/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/03193729/como-votou-senador-pec-seguranca-960x540.jpg",
+   "data": "2026-11-22T21:51:41-03:00"
+  },
+  {
+   "id": "24236a76bccf",
+   "titulo": "Agência de aviação suspende voos da Delta após falha de sistema",
+   "resumo": "Administração Federal de Aviação dos EUA adiou todas as viagens operadas pela companhia com destino e partida em Atlanta",
+   "link": "https://www.poder360.com.br/poder-internacional/agencia-de-aviacao-suspende-voos-da-delta-apos-falha-de-sistema/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T21:48:28-03:00"
+  },
+  {
+   "id": "487be70197e7",
+   "titulo": "Rosinha anuncia separação de Anthony Garotinho após 45 anos",
+   "resumo": "Ex-governadora do RJ atribui decisão a diferenças de entendimento e pede respeito à privacidade da família",
+   "link": "https://www.poder360.com.br/poder-gente/rosinha-anuncia-separacao-de-anthony-garotinho-apos-45-anos/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/nota-imprensa-rosinha-garotinho-fim-casamento.png",
+   "data": "2026-11-22T21:43:11-03:00"
+  },
+  {
+   "id": "9389599692f8",
+   "titulo": "Dono do Telegram ironiza GTA por crimes não citarem uso do aplicativo",
+   "resumo": "Pavel Durov fez comentário sarcástico sobre o jogo em seu grupo de divulgação de notícias do app de mensagens",
+   "link": "https://www.poder360.com.br/poder-tech/dono-do-telegram-ironiza-gta-por-crimes-nao-citarem-uso-do-aplicativo/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-1405-09-01-as-20.33.55.png",
+   "data": "2026-11-22T21:21:35-03:00"
+  },
+  {
+   "id": "f5a27e4218f6",
+   "titulo": "Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça",
+   "resumo": "Envio de relatório da PF sobre André Mendonça para PGR pode torná-lo suspeito; defesa de Daniel Vorcaro quer Gilmar Mendes na relatoria.",
+   "link": "https://www.gazetadopovo.com.br/republica/ato-de-fachin-abre-brecha-para-gilmar-assumir-caso-master-no-lugar-de-mendonca/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/22210907/Gilmar-Mendes-1-960x540.jpg",
+   "data": "2026-11-22T21:16:08-03:00"
+  },
+  {
+   "id": "d2ee299f0dc5",
+   "titulo": "Trump assina lei que encerra produção de moeda de US$ 0,01",
+   "resumo": "“Lei dos Centavos Comuns” extingue oficialmente a produção da moeda de 1 centavo de dólar, conhecida como “penny”",
+   "link": "https://www.poder360.com.br/poder-internacional/trump-assina-lei-que-encerra-producao-de-moeda-de-us-001/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-22T21:02:49-03:00"
+  },
+  {
+   "id": "84db92a3714a",
+   "titulo": "Proprietário de apartamento alugado recebe cobrança para reformar a fachada do prédio e tenta repassar a despesa ao inquilino, mas a lei separa quem deve pagar",
+   "resumo": "Uma cobrança para reformar a fachada pode surpreender quem mantém um apartamento alugado. Embora o proprietário tente transferir o valor ao inquilino, a lei estabelece uma divisão clara: despesas extraordinárias da obra ficam com o locador,…",
+   "link": "https://oantagonista.com.br/brasil/proprietario-de-apartamento-alugado-recebe-cobranca-para-reformar-a-fachada-do-predio-e-tenta-repassar-a-despesa-ao-inquilino-mas-a-lei-separa-quem-deve-pagar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Boleto_de_condominio_taxa_extra.jpg",
+   "data": "2026-11-22T20:43:00-03:00"
+  },
+  {
+   "id": "a022c3c3ce5f",
+   "titulo": "Morador precisa entrar no quintal do vizinho para consertar parede de casa e descobre que a lei prevê acesso em situações indispensáveis",
+   "resumo": "Consertar a parede externa de uma casa pode exigir a passagem pelo quintal vizinho, situação que costuma gerar dúvidas e conflitos. O Código Civil permite esse acesso temporário quando ele é indispensável, mas estabelece condições para prot…",
+   "link": "https://oantagonista.com.br/brasil/morador-precisa-entrar-no-quintal-do-vizinho-para-consertar-parede-de-casa-e-descobre-que-a-lei-preve-acesso-em-situacoes-indispensaveis/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Escada_encostada_em_parede_resid.jpg",
+   "data": "2026-11-22T20:13:00-03:00"
+  },
+  {
+   "id": "11367c15fbe2",
+   "titulo": "Nunes manifesta solidariedade a Bolsonaro após internação",
+   "resumo": "O prefeito de São Paulo, Ricardo Nunes (MDB), desejou melhoras a Jair Bolsonaro (PL), internado na UTI do Hospital DF Star, em Brasília. “Minha solidariedade, oração e desejo de melhoras ao Presidente Bolsonaro”, escreveu o prefeito neste d…",
+   "link": "https://oantagonista.com.br/brasil/nunes-manifesta-solidariedade-a-bolsonaro-apos-internacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Ricardo-Nunes-e-Jair.png",
+   "data": "2026-11-22T20:01:14-03:00"
+  },
+  {
+   "id": "fa594cd7c507",
+   "titulo": "Marinho cobra reação do Congresso em defesa da imunidade de Van Hattem",
+   "resumo": "O senador Rogério Marinho (PL-RN) citou a atuação de seu avô durante a ditadura militar para defender a imunidade parlamentar do deputado Marcel Van Hattem (Novo-RS), alvo de uma denúncia por calúnia e injúria no Supremo Tribunal Federal (S…",
+   "link": "https://oantagonista.com.br/brasil/marinho-cobra-reacao-do-congresso-em-defesa-da-imunidade-de-van-hattem/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55528643231_aeb1002b14_o-scaled-e1791298528987.jpg",
+   "data": "2026-11-22T19:21:55-03:00"
+  },
+  {
+   "id": "b97a334825d3",
+   "titulo": "Flávio chama Bolsonaro de “herói” um ano após prisão do pai",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ) chamou o pai, Jair Bolsonaro, de “herói” em uma publicação nas redes sociais neste domingo, 22, um ano após a prisão preventiva do ex-presidente. “Um ano desde a prisão injusta do meu pai, Jair Bolsonaro. …",
+   "link": "https://oantagonista.com.br/brasil/flavio-chama-bolsonaro-de-heroi-um-ano-apos-prisao-do-pai/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-20-as-08.15.12-e1795176297380.png",
+   "data": "2026-11-22T19:03:05-03:00"
+  },
+  {
+   "id": "f60740338589",
+   "titulo": "Gilmar Mendes cita caso Master, diz que STF é “poderoso”, mas fala em falta de “autocontenção” à Corte",
+   "resumo": "Em entrevista à rádio argentina, Gilmar Mendes diz que STF pode ser poderoso demais, fala em falta de autocontenção e cita caso Master.",
+   "link": "https://www.gazetadopovo.com.br/republica/gilmar-mendes-cita-caso-master-diz-que-stf-e-poderoso-mas-fala-em-falta-de-autocontencao-a-corte/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/22182406/gilmar-mendes-master-autocontencao-stf-960x540.jpg",
+   "data": "2026-11-22T18:49:11-03:00"
+  },
+  {
+   "id": "b5796cf672ec",
+   "titulo": "Condenação de Bolsonaro foi “uma lição” para o mundo, diz Gilmar",
+   "resumo": "O ministro Gilmar Mendes (foto), do Supremo Tribunal Federal (STF), classificou a condenação de Jair Bolsonaro (PL) e de outros envolvidos na chamada trama golpista como uma “lição” para o mundo. Em entrevista a uma rádio argentina, o decan…",
+   "link": "https://oantagonista.com.br/brasil/condenacao-de-bolsonaro-foi-uma-licao-para-o-mundo-diz-gilmar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/Captura-de-Tela-2026-04-23-as-23.10.23-1.png",
+   "data": "2026-11-22T18:48:04-03:00"
   },
   {
    "id": "4352b8cab556",
@@ -22,87 +202,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530747368_77fae4a06d_5k-scaled.jpg",
    "data": "2026-11-22T18:32:57-03:00"
-  },
-  {
-   "id": "4cdba1327a06",
-   "titulo": "Reforma tributária é positiva para nanoempreendedores, diz associação",
-   "resumo": "Adriana Colloca, do setor de vendas diretas, destacou a isenção de IBS e CBS e a dispensa de obrigações acessórias para a categoria",
-   "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-e-positiva-para-nanoempreendedores-diz-associacao/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/Z4qPG1IvHgI/hqdefault.jpg",
-   "data": "2026-11-22T18:13:37-03:00"
-  },
-  {
-   "id": "da8b4a9febe3",
-   "titulo": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro",
-   "resumo": "Juros altos, endividamento e entraves tributários e logísticos dificultam a expansão do setor, segundo a Associação Brasileira de Empresas de Vendas Diretas",
-   "link": "https://www.poder360.com.br/poder-economia/custo-brasil-afasta-empresas-estrangeiras-do-mercado-brasileiro/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/Z4qPG1IvHgI/hqdefault.jpg",
-   "data": "2026-11-22T18:02:30-03:00"
-  },
-  {
-   "id": "cb8bb32a9493",
-   "titulo": "UE propõe taxar big techs para financiar orçamento",
-   "resumo": "Taxação da receita líquida anual atingiria empresas que faturam ao menos 50 milhões de euros na UE e 750 milhões de euros em todo o mundo",
-   "link": "https://www.poder360.com.br/poder-internacional/ue-propoe-taxar-big-techs-para-financiar-orcamento/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T17:45:47-03:00"
-  },
-  {
-   "id": "2a962424048c",
-   "titulo": "Flávio diz não ter provas de fraude por ser “proibido de investigar”",
-   "resumo": "Senador critica técnicos do TSE e defende voto impresso; sistema brasileiro permite auditorias e não tem conexão com redes externas",
-   "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-nao-ter-provas-de-fraude-por-ser-proibido-de-investigar/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T17:25:51-03:00"
-  },
-  {
-   "id": "d13d7f01ef15",
-   "titulo": "Apoiadores oram pela saúde de Bolsonaro em frente a hospital",
-   "resumo": "Internado na UTI desde 6ª feira (20.nov), ex-presidente recebe tratamento para uma obstrução intestinal; médicos dizem que quadro é estável",
-   "link": "https://www.poder360.com.br/poder-gente/apoiadores-oram-pela-saude-de-bolsonaro-em-frente-a-hospital/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/nwnV2lPQq_I/hqdefault.jpg",
-   "data": "2026-11-22T17:06:54-03:00"
-  },
-  {
-   "id": "9f7ce03c8567",
-   "titulo": "Humorista imita Trump em jantar com primeiro-ministro do Canadá",
-   "resumo": "Mark Carney participou de evento anual da imprensa parlamentar canadense, realizado em Ottawa",
-   "link": "https://www.poder360.com.br/poder-internacional/humorista-imita-trump-em-jantar-com-primeiro-ministro-do-canada/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T16:38:02-03:00"
-  },
-  {
-   "id": "dd2690b911bf",
-   "titulo": "Editora L&PM aciona Justiça contra OpenAI por direitos autorais",
-   "resumo": "Empresa pede explicações sobre possível uso de dicionário no treinamento do ChatGPT",
-   "link": "https://www.poder360.com.br/poder-internacional/editora-lpm-aciona-justica-contra-openai-por-direitos-autorais/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T16:26:48-03:00"
-  },
-  {
-   "id": "661dc3283171",
-   "titulo": "ICE prende 2 imigrantes em aeroporto dos EUA e recebe críticas",
-   "resumo": "Detidos são mexicanos e estavam com vistos vencidos; companhia aérea, Porto de Seattle e governador criticaram a operação",
-   "link": "https://www.poder360.com.br/poder-internacional/ice-prende-2-imigrantes-em-aeroporto-dos-eua-e-recebe-criticas/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/bob-ferguson-ice-twitter.png",
-   "data": "2026-11-22T16:06:54-03:00"
-  },
-  {
-   "id": "b477ab958b0f",
-   "titulo": "Aplicativo pode ajudar a racionalizar filas para consultas e cirurgias",
-   "resumo": "Modelo decide como distribuir os médicos entre o ambulatório e o centro cirúrgico",
-   "link": "https://www.poder360.com.br/poder-saude/aplicativo-pode-ajudar-a-racionalizar-filas-para-consultas-e-cirurgias/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T16:00:54-03:00"
   },
   {
    "id": "1799f32f8500",
@@ -204,15 +303,6 @@
    "data": "2026-11-22T12:43:28-03:00"
   },
   {
-   "id": "c683b72544b0",
-   "titulo": "FecomercioSP critica decreto de Lula sobre escala 5×2",
-   "resumo": "A Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo (FecomercioSP) criticou o decreto assinado pelo presidente Lula (PT) que regulamenta o fim da escala 6×1 e estabelece a jornada de trabalho 5×2 no país. A primeira e…",
-   "link": "https://oantagonista.com.br/brasil/fecomerciosp-critica-decreto-de-lula-sobre-escala-5x2/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55662268776_2bac2c83ac_6k-scaled.jpg",
-   "data": "2026-11-22T12:07:22-03:00"
-  },
-  {
    "id": "69d5e37cc14d",
    "titulo": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
    "resumo": "O ministro Alexandre de Moraes autorizou a retirada da tornozeleira de Bolsonaro para a internação, mas vigília ininterrupta da PF permanece.",
@@ -222,24 +312,6 @@
    "data": "2026-11-22T11:19:31-03:00"
   },
   {
-   "id": "59a12d3b38eb",
-   "titulo": "Damares pede orações pela recuperação de Bolsonaro",
-   "resumo": "A senadora Damares Alves (Republicanos-DF) pediu orações pela recuperação do ex-presidente Jair Bolsonaro, internado na UTI do Hospital DF Star, em Brasília. Em publicação nas redes sociais, ela afirmou: “Presidente Bolsonaro, é assim que e…",
-   "link": "https://oantagonista.com.br/brasil/damares-pede-oracoes-pela-recuperacao-de-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55195540110_9a0a97d1a1_k.jpg",
-   "data": "2026-11-22T11:07:23-03:00"
-  },
-  {
-   "id": "b3ca35d4181b",
-   "titulo": "Governo descobre como documentos rurais podem ser usados para transformar terras públicas em negócios de R$ 38 milhões",
-   "resumo": "O Ministério da Justiça revelou como documentos rurais foram usados para apresentar terras da União como propriedades particulares. No Amazonas, uma investigação sobre grilagem identificou negociações que poderiam gerar mais de R$ 38 milhõe…",
-   "link": "https://oantagonista.com.br/brasil/governo-descobre-como-documentos-rurais-podem-ser-usados-para-transformar-terras-publicas-em-negocios-de-r-38-milhoes/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Open_folder_with_rural_documents.jpg",
-   "data": "2026-11-22T10:53:00-03:00"
-  },
-  {
    "id": "30c542a17123",
    "titulo": "Master: um ano depois, crises institucionais inundam investigações e escândalo segue sem respostas",
    "resumo": "Primeira fase da Compliance Zero foi em 18 de novembro de 2025 com Daniel Vorcaro preso pela primeira vez. Caso do Master caminhou pouco.",
@@ -247,33 +319,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/10/16013101/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
    "data": "2026-11-22T10:45:47-03:00"
-  },
-  {
-   "id": "e4fbb707e943",
-   "titulo": "Moraes manda retirar tornozeleira de Bolsonaro durante internação",
-   "resumo": "O ministro Alexandre de Moraes (foto), do Supremo Tribunal Federal (STF), determinou a retirada da tornozeleira eletrônica de Jair Bolsonaro (PL) durante a internação do ex-presidente. O equipamento deverá ser recolocado após a alta hospita…",
-   "link": "https://oantagonista.com.br/brasil/moraes-manda-retirar-tornozeleira-de-bolsonaro-durante-internacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55343412793_9388531a47_k.jpg",
-   "data": "2026-11-22T10:25:42-03:00"
-  },
-  {
-   "id": "e9500ee56a98",
-   "titulo": "Governo Lula reconhece calamidade pública em Tupanciretã",
-   "resumo": "O presidente Lula (PT) reconheceu o estado de calamidade pública em Tupanciretã, no Rio Grande do Sul, após um temporal deixar cinco mortos e 265 feridos na cidade. O reconhecimento federal da calamidade permite acelerar a liberação de recu…",
-   "link": "https://oantagonista.com.br/brasil/governo-lula-reconhece-calamidade-publica-em-tupancireta/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-22-as-09.58.49.png",
-   "data": "2026-11-22T10:03:36-03:00"
-  },
-  {
-   "id": "0a9e56a49a2e",
-   "titulo": "Dennys Xavier na Crusoé: Aprendam: Estado não corta gastos",
-   "resumo": "Friedrich August von Hayek (1899–1992) foi um economista e filósofo político austríaco, naturalizado britânico, um dos principais representantes da tradição liberal do século 20. Professor da London School of Economics, da Universidade de C…",
-   "link": "https://oantagonista.com.br/brasil/dennys-xavier-na-crusoe-aprendam-estado-nao-corta-gastos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Hayek-scaled-1.jpg",
-   "data": "2026-11-22T10:00:00-03:00"
   },
   {
    "id": "b89227c19abb",
@@ -319,51 +364,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/11165103/Paulo-Melo-PL-960x540.jpg",
    "data": "2026-11-21T21:25:56-03:00"
-  },
-  {
-   "id": "43881308807e",
-   "titulo": "Michelle retorna ao Brasil após internação de Bolsonaro",
-   "resumo": "Michelle Bolsonaro anuncia chegada ao Brasil após viagem a Israel e segue para Brasília, onde o ex-presidente está internado na UTI.",
-   "link": "https://www.gazetadopovo.com.br/republica/michelle-antecipa-retorno-ao-brasil-apos-internacao-de-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/09/06104549/Michelle-Bolsonaro-2-960x540.jpg",
-   "data": "2026-11-21T19:40:50-03:00"
-  },
-  {
-   "id": "cab8df11d096",
-   "titulo": "Lula diz ter conversado com Trump, Putin e Xi: “tomem uma cerveja juntos”",
-   "resumo": "Em live com o deputado André Janones, presidente disse ter conversado com os três líderes cerca de quatro meses atrás",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-conversa-trump-putin-xi/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21122928/WhatsApp-Image-2026-11-21-at-12.28.38-960x426.jpeg",
-   "data": "2026-11-21T18:23:00-03:00"
-  },
-  {
-   "id": "6977dab08496",
-   "titulo": "Lexum aponta contradição e parcialidade em julgamento de Van Hattem no STF",
-   "resumo": "Associação de juristas defende que fiscalização não pode virar crime e que Supremo exerce competência que não tem",
-   "link": "https://www.gazetadopovo.com.br/republica/lexum-aponta-contradicao-parcialidade-julgamento-van-hattem-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/19234421/marcel-van-hattem-960x540.jpg",
-   "data": "2026-11-21T17:28:28-03:00"
-  },
-  {
-   "id": "694d19804a8c",
-   "titulo": "Lula diz que Janja irá coordenar cerimônia de posse do novo mandato",
-   "resumo": "Primeira-dama será responsável por organizar cerimônia que acontece no dia 5 de janeiro. Leia na Gazeta do Povo",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-janja-cerimonia-posse/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30085027/janja-da-silva-960x540.jpg",
-   "data": "2026-11-21T16:56:02-03:00"
-  },
-  {
-   "id": "968c3f5790eb",
-   "titulo": "Bolsonaro está na UTI e tem quadro estável, diz novo boletim médico",
-   "resumo": "Ex-presidente tem diagnóstico de abdômen agudo obstrutivo e, segundo boletim divulgado neste sábado (21), não há previsão de alta",
-   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-uti-quadro-estavel-boletim/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
-   "data": "2026-11-21T16:06:27-03:00"
   },
   {
    "id": "71fd0ab370ad",
@@ -535,15 +535,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/02/presidente-da-camara-dos-deputados-hugo-motta-republicanos-pb-fala-ao-metropoles-sobre-agenda-da-casa-e-sobre-as-eleicoes-de-20262.jpeg",
    "data": "2026-11-20T05:00:49-03:00"
-  },
-  {
-   "id": "0b71e915005e",
-   "titulo": "Após decisão de Dino, OAB pede que STF julgue Van Hattem no plenário físico",
-   "resumo": "Conselho da OAB pede a Flávio Dino que reconsidere decisão e leve julgamento de Marcel Van Hattem à sessão presencial da 1ª Turma do STF",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/apos-decisao-de-dino-oab-pede-que-stf-julgue-van-hattem-no-plenario-fisico",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-07-200005.jpg",
-   "data": "2026-11-19T21:04:15-03:00"
   }
  ]
 }
