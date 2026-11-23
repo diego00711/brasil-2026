@@ -1,45 +1,216 @@
 {
- "atualizado": "2026-11-22T23:35:56.886176-03:00",
- "total": 59,
+ "atualizado": "2026-11-23T09:17:06.675854-03:00",
+ "total": 58,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "c4f149f5aea5",
-   "titulo": "“Situações” colocaram eleição do Brasil em dúvida, diz chanceler de Milei",
-   "resumo": "Pablo Quirno questionou o processo eleitoral, mas disse que cabe ao TSE reconhecer o resultado da disputa",
-   "link": "https://www.poder360.com.br/poder-internacional/situacoes-colocaram-eleicao-do-brasil-em-duvida-diz-chanceler-de-milei/",
+   "id": "159ddb27c07f",
+   "titulo": "Lula exonera ministro das Relações Institucionais para votar ajuste fiscal na Câmara",
+   "resumo": "José Guimarães deve reassumir cargo como deputado federal para reforçar bancada governista. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/lula-exonera-ministro-das-relacoes-institucionais-para-votar-ajuste-fiscal/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23090807/Design-sem-nome-24-960x540.jpg",
+   "data": "2026-11-23T09:10:08-03:00"
+  },
+  {
+   "id": "a0863bce8a09",
+   "titulo": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/zwTsYXRjn7DJq3YDOrhIiSn-lbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/dchTSZSly2gh9L1hrBPw/2026-11-14t055622z-1767885988-rc2gnoa3o1vq-rtrmadp-3-asean-summit.jpg",
+   "data": "2026-11-23T09:00:28-03:00"
+  },
+  {
+   "id": "c8846405ee98",
+   "titulo": "Negociação de Eisenkot com partido de Netanyahu não avança",
+   "resumo": "Representantes do Yashar e do Likud se reuniram por 4 horas; discutiram “questões centrais”, mas não trataram de quem seria premiê",
+   "link": "https://www.poder360.com.br/poder-internacional/negociacao-de-eisenkot-com-partido-de-netanyahu-nao-avanca/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-22T23:29:14-03:00"
+   "data": "2026-11-23T08:57:17-03:00"
   },
   {
-   "id": "7818fc043721",
-   "titulo": "Leia a íntegra da proposta da UE para taxar big techs",
-   "resumo": "Documento sugere cobrança de 3% sobre receitas digitais de grandes empresas de tecnologia",
-   "link": "https://www.poder360.com.br/poder-tech/leia-a-integra-da-proposta-da-ue-para-taxar-big-techs/",
+   "id": "963feef425b3",
+   "titulo": "Chanceler da Argentina questiona reeleição de Lula: “Situações que colocaram em dúvida”",
+   "resumo": "Chanceler da Argentina fez comentário quando foi questionado sobre por que gestão Milei não “reconheceu” a vitória de Lula e o “parabenizou”",
+   "link": "https://www.gazetadopovo.com.br/mundo/chanceler-argentina-questiona-reeleicao-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23085429/chanceler.argentina.lula_-960x540.jpg",
+   "data": "2026-11-23T08:55:27-03:00"
+  },
+  {
+   "id": "8d14a64e68e7",
+   "titulo": "Governo federal libera R$ 4,7 milhões para Tupanciretã (RS)",
+   "resumo": "Recursos serão destinados à compra de alimentos, kits de higiene e colchões para atender moradores afetados pela tempestade",
+   "link": "https://www.poder360.com.br/poder-governo/governo-federal-libera-r-47-milhoes-para-tupancireta-rs/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-22T23:19:17-03:00"
+   "data": "2026-11-23T08:44:40-03:00"
   },
   {
-   "id": "fcf33b9a0398",
-   "titulo": "Sebastião Coelho critica luz vermelha no Planalto e cobra explicação",
-   "resumo": "Em vídeo, ex-desembargador lamentou o apoio de parte dos eleitores cristãos a Lula e criticou o Congresso Nacional",
-   "link": "https://www.poder360.com.br/poder-governo/sebastiao-coelho-critica-luz-vermelha-no-planalto-e-cobra-explicacao/",
+   "id": "7284b2e1c3a3",
+   "titulo": "Partido italiano propõe taxa de 5% sobre ingressos para bancar segurança",
+   "resumo": "Emenda ao Orçamento de 2027 estabelece que clubes profissionais financiem horas extras e adicionais de policiais",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/partido-italiano-propoe-taxa-de-5-sobre-ingressos-para-bancar-seguranca/",
    "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/HtRuNIOGAao/hqdefault.jpg",
-   "data": "2026-11-22T23:15:42-03:00"
+   "imagem": "",
+   "data": "2026-11-23T08:43:47-03:00"
   },
   {
-   "id": "1bf1a0dcf12b",
-   "titulo": "Defesa Civil do RS emite alerta para novos temporais após 5 mortes",
-   "resumo": "Metade norte do Estado concentra o maior risco, e 3ª feira (24.nov) será o dia mais crítico; Tupanciretã foi o município mais atingido",
-   "link": "https://www.poder360.com.br/poder-brasil/defesa-civil-do-rs-emite-alerta-para-novos-temporais-apos-5-mortes/",
+   "id": "fab15bfdf695",
+   "titulo": "Mercado eleva projeção de inflação para 5,15% em 2026",
+   "resumo": "Boletim Focus aumenta estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB recua",
+   "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-inflacao-para-515-em-2026/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/defesa-civil-rs-26nov.webp",
-   "data": "2026-11-22T23:09:05-03:00"
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/boletim-focus-economia-23nov2026-scaled.png",
+   "data": "2026-11-23T08:40:32-03:00"
+  },
+  {
+   "id": "399273d03978",
+   "titulo": "Zanin confronta Nunes Marques em decisão sobre incorporação do Cidadania ao PP",
+   "resumo": "Ministro viu invasão de competências do presidente do TSE ao retirar caso da Justiça do DF. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/zanin-tensiona-com-nunes-marques-em-decisao-sobre-incorporacao-do-cidadania-ao-pp/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23081435/Design-sem-nome-23-960x540.jpg",
+   "data": "2026-11-23T08:15:46-03:00"
+  },
+  {
+   "id": "ab7ab9c36a39",
+   "titulo": "Lula isolado: revista inglesa coloca Brasil e ditaduras como únicos governos de oposição a Trump nas Américas",
+   "resumo": "Economist colocou Brasil, Nicarágua e Cuba como os únicos países da América Latina e do Caribe como “de oposição/críticos” a Trump",
+   "link": "https://www.gazetadopovo.com.br/mundo/lula-isolado-revista-inglesa-coloca-brasil-ditaduras-unicos-governos-oposicao-trump-americas/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23081420/economist.lula_.isolado-960x540.jpg",
+   "data": "2026-11-23T08:15:24-03:00"
+  },
+  {
+   "id": "1b1325ec4f4e",
+   "titulo": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/lula-exonera-ministro-da-articulacao-para-votacao-do-projeto-de-ajuste-na-camara-medida-e-temporaria.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ObScQPcbO7WLk72xClg06jNA2G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/g/FtstSsTzCHoks7uCyy9g/53897488571-0e0c000071-k.jpg",
+   "data": "2026-11-23T08:12:40-03:00"
+  },
+  {
+   "id": "9c57411819f1",
+   "titulo": "Exército dos EUA planeja detonar 5 toneladas de explosivos em Iowa",
+   "resumo": "Plano contraria decisão judicial; ambientalistas temem que nuvem de poeira de chumbo alcance o rio Mississippi e Illinois",
+   "link": "https://www.poder360.com.br/poder-internacional/exercito-dos-eua-planeja-detonar-5-toneladas-de-explosivos-em-iowa/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T08:10:23-03:00"
+  },
+  {
+   "id": "974b101b58ac",
+   "titulo": "Marcelo Teixeira oficializa candidatura à reeleição no Santos",
+   "resumo": "Fernando Bonavides segue como vice em chapa com 180 integrantes; votação será em 12 de dezembro",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/marcelo-teixeira-oficializa-candidatura-a-reeleicao-no-santos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T07:58:11-03:00"
+  },
+  {
+   "id": "22a5f8bfd0dd",
+   "titulo": "Amante de fundador da Nvidia teve contato com agente chinês, diz NYT",
+   "resumo": "Os contatos de Alice Huang com o serviço de inteligência da China se sobrepõem a um relacionamento com Jensen Huang",
+   "link": "https://www.poder360.com.br/poder-internacional/amante-de-fundador-da-nvidia-teve-contato-com-agente-chines-diz-nyt/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T07:51:01-03:00"
+  },
+  {
+   "id": "816a94d9b47c",
+   "titulo": "Show na Inglaterra é evacuado após liberação de “substância”",
+   "resumo": "Mais de 50 pessoas receberam atendimento médico durante apresentação do rapper Don Toliver em Manchester",
+   "link": "https://www.poder360.com.br/poder-internacional/show-na-inglaterra-e-evacuado-apos-liberacao-de-substancia/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T07:46:19-03:00"
+  },
+  {
+   "id": "3cf69e687ff2",
+   "titulo": "Rosinha anuncia separação de Garotinho",
+   "resumo": "A ex-governadora do Rio de Janeiro Rosinha Garotinho (à esquerda na foto) anunciou na noite de domingo, 22, a separação do também ex-governador do Rio Anthony Garotinho (à direita na foto), que concorreu ao governo do estado mais uma vez na…",
+   "link": "https://oantagonista.com.br/brasil/rosinha-anuncia-separacao-de-garotinho/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-23-as-07.22.35-e1795430440335.png",
+   "data": "2026-11-23T07:43:09-03:00"
+  },
+  {
+   "id": "0f38b8354d55",
+   "titulo": "Resultado da endoscopia foi positivo, diz Michelle sobre Bolsonaro",
+   "resumo": "A senadora eleita Michelle Bolsonaro (PL-DF) afirmou na noite de domingo, 22, que o resultado da endoscopia feita pelo marido, Jair Bolsonaro (PL) foi positivo. O ex-presidente foi internado na sexta-feira, 20, após apresentar fortes dores …",
+   "link": "https://oantagonista.com.br/brasil/resultado-da-endoscopia-foi-positivo-diz-michelle-sobre-bolsonaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Jair-e-Michelle-Bolsonaro.jpg",
+   "data": "2026-11-23T07:26:52-03:00"
+  },
+  {
+   "id": "592f62736170",
+   "titulo": "Julgamento no STJ pode mudar cálculo e limitar aumento de penas; entenda",
+   "resumo": "Ministros decidirão se é válida a soma progressiva de causas de aumento conhecida como \"efeito cascata\". Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/julgamento-no-stj-pode-mudar-calculo-e-limitar-aumento-de-penas-entenda/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23072228/55044941153_0ef94db0b3_o-960x540.jpg",
+   "data": "2026-11-23T07:23:02-03:00"
+  },
+  {
+   "id": "0d3cfe2c2098",
+   "titulo": "Futuros do Brent recuam e ficam abaixo de US$ 90",
+   "resumo": "IEA projeta que a oferta global de petróleo superará a demanda no 4º trimestre, mas tensões geopolíticas limitam queda",
+   "link": "https://www.poder360.com.br/poder-economia/futuros-do-brent-recuam-e-ficam-abaixo-de-us-90/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T07:07:42-03:00"
+  },
+  {
+   "id": "ff5bd4d536fc",
+   "titulo": "Santos anuncia Bozzella para trabalhar com pai de Neymar",
+   "resumo": "Ex-deputado federal será diretor-geral de operações e futebol do clube e atuará diretamente com Neymar da Silva Santos, diretor-executivo do time",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/santos-anuncia-bozzella-para-trabalhar-com-pai-de-neymar/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T07:04:16-03:00"
+  },
+  {
+   "id": "fc994ba67b56",
+   "titulo": "Gilmar admite falta de “autocontenção” do STF em “Gilmarpalooza da Argentina” e Bolsonaro segue internado",
+   "resumo": "Gilmar admite falta de \"autocontenção\" do STF em \"Gilmarpalooza da Argentina\" e Bolsonaro segue internado. Leia na newsletter.",
+   "link": "https://www.gazetadopovo.com.br/republica/gilmar-admite-falta-de-autocontencao-do-stf-em-gilmarpalooza-da-argentina-e-bolsonaro-segue-internado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/22182406/gilmar-mendes-master-autocontencao-stf-960x540.jpg",
+   "data": "2026-11-23T06:37:00-03:00"
+  },
+  {
+   "id": "a00bcb520dfe",
+   "titulo": "Motta espera conversa com Lula nesta semana",
+   "resumo": "Aliados do presidente da Câmara, Hugo Motta, dizem que ele deve ter conversa com Lula para tratar de espaços no quarto mandato do petista",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/motta-espera-conversa-com-lula-nesta-semana",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/05/lula-hugo-motta.jpg",
+   "data": "2026-11-23T02:00:10-03:00"
+  },
+  {
+   "id": "6e9ff4e30ea3",
+   "titulo": "Fachin envia relatório à PGR e abre caminho para Gilmar Mendes no caso Master",
+   "resumo": "Entenda como a decisão de Fachin sobre relatórios da PF pode levar Gilmar Mendes à relatoria do caso Master após suspeição de André Mendonça no STF.",
+   "link": "https://www.gazetadopovo.com.br/republica/fachin-envia-relatorio-a-pgr-e-abre-caminho-para-gilmar-mendes-no-caso-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23011646/Gilmar-Mendes-1-1-960x540.jpg",
+   "data": "2026-11-23T01:16:42-03:00"
+  },
+  {
+   "id": "5d4c1a0d0f5c",
+   "titulo": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
+   "data": "2026-11-23T00:00:01-03:00"
   },
   {
    "id": "4016f733843d",
@@ -60,24 +231,6 @@
    "data": "2026-11-22T22:50:02-03:00"
   },
   {
-   "id": "f9ea958b66f6",
-   "titulo": "Democratas garantem 258 cadeiras na Câmara, melhor resultado desde 1992",
-   "resumo": "Partido amplia bancada em 20,6% e consolida maioria no Congresso; 4 disputas ainda aguardam definição",
-   "link": "https://www.poder360.com.br/poder-internacional/democratas-garantem-258-cadeiras-na-camara-melhor-resultado-desde-1992/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/midterms-congresso-camara-eua-6-nov-2026-lista-scaled.jpg",
-   "data": "2026-11-22T22:08:33-03:00"
-  },
-  {
-   "id": "4b2df993e179",
-   "titulo": "Estudantes de gestão pública pedem a Lula demissão de Esther Dweck",
-   "resumo": "Manifesto da Fenecap será entregue a Lula na 2ª feira (23.nov); entidade cita falta de diálogo e defende regulamentação das profissões",
-   "link": "https://www.poder360.com.br/poder-governo/estudantes-de-gestao-publica-pedem-a-lula-demissao-de-esther-dweck/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T21:57:43-03:00"
-  },
-  {
    "id": "c617ab5eb3b4",
    "titulo": "Lula, ala autoritária do STF e desertores do PL ameaçam comando do Senado pela oposição",
    "resumo": "Para derrotar Alcolumbre na eleição que define o presidente do Senado, a direita terá de enfrentar ameaças que vêm de diversas frentes.",
@@ -87,33 +240,6 @@
    "data": "2026-11-22T21:51:41-03:00"
   },
   {
-   "id": "24236a76bccf",
-   "titulo": "Agência de aviação suspende voos da Delta após falha de sistema",
-   "resumo": "Administração Federal de Aviação dos EUA adiou todas as viagens operadas pela companhia com destino e partida em Atlanta",
-   "link": "https://www.poder360.com.br/poder-internacional/agencia-de-aviacao-suspende-voos-da-delta-apos-falha-de-sistema/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T21:48:28-03:00"
-  },
-  {
-   "id": "487be70197e7",
-   "titulo": "Rosinha anuncia separação de Anthony Garotinho após 45 anos",
-   "resumo": "Ex-governadora do RJ atribui decisão a diferenças de entendimento e pede respeito à privacidade da família",
-   "link": "https://www.poder360.com.br/poder-gente/rosinha-anuncia-separacao-de-anthony-garotinho-apos-45-anos/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/nota-imprensa-rosinha-garotinho-fim-casamento.png",
-   "data": "2026-11-22T21:43:11-03:00"
-  },
-  {
-   "id": "9389599692f8",
-   "titulo": "Dono do Telegram ironiza GTA por crimes não citarem uso do aplicativo",
-   "resumo": "Pavel Durov fez comentário sarcástico sobre o jogo em seu grupo de divulgação de notícias do app de mensagens",
-   "link": "https://www.poder360.com.br/poder-tech/dono-do-telegram-ironiza-gta-por-crimes-nao-citarem-uso-do-aplicativo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-1405-09-01-as-20.33.55.png",
-   "data": "2026-11-22T21:21:35-03:00"
-  },
-  {
    "id": "f5a27e4218f6",
    "titulo": "Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça",
    "resumo": "Envio de relatório da PF sobre André Mendonça para PGR pode torná-lo suspeito; defesa de Daniel Vorcaro quer Gilmar Mendes na relatoria.",
@@ -121,15 +247,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/22210907/Gilmar-Mendes-1-960x540.jpg",
    "data": "2026-11-22T21:16:08-03:00"
-  },
-  {
-   "id": "d2ee299f0dc5",
-   "titulo": "Trump assina lei que encerra produção de moeda de US$ 0,01",
-   "resumo": "“Lei dos Centavos Comuns” extingue oficialmente a produção da moeda de 1 centavo de dólar, conhecida como “penny”",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-assina-lei-que-encerra-producao-de-moeda-de-us-001/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-22T21:02:49-03:00"
   },
   {
    "id": "84db92a3714a",
@@ -213,15 +330,6 @@
    "data": "2026-11-22T16:00:00-03:00"
   },
   {
-   "id": "980c8a5eaffb",
-   "titulo": "Políticos de direita se mobilizam e pedem orações pela saúde de Bolsonaro",
-   "resumo": "Parlamentares, governadores e ex-ministros foram às redes para manifestar apoio e pedir orações por Jair Bolsonaro.",
-   "link": "https://www.gazetadopovo.com.br/republica/politicos-de-direita-se-mobilizam-e-pedem-oracoes-pela-saude-de-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22153252/WhatsApp-Image-2026-11-22-at-15.31.56-647x372.jpeg",
-   "data": "2026-11-22T15:34:47-03:00"
-  },
-  {
    "id": "73c7b945877d",
    "titulo": "Roberto Ellery na Crusoé: Ainda não existe Mounjaro para dívida pública",
    "resumo": "No livro Código da Obesidade: decifrando os segredos da prevenção e cura da obesidade, o Dr. Jason Fung argumenta, entre tantas outras coisas, que temos um peso de curto prazo e um peso de longo prazo. Quando fazemos dietas ou exercícios, r…",
@@ -240,15 +348,6 @@
    "data": "2026-11-22T14:55:00-03:00"
   },
   {
-   "id": "849ecffd558a",
-   "titulo": "Investigações do caso Banco Master completam um ano com impasses institucionais",
-   "resumo": "A Operação Compliance Zero completa um ano com R$ 28 bilhões bloqueados e investigações que alcançam o STF e o Congresso. Entenda os detalhes do escândalo.",
-   "link": "https://www.gazetadopovo.com.br/republica/investigacoes-do-caso-banco-master-completam-um-ano-com-impasses-institucionais/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22144659/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
-   "data": "2026-11-22T14:46:56-03:00"
-  },
-  {
    "id": "7ec192e17034",
    "titulo": "Bolsonaro permanece na UTI sem previsão de alta, diz boletim",
    "resumo": "Novo boletim médico divulgado na tarde deste domingo, 22, informa que Jair Bolsonaro (PL) permanece internado na UTI do Hospital DF Star, em Brasília, sem previsão de alta. O ex-presidente está clinicamente estável, mas a equipe médica aind…",
@@ -258,15 +357,6 @@
    "data": "2026-11-22T14:45:12-03:00"
   },
   {
-   "id": "9824d7cc1b2e",
-   "titulo": "Bolsonaro permanece na UTI sem previsão de alta, diz boletim médico",
-   "resumo": "Boletim médico deste domingo (22) afirma que Bolsonaro permanece sem previsão de alta na UTI. Diagnóstico é de abdômen agudo obstrutivo.",
-   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-permanece-na-uti-sem-previsao-de-alta-diz-boletim-medico/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
-   "data": "2026-11-22T14:04:50-03:00"
-  },
-  {
    "id": "641bc8d52afd",
    "titulo": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
    "resumo": "",
@@ -274,51 +364,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/46fp6f5WWQKEGzNwfLRvF3e7UII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg",
    "data": "2026-11-22T13:54:30-03:00"
-  },
-  {
-   "id": "2e38e4a70f23",
-   "titulo": "Michelle diz que ex-presidente está sem dor e caminhou pelo quarto",
-   "resumo": "Ex-primeira-dama demonstrou otimismo com o tratamento de Bolsonaro e pediu orações pela recuperação do marido.",
-   "link": "https://www.gazetadopovo.com.br/republica/michelle-atualiza-estado-de-saude-de-bolsonaro-e-diz-que-ex-presidente-esta-sem-febre/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22100704/Retrato-sorridente-com-bone-rosa-960x540.jpg",
-   "data": "2026-11-22T13:34:42-03:00"
-  },
-  {
-   "id": "6f685efa149b",
-   "titulo": "Bolsonaro passou a noite sem dores e faz caminhada, diz Michelle",
-   "resumo": "Michelle Bolsonaro afirmou neste domingo, 22, que o marido, o ex-presidente Jair Bolsonaro (PL), passou a noite sem dores e conseguiu caminhar no Hospital DF Star, em Brasília. Ele está internado na UTI desde sexta-feira, 20, com um quadro …",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-passou-a-noite-sem-dores-e-faz-caminhada-diz-michelle/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/Captura-de-Tela-2026-03-21-as-11.17.43.png",
-   "data": "2026-11-22T13:33:09-03:00"
-  },
-  {
-   "id": "0dfdabc13e2b",
-   "titulo": "Carlos critica silêncio de ministros do STF sobre internação de Bolsonaro",
-   "resumo": "Carlos Bolsonaro (PL-SC) criticou ministros do Supremo Tribunal Federal (STF) por não se manifestarem sobre a internação do pai, o ex-presidente Jair Bolsonaro (PL), que está na UTI em Brasília desde sexta-feira, 20. Em publicação nas redes…",
-   "link": "https://oantagonista.com.br/brasil/carlos-critica-silencio-de-ministros-do-stf-sobre-internacao-de-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Carlos-Bolsonaro.png",
-   "data": "2026-11-22T12:43:28-03:00"
-  },
-  {
-   "id": "69d5e37cc14d",
-   "titulo": "Moraes autorizou retirada de tornozeleira de Bolsonaro durante internação",
-   "resumo": "O ministro Alexandre de Moraes autorizou a retirada da tornozeleira de Bolsonaro para a internação, mas vigília ininterrupta da PF permanece.",
-   "link": "https://www.gazetadopovo.com.br/republica/moraes-autorizou-retirada-de-tornozeleira-de-bolsonaro-durante-internacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/30194006/moraes-stf-960x540.jpg",
-   "data": "2026-11-22T11:19:31-03:00"
-  },
-  {
-   "id": "30c542a17123",
-   "titulo": "Master: um ano depois, crises institucionais inundam investigações e escândalo segue sem respostas",
-   "resumo": "Primeira fase da Compliance Zero foi em 18 de novembro de 2025 com Daniel Vorcaro preso pela primeira vez. Caso do Master caminhou pouco.",
-   "link": "https://www.gazetadopovo.com.br/republica/master-um-ano-crises-institucionais-inundam-investigacoes-escandalo-sem-respostas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/10/16013101/daniel-vorcaro-mugshot-foto-SAP-SP-EFE-1-960x540.jpg",
-   "data": "2026-11-22T10:45:47-03:00"
   },
   {
    "id": "b89227c19abb",
@@ -355,15 +400,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/AQKbMOuPMiqZtl76Nub_CFPF75I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/U9vNoXQ2amMvfssbZOKw/tct61cmm0nfdcmoynccifl2oxcp0yofz7qyqrnxl.jpg",
    "data": "2026-11-22T00:00:00-03:00"
-  },
-  {
-   "id": "fca3a86c5731",
-   "titulo": "PL terá 20% do total de deputados estaduais para avançar com projetos da direita no país",
-   "resumo": "PL sai das urnas com o maior total de deputados estaduais: 212 eleitos nos estados e no DF. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/brasil/pl-deputados-estaduais-projetos-direita-pais/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/11165103/Paulo-Melo-PL-960x540.jpg",
-   "data": "2026-11-21T21:25:56-03:00"
   },
   {
    "id": "71fd0ab370ad",
@@ -456,33 +492,6 @@
    "data": "2026-11-21T00:00:00-03:00"
   },
   {
-   "id": "a1fc23e89ee5",
-   "titulo": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Nio80kZDGtxyGX5ESTjm_RdWSsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/L/fBqFu1Qzy0te0w4PwSaQ/52830107256-f3a8e5c381-k.jpg",
-   "data": "2026-11-20T22:50:53-03:00"
-  },
-  {
-   "id": "6339f23d49a6",
-   "titulo": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
-   "data": "2026-11-20T21:37:07-03:00"
-  },
-  {
-   "id": "bb4c54ebc68d",
-   "titulo": "Fachin retira sigilo de relatório da PF com 11 conversas que citam André Mendonça no caso Master",
-   "resumo": "",
-   "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/kXFPIzXYW3bWWtk-7E6bnIUyMFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/y/LC0CnAQI6sSkxJiWXyvQ/globo-canal-5-20261120-2000-frame-84466.jpeg",
-   "data": "2026-11-20T21:23:24-03:00"
-  },
-  {
    "id": "856c4043fffd",
    "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
@@ -517,24 +526,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/fachada-do-stf-do-supremo-tribunal-federal-stf-metropoles-scaled.jpeg",
    "data": "2026-11-20T11:57:06-03:00"
-  },
-  {
-   "id": "1090432cbf4a",
-   "titulo": "Vice de Flávio libera projeto que proíbe novos \"inquéritos das fake news\"",
-   "resumo": "Alfredo Gaspar, vice de Flávio Bolsonaro na eleição, apresentou relatório sobre projeto que proíbe juízes de abrirem inquéritos de ofício",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/vice-de-flavio-libera-projeto-que-proibe-novos-inqueritos-das-fake-news",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/11/10181708/O-deputado-Alfredo-Gaspar-relator-da-CPMI-do-INSS-comissao-durante-o-depoimento-de-Igor-Dias-Delecrode-ex-dirigente-da-Aasap-Metropoles-1.jpg",
-   "data": "2026-11-20T07:00:25-03:00"
-  },
-  {
-   "id": "eddfb6e80dca",
-   "titulo": "PL tenta convencer deputado do Republicanos a concorrer contra Motta",
-   "resumo": "Articulação para convencer deputado do Republicanos a disputar presidência da Câmara é liderada pela ala do PL contrária ao apoio a Motta",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/pl-tenta-convencer-deputado-do-republicanos-a-concorrer-contra-motta",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/02/presidente-da-camara-dos-deputados-hugo-motta-republicanos-pb-fala-ao-metropoles-sobre-agenda-da-casa-e-sobre-as-eleicoes-de-20262.jpeg",
-   "data": "2026-11-20T05:00:49-03:00"
   }
  ]
 }
