@@ -1,18 +1,441 @@
 {
- "atualizado": "2026-11-23T09:17:06.675854-03:00",
- "total": 58,
+ "atualizado": "2026-11-23T21:45:18.063963-03:00",
+ "total": 59,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "159ddb27c07f",
-   "titulo": "Lula exonera ministro das Relações Institucionais para votar ajuste fiscal na Câmara",
-   "resumo": "José Guimarães deve reassumir cargo como deputado federal para reforçar bancada governista. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-exonera-ministro-das-relacoes-institucionais-para-votar-ajuste-fiscal/",
+   "id": "eeaf738898fe",
+   "titulo": "Santiago Peña recorre à Suprema Corte para anular destituição",
+   "resumo": "Ex-presidente contesta decisão do Senado paraguaio e afirma que houve violações ao devido processo legal",
+   "link": "https://www.poder360.com.br/poder-internacional/santiago-pena-recorre-a-suprema-corte-para-anular-destituicao/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T21:40:27-03:00"
+  },
+  {
+   "id": "25d6f35d0696",
+   "titulo": "Seis indícios apontam que não deve haver investigações de ministros do STF",
+   "resumo": "Histórico de decisões, manifestações do próprio Gonet e vínculos entre autoridades e Vorcaro reforçam chances de não investigação.",
+   "link": "https://www.gazetadopovo.com.br/republica/seis-indicios-apontam-que-nao-deve-haver-investigacoes-de-ministros-do-stf/",
    "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23090807/Design-sem-nome-24-960x540.jpg",
-   "data": "2026-11-23T09:10:08-03:00"
+   "imagem": "https://media.gazetadopovo.com.br/2026/09/19100815/ASPA-GRANDE-2026-09-19T100823.110-960x540.jpg",
+   "data": "2026-11-23T21:30:14-03:00"
+  },
+  {
+   "id": "7c5121b4908c",
+   "titulo": "STF manda recolher livro que usa o nome de Eduardo Cunha como pseudônimo",
+   "resumo": "O Supremo Tribunal Federal (STF) confirmou, em julgamento colegiado na segunda-feira, 23, a ordem de retirar das lojas os exemplares de Diário da Cadeia, ficção do escritor Ricardo Lísias que traz na capa o nome do ex-deputado Eduardo Cunha…",
+   "link": "https://oantagonista.com.br/brasil/stf-manda-recolher-livro-que-usa-o-nome-de-eduardo-cunha-como-pseudonimo/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/Eduardo-Cunha.png",
+   "data": "2026-11-23T21:26:15-03:00"
+  },
+  {
+   "id": "2bd7181619b9",
+   "titulo": "Câmara nunca hesitou em defender mandatos, diz Hugo Motta",
+   "resumo": "Declaração veio após Flávio Dino votar para tornar Marcel van Hattem réu no STF por calúnia e injúria contra delegado",
+   "link": "https://www.poder360.com.br/poder-congresso/camara-nunca-hesitou-em-defender-mandatos-diz-hugo-motta/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T21:23:56-03:00"
+  },
+  {
+   "id": "7bb233de79f6",
+   "titulo": "Entenda por que a Nvidia dispara 31% após retorno de Jensen Huang",
+   "resumo": "Recondução do cofundador foi aprovada por unanimidade pelo conselho; mercado reage à redução das incertezas sobre a companhia",
+   "link": "https://www.poder360.com.br/poder-economia/entenda-por-que-a-nvidia-dispara-31-apos-retorno-de-jensen-huang/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T21:20:45-03:00"
+  },
+  {
+   "id": "55e80b520b73",
+   "titulo": "Brasil deve testar vacina contra o câncer em parceria com Oxford, diz Padilha",
+   "resumo": "O Brasil deve iniciar, no primeiro semestre de 2027, testes clínicos de uma vacina terapêutica contra o câncer, desenvolvida em parceria com a Universidade de Oxford. O anúncio foi feito pelo ministro da Saúde, Alexandre Padilha (foto), dur…",
+   "link": "https://oantagonista.com.br/brasil/brasil-deve-testar-vacina-contra-o-cancer-em-parceria-com-oxford-diz-padilha/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/Alexandre-Padilha.jpg",
+   "data": "2026-11-23T21:16:53-03:00"
+  },
+  {
+   "id": "6d9f0281511b",
+   "titulo": "Irmão de Santiago Peña, ex-presidente do Paraguai, é preso",
+   "resumo": "Francisco Peña e sua mulher são investigados por lavagem de dinheiro em caso envolvendo o Ueno Bank; ela se entregou",
+   "link": "https://www.poder360.com.br/poder-internacional/irmao-de-santiago-pena-ex-presidente-do-paraguai-e-preso/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T21:05:36-03:00"
+  },
+  {
+   "id": "6ba29fdccd22",
+   "titulo": "Câmara defendeu livre expressão na tribuna no caso Van Hattem, diz Motta",
+   "resumo": "Presidente da Câmara afirmou que se reunirá com o deputado nesta semana para acompanhar processo no STF por calúnia e injúria",
+   "link": "https://www.poder360.com.br/poder-congresso/camara-defendeu-livre-expressao-na-tribuna-no-caso-van-hattem-diz-motta/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T21:05:33-03:00"
+  },
+  {
+   "id": "79344c266bc3",
+   "titulo": "Moraes se declara suspeito para julgar suposta interferência dos EUA nas eleições",
+   "resumo": "Moraes se declara suspeito e não participará do julgamento sobre suposta interferência dos EUA nas eleições brasileiras.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-se-declara-suspeito-para-julgar-suposta-interferencia-dos-eua-nas-eleicoes/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23201723/alexandre-de-moraes-960x540.jpg",
+   "data": "2026-11-23T20:53:40-03:00"
+  },
+  {
+   "id": "60b19669545a",
+   "titulo": "Moraes se declara suspeito em investigação sobre interferência estrangeira",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou suspeito de atuar na ação que apura suposta interferência e financiamento estrangeiros nas eleições brasileiras. O magistrado alegou motivos de “foro íntimo” par…",
+   "link": "https://oantagonista.com.br/brasil/moraes-se-declara-suspeito-em-investigacao-sobre-interferencia-estrangeira/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55604367895_d26daa48ee_3k-e1794330422630.jpg",
+   "data": "2026-11-23T20:48:26-03:00"
+  },
+  {
+   "id": "e5ba3724d848",
+   "titulo": "Avenida no RJ tem aluguel comercial mais caro do Brasil",
+   "resumo": "Preço do metro quadrado na avenida Ataulfo de Paiva, no Leblon, chegou a R$ 581 mensais, segundo a Cushman & Wakefield",
+   "link": "https://www.poder360.com.br/poder-economia/avenida-no-rj-tem-aluguel-comercial-mais-caro-do-brasil/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/ataulfo-de-paiva-leblon-google-maps.jpg",
+   "data": "2026-11-23T20:46:37-03:00"
+  },
+  {
+   "id": "f4c09967f06a",
+   "titulo": "Chuva alaga a Zona Leste de SP e fecha túnel no centro",
+   "resumo": "A cidade de São Paulo entrou em estado de atenção para alagamentos às 13h57 desta segunda-feira, 23, conforme o Centro de Gerenciamento de Emergências Climáticas (CGE). A água acumulada deixou carros submersos na Zona Leste, e o Túnel Anhan…",
+   "link": "https://oantagonista.com.br/brasil/chuva-alaga-a-zona-leste-de-sp-e-fecha-tunel-no-centro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-23_203527_g1.globo_.com-1.png",
+   "data": "2026-11-23T20:38:10-03:00"
+  },
+  {
+   "id": "b2f1df6ec840",
+   "titulo": "Nikolas acusa governo Lula de sacrificar SUS para fazer ajuste fiscal",
+   "resumo": "O deputado Nikolas Ferreira (PL-MG) afirmou nesta segunda-feira, 23, que os eleitores que reconduziram Lula à Presidência poderão ser os responsáveis por retirá-lo do cargo. Em discurso na tribuna da Câmara, o parlamentar voltou a criticar …",
+   "link": "https://oantagonista.com.br/brasil/nikolas-acusa-governo-lula-de-sacrificar-sus-para-fazer-ajuste-fiscal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/img20260609173750973.jpeg",
+   "data": "2026-11-23T20:36:44-03:00"
+  },
+  {
+   "id": "badebe552af3",
+   "titulo": "Entenda a portaria do governo sobre o fim da 6 X 1",
+   "resumo": "Norma garante 2 dias de descanso semanal e redefine valor da hora extra",
+   "link": "https://www.poder360.com.br/poder-brasil/entenda-a-portaria-do-governo-sobre-o-fim-da-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T20:30:34-03:00"
+  },
+  {
+   "id": "abbc186dcc40",
+   "titulo": "Petrobras lança plano de negócios 27-31 com US$ 122 bi em investimentos",
+   "resumo": "Conselho da estatal aprova planejamento com 70% dos recursos destinados a exploração e produção de petróleo e gás",
+   "link": "https://www.poder360.com.br/poder-economia/petrobras-lanca-plano-de-negocios-27-31-com-us-122-bi-em-investimentos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T20:22:44-03:00"
+  },
+  {
+   "id": "8cb8b1e3ff40",
+   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos",
+   "resumo": "Montante será pago em única parcela, em 23 de dezembro, no valor de R$ 1,21 por ação ordinária e preferencial em circulação",
+   "link": "https://www.poder360.com.br/poder-economia/petrobras-aprova-pagamento-de-r-156-bilhoes-em-dividendos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T20:18:51-03:00"
+  },
+  {
+   "id": "396015a8e996",
+   "titulo": "PC do B acorda emenda para excluir Lei Rouanet do ajuste fiscal",
+   "resumo": "Jandira Feghali diz que proposta deixa claro que leis de incentivo culturais não serão afetadas; no relatório do pacote já não havia qualquer menção expressa à área de cultura",
+   "link": "https://www.poder360.com.br/poder-congresso/pc-do-b-acorda-emenda-para-excluir-lei-rouanet-do-ajuste-fiscal/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-23T20:15:30-03:00"
+  },
+  {
+   "id": "bb0887def08a",
+   "titulo": "Kassio é sorteado relator de ação de Vorcaro contra Fachin",
+   "resumo": "O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), foi sorteado relator de um mandado de segurança apresentado pela defesa do banqueiro Daniel Vorcaro, que questiona a atuação do presidente da Corte, Edson Fachin, na conduç…",
+   "link": "https://oantagonista.com.br/brasil/kassio-e-sorteado-relator-de-acao-de-vorcaro-contra-fachin/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/bancoImagemFotoAudiencia_AP_455047.jpg",
+   "data": "2026-11-23T20:11:52-03:00"
+  },
+  {
+   "id": "e14a677bee14",
+   "titulo": "Damares pede a Fachin autorização para visitar Vorcaro na Papudinha",
+   "resumo": "Damares é relatora de proposta de fiscalização que apura possíveis irregularidades na liquidação do Master.",
+   "link": "https://www.gazetadopovo.com.br/republica/damares-pede-a-fachin-autorizacao-para-visitar-vorcaro-na-papudinha/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23200438/damares-alves-960x540.jpg",
+   "data": "2026-11-23T20:07:51-03:00"
+  },
+  {
+   "id": "a4e7890ba8bb",
+   "titulo": "Câmara aprova urgência para votação do projeto de ajuste fiscal",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-urgencia-para-votacao-do-projeto-de-ajuste-fiscal",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-23T19:59:00-03:00"
+  },
+  {
+   "id": "d70725508e2d",
+   "titulo": "Cabo Gilberto questiona silêncio da Câmara sobre caso Van Hattem",
+   "resumo": "O líder da oposição na Câmara, Cabo Gilberto Silva (PL-PB), cobrou nesta segunda-feira, 23, uma reação do presidente da Casa, Hugo Motta (Republicanos-PB), diante da denúncia apresentada pela Procuradoria-Geral da República (PGR) contra o d…",
+   "link": "https://oantagonista.com.br/brasil/cabo-gilberto-questiona-silencio-da-camara-sobre-caso-van-hattem/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/gilberto-silva-5-1.jpg",
+   "data": "2026-11-23T19:54:33-03:00"
+  },
+  {
+   "id": "ec5481bdb886",
+   "titulo": "Deputado do Novo diz que ajuste fiscal de Lula penaliza trabalhador",
+   "resumo": "O deputado Luiz Lima (Novo-RJ) criticou o pacote de ajuste fiscal do governo Lula durante discurso na tribuna da Câmara dos Deputados nesta segunda-feira, 23. Para o parlamentar, as medidas são insuficientes para corrigir o desequilíbrio da…",
+   "link": "https://oantagonista.com.br/brasil/deputado-do-novo-diz-que-ajuste-fiscal-de-lula-penaliza-trabalhador/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/img20260602160512211-scaled.jpg",
+   "data": "2026-11-23T19:35:13-03:00"
+  },
+  {
+   "id": "d50614a1721c",
+   "titulo": "Câmara discute projeto de ajuste fiscal do governo; ASSISTA",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/jseGWoHSv1geC58-ztF8fnFxKGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/w8BlDhQMyddxK2f9XIKg/captura-de-tela-2026-11-23-190700.png",
+   "data": "2026-11-23T19:30:43-03:00"
+  },
+  {
+   "id": "fa55e6ac8b52",
+   "titulo": "Jordy acusa governo Lula de cortar R$ 9 bilhões da saúde com ajuste fiscal",
+   "resumo": "O deputado Carlos Jordy (PL-RJ) acusou o governo Lula de promover um corte de 9 bilhões de reais na saúde por meio do pacote de ajuste fiscal em discussão na Câmara dos Deputados. Em discurso na tribuna nesta segunda-feira, 23, o parlamenta…",
+   "link": "https://oantagonista.com.br/brasil/jordy-acusa-governo-lula-de-cortar-r-9-bilhoes-da-saude-com-ajuste-fiscal/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/12/img20251203183050419.jpg",
+   "data": "2026-11-23T19:23:24-03:00"
+  },
+  {
+   "id": "d74be45cf160",
+   "titulo": "“Prometeu acabar com o 6×1”, ironiza Flávio sobre alta do dólar",
+   "resumo": "O senador Flávio Bolsonaro (PL-RJ, foto) ironizou nesta segunda, 23, a alta do dólar, que voltou a superar a marca de 6 reais no mercado à vista. O dólar comercial chegou a 6,001 reais nesta segunda, à espera da votação sobre o ajuste fisca…",
+   "link": "https://oantagonista.com.br/brasil/prometeu-acabar-com-o-6x1-diz-flavio-sobre-alta-do-dolar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/flavio-3.jpg",
+   "data": "2026-11-23T19:09:53-03:00"
+  },
+  {
+   "id": "d0fac2b2a450",
+   "titulo": "Fazenda reduz projeção do PIB e prevê inflação maior em 2026 e 2027",
+   "resumo": "Revisão da equipe econômica aponta desaceleração da atividade econômica e pressão maior sobre os preços, com inflação acima do teto da meta.",
+   "link": "https://www.gazetadopovo.com.br/republica/fazenda-reduz-projecao-do-pib-e-preve-inflacao-maior-em-2026-e-2027/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23190650/ministerio-da-fazenda-1-960x540.jpg",
+   "data": "2026-11-23T19:07:58-03:00"
+  },
+  {
+   "id": "45ecf935aafd",
+   "titulo": "Guimarães diz que Câmara votará pacote fiscal inteiro nesta segunda",
+   "resumo": "O governo Lula (PT) pode ampliar o bloqueio de despesas para quase 10 bilhões de reais caso a Câmara dos Deputados não aprove nesta segunda-feira, 23, o pacote de ajuste fiscal. O alerta foi feito pelo ministro-chefe licenciado da Secretari…",
+   "link": "https://oantagonista.com.br/brasil/guimaraes-camara-votar-pacote-fiscal-inteiro-segunda/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/55211488539_1f7e51eda2_k.jpg",
+   "data": "2026-11-23T19:02:34-03:00"
+  },
+  {
+   "id": "39c878a13f49",
+   "titulo": "Eduardo Bolsonaro recorre ao STF para tentar reverter condenação por difamação",
+   "resumo": "A defesa do ex-deputado federal Eduardo Bolsonaro apresentou um recurso ao Supremo Tribunal Federal (STF) para tentar reverter a condenação a um ano de prisão pelo crime de difamação contra a deputada Tabata Amaral (PSB). Os advogados apont…",
+   "link": "https://oantagonista.com.br/brasil/eduardo-bolsonaro-recorre-ao-stf-para-tentar-reverter-condenacao-por-difamacao/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Eduardo-Bolsonaro.png",
+   "data": "2026-11-23T18:54:13-03:00"
+  },
+  {
+   "id": "d8f40aa8d6f7",
+   "titulo": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-23T18:14:00-03:00"
+  },
+  {
+   "id": "4c9de519853e",
+   "titulo": "“Se nada for feito, vamos para uma recessão”, diz Mendonça de Barros",
+   "resumo": "Economista afirma que projeto do governo Lula não é ajuste fiscal, mas “adequação” do Orçamento de 2027. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/se-nada-for-feito-vamos-para-uma-recessao-diz-mendonca-de-barros/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/10184003/lula_gazeta_2143x1200-1-1-960x540.jpg",
+   "data": "2026-11-23T18:10:36-03:00"
+  },
+  {
+   "id": "41f54e9257f7",
+   "titulo": "Bolsonaro é diagnosticado com pneumonia nos dois pulmões e segue na UTI",
+   "resumo": "Infecção foi identificada após episódio de vômito e ex-presidente continua internado em Brasília. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-contrai-pneumonia-dois-pulmoes-segue-uti/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
+   "data": "2026-11-23T17:56:43-03:00"
+  },
+  {
+   "id": "2e74baa9b679",
+   "titulo": "Bolsonaro continua na UTI após ser internado por dores abdominais; ex-presidente está com pneumonia",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg",
+   "data": "2026-11-23T17:21:46-03:00"
+  },
+  {
+   "id": "0bfde60602cd",
+   "titulo": "Ajuste: petistas apresentam projeto que tira universidades do arcabouço",
+   "resumo": "No dia que Câmara deve votar projeto de ajuste fiscal, petistas apresentam projeto que tira orçamento de universidades do arcabouço fiscal",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/ajuste-petistas-apresentam-projeto-que-tira-universidades-do-arcabouco",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2025/10/25140812/Frame-1349.jpg",
+   "data": "2026-11-23T17:10:21-03:00"
+  },
+  {
+   "id": "7a77b50c8b79",
+   "titulo": "Em reunião com Lula, ministros do STF defendem diretor da PF e dizem que André Mendonça queria prendê-lo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/23/lula-andrei-rodrigues-andre-mendonca.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/yaWX-h_sqLpSRN5HccFo-M0SbDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/r/JwMsXcSiKpX4HYsT76kQ/montagem-horizontal-1280x720px-1-.jpg",
+   "data": "2026-11-23T16:58:57-03:00"
+  },
+  {
+   "id": "49ea57f7a60a",
+   "titulo": "Petistas veem votação de ajuste fiscal na Câmara como teste para o Centrão",
+   "resumo": "Antes de distribuir ministérios, aliados de Lula querem medir a fidelidade do Centrão e veem a votação do ajuste fiscal como um teste",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/petistas-veem-votacao-de-ajuste-fiscal-na-camara-como-teste-para-o-centrao",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/05/relator-da-politica-nacional-de-minerais-criticos-e-estrategicos-deputado-arnaldo-jardim-cidadania-sp-e-presidente-da-camara-dos-deputados-hugo-motta-republicanos-pb-metropoles-1-scaled.jpeg",
+   "data": "2026-11-23T16:02:01-03:00"
+  },
+  {
+   "id": "7ff98d4f7efd",
+   "titulo": "Ministério do Trabalho publica portaria que regulamenta descansos da escala 5x2; entenda",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/23/ministerio-do-trabalho-portaria-escala-5x2.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/7PF90qBwRHbSlFyxcnrtwxm02vE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/5eZKSOSBuKRkLSXRzcYg/lula-decreto-escala-5x2-20261119-0920-frame-210106.jpeg",
+   "data": "2026-11-23T15:42:53-03:00"
+  },
+  {
+   "id": "f58c33f3cf37",
+   "titulo": "Deputada do PSOL diz que foi barrada em Israel e deportada",
+   "resumo": "A deputada estadual Monica Seixas (PSOL-SP) alegou que foi barrada em aeroporto de Israel, impedida de seguir para a Cisjordânia e deportada",
+   "link": "https://www.gazetadopovo.com.br/mundo/deputada-psol-diz-que-foi-barrada-israel-deportada/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23144819/deputada.israel-960x540.jpg",
+   "data": "2026-11-23T15:42:05-03:00"
+  },
+  {
+   "id": "2e13a9a0307e",
+   "titulo": "Hugo Motta e Davi Alcolumbre usam pauta jurídica para atrair apoio da direita",
+   "resumo": "Hugo Motta e Davi Alcolumbre tentam apoio do PL e da direita no Congresso articulando o julgamento da Lei da Dosimetria no STF para revisar penas.",
+   "link": "https://www.gazetadopovo.com.br/republica/hugo-motta-e-davi-alcolumbre-usam-pauta-juridica-para-atrair-apoio-da-direita/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23153907/dosimetria-motta-alcolumbre-1-960x540.jpg",
+   "data": "2026-11-23T15:38:52-03:00"
+  },
+  {
+   "id": "a27875e7ebee",
+   "titulo": "Moraes volta a dispensar carta aos EUA e intima Flávio por edital em ação por crítica a Lula",
+   "resumo": "Ministro é alvo de críticas por não utilizar mecanismo de cooperação jurídica em ações contra nomes de direita. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-volta-a-dispensar-carta-aos-eua-e-intima-flavio-por-edital-em-acao-por-critica-a-lula/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23145623/Design-sem-nome-30-2-960x540.jpg",
+   "data": "2026-11-23T15:04:14-03:00"
+  },
+  {
+   "id": "99d3453f1ebd",
+   "titulo": "AGU pede ao STF que derrube mudanças feitas por Dino na transição do fim da escala 6×1",
+   "resumo": "Segundo a AGU, o Decreto 13.173/2026 já estabelece parâmetros para a transição e evita regras paralelas à decisão de Flávio Dino.",
+   "link": "https://www.gazetadopovo.com.br/republica/agu-pede-ao-stf-que-derrube-mudancas-feitas-por-dino-na-transicao-do-fim-da-escala-6x1/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/10/02222553/messias-agu-governo-960x540.jpg",
+   "data": "2026-11-23T14:50:17-03:00"
+  },
+  {
+   "id": "60bed76d7a6f",
+   "titulo": "Sem previsão de deixar hospital, Bolsonaro pede a Moraes para receber advogado",
+   "resumo": "Defesa do ex-presidente solicitou a liberação de visitas do advogado João Henrique Nascimento de Freitas durante internação hospitalar. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/sem-previsao-deixar-hospital-bolsonaro-pede-moraes-receber-advogado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
+   "data": "2026-11-23T14:40:32-03:00"
+  },
+  {
+   "id": "29ec32addef5",
+   "titulo": "Novo volta a pedir afastamento de Andrei e o acusa de interferir no caso Master",
+   "resumo": "Partido direciona pedido a Fachin e diz que troca de delegados do caso Master é \"clara anomalia institucional\". Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/novo-volta-a-pedir-afastamento-de-andrei-e-o-acusa-de-interferir-no-caso-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/23140607/Design-sem-nome-29-1-960x540.jpg",
+   "data": "2026-11-23T14:08:10-03:00"
+  },
+  {
+   "id": "5252591c82fa",
+   "titulo": "Moraes diz que Flávio está em 'local incerto' e determina citação por edital para resposta de senador a denúncia por calúnia contra Lula",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/moraes-diz-que-flavio-esta-em-local-incerto-e-determina-citacao-por-edital-para-resposta-de-senador-a-denuncia-por-calunia-contra-lula.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/no0hGoXQAcEPVCloyu3sgjBACd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/3gjYZHT3WliUKW2YrbbQ/design-sem-nome-2026-10-28t114627.765.jpg",
+   "data": "2026-11-23T14:03:15-03:00"
+  },
+  {
+   "id": "827af45842d6",
+   "titulo": "Lula se reúne com cúpula do Congresso e ministros do STF para definir substituto de Barroso",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/lula-se-reune-com-cupula-do-congresso-e-ministros-do-stf-para-definir-substituto-de-barroso.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/hGO-RZZW2S5guG39VuaAHGkXFjU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/1/hi6hKkTnSBIvDXEcMBdQ/55657060036-56e92421c3-k.jpg",
+   "data": "2026-11-23T12:07:33-03:00"
+  },
+  {
+   "id": "0fc8a6f114de",
+   "titulo": "Fim da escala 6X1 deve impactar mais de 100 mil trabalhadores domésticos, estima instituto",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/23/fim-da-escala-6x1-deve-beneficiar-mais-de-100-mil-trabalhadores-domesticos-estima-instituto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/w76kKQ7M7mMl7VxzOObtQU_Cj6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/i/y8e3c6S3ivC53npFLVVg/especialistas-analisam-relacao-entre-trabalho-domestico-e-racismo-no-brasil.jpg",
+   "data": "2026-11-23T11:44:35-03:00"
+  },
+  {
+   "id": "e3849dfcc23a",
+   "titulo": "Escala 5x2: AGU diz ao STF que decisão provisória de Dino não é mais necessária após regulamentação do governo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/escala-5x2-agu-diz-ao-stf-que-decisao-provisoria-de-dino-nao-e-mais-necessaria-apos-regulamentacao-do-governo.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/QWgGp47M4THmholGweGtQSjDbdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/e7qZhXSUCbYdTP8ZAQHQ/55634742803-a8feb46b45-k.jpg",
+   "data": "2026-11-23T11:35:47-03:00"
+  },
+  {
+   "id": "fa4a17ee0418",
+   "titulo": "Ajuste fiscal: na Câmara, PSol pede destaque para limite de investimentos",
+   "resumo": "Apesar da tentativa do governo de aprovar ajuste fiscal sem alterações, líder do PSol apresentou pedido de destaque para votação na Câmara",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/ajuste-fiscal-psol-pede-destaque-para-limite-de-investimentos",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2024/07/09153346/Tarcisio-Motta.jpg",
+   "data": "2026-11-23T11:31:03-03:00"
+  },
+  {
+   "id": "3a0c475209dd",
+   "titulo": "Pedidos de refúgio de cubanos no Brasil disparam com série de apagões na ilha e passam de 33 mil no ano",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/23/refugio-cuba-2026-parcial.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/88ibek9EX0EWsznDrBMp64Mi5-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/m/EXHpYDTi2rA82cdOayMQ/travessia2.jpg",
+   "data": "2026-11-23T10:24:41-03:00"
   },
   {
    "id": "a0863bce8a09",
@@ -24,69 +447,6 @@
    "data": "2026-11-23T09:00:28-03:00"
   },
   {
-   "id": "c8846405ee98",
-   "titulo": "Negociação de Eisenkot com partido de Netanyahu não avança",
-   "resumo": "Representantes do Yashar e do Likud se reuniram por 4 horas; discutiram “questões centrais”, mas não trataram de quem seria premiê",
-   "link": "https://www.poder360.com.br/poder-internacional/negociacao-de-eisenkot-com-partido-de-netanyahu-nao-avanca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T08:57:17-03:00"
-  },
-  {
-   "id": "963feef425b3",
-   "titulo": "Chanceler da Argentina questiona reeleição de Lula: “Situações que colocaram em dúvida”",
-   "resumo": "Chanceler da Argentina fez comentário quando foi questionado sobre por que gestão Milei não “reconheceu” a vitória de Lula e o “parabenizou”",
-   "link": "https://www.gazetadopovo.com.br/mundo/chanceler-argentina-questiona-reeleicao-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23085429/chanceler.argentina.lula_-960x540.jpg",
-   "data": "2026-11-23T08:55:27-03:00"
-  },
-  {
-   "id": "8d14a64e68e7",
-   "titulo": "Governo federal libera R$ 4,7 milhões para Tupanciretã (RS)",
-   "resumo": "Recursos serão destinados à compra de alimentos, kits de higiene e colchões para atender moradores afetados pela tempestade",
-   "link": "https://www.poder360.com.br/poder-governo/governo-federal-libera-r-47-milhoes-para-tupancireta-rs/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T08:44:40-03:00"
-  },
-  {
-   "id": "7284b2e1c3a3",
-   "titulo": "Partido italiano propõe taxa de 5% sobre ingressos para bancar segurança",
-   "resumo": "Emenda ao Orçamento de 2027 estabelece que clubes profissionais financiem horas extras e adicionais de policiais",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/partido-italiano-propoe-taxa-de-5-sobre-ingressos-para-bancar-seguranca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T08:43:47-03:00"
-  },
-  {
-   "id": "fab15bfdf695",
-   "titulo": "Mercado eleva projeção de inflação para 5,15% em 2026",
-   "resumo": "Boletim Focus aumenta estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB recua",
-   "link": "https://www.poder360.com.br/poder-economia/mercado-eleva-projecao-de-inflacao-para-515-em-2026/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/boletim-focus-economia-23nov2026-scaled.png",
-   "data": "2026-11-23T08:40:32-03:00"
-  },
-  {
-   "id": "399273d03978",
-   "titulo": "Zanin confronta Nunes Marques em decisão sobre incorporação do Cidadania ao PP",
-   "resumo": "Ministro viu invasão de competências do presidente do TSE ao retirar caso da Justiça do DF. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/zanin-tensiona-com-nunes-marques-em-decisao-sobre-incorporacao-do-cidadania-ao-pp/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23081435/Design-sem-nome-23-960x540.jpg",
-   "data": "2026-11-23T08:15:46-03:00"
-  },
-  {
-   "id": "ab7ab9c36a39",
-   "titulo": "Lula isolado: revista inglesa coloca Brasil e ditaduras como únicos governos de oposição a Trump nas Américas",
-   "resumo": "Economist colocou Brasil, Nicarágua e Cuba como os únicos países da América Latina e do Caribe como “de oposição/críticos” a Trump",
-   "link": "https://www.gazetadopovo.com.br/mundo/lula-isolado-revista-inglesa-coloca-brasil-ditaduras-unicos-governos-oposicao-trump-americas/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23081420/economist.lula_.isolado-960x540.jpg",
-   "data": "2026-11-23T08:15:24-03:00"
-  },
-  {
    "id": "1b1325ec4f4e",
    "titulo": "Lula exonera ministro para votação do projeto de ajuste na Câmara; medida é temporária",
    "resumo": "",
@@ -94,96 +454,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/ObScQPcbO7WLk72xClg06jNA2G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/g/FtstSsTzCHoks7uCyy9g/53897488571-0e0c000071-k.jpg",
    "data": "2026-11-23T08:12:40-03:00"
-  },
-  {
-   "id": "9c57411819f1",
-   "titulo": "Exército dos EUA planeja detonar 5 toneladas de explosivos em Iowa",
-   "resumo": "Plano contraria decisão judicial; ambientalistas temem que nuvem de poeira de chumbo alcance o rio Mississippi e Illinois",
-   "link": "https://www.poder360.com.br/poder-internacional/exercito-dos-eua-planeja-detonar-5-toneladas-de-explosivos-em-iowa/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T08:10:23-03:00"
-  },
-  {
-   "id": "974b101b58ac",
-   "titulo": "Marcelo Teixeira oficializa candidatura à reeleição no Santos",
-   "resumo": "Fernando Bonavides segue como vice em chapa com 180 integrantes; votação será em 12 de dezembro",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/marcelo-teixeira-oficializa-candidatura-a-reeleicao-no-santos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T07:58:11-03:00"
-  },
-  {
-   "id": "22a5f8bfd0dd",
-   "titulo": "Amante de fundador da Nvidia teve contato com agente chinês, diz NYT",
-   "resumo": "Os contatos de Alice Huang com o serviço de inteligência da China se sobrepõem a um relacionamento com Jensen Huang",
-   "link": "https://www.poder360.com.br/poder-internacional/amante-de-fundador-da-nvidia-teve-contato-com-agente-chines-diz-nyt/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T07:51:01-03:00"
-  },
-  {
-   "id": "816a94d9b47c",
-   "titulo": "Show na Inglaterra é evacuado após liberação de “substância”",
-   "resumo": "Mais de 50 pessoas receberam atendimento médico durante apresentação do rapper Don Toliver em Manchester",
-   "link": "https://www.poder360.com.br/poder-internacional/show-na-inglaterra-e-evacuado-apos-liberacao-de-substancia/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T07:46:19-03:00"
-  },
-  {
-   "id": "3cf69e687ff2",
-   "titulo": "Rosinha anuncia separação de Garotinho",
-   "resumo": "A ex-governadora do Rio de Janeiro Rosinha Garotinho (à esquerda na foto) anunciou na noite de domingo, 22, a separação do também ex-governador do Rio Anthony Garotinho (à direita na foto), que concorreu ao governo do estado mais uma vez na…",
-   "link": "https://oantagonista.com.br/brasil/rosinha-anuncia-separacao-de-garotinho/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-23-as-07.22.35-e1795430440335.png",
-   "data": "2026-11-23T07:43:09-03:00"
-  },
-  {
-   "id": "0f38b8354d55",
-   "titulo": "Resultado da endoscopia foi positivo, diz Michelle sobre Bolsonaro",
-   "resumo": "A senadora eleita Michelle Bolsonaro (PL-DF) afirmou na noite de domingo, 22, que o resultado da endoscopia feita pelo marido, Jair Bolsonaro (PL) foi positivo. O ex-presidente foi internado na sexta-feira, 20, após apresentar fortes dores …",
-   "link": "https://oantagonista.com.br/brasil/resultado-da-endoscopia-foi-positivo-diz-michelle-sobre-bolsonaro/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Jair-e-Michelle-Bolsonaro.jpg",
-   "data": "2026-11-23T07:26:52-03:00"
-  },
-  {
-   "id": "592f62736170",
-   "titulo": "Julgamento no STJ pode mudar cálculo e limitar aumento de penas; entenda",
-   "resumo": "Ministros decidirão se é válida a soma progressiva de causas de aumento conhecida como \"efeito cascata\". Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/julgamento-no-stj-pode-mudar-calculo-e-limitar-aumento-de-penas-entenda/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23072228/55044941153_0ef94db0b3_o-960x540.jpg",
-   "data": "2026-11-23T07:23:02-03:00"
-  },
-  {
-   "id": "0d3cfe2c2098",
-   "titulo": "Futuros do Brent recuam e ficam abaixo de US$ 90",
-   "resumo": "IEA projeta que a oferta global de petróleo superará a demanda no 4º trimestre, mas tensões geopolíticas limitam queda",
-   "link": "https://www.poder360.com.br/poder-economia/futuros-do-brent-recuam-e-ficam-abaixo-de-us-90/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T07:07:42-03:00"
-  },
-  {
-   "id": "ff5bd4d536fc",
-   "titulo": "Santos anuncia Bozzella para trabalhar com pai de Neymar",
-   "resumo": "Ex-deputado federal será diretor-geral de operações e futebol do clube e atuará diretamente com Neymar da Silva Santos, diretor-executivo do time",
-   "link": "https://www.poder360.com.br/poder-sportsmkt/santos-anuncia-bozzella-para-trabalhar-com-pai-de-neymar/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-23T07:04:16-03:00"
-  },
-  {
-   "id": "fc994ba67b56",
-   "titulo": "Gilmar admite falta de “autocontenção” do STF em “Gilmarpalooza da Argentina” e Bolsonaro segue internado",
-   "resumo": "Gilmar admite falta de \"autocontenção\" do STF em \"Gilmarpalooza da Argentina\" e Bolsonaro segue internado. Leia na newsletter.",
-   "link": "https://www.gazetadopovo.com.br/republica/gilmar-admite-falta-de-autocontencao-do-stf-em-gilmarpalooza-da-argentina-e-bolsonaro-segue-internado/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22182406/gilmar-mendes-master-autocontencao-stf-960x540.jpg",
-   "data": "2026-11-23T06:37:00-03:00"
   },
   {
    "id": "a00bcb520dfe",
@@ -195,15 +465,6 @@
    "data": "2026-11-23T02:00:10-03:00"
   },
   {
-   "id": "6e9ff4e30ea3",
-   "titulo": "Fachin envia relatório à PGR e abre caminho para Gilmar Mendes no caso Master",
-   "resumo": "Entenda como a decisão de Fachin sobre relatórios da PF pode levar Gilmar Mendes à relatoria do caso Master após suspeição de André Mendonça no STF.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-envia-relatorio-a-pgr-e-abre-caminho-para-gilmar-mendes-no-caso-master/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23011646/Gilmar-Mendes-1-1-960x540.jpg",
-   "data": "2026-11-23T01:16:42-03:00"
-  },
-  {
    "id": "5d4c1a0d0f5c",
    "titulo": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
    "resumo": "",
@@ -211,132 +472,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
    "data": "2026-11-23T00:00:01-03:00"
-  },
-  {
-   "id": "4016f733843d",
-   "titulo": "Flávio acusa Moraes de interferir na eleição e diz que perdeu para o “sistema”, não para Lula",
-   "resumo": "Em entrevista à Fox News, Flávio Bolsonaro acusa Moraes de interferência na eleição, questiona urnas e diz que perdeu para o sistema.",
-   "link": "https://www.gazetadopovo.com.br/mundo/flavio-acusa-moraes-de-interferir-na-eleicao-e-diz-que-perdeu-para-o-sistema-nao-para-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21170935/flavio-bolsonaro-1-1-960x540.jpg",
-   "data": "2026-11-22T22:50:12-03:00"
-  },
-  {
-   "id": "00f8beeb00e1",
-   "titulo": "Gilmar Mendes admite que falta autocontenção aos ministros do STF",
-   "resumo": "Gilmar Mendes afirma que o STF é um dos tribunais mais poderosos do mundo, admite falta de autocontenção e comenta suspeitas envolvendo o Banco Master.",
-   "link": "https://www.gazetadopovo.com.br/republica/gilmar-mendes-admite-que-falta-autocontencao-aos-ministros-do-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22225007/gilmar-mendes-master-autocontencao-stf-1-960x540.jpg",
-   "data": "2026-11-22T22:50:02-03:00"
-  },
-  {
-   "id": "c617ab5eb3b4",
-   "titulo": "Lula, ala autoritária do STF e desertores do PL ameaçam comando do Senado pela oposição",
-   "resumo": "Para derrotar Alcolumbre na eleição que define o presidente do Senado, a direita terá de enfrentar ameaças que vêm de diversas frentes.",
-   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/lula-ala-autoritaria-do-stf-e-desertores-do-pl-ameacam-comando-do-senado-pela-oposicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/03193729/como-votou-senador-pec-seguranca-960x540.jpg",
-   "data": "2026-11-22T21:51:41-03:00"
-  },
-  {
-   "id": "f5a27e4218f6",
-   "titulo": "Ato de Fachin abre brecha para Gilmar assumir caso Master no lugar de Mendonça",
-   "resumo": "Envio de relatório da PF sobre André Mendonça para PGR pode torná-lo suspeito; defesa de Daniel Vorcaro quer Gilmar Mendes na relatoria.",
-   "link": "https://www.gazetadopovo.com.br/republica/ato-de-fachin-abre-brecha-para-gilmar-assumir-caso-master-no-lugar-de-mendonca/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22210907/Gilmar-Mendes-1-960x540.jpg",
-   "data": "2026-11-22T21:16:08-03:00"
-  },
-  {
-   "id": "84db92a3714a",
-   "titulo": "Proprietário de apartamento alugado recebe cobrança para reformar a fachada do prédio e tenta repassar a despesa ao inquilino, mas a lei separa quem deve pagar",
-   "resumo": "Uma cobrança para reformar a fachada pode surpreender quem mantém um apartamento alugado. Embora o proprietário tente transferir o valor ao inquilino, a lei estabelece uma divisão clara: despesas extraordinárias da obra ficam com o locador,…",
-   "link": "https://oantagonista.com.br/brasil/proprietario-de-apartamento-alugado-recebe-cobranca-para-reformar-a-fachada-do-predio-e-tenta-repassar-a-despesa-ao-inquilino-mas-a-lei-separa-quem-deve-pagar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Boleto_de_condominio_taxa_extra.jpg",
-   "data": "2026-11-22T20:43:00-03:00"
-  },
-  {
-   "id": "a022c3c3ce5f",
-   "titulo": "Morador precisa entrar no quintal do vizinho para consertar parede de casa e descobre que a lei prevê acesso em situações indispensáveis",
-   "resumo": "Consertar a parede externa de uma casa pode exigir a passagem pelo quintal vizinho, situação que costuma gerar dúvidas e conflitos. O Código Civil permite esse acesso temporário quando ele é indispensável, mas estabelece condições para prot…",
-   "link": "https://oantagonista.com.br/brasil/morador-precisa-entrar-no-quintal-do-vizinho-para-consertar-parede-de-casa-e-descobre-que-a-lei-preve-acesso-em-situacoes-indispensaveis/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Escada_encostada_em_parede_resid.jpg",
-   "data": "2026-11-22T20:13:00-03:00"
-  },
-  {
-   "id": "11367c15fbe2",
-   "titulo": "Nunes manifesta solidariedade a Bolsonaro após internação",
-   "resumo": "O prefeito de São Paulo, Ricardo Nunes (MDB), desejou melhoras a Jair Bolsonaro (PL), internado na UTI do Hospital DF Star, em Brasília. “Minha solidariedade, oração e desejo de melhoras ao Presidente Bolsonaro”, escreveu o prefeito neste d…",
-   "link": "https://oantagonista.com.br/brasil/nunes-manifesta-solidariedade-a-bolsonaro-apos-internacao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Ricardo-Nunes-e-Jair.png",
-   "data": "2026-11-22T20:01:14-03:00"
-  },
-  {
-   "id": "fa594cd7c507",
-   "titulo": "Marinho cobra reação do Congresso em defesa da imunidade de Van Hattem",
-   "resumo": "O senador Rogério Marinho (PL-RN) citou a atuação de seu avô durante a ditadura militar para defender a imunidade parlamentar do deputado Marcel Van Hattem (Novo-RS), alvo de uma denúncia por calúnia e injúria no Supremo Tribunal Federal (S…",
-   "link": "https://oantagonista.com.br/brasil/marinho-cobra-reacao-do-congresso-em-defesa-da-imunidade-de-van-hattem/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55528643231_aeb1002b14_o-scaled-e1791298528987.jpg",
-   "data": "2026-11-22T19:21:55-03:00"
-  },
-  {
-   "id": "b97a334825d3",
-   "titulo": "Flávio chama Bolsonaro de “herói” um ano após prisão do pai",
-   "resumo": "O senador Flávio Bolsonaro (PL-RJ) chamou o pai, Jair Bolsonaro, de “herói” em uma publicação nas redes sociais neste domingo, 22, um ano após a prisão preventiva do ex-presidente. “Um ano desde a prisão injusta do meu pai, Jair Bolsonaro. …",
-   "link": "https://oantagonista.com.br/brasil/flavio-chama-bolsonaro-de-heroi-um-ano-apos-prisao-do-pai/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-20-as-08.15.12-e1795176297380.png",
-   "data": "2026-11-22T19:03:05-03:00"
-  },
-  {
-   "id": "f60740338589",
-   "titulo": "Gilmar Mendes cita caso Master, diz que STF é “poderoso”, mas fala em falta de “autocontenção” à Corte",
-   "resumo": "Em entrevista à rádio argentina, Gilmar Mendes diz que STF pode ser poderoso demais, fala em falta de autocontenção e cita caso Master.",
-   "link": "https://www.gazetadopovo.com.br/republica/gilmar-mendes-cita-caso-master-diz-que-stf-e-poderoso-mas-fala-em-falta-de-autocontencao-a-corte/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/22182406/gilmar-mendes-master-autocontencao-stf-960x540.jpg",
-   "data": "2026-11-22T18:49:11-03:00"
-  },
-  {
-   "id": "b5796cf672ec",
-   "titulo": "Condenação de Bolsonaro foi “uma lição” para o mundo, diz Gilmar",
-   "resumo": "O ministro Gilmar Mendes (foto), do Supremo Tribunal Federal (STF), classificou a condenação de Jair Bolsonaro (PL) e de outros envolvidos na chamada trama golpista como uma “lição” para o mundo. Em entrevista a uma rádio argentina, o decan…",
-   "link": "https://oantagonista.com.br/brasil/condenacao-de-bolsonaro-foi-uma-licao-para-o-mundo-diz-gilmar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/Captura-de-Tela-2026-04-23-as-23.10.23-1.png",
-   "data": "2026-11-22T18:48:04-03:00"
-  },
-  {
-   "id": "4352b8cab556",
-   "titulo": "Zanin interrompe análise de denúncia contra ex-ministro de Lula",
-   "resumo": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), interrompeu o julgamento da denúncia contra Juscelino Filho (PSDB-MA), acusado de participar de um esquema de desvio de recursos de emendas parlamentares no Maranhão. Com o pedi…",
-   "link": "https://oantagonista.com.br/brasil/zanin-interrompe-analise-de-denuncia-contra-ex-ministro-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55530747368_77fae4a06d_5k-scaled.jpg",
-   "data": "2026-11-22T18:32:57-03:00"
-  },
-  {
-   "id": "1799f32f8500",
-   "titulo": "Rodolfo Borges na Crusoé: A intermitência da morte de Ruschel",
-   "resumo": "Alan Ruschel (foto) encerrou a carreira de jogador de futebol em 14 de novembro, 10 anos depois de sobreviver à queda de um avião. O atleta foi um dos seis sobreviventes do acidente da Chapecoense, em 2016, mas o único deles que conseguiu v…",
-   "link": "https://oantagonista.com.br/brasil/rodolfo-borges-na-crusoe-a-intermitencia-da-morte-de-ruschel/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-19-as-14.08.28-e1795108273858.webp",
-   "data": "2026-11-22T16:00:00-03:00"
-  },
-  {
-   "id": "73c7b945877d",
-   "titulo": "Roberto Ellery na Crusoé: Ainda não existe Mounjaro para dívida pública",
-   "resumo": "No livro Código da Obesidade: decifrando os segredos da prevenção e cura da obesidade, o Dr. Jason Fung argumenta, entre tantas outras coisas, que temos um peso de curto prazo e um peso de longo prazo. Quando fazemos dietas ou exercícios, r…",
-   "link": "https://oantagonista.com.br/brasil/roberto-ellery-na-crusoe-ainda-nao-existe-mounjaro-para-divida-publica/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Mounjaro-scaled-1.jpg",
-   "data": "2026-11-22T15:00:00-03:00"
   },
   {
    "id": "ca656ba50c56",
@@ -348,24 +483,6 @@
    "data": "2026-11-22T14:55:00-03:00"
   },
   {
-   "id": "7ec192e17034",
-   "titulo": "Bolsonaro permanece na UTI sem previsão de alta, diz boletim",
-   "resumo": "Novo boletim médico divulgado na tarde deste domingo, 22, informa que Jair Bolsonaro (PL) permanece internado na UTI do Hospital DF Star, em Brasília, sem previsão de alta. O ex-presidente está clinicamente estável, mas a equipe médica aind…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-permanece-na-uti-sem-previsao-de-alta-diz-boletim/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/51307704278_6246aaf6e8_k.jpg",
-   "data": "2026-11-22T14:45:12-03:00"
-  },
-  {
-   "id": "641bc8d52afd",
-   "titulo": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/46fp6f5WWQKEGzNwfLRvF3e7UII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg",
-   "data": "2026-11-22T13:54:30-03:00"
-  },
-  {
    "id": "b89227c19abb",
    "titulo": "CPI do Master vira omissão dupla do Congresso e do STF",
    "resumo": "Enquanto Davi Alcolumbre segura CPI do Master no Congresso, STF não se manifesta sobre direito da minoria de abrir a comissão de inquérito",
@@ -375,33 +492,6 @@
    "data": "2026-11-22T05:00:43-03:00"
   },
   {
-   "id": "5b269a29c9bb",
-   "titulo": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/baIHCsfEc3el4JdGVkbxZ-Y-r48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/E/WoJsAKQbOzBpPvBhohog/guarda-municipal-semsc-foto-jonatas-medeiros-9906.jpeg",
-   "data": "2026-11-22T00:00:00-03:00"
-  },
-  {
-   "id": "93640836281e",
-   "titulo": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
-   "data": "2026-11-22T00:00:00-03:00"
-  },
-  {
-   "id": "efce93b93956",
-   "titulo": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/AQKbMOuPMiqZtl76Nub_CFPF75I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/U9vNoXQ2amMvfssbZOKw/tct61cmm0nfdcmoynccifl2oxcp0yofz7qyqrnxl.jpg",
-   "data": "2026-11-22T00:00:00-03:00"
-  },
-  {
    "id": "71fd0ab370ad",
    "titulo": "Ex-presidente Jair Bolsonaro está internado em UTI no Distrito Federal",
    "resumo": "<p><strong>O ex-presidente da República Jair Messias Bolsonaro está internado em unidade de terapia intensiva (UTI), no Hospital DF Star, em Brasília, com o diagnóstico de abdômen agudo obstrutivo. </strong><img src=\"https://agenciabrasil.e…",
@@ -409,15 +499,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-21T14:55:00-03:00"
-  },
-  {
-   "id": "3300b18ccb24",
-   "titulo": "Bolsonaro tem obstrução intestinal, está na UTI, estável e sem previsão de alta, diz hospital",
-   "resumo": "Bolsonaro está na UTI em estado estável, diz boletim médico O ex-presidente Jair Bolsonaro está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo, informou o hospital DF Star na tarde deste sábado (21).…",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/21/bolsonaro-tem-obstrucao-intestinal-quadro-estavel-e-segue-sem-previsao-de-alta-diz-boletim-medico.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-21T14:16:23-03:00"
   },
   {
    "id": "630c7c3fa4b3",
@@ -438,15 +519,6 @@
    "data": "2026-11-21T13:47:51-03:00"
   },
   {
-   "id": "46729dbb8b8b",
-   "titulo": "Moraes atende a pedido e autoriza visitas diárias de filhos a Bolsonaro durante a internação",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/21/moraes-atende-a-pedido-e-autoriza-visitas-diarias-de-filhos-a-bolsonaro-durante-a-internacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/UjqbXhpT373-NxPXHa9WX9yOyYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/n/y/0AwcxTSB62baPHarW3kA/globo-canal-4-4-28-frame-314568.jpeg",
-   "data": "2026-11-21T12:48:34-03:00"
-  },
-  {
    "id": "6bba826ac8f9",
    "titulo": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
@@ -456,24 +528,6 @@
    "data": "2026-11-21T12:20:00-03:00"
   },
   {
-   "id": "e166a60f4730",
-   "titulo": "Lula diz que projeto aprovado no Senado não é 'reforma fiscal', mas ajuste para Orçamento de 2027, e critica Faria Lima",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/21/lula-diz-que-projeto-aprovado-no-senado-nao-e-reforma-fiscal-mas-ajuste-para-orcamento-de-2027-e-critica-faria-lima.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/FSzRxvNbxiAsjh0hlems2tDjkfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/pHNAIDTJKT7eU5SAqEuw/lula-live-janones.png",
-   "data": "2026-11-21T11:27:51-03:00"
-  },
-  {
-   "id": "e085e2fdd076",
-   "titulo": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg",
-   "data": "2026-11-21T09:14:12-03:00"
-  },
-  {
    "id": "ede6a7c16fe3",
    "titulo": "Os próximos passos de Daniella Marques após a campanha de Flávio",
    "resumo": "Coordenadora da campanha de Flávio, Daniella Marques tem sido sondada para projetos com foco em empreendedorismo e retomará pós-graduação",
@@ -481,51 +535,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/Daniella-Marques-durante-Coletiva-de-imprensa-apos-a-solenidade-de-posse-da-nova-presidente-da-Caixa1.jpeg",
    "data": "2026-11-21T05:00:54-03:00"
-  },
-  {
-   "id": "5c148ca0e1a3",
-   "titulo": "A um mês do recesso, Fachin tenta avançar com agenda de reformas no STF, mas enfrenta resistências",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/21/a-um-mes-do-recesso-fachin-tenta-avancar-com-agenda-de-reformas-no-stf-mas-enfrenta-resistencias.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg",
-   "data": "2026-11-21T00:00:00-03:00"
-  },
-  {
-   "id": "856c4043fffd",
-   "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-20T18:12:00-03:00"
-  },
-  {
-   "id": "ac471cea21ad",
-   "titulo": "Médicos avaliam submeter Bolsonaro a uma nova cirurgia",
-   "resumo": "Ex-presidente Jair Bolsonaro foi internado no hospital DF Star, em Brasília, nesta sexta-feira (20/11) após sentir dores abdominais",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/medicos-avaliam-nova-cirurgia-em-bolsonaro",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/ex-presidente-da-republica-Jair-Messias-Bolsonaro-concede-entrevista-exclusiva-ao-colunista-do-Metropoles-Igor-Gadelha-4.jpg",
-   "data": "2026-11-20T18:03:25-03:00"
-  },
-  {
-   "id": "529944141fde",
-   "titulo": "Aliados de Mendonça veem relatório como armação para tirá-lo do Caso Master",
-   "resumo": "Decisão de Edson Fachin de não arquivar relatório sobre André Mendonça provocou desconfiança entre os aliados do relator do Caso Master",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-mendonca-veem-relatorio-como-armacao-para-tira-lo-do-caso-master",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/09/ministro-andre-mendonca-durante-sessao-no-tribunal-superior-eleitoral-tse-metropoles-6-scaled.jpeg",
-   "data": "2026-11-20T14:03:21-03:00"
-  },
-  {
-   "id": "073741aba280",
-   "titulo": "PF sugere “trabalho analítico” para aprofundar mensagens sobre ministros",
-   "resumo": "Em relatório sobre menções a André Mendonça no celular de Daniel Vorcaro, PF sugere \"trabalho analítico\" para aprofundar informações",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/pf-sugere-trabalho-analitico-para-aprofundar-mensagens-sobre-ministros",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/fachada-do-stf-do-supremo-tribunal-federal-stf-metropoles-scaled.jpeg",
-   "data": "2026-11-20T11:57:06-03:00"
   }
  ]
 }
