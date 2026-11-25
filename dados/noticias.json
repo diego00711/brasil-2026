@@ -1,10 +1,280 @@
 {
- "atualizado": "2026-11-24T18:06:04.878475-03:00",
- "total": 66,
+ "atualizado": "2026-11-25T01:51:47.021962-03:00",
+ "total": 67,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
+  {
+   "id": "4d8cc8c33093",
+   "titulo": "Cleitinho Azevedo busca aproximação com o governo federal para negociar dívida",
+   "resumo": "O governador eleito Cleitinho Azevedo busca diálogo com o governo Lula para renegociar a dívida de R$ 188 bilhões de Minas Gerais e define prioridades.",
+   "link": "https://www.gazetadopovo.com.br/republica/cleitinho-azevedo-busca-aproximacao-com-o-governo-federal-para-negociar-divida/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/25011123/cleitinho-1-960x540.jpg",
+   "data": "2026-11-25T01:11:16-03:00"
+  },
+  {
+   "id": "6e351d91be4c",
+   "titulo": "Financiamento de veículos pode triplicar com retomada extrajudicial",
+   "resumo": "Estudo da Acrefi estima potencial de expansão da carteira de crédito automotivo para R$ 1,5 tri; atuação dos Detrans é questionada no STF",
+   "link": "https://www.poder360.com.br/poder-economia/financiamento-de-veiculos-pode-triplicar-com-retomada-extrajudicial/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-25T00:01:08-03:00"
+  },
+  {
+   "id": "18e3abce668a",
+   "titulo": "Governo Lula tem ao menos oito projetos econômicos para aprovar no Congresso até o fim de 2026",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-lula-tem-ao-menos-oito-projetos-economicos-para-aprovar-no-congresso-ate-o-fim-de-2026.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/eXDyiYy-oQY_R4Mvo0exY1dY17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/aSmEpOQYAJ8Z0UtBkBJw/palacio-do-congresso-nacional-camara-e-senado.jpg",
+   "data": "2026-11-25T00:00:00-03:00"
+  },
+  {
+   "id": "212b3d57cd41",
+   "titulo": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
+   "resumo": "O início do novo imposto sobre o consumo previsto na reforma tributária e o fim da escala 6x1 são apontados por economistas como fatores que podem pressionar a inflação no Brasil no começo de 2027. No caso da reforma tributária, a avaliação…",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/25/reforma-tributaria-e-fim-da-escala-6x1-podem-pressionar-inflacao-em-2027-bc-e-equipe-economica-monitoram-impactos.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-25T00:00:00-03:00"
+  },
+  {
+   "id": "11a0f0926a02",
+   "titulo": "Moraes barra pedido de redução da pena de Zambelli",
+   "resumo": "Defesa de Zambelli pediu que fosse descontado da pena os períodos em que ela ficou presa na Itália e cumpriu cautelares no Brasil.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-barra-pedido-de-reducao-da-pena-de-zambelli/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24235102/carla-zambelli-1-960x540.jpg",
+   "data": "2026-11-24T23:53:54-03:00"
+  },
+  {
+   "id": "3aa9200e990d",
+   "titulo": "Governo reduz contenção de despesas no Orçamento para R$ 12,6 bilhões",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/LMM10CvO9wwJrTDqk2skgkHR9VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/0/B/pUeMbnR8Wh01FJANuBCw/a0550-g-bddf-limpo-27052020-frame-116296.jpeg",
+   "data": "2026-11-24T23:38:46-03:00"
+  },
+  {
+   "id": "cddd4273feaf",
+   "titulo": "Renan Santos propõe a Cleitinho regra para gastos com shows em MG",
+   "resumo": "Modelo apresentado pelo Missão condiciona acesso a recursos para eventos a indicadores de qualidade dos serviços públicos municipais",
+   "link": "https://www.poder360.com.br/poder-brasil/renan-santos-propoe-a-cleitinho-regra-para-gastos-com-shows-em-mg/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/ZeGj69ZU8x0/hqdefault.jpg",
+   "data": "2026-11-24T23:09:24-03:00"
+  },
+  {
+   "id": "9ae0648944e5",
+   "titulo": "CNI pede ao STF suspensão de regras do governo Lula para escala 5×2",
+   "resumo": "CNI diz ao STF que governo \"extrapolou\" suas atribuições ao estabelecer regras para a escala 5x2 que deveriam ser definidas pelo Congresso.",
+   "link": "https://www.gazetadopovo.com.br/economia/cni-pede-suspensao-de-regras-do-governo-lula-para-escala-5x2/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24224156/stf-cni-960x540.jpg",
+   "data": "2026-11-24T22:44:00-03:00"
+  },
+  {
+   "id": "81033113a68b",
+   "titulo": "Abin mapeia avanço de PCC, CV e TCP e identifica 31 facções no país",
+   "resumo": "A pesquisa mapeou ainda 75 células estaduais com atuação local, inclusive ligadas a outras organizações com presença nacional e interestadual",
+   "link": "https://www.poder360.com.br/poder-seguranca-publica/abin-mapeia-avanco-de-pcc-cv-e-tcp-e-identifica-31-faccoes-no-pais/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-24T22:33:19-03:00"
+  },
+  {
+   "id": "ff2b87a5b78c",
+   "titulo": "Câmara convoca ministro para explicar troca de delegados da PF",
+   "resumo": "Deputado quer esclarecimentos sobre mudanças na estrutura da Polícia Federal e revisão de relatórios que citam ministros do STF no caso Master",
+   "link": "https://www.poder360.com.br/poder-justica/camara-convoca-ministro-para-explicar-troca-de-delegados-da-pf/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-24T22:31:36-03:00"
+  },
+  {
+   "id": "0332ecc34b20",
+   "titulo": "Mega-Sena acumula e prêmio vai para R$ 75 milhões; leia os números",
+   "resumo": "Sorteio foi realizado na noite desta 3ª feira (24.nov.2026), no Espaço da Sorte, em São Paulo",
+   "link": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-para-r-75-milhoes-confira-os-numeros-sorteados/",
+   "fonte": "Poder360",
+   "imagem": "https://agenciabrasil.ebc.com.br/ebc.png?id=1710018&o=node",
+   "data": "2026-11-24T21:58:00-03:00"
+  },
+  {
+   "id": "f5c3a6aa3f3c",
+   "titulo": "Conmebol anuncia EUA como sede da Copa América de 2028",
+   "resumo": "País sediará a competição pela 2ª edição consecutiva; Brasil não conquista o título continental desde 2019",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/conmebol-anuncia-eua-como-sede-da-copa-america-de-2028/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-24T21:47:31-03:00"
+  },
+  {
+   "id": "9ec6342831f3",
+   "titulo": "Em carta, PT diz que mercado não pode ficar acima da vontade popular",
+   "resumo": "PT apresenta compromissos para o quarto mandato de Lula, mas não menciona ajuste fiscal aprovado pelo Congresso.",
+   "link": "https://www.gazetadopovo.com.br/republica/em-carta-pt-diz-que-mercado-nao-pode-ficar-acima-da-vontade-popular/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24213900/lula-pt-carta-ao-povo-brasileiro-960x540.jpg",
+   "data": "2026-11-24T21:40:17-03:00"
+  },
+  {
+   "id": "f41f92383f1c",
+   "titulo": "CNI protocola nova ação no STF contra a regulamentação do fim da 6 X 1",
+   "resumo": "Confederação Nacional da Indústria pede que decreto e portaria editados pelo governo federal sejam declarados inconstitucionais",
+   "link": "https://www.poder360.com.br/poder-brasil/cni-protocola-nova-acao-no-stf-contra-a-regulamentacao-do-fim-da-6-x-1/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-24T21:39:34-03:00"
+  },
+  {
+   "id": "2fd822c74115",
+   "titulo": "Fachin autoriza pai de Vorcaro a deixar prisão para exames médicos",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorizou nesta terça-feira, 24, que Henrique Moura Vorcaro, pai do ex-banqueiro Daniel Vorcaro, deixe a prisão para realizar exames médicos. O deslocamento deverá ocorr…",
+   "link": "https://oantagonista.com.br/brasil/fachin-autoriza-pai-de-vorcaro-a-deixar-prisao-para-exames-medicos/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/Henrique-Vorcaro-1.jpg",
+   "data": "2026-11-24T21:30:48-03:00"
+  },
+  {
+   "id": "cdece18733a3",
+   "titulo": "Como Gonet pode socorrer Moraes e favorecer Alcolumbre no Senado",
+   "resumo": "Basta Paulo Gonet pedir mais tempo para analisar relatórios da PF para esvaziar desgaste do STF e pavimentar a reeleição de Davi Alcolumbre.",
+   "link": "https://www.gazetadopovo.com.br/vozes/renan-ramalho/como-gonet-pode-socorrer-moraes-e-favorecer-alcolumbre-no-senado/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24022030/Paulo-Gonet-e-Edson-Fachin-no-STF-960x540.jpg",
+   "data": "2026-11-24T21:30:34-03:00"
+  },
+  {
+   "id": "5c75f06b5103",
+   "titulo": "Batalha dos chips e guerra comercial reacendem disputa entre governos Lula e Trump",
+   "resumo": "Após três semanas de uma relativa calma, a disputa entre Lula e Trump voltou a esquentar com fatos novos. Leia na Gazeta do Povo",
+   "link": "https://www.gazetadopovo.com.br/mundo/batalha-chips-guerra-comercial-reacendem-disputa-governos-lula-trump/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24101551/lula-com-donald-trump-foto-daniel-tork-casa-branca-wikimedia-commons-960x540.jpg",
+   "data": "2026-11-24T21:29:35-03:00"
+  },
+  {
+   "id": "811bf6ff88f6",
+   "titulo": "Argentina entra em recessão técnica com queda no PIB em setembro",
+   "resumo": "A ⁠atividade econômica do país recuou ‌1,2% no 9º mês do ano em relação ao mesmo mês de 2025, segundo o Indec",
+   "link": "https://www.poder360.com.br/poder-economia/argentina-entra-em-recessao-tecnica-com-queda-no-pib-em-setembro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/pib-argentina-recua-setembro-24-nov-2026-scaled.png",
+   "data": "2026-11-24T21:28:10-03:00"
+  },
+  {
+   "id": "eae364f2e32c",
+   "titulo": "Shakira fará show de Réveillon em Balneário Camboriú",
+   "resumo": "Evento terá setores pagos e área gratuita com telões na orla; empresa bancará R$ 6 milhões em fogos como contrapartida",
+   "link": "https://www.poder360.com.br/poder-cultura/shakira-faz-show-da-virada-em-balneario-camboriu/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-24T21:19:51-03:00"
+  },
+  {
+   "id": "cde5e7288a42",
+   "titulo": "Campopiano critica feministas durante homenagem na Câmara do Rio",
+   "resumo": "A Câmara Municipal do Rio homenageou nesta terça-feira, 24, os deputados eleitos Eduarda Campopiano (PL-SP) e Lucas Pavanato (PL-SP). Campopiano recebeu a Medalha de Reconhecimento Chiquinha Gonzaga, enquanto Pavanato foi agraciado com o Co…",
+   "link": "https://oantagonista.com.br/brasil/campopiano-critica-feministas-durante-homenagem-na-camara-do-rio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-24-210628-1.png",
+   "data": "2026-11-24T21:16:58-03:00"
+  },
+  {
+   "id": "555991ca703e",
+   "titulo": "PT diz em carta que interesse econômico não se sobrepõe ao voto",
+   "resumo": "Um dia depois de a Câmara dos Deputados aprovar o projeto de ajuste fiscal, o PT publicou nesta terça-feira, 24, uma carta em que agradece pela vitória de Luiz Inácio Lula da Silva na eleição. O texto cita a militância, o vice-presidente Ge…",
+   "link": "https://oantagonista.com.br/brasil/pt-diz-em-carta-que-interesse-economico-nao-se-sobrepoe-ao-voto/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/Lula-e-Edinho-Silva.jpg",
+   "data": "2026-11-24T21:16:10-03:00"
+  },
+  {
+   "id": "6550c99e4f2b",
+   "titulo": "Visita ao Poder360: Jones Manoel",
+   "resumo": "Deputado federal eleito por Pernambuco deu entrevista ao vivo no estúdio deste jornal digital",
+   "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-jones-manoel/",
+   "fonte": "Poder360",
+   "imagem": "https://i.ytimg.com/vi/UZ07_0iYey4/hqdefault.jpg",
+   "data": "2026-11-24T21:12:04-03:00"
+  },
+  {
+   "id": "a91a07644396",
+   "titulo": "Diálogo com o PT faz de Cleitinho a versão moderna do velho centrismo mineiro",
+   "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo, se tornou a novidade politica do pós-eleição ao abrir diálogo como opositores do PT.",
+   "link": "https://www.gazetadopovo.com.br/republica/dialogo-com-o-pt-faz-de-cleitinho-a-versao-moderna-do-velho-centrismo-mineiro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/04150224/cleitinho-960x540.jpg",
+   "data": "2026-11-24T21:10:36-03:00"
+  },
+  {
+   "id": "ea303e077a2a",
+   "titulo": "Alcolumbre admite votar nova proposta de ajuste fiscal ainda neste ano",
+   "resumo": "O presidente do Senado, Davi Alcolumbre (União-AP), indicou nesta terça-feira, 24, a possibilidade de a Casa votar ainda neste ano uma segunda proposta de ajuste fiscal. Segundo Alcolumbre, a votação poderá ocorrer independentemente do cont…",
+   "link": "https://oantagonista.com.br/brasil/alcolumbre-admite-votar-nova-proposta-de-ajuste-fiscal-ainda-neste-ano/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55591802936_48ff5c60aa_k.jpg",
+   "data": "2026-11-24T20:59:58-03:00"
+  },
+  {
+   "id": "568f59cea86c",
+   "titulo": "Projeto de regulação das big techs será votado na próxima semana",
+   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
+   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana",
+   "fonte": "Agência Brasil",
+   "imagem": "",
+   "data": "2026-11-24T20:23:00-03:00"
+  },
+  {
+   "id": "9d50b3fb4d82",
+   "titulo": "A reunião de Lula com Trabuco fora da agenda oficial",
+   "resumo": "Encontro de Lula com Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, ocorreu na segunda-feira (23/11) no Alvorada",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-reuniao-de-lula-com-trabuco-fora-da-agenda-oficial",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/05/lula-taxa-das-blusinhas-6.jpeg",
+   "data": "2026-11-24T20:22:25-03:00"
+  },
+  {
+   "id": "7a4a5e4f3694",
+   "titulo": "Lula decide que embaixador brasileiro na Argentina não retornará a Buenos Aires",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/24/brasil-decide-que-embaixador-brasileiro-na-argentina-nao-retornara-a-buenos-aires.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
+   "data": "2026-11-24T20:20:16-03:00"
+  },
+  {
+   "id": "334e348e66fd",
+   "titulo": "Em carta, PT diz que nenhum interesse econômico pode ficar acima da vontade popular",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/24/em-carta-pt-diz-que-nenhum-interesse-economico-pode-ficar-acima-da-vontade-popular.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/tGg9woKUfLVQLt86riHW_t9BCxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/L/sIU8z6QyuEGJt0BWblJw/age20250803012.jpg",
+   "data": "2026-11-24T20:15:40-03:00"
+  },
+  {
+   "id": "7a89b0efe239",
+   "titulo": "Abin mapeia 31 facções e vê PCC e CV com estratégias distintas",
+   "resumo": "Trinta e uma organizações criminosas têm peso relevante no Brasil, e duas delas, o PCC e o Comando Vermelho, atuam em grande parte dos estados com métodos opostos. A facção paulista prioriza a cocaína e as rotas de escoamento; a fluminense …",
+   "link": "https://oantagonista.com.br/brasil/abin-mapeia-31-faccoes-e-ve-pcc-e-cv-com-estrategias-distinta/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/armas-comando-vermelho-628x353-1.jpg",
+   "data": "2026-11-24T20:10:43-03:00"
+  },
+  {
+   "id": "5062513ea3bd",
+   "titulo": "Moraes autoriza visitas de advogado a Bolsonaro no hospital",
+   "resumo": "Moraes proibiu a entrada de celulares e câmeras durante visitas do advogado a Bolsonaro no hospital. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-visitas-de-advogado-a-bolsonaro-no-hospital/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24195932/bolsonaro-stf-960x540.jpg",
+   "data": "2026-11-24T20:00:42-03:00"
+  },
   {
    "id": "efe79738d646",
    "titulo": "Oposição cobra atuação de Motta e Alcolumbre em defesa de Marcel Van Hattem no STF",
@@ -12,16 +282,61 @@
    "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/oposicao-cobra-atuacao-de-motta-e-alcolumbre-em-defesa-de-marcel-van-hattem-stf/",
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/24175914/marcel-van-hattem-1-960x540.jpg",
-   "data": "2026-11-24T18:02:47-03:00"
+   "data": "2026-11-24T18:52:23-03:00"
   },
   {
-   "id": "121ce1a5301f",
-   "titulo": "Ao vivo: Poder360 entrevista Jones Manoel",
-   "resumo": "Deputado federal eleito por Pernambuco fala ao vivo no estúdio do jornal digital, em Brasília; discute Câmara, 2030 e redes sociais",
-   "link": "https://www.poder360.com.br/poder-visitas/ao-vivo-poder360-entrevista-jones-manoel/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/UZ07_0iYey4/hqdefault.jpg",
-   "data": "2026-11-24T17:52:30-03:00"
+   "id": "2edca123e464",
+   "titulo": "Alcolumbre autoriza Advocacia do Senado a atuar em defesa de Van Hattem",
+   "resumo": "Alcolumbre anuncia atuação do Senado no processo contra Van Hattem e garante que atuará para “proteger” prerrogativas parlamentares",
+   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/alcolumbre-autoriza-advocacia-do-senado-a-atuar-em-defesa-de-marcel-van-hattem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/24183554/alcolumbre-senado-960x540.jpg",
+   "data": "2026-11-24T18:43:36-03:00"
+  },
+  {
+   "id": "6db53ce3fff4",
+   "titulo": "PF pede a Moraes devolução da minuta do golpe",
+   "resumo": "A Polícia Federal (PF) pediu ao ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes que devolva à corporação a chamada “minuta do golpe”. A PF pretende manter o documento sob sua guarda, conforme determinação do próprio magistrad…",
+   "link": "https://oantagonista.com.br/brasil/pf-pede-a-moraes-devolucao-da-minuta-do-golpe/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/09/55529954291_a3e38e85bc_4k-1-scaled.jpg",
+   "data": "2026-11-24T18:36:33-03:00"
+  },
+  {
+   "id": "c676029eb948",
+   "titulo": "Van Hattem compara ação do STF a perseguição de opositores na Venezuela",
+   "resumo": "O deputado federal Marcel Van Hattem (Novo-RS) comparou, nesta terça-feira, 24, a atuação do Supremo Tribunal Federal (STF) contra parlamentares brasileiros à perseguição de opositores na Venezuela. Segundo ele, a Corte estaria tentando sil…",
+   "link": "https://oantagonista.com.br/brasil/van-hattem-compara-acao-do-stf-a-perseguicao-de-opositores-na-venezuela/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/07/img20250710134553059-scaled.jpg",
+   "data": "2026-11-24T18:25:08-03:00"
+  },
+  {
+   "id": "9d5902e3d417",
+   "titulo": "Oposição acusa STF de ameaçar imunidade parlamentar no caso Van Hattem",
+   "resumo": "O líder da oposição no Senado, Rogério Marinho (PL-RN), afirmou nesta terça-feira, 24, que o Supremo Tribunal Federal (STF) ameaça as prerrogativas do Congresso ao analisar a possibilidade de tornar réu o deputado federal Marcel Van Hattem …",
+   "link": "https://oantagonista.com.br/brasil/oposicao-acusa-stf-de-ameacar-imunidade-parlamentar-no-caso-van-hattem-1/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55618708305_06f7984cfc_4k-scaled.jpg",
+   "data": "2026-11-24T18:21:00-03:00"
+  },
+  {
+   "id": "dbc0861239ba",
+   "titulo": "Cleitinho visita sede do partido Missão e recebe “Livro Amarelo”",
+   "resumo": "O governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), visitou nesta terça-feira, 24, a sede do partido Missão, em São Paulo. A visita foi registrada em uma foto divulgada pelo ex-presidenciável Renan Santos. Na imagem, Clei…",
+   "link": "https://oantagonista.com.br/brasil/cleitinho-visita-sede-do-partido-missao-e-recebe-livro-amarelo/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-tela-2026-11-24-175154-1.png",
+   "data": "2026-11-24T18:11:08-03:00"
+  },
+  {
+   "id": "8cf733a4c1eb",
+   "titulo": "Prefeito de Fortaleza defende representante do Ceará no Lula 4",
+   "resumo": "Em entrevista ao Metrópoles, prefeito de Fortaleza também comentou vitória de Ciro Gomes (PSDB) na capital no 1º turno das eleições de 2026",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/prefeito-de-fortaleza-defende-representante-do-ceara-no-lula-4",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2024/10/03164112/Evandro-Leitao.jpg",
+   "data": "2026-11-24T18:10:48-03:00"
   },
   {
    "id": "d5d4757a2df3",
@@ -33,42 +348,6 @@
    "data": "2026-11-24T17:52:27-03:00"
   },
   {
-   "id": "294134570e52",
-   "titulo": "Magda nega abandono da austeridade em plano da Petrobras para 2031",
-   "resumo": "Presidente da estatal atribui expansão dos investimentos ao câmbio, à inflação e a ajustes no portfólio; pacote chega a US$ 122 bilhões em 5 anos",
-   "link": "https://www.poder360.com.br/poder-infra/magda-nega-abandono-da-austeridade-em-plano-da-petrobras-para-2031/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:51:10-03:00"
-  },
-  {
-   "id": "6e6e6303ca98",
-   "titulo": "Petróleo fecha em alta com aumento de riscos no estreito de Ormuz",
-   "resumo": "Brent para janeiro fechou em alta de 2,27%, a US$ 91,40 o barril e WTI para o mesmo mês subiu 2,35%, a US$ 82,05 o barril",
-   "link": "https://www.poder360.com.br/poder-energia/petroleo-fecha-em-alta-com-aumento-de-riscos-no-estreito-de-ormuz/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:49:55-03:00"
-  },
-  {
-   "id": "b271ea64b629",
-   "titulo": "Lula começa a montar time pela Fazenda e Segurança Pública",
-   "resumo": "Nomes serão anunciados até 2 de dezembro; ex-governador deve chefiar nova pasta e promulgação da PEC é esperada nesta semana",
-   "link": "https://www.poder360.com.br/poder-governo/lula-comeca-a-montar-time-pela-fazenda-e-seguranca-publica/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:38:44-03:00"
-  },
-  {
-   "id": "f707b9b6817b",
-   "titulo": "WhatsApp começa a testar figurinhas com som no Brasil",
-   "resumo": "Áudio só é reproduzido depois de um toque no ícone; não há prazo para liberação a todos os usuários",
-   "link": "https://www.poder360.com.br/poder-tech/whatsapp-comeca-a-testar-figurinhas-com-som-no-brasil/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:31:55-03:00"
-  },
-  {
    "id": "b8f5f51c3a0c",
    "titulo": "Lula sanciona ajuste fiscal aprovado no Congresso",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/…",
@@ -76,51 +355,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-24T17:25:00-03:00"
-  },
-  {
-   "id": "7f454e77952d",
-   "titulo": "Visita ao Poder360: Glauco Humai",
-   "resumo": "Presidente da Associação Brasileira de Shopping Centers deu entrevista no estúdio deste jornal digital",
-   "link": "https://www.poder360.com.br/poder-visitas/visita-ao-poder360-glauco-humai/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:23:44-03:00"
-  },
-  {
-   "id": "813874d4c835",
-   "titulo": "Novo parecer das big techs impõe limites à regulação e atenua regras",
-   "resumo": "Deputado Aliel Machado inclui trecho sobre liberdade de expressão e reduz tempo de espera para revisão de obrigações das empresas",
-   "link": "https://www.poder360.com.br/poder-congresso/novo-parecer-das-big-techs-impoe-limites-a-regulacao-e-atenua-regras/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:21:25-03:00"
-  },
-  {
-   "id": "4d6d601595df",
-   "titulo": "Lula decide retirar em definitivo embaixador do Brasil na Argentina",
-   "resumo": "Diplomata Julio Bitelli foi chamado a Brasília em julho, após tensões entre Lula e Milei, e não voltará ao posto em Buenos Aires",
-   "link": "https://www.poder360.com.br/poder-governo/lula-decide-retirar-em-definitivo-embaixador-do-brasil-na-argentina/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:17:31-03:00"
-  },
-  {
-   "id": "d4f68249da3a",
-   "titulo": "Kassio será relator de ação para retirar caso Master de Fachin",
-   "resumo": "Defesa de Daniel Vorcaro apresentou mandado de segurança contra decisão que transferiu as investigações para o gabinete do presidente do STF",
-   "link": "https://www.poder360.com.br/poder-justica/kassio-sera-relator-de-acao-de-vorcaro-para-retirar-caso-master-de-fachin/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:14:15-03:00"
-  },
-  {
-   "id": "d20364811b34",
-   "titulo": "Leia a íntegra da lei complementar do ajuste fiscal",
-   "resumo": "Lula sancionou o texto horas depois da aprovação na Câmara; economia estimada é de R$ 50 bilhões em 2027",
-   "link": "https://www.poder360.com.br/poder-integras/leia-a-integra-da-lei-complementar-do-ajuste-fiscal/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-24T17:08:28-03:00"
   },
   {
    "id": "09113ecbab66",
@@ -159,15 +393,6 @@
    "data": "2026-11-24T16:51:53-03:00"
   },
   {
-   "id": "fc553337f06b",
-   "titulo": "Moraes rejeita pedido de Zambelli para abater tempo de prisão na Itália da pena",
-   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), julgou prejudicado, nesta terça-feira, 24, um pedido da defesa da ex-deputada federal Carla Zambelli para descontar da pena o período em que ela ficou presa na Itália. A sol…",
-   "link": "https://oantagonista.com.br/brasil/moraes-rejeita-pedido-de-zambelli-para-abater-tempo-de-prisao-na-italia-da-pena/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/07/img20250507092820747-scaled.jpg",
-   "data": "2026-11-24T16:47:42-03:00"
-  },
-  {
    "id": "746edc7acd71",
    "titulo": "Oposição pressiona Lula para saber quem pagará festa da posse",
    "resumo": "Com nomes de artistas internacionais sendo sondados, oposição questiona Planalto sobre custos para a posse de Lula em janeiro",
@@ -204,15 +429,6 @@
    "data": "2026-11-24T16:34:05-03:00"
   },
   {
-   "id": "19e5dcdee558",
-   "titulo": "“Como vão reeleger Alcolumbre, capacho do STF?”, diz Malafaia",
-   "resumo": "O pastor Silas Malafaia (foto) criticou nesta terça-feira, 24, em vídeo divulgado nas redes, o julgamento no Supremo Tribunal Federal (STF) que pode tornar réu o deputado federal Marcel van Hattem (Novo-RS) pelos crimes de calúnia e injúria…",
-   "link": "https://oantagonista.com.br/brasil/como-vao-reeleger-alcolumbre-capacho-do-stf-diz-malafaia/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Silas-Malafaia.jpg",
-   "data": "2026-11-24T16:30:33-03:00"
-  },
-  {
    "id": "c2f9448d539e",
    "titulo": "Nunes Marques é definido relator de pedido de Vorcaro para retirar caso Master do gabinete da presidência do STF",
    "resumo": "",
@@ -220,42 +436,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/1FcIboHsRi82qjZxpN5h2gKZRpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/7T2BDeTVCLDHNQSYWwww/55617869006-48bf156b40-k-2-.jpg",
    "data": "2026-11-24T15:53:54-03:00"
-  },
-  {
-   "id": "dc8546047139",
-   "titulo": "Partido Novo resgata falas de parlamentares contra a Polícia Federal no STF",
-   "resumo": "Entenda o julgamento de Marcel van Hattem no STF e os casos de Marina Silva e Gleisi Hoffmann citados como exemplos de imunidade parlamentar.",
-   "link": "https://www.gazetadopovo.com.br/republica/partido-novo-resgata-falas-de-parlamentares-contra-a-policia-federal-no-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24153937/Design-sem-nome-36-1-1-960x540.jpg",
-   "data": "2026-11-24T15:39:32-03:00"
-  },
-  {
-   "id": "34350c0079ed",
-   "titulo": "Cristiano Zanin interrompe julgamento de Juscelino Filho no plenário do STF",
-   "resumo": "O ministro Cristiano Zanin interrompeu o julgamento de Juscelino Filho no STF. Entenda as acusações de desvio de emendas e o impacto da decisão presencial.",
-   "link": "https://www.gazetadopovo.com.br/republica/cristiano-zanin-interrompe-julgamento-de-juscelino-filho-no-plenario-do-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24153851/juscelino-filho-lula-stf-1-960x540.jpg",
-   "data": "2026-11-24T15:38:37-03:00"
-  },
-  {
-   "id": "3e174d9811a6",
-   "titulo": "MC Ryan SP é alvo de bloqueio de R$ 3,8 milhões e sequestro de imóveis",
-   "resumo": "A Justiça Federal determinou o sequestro de sete imóveis e cinco carros de luxo, além do bloqueio de R$ 3,8 milhões, em um desdobramento da Operação Narco Fluxo, realizada nesta terça-feira, 24, que tem como alvos o funkeiro MC Ryan SP (fot…",
-   "link": "https://oantagonista.com.br/brasil/mc-ryan-sp-e-alvo-de-bloqueio-de-r-38-milhoes-e-sequestro-de-imoveis/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/mc-ryan-sp-628x353-1.jpg",
-   "data": "2026-11-24T15:34:59-03:00"
-  },
-  {
-   "id": "2d312ab9609f",
-   "titulo": "Senador há 32 anos, Calheiros apela ao TSE após perder eleição para ex-primeira-dama de Maceió",
-   "resumo": "Senador mais longevo do país, Renan Calheiros tenta cassar registro de candidata vencedora. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/brasil/renan-calheiros-apela-tse-apos-perder-eleicao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/23165111/Renan-Calheiros-960x540.jpg",
-   "data": "2026-11-24T15:31:06-03:00"
   },
   {
    "id": "959ff7b3d701",
@@ -276,112 +456,13 @@
    "data": "2026-11-24T15:23:00-03:00"
   },
   {
-   "id": "1b149c323a33",
-   "titulo": "Nunes Marques assume ação de Vorcaro contra Fachin após ser citado em relatório da PF",
-   "resumo": "Ministro se declarou impedido na sessão que discutia crise interna em meio a revelações de mensagens. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/nunes-marques-assume-acao-de-vorcaro-contra-fachin-apos-ser-citado-em-relatorio-da-pf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24150753/Design-sem-nome-39-1-960x540.jpg",
-   "data": "2026-11-24T15:13:52-03:00"
-  },
-  {
-   "id": "07136373bdfe",
-   "titulo": "Bolsonaro apresenta melhora de saúde na UTI, mas sem previsão de alta",
-   "resumo": "Novo boletim médico informa que foi verificado o restabelecimento do trânsito intestinal, que levou Bolsonaro ao hospital. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-apresenta-melhora-saude-uti-sem-previsao-alta/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/21103354/image-1-1-660x372.jpg",
-   "data": "2026-11-24T14:59:28-03:00"
-  },
-  {
-   "id": "a6d22123ad69",
-   "titulo": "Crusoé: Cleitinho entre as atrações do Réveillon em Divinópolis",
-   "resumo": "O clube Estrela do Oeste, de Divinópolis (MG), anunciou na segunda-feira, 23, o governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), como uma das atrações da sua festa de Réveillon. Além do senador, irão se apresentar a band…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-cleitinho-entre-as-atracoes-do-reveillon-em-divinopolis/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/capa-noticia-2133x1200-4-1.jpg",
-   "data": "2026-11-24T14:57:27-03:00"
-  },
-  {
-   "id": "996c02dba856",
-   "titulo": "Damares pede afastamento de diretor-geral da PF por relatórios sobre ministros do STF",
-   "resumo": "Senadora acusa Andrei Rodrigues de omitir ao Senado sobre documentos do caso Banco Master. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/damares-afastamento-diretor-pf-relatorios-ministros-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24144435/damares-alves-foto-carolina-curi-agencia-senado-960x540.jpg",
-   "data": "2026-11-24T14:44:56-03:00"
-  },
-  {
-   "id": "ec7fa04d54b0",
-   "titulo": "Bolsonaro tem primeiros sinais de recuperação intestinal, diz boletim",
-   "resumo": "O ex-presidente Jair Bolsonaro (PL) apresentou melhora clínica discreta, com sinais iniciais de restabelecimento do trânsito intestinal, segundo boletim médico divulgado nesta terça-feira, 24. Ele continua internado na Unidade de Terapia In…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-tem-primeiros-sinais-de-recuperacao-intestinal-diz-boletim/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/foto-canva-2026-11-24T143717.664.png",
-   "data": "2026-11-24T14:38:15-03:00"
-  },
-  {
-   "id": "44078236e361",
-   "titulo": "Mudanças no PL das Big Techs são insuficientes, diz Instituto Sivis",
-   "resumo": "Mudanças no projeto que amplia o poder do Estado sobre as plataformas digitais não eliminam os principais riscos, diz Instituto Sivis.",
-   "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/mudancas-no-pl-das-big-techs-sao-insuficientes-diz-instituto-sivis/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/17165134/camara-big-techs-960x540.jpg",
-   "data": "2026-11-24T14:37:32-03:00"
-  },
-  {
-   "id": "a160bd258186",
-   "titulo": "Justiça da Itália adia novamente audiência sobre extradição de Zambelli",
-   "resumo": "Greve nacional de advogados criminalistas na Itália fez audiência sobre extradição de Carla Zambelli ser remarcada para 2 de fevereiro",
-   "link": "https://www.gazetadopovo.com.br/mundo/justica-italia-adia-novamente-audiencia-extradicao-zambelli/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24142641/zambelli.adiado-960x540.jpg",
-   "data": "2026-11-24T14:28:09-03:00"
-  },
-  {
-   "id": "842896123ca7",
-   "titulo": "Crusoé: O diagnóstico da Quaest para a virada de Lula",
-   "resumo": "A Quaest publicou nesta terça-feira, 24, mais um capítulo de sua pesquisa Brasil depois das Urnas, desta vez com os números compilados a partir dos dados coletados sobre os nove segmentos políticos descritos pelo diretor do instituto, Felip…",
-   "link": "https://oantagonista.com.br/brasil/crusoe-o-diagnostico-da-quaest-para-a-virada-de-lula/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55649135937_4de7d8cc13_o-1-e1795540474227.jpg",
-   "data": "2026-11-24T14:17:34-03:00"
-  },
-  {
-   "id": "0a8bdddf6164",
-   "titulo": "Gonet pede que Fux arquive inquérito sobre suposto caixa dois de Lindbergh",
-   "resumo": "Procedimento enfrentou impasse sobre quem julgaria por cinco anos até atingir prescrição. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/gonet-pede-que-fux-arquive-inquerito-sobre-suposto-caixa-dois-de-lindbergh/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/24140924/Design-sem-nome-38-1-960x540.jpg",
-   "data": "2026-11-24T14:10:19-03:00"
-  },
-  {
    "id": "bffa599fce03",
-   "titulo": "Milei foi desconvidado para posse de Lula, diz jornal argentino",
+   "titulo": "Milei não está na lista de convidados para a posse de Lula; jornal argentino diz que foi desconvidado",
    "resumo": "",
    "link": "https://g1.globo.com/mundo/noticia/2026/11/24/milei-desconvidado-posse-lula-diz-jornal.ghtml",
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/8PlRtUOVnSuoKKEeHyaoBWpCz6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/IjgCZsQvmhQNWBRfOVjw/fotojet-4-.jpg",
    "data": "2026-11-24T14:02:51-03:00"
-  },
-  {
-   "id": "d0f23066a4d5",
-   "titulo": "Relator admite impasse para votar projeto que regula big techs",
-   "resumo": "O relator do projeto de lei que regulamenta economicamente as big techs, deputado federal Aliel Machado (PV-PR), admitiu nesta terça-feira, 24, que ainda busca apoio para viabilizar a votação da proposta na Câmara dos Deputados. Em declaraç…",
-   "link": "https://oantagonista.com.br/brasil/relator-admite-impasse-para-votar-projeto-que-regula-big-techs/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/07/img20231221200327442MED-573x353-1.jpg",
-   "data": "2026-11-24T14:01:27-03:00"
-  },
-  {
-   "id": "467b9c64911d",
-   "titulo": "STJ torna ré desembargadora aposentada acusada de receber R$ 86 mil por decisão",
-   "resumo": "A Corte Especial do Superior Tribunal de Justiça (STJ) recebeu denúncia do Ministério Público Federal (MPF) contra a desembargadora aposentada do Tribunal de Justiça da Bahia (TJBA) Sandra Inês Moraes Rusciolelli Azevedo. Ela foi acusada pe…",
-   "link": "https://oantagonista.com.br/brasil/stj-torna-re-desembargadora-aposentada-acusada-de-receber-r-86-mil-por-decisao/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2025/10/stj_1908200979_0-scaled.jpg",
-   "data": "2026-11-24T13:57:27-03:00"
   },
   {
    "id": "d329a3ec1dfa",
@@ -393,31 +474,13 @@
    "data": "2026-11-24T13:55:13-03:00"
   },
   {
-   "id": "ddb143489199",
-   "titulo": "MP Eleitoral pede desaprovação das contas de campanha de André do Prado",
-   "resumo": "A Procuradoria Regional Eleitoral de São Paulo pediu, na segunda-feira, 23, a desaprovação das contas de campanha do senador eleito André do Prado (PL-SP), atual presidente da Assembleia Legislativa do estado. O órgão acompanhou parecer téc…",
-   "link": "https://oantagonista.com.br/brasil/mp-eleitoral-pede-desaprovacao-das-contas-de-campanha-de-andre-do-prado/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/Andre-do-Prado-maior.jpg",
-   "data": "2026-11-24T13:53:26-03:00"
-  },
-  {
    "id": "5db44a75a1f5",
-   "titulo": "PCC foca em rotas do tráfico a partir do Sudeste e CV aposta no controle do território no Norte e Nordeste, mostra estudo da Abin",
+   "titulo": "PCC foca em rotas do tráfico a partir do Sudeste e CV aposta no controle do território no Norte e no Nordeste, mostra estudo inédito da Abin",
    "resumo": "",
    "link": "https://g1.globo.com/politica/noticia/2026/11/24/pcc-cv-estudo-abin-forum-brasileiro-seguranca-publica.ghtml",
    "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/5OrXW2d2eGOr_duoXXX0ByVCHZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/stXBWESVCf16ZEMT0dgg/bdrj-operacao2-5-.jpeg",
+   "imagem": "https://s2-g1.glbimg.com/emxFjrPnOlJI_k8IVr-MlCnAlX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/dFoTk8RAy0U9kfu2VEOg/design-sem-nome-2026-10-30t093612.648.png",
    "data": "2026-11-24T13:50:43-03:00"
-  },
-  {
-   "id": "e5a731450a49",
-   "titulo": "'Ninguém vai morrer se fechar um dia', diz ministro sobre fim da escala 6x1",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/24/ninguem-vai-morrer-se-fechar-um-dia-diz-ministro-sobre-fim-da-escala-6x1.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/uT-w_OVKHKMqiTqk_yhO-ZmWSDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/4/yoJqeUQae4kwmAa6tkzA/fotojet-32-.jpg",
-   "data": "2026-11-24T13:43:39-03:00"
   },
   {
    "id": "4e5cc53789c7",
@@ -427,24 +490,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/Ex-presidente-Jair-Bolsonaro-acompanhado-de-autoridades-concede-coletiva-de-imprensa-no-aeroporto-de-Brasilia-Metropoles-3-1.jpg",
    "data": "2026-11-24T12:36:50-03:00"
-  },
-  {
-   "id": "dbd9d8b0a1ce",
-   "titulo": "Relatórios da PF têm citações a Moraes, Nunes e Toffoli, mas deixam de fora diálogos e documentos que poderiam indicar conexão com Vorcaro",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/24/relatorios-da-pf-tem-citacoes-a-moraes-nunes-e-tofolli-mas-deixam-de-fora-dialogos-e-documentos-que-poderiam-indicar-conexao-com-vorcaro.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/fB_m2gbnoIG1bDYTj509yUd2QrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/jvZKQ8SHuurUcBjeb97A/vorcaro.jpg",
-   "data": "2026-11-24T12:22:40-03:00"
-  },
-  {
-   "id": "9495903c83b8",
-   "titulo": "Conservadores cristãos e classe D e E somam quase metade do eleitorado brasileiro, diz Quaest",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/24/segmentos-identitarios-quaest-2026.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/VYVGDfkSPejHd4eaUhsg3qZN3jE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/g/4JgqIDTsG7LrjrVe1WWg/pzzb4154.jpg",
-   "data": "2026-11-24T12:10:44-03:00"
   },
   {
    "id": "26bf6daaa101",
@@ -465,15 +510,6 @@
    "data": "2026-11-24T11:35:20-03:00"
   },
   {
-   "id": "e890a2a19dc3",
-   "titulo": "Arrecadação federal avança para R$ 294 bilhões em outubro, novo recorde para o mês",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/E8LK4BTZ5h-xCehLkbwUKv2jYQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/ekL8YAQbAda81pleSByg/pexels-pixabay-259103.jpg",
-   "data": "2026-11-24T11:00:01-03:00"
-  },
-  {
    "id": "924a19dc7e45",
    "titulo": "Lula irá ao velório do jurista Fábio Konder em SP",
    "resumo": "Lula avisou aliados que irá viajar para São Paulo e participar do velório do jurista e professor da USP Fábio Konder Comparato",
@@ -481,15 +517,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/fabio-konder-comparato.jpeg",
    "data": "2026-11-24T10:45:34-03:00"
-  },
-  {
-   "id": "24eddc574e98",
-   "titulo": "Em busca de alternativas para o STF, Lula pode analisar Tebet e nomes de ministras do STM e do STJ para vaga de Barroso",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/24/em-busca-de-alternativas-para-o-stf-lula-pode-analisar-tebet-e-nomes-de-ministras-do-stm-e-do-stj-para-vaga-de-barroso.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Qrvm637MAkwoEdKh1CeKSt234Sc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/TOB6tyTWigydFWXrcF9Q/2026-11-05t221413z-433699199-rc2whoank704-rtrmadp-3-brazil-elections-rareearths.jpg",
-   "data": "2026-11-24T09:59:25-03:00"
   },
   {
    "id": "ae8507143ac1",
@@ -573,15 +600,6 @@
    "data": "2026-11-23T11:31:03-03:00"
   },
   {
-   "id": "a00bcb520dfe",
-   "titulo": "Motta espera conversa com Lula nesta semana",
-   "resumo": "Aliados do presidente da Câmara, Hugo Motta, dizem que ele deve ter conversa com Lula para tratar de espaços no quarto mandato do petista",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/motta-espera-conversa-com-lula-nesta-semana",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/05/lula-hugo-motta.jpg",
-   "data": "2026-11-23T02:00:10-03:00"
-  },
-  {
    "id": "ca656ba50c56",
    "titulo": "Bolsonaro segue internado na UTI sem previsão de alta",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/ass…",
@@ -589,15 +607,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-22T14:55:00-03:00"
-  },
-  {
-   "id": "b89227c19abb",
-   "titulo": "CPI do Master vira omissão dupla do Congresso e do STF",
-   "resumo": "Enquanto Davi Alcolumbre segura CPI do Master no Congresso, STF não se manifesta sobre direito da minoria de abrir a comissão de inquérito",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/cpi-do-master-vira-omissao-dupla-do-congresso-e-do-stf",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2025/09/29174954/Alexandre-de-Moraees-e-Davi-Alcolumbre.-O-ministro-Edson-Fachin-assume-a-presidencia-do-Supremo-Tribunal-Federal-STF.-O-magistrado-tera-como-vice-presidente-o-ministro-Alexandre-de-Moraes-Metropoles-3.jpg",
-   "data": "2026-11-22T05:00:43-03:00"
   }
  ]
 }
