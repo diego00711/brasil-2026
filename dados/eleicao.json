@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-26T06:25:37.610155-03:00",
+ "gerado_em": "2026-11-26T16:32:10.369285-03:00",
  "fonte": "TSE — resultados.tse.jus.br",
  "presidente_br": {
   "uf": "BR",
@@ -4069,7 +4069,7 @@
   "PI": {
    "uf": "PI",
    "apurado": "100,00",
-   "atualizado_tse": "22/10/2026 15:05:52",
+   "atualizado_tse": "17/11/2026 13:38:49",
    "votos_validos": "2026275",
    "candidatos": [
     {
@@ -4126,7 +4126,7 @@
      "nome": "GERALDO CARVALHO",
      "numero": "16",
      "partido": "PSTU",
-     "coligacao": "PSTU",
+     "coligacao": "PSTU**",
      "votos": 1858,
      "percentual": "0,09",
      "eleito": false,
@@ -4146,7 +4146,7 @@
      "nome": "LOURDES MELO",
      "numero": "29",
      "partido": "PCO",
-     "coligacao": "PCO",
+     "coligacao": "PCO**",
      "votos": 1296,
      "percentual": "0,06",
      "eleito": false,
@@ -4167,7 +4167,7 @@
   "PR": {
    "uf": "PR",
    "apurado": "100,00",
-   "atualizado_tse": "05/10/2026 11:46:40",
+   "atualizado_tse": "11/11/2026 17:49:14",
    "votos_validos": "6243799",
    "candidatos": [
     {
@@ -4265,7 +4265,7 @@
   "RJ": {
    "uf": "RJ",
    "apurado": "100,00",
-   "atualizado_tse": "10/10/2026 15:09:50",
+   "atualizado_tse": "12/11/2026 14:18:30",
    "votos_validos": "8394627",
    "candidatos": [
     {
@@ -4597,7 +4597,7 @@
   "RS": {
    "uf": "RS",
    "apurado": "100,00",
-   "atualizado_tse": "16/10/2026 11:46:19",
+   "atualizado_tse": "13/11/2026 16:16:49",
    "votos_validos": "6057443",
    "candidatos": [
     {
