@@ -1,18 +1,315 @@
 {
- "atualizado": "2026-11-26T23:46:18.010194-03:00",
- "total": 68,
+ "atualizado": "2026-11-27T09:02:05.806423-03:00",
+ "total": 66,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "ae64499c85b8",
-   "titulo": "Flávio chama Motta de “capacho de Lula” e pede votos para Marinho",
-   "resumo": "Senador critica presidente da Câmara e defende candidato da oposição na disputa pelo comando da Casa Alta",
-   "link": "https://www.poder360.com.br/poder-congresso/flavio-chama-motta-de-capacho-de-lula-e-pede-votos-para-marinho/",
+   "id": "e33ec93c6187",
+   "titulo": "“Alguns chamariam até de loucura…”, diz Nikolas sobre Trabuco",
+   "resumo": "O deputado federal Nikolas Ferreira (PL-MG, foto) publicou um curto texto para desejar sorte ao banqueiro Luiz Carlos Trabuco, que aceitou a missão de Lula para comandar o Ministério da Fazenda em seu quarto mandato presidencial após o perd…",
+   "link": "https://oantagonista.com.br/brasil/alguns-chamariam-ate-loucura-diz-nikolas-sobre-trabuco/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Captura-de-Tela-2026-11-27-as-08.43.04-e1795780026652.png",
+   "data": "2026-11-27T08:59:38-03:00"
+  },
+  {
+   "id": "c1226fe7f4f2",
+   "titulo": "Leia as notas de CNI, Fiesp e Febraban sobre Trabuco na Fazenda",
+   "resumo": "Representantes da indústria e do setor financeiro elogiam a escolha de Lula e defendem equilíbrio fiscal, redução dos juros e diálogo com o setor produtivo",
+   "link": "https://www.poder360.com.br/poder-economia/leia-as-notas-de-cni-fiesp-e-febraban-sobre-trabuco-na-fazenda/",
    "fonte": "Poder360",
    "imagem": "",
-   "data": "2026-11-26T23:41:39-03:00"
+   "data": "2026-11-27T08:59:02-03:00"
+  },
+  {
+   "id": "fb713b9a8fb1",
+   "titulo": "Bolsonaro apresenta melhora e volta a se alimentar após cinco dias de jejum oral",
+   "resumo": "Ex-presidente trata casos de obstrução intestinal e pneumonia nos dois pulmões. Não há previsão de alta. Lei na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/bolsonaro-apresenta-melhora-e-volta-a-se-alimentar-apos-cinco-dias-de-jejum-oral/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27085034/Design-sem-nome-61-960x540.jpg",
+   "data": "2026-11-27T08:56:21-03:00"
+  },
+  {
+   "id": "4f81660e5d21",
+   "titulo": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/27/nova-reforma-da-previdencia-e-ajuste-fiscal-civico-conheca-as-posicoes-de-luiz-carlos-trabuco-futuro-ministro-da-fazenda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ejEJhlAFFtHVomA6t588fsCCEuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/2/QAYVOsS6qXeGSfW1z9iA/globo-canal-4-20261126-2000-frame-65304.jpeg",
+   "data": "2026-11-27T08:52:31-03:00"
+  },
+  {
+   "id": "46d8a008c541",
+   "titulo": "Governo e ONS investigam causas de apagão em Roraima, Amazonas e Pará",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/governo-e-ons-investigam-causas-de-apagao-em-roraima-amazonas-e-para.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/q2Dvb5CHKgLB6Q2xuzcxV75oDoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/RXfyPPRwKhqbADPBFhmQ/captura-de-tela-2026-11-26-192438.png",
+   "data": "2026-11-27T08:50:06-03:00"
+  },
+  {
+   "id": "28d3d7da8e4e",
+   "titulo": "Inadimplência sobe para 5,1% em outubro, diz Banco Central",
+   "resumo": "O estoque total de crédito do Sistema Financeiro Nacional alcançou R$ 7,5 trilhões no mesmo mês",
+   "link": "https://www.poder360.com.br/poder-economia/inadimplencia-sobe-para-51-em-outubro-diz-banco-central/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T08:48:41-03:00"
+  },
+  {
+   "id": "6f5438f42474",
+   "titulo": "Senado da Argentina aprova projeto de lei que suspende eleições primárias",
+   "resumo": "Proposta defendida pelo governo de Javier Milei recebeu 43 votos a favor e 29 contra; texto ainda precisa ser aprovado pela Câmara dos Deputados",
+   "link": "https://www.poder360.com.br/poder-internacional/senado-da-argentina-aprova-projeto-de-lei-que-suspende-eleicoes-primarias/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T08:37:42-03:00"
+  },
+  {
+   "id": "16cab212d798",
+   "titulo": "Trabuco na Fazenda vira meme nas redes sociais",
+   "resumo": "Presidente do Conselho de Administração do Bradesco virou alvo de piadas após ser nomeado para o Ministério",
+   "link": "https://www.poder360.com.br/poder-economia/trabuco-na-fazenda-vira-meme-nas-redes-sociais/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/meme-trabuco9.png",
+   "data": "2026-11-27T08:37:15-03:00"
+  },
+  {
+   "id": "e4fa61acb35c",
+   "titulo": "Nikolas diz que Lula reconhece excesso de gastos e vê “coragem” em Trabuco",
+   "resumo": "Deputado deseja sucesso ao banqueiro e afirma que aceitar o comando da Fazenda diante do cenário fiscal é uma missão que poucos aceitariam",
+   "link": "https://www.poder360.com.br/poder-congresso/nikolas-diz-que-lula-reconhece-excesso-de-gastos-e-ve-coragem-em-trabuco/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/post-nikolas.png",
+   "data": "2026-11-27T08:29:07-03:00"
+  },
+  {
+   "id": "5a0daeda819f",
+   "titulo": "PF não viu o contrato de Viviane no celular de Vorcaro?",
+   "resumo": "Uma busca simples no HD com o conteúdo do celular de Daniel Vorcaro, ex-controlador do Banco Master, é suficiente para revelar o contrato de 131 milhões de reais firmado entre o banco e o escritório Barci de Moraes, da advogada Viviane Barc…",
+   "link": "https://oantagonista.com.br/brasil/pf-nao-viu-o-contrato-de-viviane-no-celular-de-vorcaro/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55660730936_4d33194e2d_o-e1795778951405.jpg",
+   "data": "2026-11-27T08:28:44-03:00"
+  },
+  {
+   "id": "b8f5425dd2c0",
+   "titulo": "Leia a nota do Bradesco sobre a indicação de Trabuco para a Fazenda",
+   "resumo": "Executivo aceitou, na 5ª feira (26.nov.2026), convite de Lula para comandar o ministério a partir de 2027",
+   "link": "https://www.poder360.com.br/poder-economia/leia-a-nota-do-bradesco-sobre-a-indicacao-de-trabuco-para-a-fazenda/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/bradesco-trabuco-fr-26nov2026.png",
+   "data": "2026-11-27T08:28:11-03:00"
+  },
+  {
+   "id": "1e7900843f96",
+   "titulo": "Vieira pede que Fachin divulgue relatórios da PF sobre ministros do STF no caso Master",
+   "resumo": "Senador solicita versões original e reformulada, com as justificativas para a alteração. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/vieira-pede-que-fachin-divulgue-relatorios-da-pf-sobre-ministros-do-stf-no-caso-master/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27080716/Design-sem-nome-59-960x540.jpg",
+   "data": "2026-11-27T08:12:47-03:00"
+  },
+  {
+   "id": "9cbad43ffd27",
+   "titulo": "Bradesco confirma ida de Trabuco para a Fazenda",
+   "resumo": "Banco diz que vai “informar, tempestivamente, seus acionistas e o mercado em geral sobre quaisquer desdobramentos relevantes”",
+   "link": "https://www.poder360.com.br/poder-economia/bradesco-confirma-ida-de-trabuco-para-a-fazenda/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/bradesco-trabuco-fr-26nov2026.png",
+   "data": "2026-11-27T08:10:49-03:00"
+  },
+  {
+   "id": "676efda0c9ae",
+   "titulo": "102 entidades pedem rejeição de PL que flexibiliza agências reguladoras",
+   "resumo": "Associações querem barrar projeto de lei em análise no Senado que reduz quarentena para indicados a cargos de direção",
+   "link": "https://www.poder360.com.br/poder-economia/102-entidades-pedem-rejeicao-de-pl-que-flexibiliza-agencias-reguladoras/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T08:10:19-03:00"
+  },
+  {
+   "id": "4f1b30d855f5",
+   "titulo": "Mega-Sena acumula e prêmio chega a R$ 82 milhões",
+   "resumo": "Nenhuma aposta acertou as 6 dezenas do concurso 3.091; 64 apostas fizeram a quina e receberão R$ 25,5 mil cada",
+   "link": "https://www.poder360.com.br/poder-economia/mega-sena-acumula-e-premio-chega-a-r-82-milhoes/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T07:50:42-03:00"
+  },
+  {
+   "id": "95141e935c18",
+   "titulo": "Dono do Leicester encerra tentativa de venda sem acordo",
+   "resumo": "Time da 3ª divisão inglesa mantém apoio financeiro da King Power e terá mudança no comando executivo",
+   "link": "https://www.poder360.com.br/poder-sportsmkt/dono-do-leicester-encerra-tentativa-de-venda-sem-acordo/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T07:47:43-03:00"
+  },
+  {
+   "id": "f9c1adc897b1",
+   "titulo": "Alcolumbre deve se reunir com Lula para bater martelo sobre ministro do STF",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/alcolumbre-deve-se-reunir-com-lula-para-bater-martelo-sobre-ministro-do-stf.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/ndTIc2h73-F0JtJQw85RI6B_NVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/ogPArESkOATpzmVZM6lA/54533175426-30e8b03bef-k.jpg",
+   "data": "2026-11-27T07:43:47-03:00"
+  },
+  {
+   "id": "f90a24b24c4c",
+   "titulo": "Trabuco na Fazenda facilita aprovação de 2ª etapa do ajuste fiscal e trará mais tranquilidade para início do Lula 4",
+   "resumo": "A escolha do presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco, para ser o ministro da Fazenda vai facilitar a aprovação da segunda etapa do ajuste fiscal e trará mais tranquilidade para o início do quarto mandato de …",
+   "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/27/trabuco-na-fazenda-facilita-aprovacao-de-2a-etapa-do-ajuste-fiscal-e-trara-mais-tranquilidade-para-inicio-do-lula-4.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "",
+   "data": "2026-11-27T07:37:19-03:00"
+  },
+  {
+   "id": "077f7663bc53",
+   "titulo": "Crusoé: O novo banqueiro de Lula",
+   "resumo": "O banqueiro Luiz Carlos Trabuco Cappi comandará o Ministério da Fazenda no quarto mandato de Lula, que terá início em janeiro de 2027. O martelo foi batido em reunião no final da tarde da quinta, 26, entre o petista e Trabuco no Palácio da …",
+   "link": "https://oantagonista.com.br/brasil/crusoe-o-novo-banqueiro-de-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/CSE-Web-Capa-1.png",
+   "data": "2026-11-27T07:33:34-03:00"
+  },
+  {
+   "id": "4f68458bb976",
+   "titulo": "Com Trabuco, Lula amplia governo, blinda a Fazenda e mantém sob seu controle o debate sucessório",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/27/lula-escolha-trabuco-blinda-ministerio-fazenda.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/LclzLz5Sai2Q2dsOQeqxSXYmb4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/g4doPyQBGNcB0HFnvG9w/55658423199-5342f3f888-b.jpg",
+   "data": "2026-11-27T07:22:15-03:00"
+  },
+  {
+   "id": "197070c920aa",
+   "titulo": "STF contraria Moraes e mantém restrições ao porte de armas de GCMs",
+   "resumo": "Ministro acolheu pedido por extensão do porte a todo o território nacional, mas foi voto vencido. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/stf-contraria-moraes-e-mantem-restricoes-ao-porte-de-armas-de-gcms/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27071323/Design-sem-nome-58-960x540.jpg",
+   "data": "2026-11-27T07:14:48-03:00"
+  },
+  {
+   "id": "fd8a9d3bcefb",
+   "titulo": "Chegada de Trabuco ao governo é maior gesto de Lula desde Alckmin como vice",
+   "resumo": "Lula faz gesto ao mercado com chegada de Luiz Carlos Trabuco à Fazenda, comparável a escolha de Geraldo Alckmin como seu vice",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/chegada-de-trabuco-ao-governo-e-maior-gesto-de-lula-desde-alckmin-como-vice",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/11/luiz-carlos-trabuco-metropoles-1-scaled.jpg",
+   "data": "2026-11-27T06:00:40-03:00"
+  },
+  {
+   "id": "60a0998813eb",
+   "titulo": "Alckmin será ministro da Segurança e avalia convidar Gakiya para secretário",
+   "resumo": "Segundo aliados, Geraldo Alckmin deve convidar o promotor Lincoln Gakiya para ser um \"supersecretário\" do Ministério da Segurança Pública",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/alckmin-sera-ministro-da-seguranca-e-avalia-convidar-gakiya-para-secretario",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/04/alckmin-congresso-pt.jpeg",
+   "data": "2026-11-27T05:30:34-03:00"
+  },
+  {
+   "id": "8bae58b540bf",
+   "titulo": "Uma ilha brasileira localizada a 35 quilômetros da costa abriga serpentes venenosas que não existem em nenhum outro lugar do mundo e possui acesso restrito pelas autoridades ambien",
+   "resumo": "Localizada no litoral do estado de São Paulo, a Ilha da Queimada Grande ganhou reconhecimento internacional pela presença de uma serpente venenosa encontrada naturalmente apenas nesse território. Conhecida popularmente como Ilha das Cobras,…",
+   "link": "https://oantagonista.com.br/brasil/uma-ilha-brasileira-localizada-a-35-quilometros-da-costa-abriga-serpentes-venenosas-que-nao-existem-em-nenhum-outro-lugar-do-mundo-e-possui-acesso-restrito-pelas-autoridades-ambientais/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Aerial_view_of_island_128a34cd.jpg",
+   "data": "2026-11-27T04:16:00-03:00"
+  },
+  {
+   "id": "7317ed190e93",
+   "titulo": "Paulo Guedes, Haddad e Durigan: quem foram os últimos ministros da Fazenda do Brasil antes da escolha de Trabuco",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/paulo-guedes-haddad-e-durigan-quem-foram-os-ultimos-ministros-da-fazenda-do-brasil-antes-da-escolha-de-trabuco.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+   "data": "2026-11-27T04:00:02-03:00"
+  },
+  {
+   "id": "878436b8d2b2",
+   "titulo": "Governo Lula anuncia Luiz Carlos Trabuco para o Ministério da Fazenda",
+   "resumo": "A escolha de Luiz Carlos Trabuco para a Fazenda em 2027 divide opiniões. Conheça as reações do Congresso, da esquerda e da oposição sobre o novo ministro.",
+   "link": "https://www.gazetadopovo.com.br/republica/governo-lula-anuncia-luiz-carlos-trabuco-para-o-ministerio-da-fazenda/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27031618/lula-trabuco-1-960x540.jpg",
+   "data": "2026-11-27T03:16:11-03:00"
+  },
+  {
+   "id": "a35980c99f8f",
+   "titulo": "Lula indica a aliados que quer um perfil político na Secom",
+   "resumo": "Sinalização de Lula levou lideranças petistas a apostarem que o presidente nacional do PT, Edinho Silva, deve assumir o comando da Secom",
+   "link": "https://www.metropoles.com/colunas/igor-gadelha/lula-indica-a-aliados-que-quer-um-perfil-politico-na-secom",
+   "fonte": "Metrópoles",
+   "imagem": "https://images.metroimg.com/2026/11/lula-reuniao-cnpe-11.jpeg",
+   "data": "2026-11-27T02:00:20-03:00"
+  },
+  {
+   "id": "20a75bc93780",
+   "titulo": "Ministra do TSE expõe ataques e cobra apoio dos colegas; Nunes Marques e Mendonça rebatem",
+   "resumo": "Ministra afirma que defesa de maior participação feminina nos tribunais superiores é “da boca para fora”. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/republica/ministra-do-tse-expoe-ataques-e-cobra-apoio-dos-colegas-nunes-marques-e-mendonca-rebatem/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27005703/ministra-estela-aranha-tse-960x540.jpg",
+   "data": "2026-11-27T01:23:51-03:00"
+  },
+  {
+   "id": "da06b2287513",
+   "titulo": "Luiz Carlos Trabuco no Ministério da Fazenda - O Assunto #1854",
+   "resumo": "",
+   "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/27/luiz-carlos-trabuco-no-ministerio-da-fazenda-o-assunto-1854.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+   "data": "2026-11-27T00:30:02-03:00"
+  },
+  {
+   "id": "5afcebf7b153",
+   "titulo": "Relatório do Senado retira redução de prazo para dirigentes de partidos assumirem estatais",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/vtMYzhkyDQF2au6_l9Xa97X2THU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/2/PnA4oxQX2vjbx5XcpB0A/55658152902-6c83a12832-k.jpg",
+   "data": "2026-11-27T00:00:02-03:00"
+  },
+  {
+   "id": "d4e75b554476",
+   "titulo": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
+   "resumo": "",
+   "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/fWZralL0XszQ5jlLJvKuH-ETm-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/e/1ySLoPReK9VJX3iQCE2Q/dari-durigan.jpeg",
+   "data": "2026-11-27T00:00:02-03:00"
+  },
+  {
+   "id": "5423ad0b3748",
+   "titulo": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/UgwCH9SxosEAugxrYvZkx0eA0Zc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/C/FT39AjR8CwnoyA0iqvaw/hyel-ccxeaegn73.jpg",
+   "data": "2026-11-27T00:00:01-03:00"
+  },
+  {
+   "id": "41c1f200e7cf",
+   "titulo": "Quem é Bruno Moretti, ministro de confiança de Lula que ajudou a formular o ajuste fiscal e ganhou protagonismo",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/quem-e-bruno-moretti.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/1vnhucQ7fyLY0FDrZ0Fthi6uJ8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/G/ooU2YBTvmw1us4MRk6Bg/fabio-rodrigues-pozzebom-agencia-brasil.jpg",
+   "data": "2026-11-27T00:00:00-03:00"
+  },
+  {
+   "id": "bfaa06ede41f",
+   "titulo": "Advogados relatam demora do BRB para liberar depósitos judiciais; OAB da Paraíba cogita acionar órgãos de controle",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/27/advogados-relatam-demora-do-brb-para-liberar-depositos-judiciais-oab-da-paraiba-cogita-acionar-orgaos-de-controle.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/Pz61yTXevqlokegdvW8p2o1QHUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/K/dA9yytTTKtFl3XQdZZqA/f0753-lu-operacao-brb-18112025-frame-41964.jpeg",
+   "data": "2026-11-27T00:00:00-03:00"
   },
   {
    "id": "2bfb7daa67aa",
@@ -22,69 +319,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/26170935/lula-trabuco-960x540.jpg",
    "data": "2026-11-26T23:14:55-03:00"
-  },
-  {
-   "id": "b204dac38711",
-   "titulo": "Bradesco, de Trabuco, tem 3º maior juro dentre os 5 bancões",
-   "resumo": "Entre 31 instituições financeiras, banco do futuro ministro da Fazenda está em 8º lugar no ranking das maiores taxas de juros",
-   "link": "https://www.poder360.com.br/poder-economia/bradesco-de-trabuco-tem-3o-maior-juro-dentre-os-5-bancoes/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-26T22:45:44-03:00"
-  },
-  {
-   "id": "c6a8b6d9d925",
-   "titulo": "Flávio critica Lula após convite a Trabuco para a Fazenda",
-   "resumo": "Senador diz que presidente “não tem a menor ideia” do que fazer na economia e afirma que banqueiro precisa de “100% de autonomia”",
-   "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-lula-apos-convite-a-trabuco-para-a-fazenda/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-26T22:38:44-03:00"
-  },
-  {
-   "id": "36db7f3c0307",
-   "titulo": "PSD quer manter Agricultura, retomar Pesca e ficar com Cidades no Lula 4",
-   "resumo": "Partido de Kassab pretende preservar espaço na Esplanada no 4º mandato de Lula; MDB também disputa o comando do Ministério das Cidades",
-   "link": "https://www.poder360.com.br/partidos-politicos/psd-quer-manter-agricultura-retomar-pesca-e-ficar-com-cidades-no-lula-4/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-26T22:38:00-03:00"
-  },
-  {
-   "id": "68940ee46a5e",
-   "titulo": "Políticos e setor financeiro reagem à escolha de Trabuco para a Fazenda",
-   "resumo": "Presidente do Conselho de Administração do Bradesco assumirá a pasta em janeiro de 2027 a convite de Lula",
-   "link": "https://www.poder360.com.br/poder-governo/politicos-e-setor-financeiro-reagem-a-escolha-de-trabuco-para-a-fazenda/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/tweet-lindbergh-trabuco.png",
-   "data": "2026-11-26T22:31:52-03:00"
-  },
-  {
-   "id": "834f40d05885",
-   "titulo": "Alckmin elogia escolha de Trabuco para a Fazenda no 4º mandato de Lula",
-   "resumo": "Vice-presidente classifica indicação do banqueiro para comandar a equipe econômica como uma “excelente notícia” para o Brasil",
-   "link": "https://www.poder360.com.br/poder-economia/alckmin-elogia-escolha-de-trabuco-para-a-fazenda-no-4o-mandato-de-lula/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-Alckmin-trabuco-26.nov_.2026.png",
-   "data": "2026-11-26T22:23:42-03:00"
-  },
-  {
-   "id": "6802a519e17f",
-   "titulo": "Ala econômica exalta escolha de Trabuco, mas há resistência no PT",
-   "resumo": "Congressistas do partido veem com ressalva nome do banqueiro para chefiar o Ministério da Fazenda",
-   "link": "https://www.poder360.com.br/poder-governo/ala-economica-exalta-escolha-de-trabuco-mas-ha-resistencia-no-pt/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-durigan-trabuco-26.nov_.2026.png",
-   "data": "2026-11-26T22:18:14-03:00"
-  },
-  {
-   "id": "85f7d9b299be",
-   "titulo": "Liquidante do Master diz não se opor a devolução de R$ 316 mi ao BRB",
-   "resumo": "EFB Regimes Especiais diz ao STF que valores incontroversos podem retornar sem prejudicar credores, mas defende análise do BC e da PGR sobre créditos em disputa",
-   "link": "https://www.poder360.com.br/poder-economia/liquidante-do-master-diz-nao-se-opor-a-devolucao-de-r-316-mi-ao-brb/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-26T21:57:06-03:00"
   },
   {
    "id": "4481b44c1a7f",
@@ -105,15 +339,6 @@
    "data": "2026-11-26T21:47:28-03:00"
   },
   {
-   "id": "8a02d3cc08b1",
-   "titulo": "Joaquim Huck volta ao Brasil e funda corretora aos 21 anos",
-   "resumo": "Ele trocou a NYU pela Link School e divide a Trya Seg com 3 sócios, um deles fundador de corretora vendida à XP",
-   "link": "https://www.poder360.com.br/poder-gente/joaquim-huck-volta-ao-brasil-e-funda-corretora-aos-21-anos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-26T21:47:16-03:00"
-  },
-  {
    "id": "f04b484d4d7d",
    "titulo": "O que pensa o novo ministro da Fazenda sobre economia, juros e contas públicas",
    "resumo": "Governo Lula confirmou que Luiz Carlos Trabuco, atual presidente do Conselho de Administração do Bradesco, será o novo ministro da Fazenda.",
@@ -132,15 +357,6 @@
    "data": "2026-11-26T21:31:01-03:00"
   },
   {
-   "id": "8968284d2c1f",
-   "titulo": "Durigan deseja sucesso a Trabuco e oferece apoio na transição",
-   "resumo": "Ministro da Fazenda diz ter convicção de que seu sucessor conduzirá o país com seriedade e ética",
-   "link": "https://www.poder360.com.br/poder-economia/durigan-deseja-sucesso-a-trabuco-e-oferece-apoio-na-transicao/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/print-durigan-trabuco-26.nov_.2026.png",
-   "data": "2026-11-26T21:30:16-03:00"
-  },
-  {
    "id": "a9cb5a2e7f4a",
    "titulo": "Trabuco aceita convite de Lula; em 2014, recusou governo Dilma",
    "resumo": "“Vocês não sabem, mas se o Trabuco quisesse ele teria sido ministro da Fazenda da Dilma, ele foi indicado no segundo turno. Mas ele preferiu, certamente porque ganha muito mais, ficar no Bradesco. Porque salário de ministro não é essas cois…",
@@ -157,15 +373,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/febraban_08.jpg",
    "data": "2026-11-26T21:10:06-03:00"
-  },
-  {
-   "id": "7784d354922a",
-   "titulo": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/um-pais-caminha-bem-quando-conduzido-com-seriedade-e-etica-diz-durigan-apos-anuncio-de-trabuco-na-fazenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/Coc5Yf5xzqhmMPCNVbFNTlxzfso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/J/pzIyopS7ihYJdOtu3jHQ/55629952670-3e733e45fb-k.jpg",
-   "data": "2026-11-26T21:09:17-03:00"
   },
   {
    "id": "0a30cbb25e58",
@@ -195,24 +402,6 @@
    "data": "2026-11-26T20:29:59-03:00"
   },
   {
-   "id": "3413c6489333",
-   "titulo": "Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda; Motta fala em construção de uma agenda econômica",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/alcolumbre-elogia-escolha-de-trabuco-para-o-ministerio-da-fazenda-e-destaca-habilidade-de-dialogo.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/9Q6LxzVawJn1Ti-4MaAzZd_Hi8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/3IqEXUS9CFsX0BcdDKlg/55661050889-c38007fac4-k.jpg",
-   "data": "2026-11-26T20:21:11-03:00"
-  },
-  {
-   "id": "a016cafcda38",
-   "titulo": "Ipsos: preocupação com inflação cresce no Brasil e chega a 29%; 52% avaliam que o país está no rumo certo",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/ipsos-preocupacao-inflacao.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/3awwhN6Cj__nqfP-6jfq38z5PCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/nt1vKFRAAqiYIGneP7ow/globo-canal-5-20260710-2000-frame-69824.jpeg",
-   "data": "2026-11-26T20:11:36-03:00"
-  },
-  {
    "id": "a7a222f564ee",
    "titulo": "Luiz Carlos Trabuco aceita convite de Lula para assumir o Ministério da Fazenda",
    "resumo": "Escolha de Trabuco representa uma aproximação do governo Lula com o setor financeiro na definição dos rumos da economia.",
@@ -220,15 +409,6 @@
    "fonte": "Gazeta do Povo",
    "imagem": "https://media.gazetadopovo.com.br/2026/11/26180758/luiz-carlos-trabuco-fazenda-960x540.jpg",
    "data": "2026-11-26T20:08:30-03:00"
-  },
-  {
-   "id": "c4343bcb4e05",
-   "titulo": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
-   "data": "2026-11-26T20:05:51-03:00"
   },
   {
    "id": "2c7aa8d8ab31",
@@ -240,60 +420,6 @@
    "data": "2026-11-26T20:05:17-03:00"
   },
   {
-   "id": "e160b8573bcb",
-   "titulo": "Líder do PL questiona “autonomia” de Trabuco na Fazenda",
-   "resumo": "O líder do PL na Câmara, Sóstenes Cavalcante (PL-RJ), questionou se o novo ministro da Fazenda, Luiz Trabuco, terá autonomia para “organizar” as contas públicas ou terá que se adaptar “às vontades” do presidente Lula (PT). “O ex-presidente …",
-   "link": "https://oantagonista.com.br/brasil/lider-do-pl-questiona-autonomia-de-trabuco-na-fazenda/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20260506221510948.jpg",
-   "data": "2026-11-26T19:32:04-03:00"
-  },
-  {
-   "id": "4a3ad77e87a6",
-   "titulo": "Diretores da CGU pedem exoneração e alegam demora em publicação de relatórios",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/diretores-da-cgu-pedem-exoneracao-e-alegam-demora-em-publicacao-de-relatorios.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/77yDxP9KeAqpthlIqgj2l8k5ACk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/X/96GVhUQMe06R9AfO7kDQ/kenzo-suzuki-ascom-cgu.jpg",
-   "data": "2026-11-26T19:26:34-03:00"
-  },
-  {
-   "id": "e4efd5cd24c8",
-   "titulo": "Bolsonaro apresenta evolução clínica e inicia dieta líquida, diz boletim médico",
-   "resumo": "A equipe médica do hospital DF Star informou que Jair Bolsonaro (PL) iniciou dieta líquida por via oral nesta quinta-feira, 26. Segundo o boletim médico, o ex-presidente apresentou melhora clínica, laboratorial e radiológica. Os médicos ind…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-apresenta-evolucao-clinica-e-inicia-dieta-liquida-diz-boletim-medico/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/Captura-de-Tela-2026-05-03-as-19.02.52.png",
-   "data": "2026-11-26T19:17:36-03:00"
-  },
-  {
-   "id": "c28f9ce2fe45",
-   "titulo": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/quem-e-luiz-trabuco-escolhido-como-ministro-da-fazenda-do-governo-lula-4.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
-   "data": "2026-11-26T19:11:05-03:00"
-  },
-  {
-   "id": "fee4c90998a3",
-   "titulo": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/trabuco-aceita-convite-de-lula-para-assumir-ministerio-da-fazenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
-   "data": "2026-11-26T19:09:01-03:00"
-  },
-  {
-   "id": "b40d2895cee2",
-   "titulo": "Fachin autoriza atendimento odontológico a ex-presidente do BRB preso no Caso Master",
-   "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, autorizou que o ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa receba atendimento médico e odontológico de profissionais particulares. Costa está preso desde 16 de…",
-   "link": "https://oantagonista.com.br/brasil/fachin-autoriza-atendimento-odontologico-a-ex-presidente-do-brb-preso-no-caso-master/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/04/52994324148_c05b1802d0_k.jpg",
-   "data": "2026-11-26T19:08:33-03:00"
-  },
-  {
    "id": "5fc7c2d97ba2",
    "titulo": "Trabuco viajou com a esposa a Brasília para reunião com Lula",
    "resumo": "Presidente do Conselho de Administração do Bradesco, Luiz Carlos Trabuco deve aceitar convite para ser ministro da Fazenda de Lula",
@@ -301,24 +427,6 @@
    "fonte": "Metrópoles",
    "imagem": "https://images.metroimg.com/2026/11/luiz-carlos-trabuco-metropoles-3-scaled.jpg",
    "data": "2026-11-26T18:52:00-03:00"
-  },
-  {
-   "id": "dac596120de1",
-   "titulo": "Lula escolhe Trabuco para o Ministério da Fazenda",
-   "resumo": "O presidente Lula (PT) escolheu, nesta quinta-feira, 26, o banqueiro Luiz Carlos Trabuco Cappi para comandar o Ministério da Fazenda em seu quarto mandato, que terá início em janeiro de 2027. O martelo foi batido em reunião entre o petista …",
-   "link": "https://oantagonista.com.br/brasil/lula-escolhe-trabuco-para-o-ministerio-da-fazenda/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/img20261125134951199-1.jpg",
-   "data": "2026-11-26T18:43:43-03:00"
-  },
-  {
-   "id": "99599f6dd096",
-   "titulo": "STF decide que aplicação piso nacional de professores depende de lei aprovada em estados e municípios",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/stf-decide-que-aplicacao-piso-nacional-de-professores-depende-de-lei-aprovada-em-estados-e-municipios.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/9frP5u4ARwPzjkX72FYgpV40-DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/ar0mUrSGaoWLiTUbF65Q/chatgpt-image-2-de-set.-de-2026-10-15-37.png",
-   "data": "2026-11-26T18:00:17-03:00"
   },
   {
    "id": "d3c2ab3643fc",
@@ -339,15 +447,6 @@
    "data": "2026-11-26T17:31:00-03:00"
   },
   {
-   "id": "080f2ad9c80f",
-   "titulo": "Luiz Trabuco se reúne com Lula em Brasília; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/luiz-trabuco-chega-a-brasilia-para-se-reunir-com-lula-executivo-do-bradesco-e-cotado-para-assumir-ministerio-da-fazenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
-   "data": "2026-11-26T17:30:47-03:00"
-  },
-  {
    "id": "45d724de8ffb",
    "titulo": "Master: PF usa ordem de Fachin para se defender, PGR evita confronto e STF tenta se blindar",
    "resumo": "PF diz ter cumprido ordem de Fachin e que não cabia a investigadores cruzar informações ou apurações sobre ministros no caso Master.",
@@ -366,60 +465,6 @@
    "data": "2026-11-26T17:10:21-03:00"
   },
   {
-   "id": "1cf730cc44eb",
-   "titulo": "PT racha governo e rejeita segunda parte do ajuste fiscal",
-   "resumo": "Pedro Uczai defende redução de privilégios e propõe aumentar impostos sobre grandes fortunas, lucros e dividendos. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/pt-racha-governo-rejeita-segunda-parte-ajuste-fiscal/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/26164228/pedro-uczai-foto-bruno-spada-camara-960x540.jpg",
-   "data": "2026-11-26T16:51:37-03:00"
-  },
-  {
-   "id": "7af2c85f6b5a",
-   "titulo": "Cleitinho responsabiliza Zema por dívida de MG e defende diálogo com Lula",
-   "resumo": "Governador eleito acusa antecessor de não apresentar solução para o endividamento de quase R$ 200 bilhões. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/cleitinho-responsabiliza-zema-divida-mg-defende-dialogo-lula/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/26161750/lula-com-cleitinho-foto-ricardo-stuckert-secom-960x540.jpg",
-   "data": "2026-11-26T16:18:10-03:00"
-  },
-  {
-   "id": "8ed8c58411df",
-   "titulo": "Governo Lula acumula tensões diplomáticas com parceiros comerciais históricos",
-   "resumo": "Conheça os impactos das escolhas na diplomacia de Lula sobre os investimentos em tecnologia e as exportações do agronegócio brasileiro em 2026.",
-   "link": "https://www.gazetadopovo.com.br/republica/governo-lula-acumula-tensoes-diplomaticas-com-parceiros-comerciais-historicos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/26161123/8023888124001-1-960x540.jpg",
-   "data": "2026-11-26T16:11:13-03:00"
-  },
-  {
-   "id": "603fea1f66e1",
-   "titulo": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
-   "resumo": "Clubes de futebol pedem ao ministro Luiz Fux para mediar período de transição das Bets A Liga do Futebol Brasileiro e 17 clubes de futebol acionaram o Supremo Tribunal Federal (STF) para que seja aberta mediação e discutida uma regra de tra…",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "",
-   "data": "2026-11-26T16:09:20-03:00"
-  },
-  {
-   "id": "dd91519c1656",
-   "titulo": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/ykOUL4MmnmehYJjIw6MzyyaLdKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/pjWGOxRged6BOGV4TxiA/captura-de-tela-2026-11-26-154334.png",
-   "data": "2026-11-26T16:08:44-03:00"
-  },
-  {
-   "id": "eb2c544082c5",
-   "titulo": "MST cobra Lula por reforma agrária, reestatização de empresas e mudanças no STF",
-   "resumo": "Movimento apresenta lista de reivindicações ao governo, defende retomada de empresas privatizadas, revisão da taxa Selic e reformas estruturais. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/mst-cobra-lula-reforma-agraria-reestatizacao-empresas-mudancas-stf/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/26160659/mst-foto-joedson-alves-efe-960x540.jpg",
-   "data": "2026-11-26T16:07:15-03:00"
-  },
-  {
    "id": "d8884e21f361",
    "titulo": "Com 40 anos na política, Benedita abriu caminhos para mulheres negras",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/com-40-anos-na-politica-benedita-abriu-caminhos-para-mulheres-negras\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
@@ -436,24 +481,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-26T15:39:00-03:00"
-  },
-  {
-   "id": "71d7e74a6bd4",
-   "titulo": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/bAVuNOhFC5z3WrkmiqMl_PtiRzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/V/8tXRpCRsOy0sdhW1XuJQ/whatsapp-image-2026-09-06-at-10.44.32-1-.jpeg",
-   "data": "2026-11-26T15:12:48-03:00"
-  },
-  {
-   "id": "676b1ee8c0f6",
-   "titulo": "Cadeira 13 do STF bate seu próprio recorde de vacância após 132 anos; veja ranking",
-   "resumo": "Vaga deixada por Luís Roberto Barroso supera 400 dias após rejeição histórica de Jorge Messias. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/cadeira-13-do-stf-bate-seu-proprio-recorde-de-vacancia-apos-132-anos/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/26150750/Design-sem-nome-57-960x540.jpg",
-   "data": "2026-11-26T15:10:01-03:00"
   },
   {
    "id": "b2c1dafe2de9",
@@ -546,15 +573,6 @@
    "data": "2026-11-25T10:33:21-03:00"
   },
   {
-   "id": "95aaa608a991",
-   "titulo": "Deputados pedirão a Motta comissão para fiscalizar reforma tributária",
-   "resumo": "Deputados de duas frentes parlamentares vão pedir a Hugo Motta uma comissão para fiscalizar implementação da reforma tributária",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/deputados-pedirao-a-motta-comissao-para-fiscalizar-reforma-tributaria",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/o-presidente-da-camara-dos-deputados-hugo-motta-durante-sessao-plenaria-na-camara-em-brasilia-metropoles-2-scaled.jpg",
-   "data": "2026-11-25T02:00:43-03:00"
-  },
-  {
    "id": "568f59cea86c",
    "titulo": "Projeto de regulação das big techs será votado na próxima semana",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
@@ -562,24 +580,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-24T20:23:00-03:00"
-  },
-  {
-   "id": "9d50b3fb4d82",
-   "titulo": "A reunião de Lula com Trabuco fora da agenda oficial",
-   "resumo": "Encontro de Lula com Luiz Carlos Trabuco, presidente do Conselho de Administração do Bradesco, ocorreu na segunda-feira (23/11) no Alvorada",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/a-reuniao-de-lula-com-trabuco-fora-da-agenda-oficial",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2026/11/luiz-carlos-trabuco-presidente-do-conselho-de-administracao-do-bradesco-1.jpg",
-   "data": "2026-11-24T20:22:25-03:00"
-  },
-  {
-   "id": "8cf733a4c1eb",
-   "titulo": "Prefeito de Fortaleza defende representante do Ceará no Lula 4",
-   "resumo": "Em entrevista ao Metrópoles, prefeito de Fortaleza também comentou vitória de Ciro Gomes (PSDB) na capital no 1º turno das eleições de 2026",
-   "link": "https://www.metropoles.com/colunas/igor-gadelha/prefeito-de-fortaleza-defende-representante-do-ceara-no-lula-4",
-   "fonte": "Metrópoles",
-   "imagem": "https://images.metroimg.com/2024/10/03164112/Evandro-Leitao.jpg",
-   "data": "2026-11-24T18:10:48-03:00"
   },
   {
    "id": "b8f5f51c3a0c",
@@ -598,24 +598,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-24T15:23:00-03:00"
-  },
-  {
-   "id": "ae8507143ac1",
-   "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-eb…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-24T08:22:00-03:00"
-  },
-  {
-   "id": "d8f8cfefd127",
-   "titulo": "Inmet emite aviso de grande perigo para tempestades na Região Sul",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/inmet-emite-aviso-de-grande-perigo-para-tempestades-na-regiao-sul\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/inmet-emite-aviso-de-grande-perigo-para-tempestades-na-regiao-sul",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-24T08:04:00-03:00"
   }
  ]
 }
