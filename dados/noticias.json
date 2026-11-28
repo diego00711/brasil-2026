@@ -1,27 +1,252 @@
 {
- "atualizado": "2026-11-27T18:08:09.945850-03:00",
- "total": 67,
+ "atualizado": "2026-11-28T00:50:45.672337-03:00",
+ "total": 66,
  "fontes_com_falha": [
   "Revista Oeste"
  ],
  "noticias": [
   {
-   "id": "84f3587ee550",
-   "titulo": "Senacon multa BRB em R$ 14,6 milhões por cobrança irregular de idosos",
-   "resumo": "Órgão aponta falhas na oferta de crédito a correntistas; banco tem 30 dias para pagar ou recorrer",
-   "link": "https://www.poder360.com.br/poder-governo/senacon-multa-brb-em-r-146-milhoes-por-cobranca-irregular-de-idosos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-27T18:06:56-03:00"
+   "id": "40d035e67c59",
+   "titulo": "Lula chama FHC de “morto-vivo” em discurso para idosos no Rio",
+   "resumo": "Lula afirmou que FHC, diagnosticado com Alzheimer em estágio avançado, \"não vive, na verdade é um morto-vivo\".",
+   "link": "https://www.gazetadopovo.com.br/republica/lula-chama-fhc-de-morto-vivo-em-discurso-para-idosos-no-rio/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/06/27195718/lula-rio-1-960x540.jpg",
+   "data": "2026-11-28T00:22:14-03:00"
   },
   {
-   "id": "6a1a1b310b5a",
-   "titulo": "Decoração de Natal de SP é alvo de críticas nas redes; veja fotos",
-   "resumo": "Prefeito Ricardo Nunes (MDB-SP) pediu troca de enfeites no centro depois de peças serem comparadas a papelão",
-   "link": "https://www.poder360.com.br/poder-brasil/decoracao-de-natal-de-sp-e-alvo-de-criticas-nas-redes-veja-fotos/",
+   "id": "37433b49ca1a",
+   "titulo": "Fachin libera R$ 316 milhões da liquidação do Master ao BRB",
+   "resumo": "Decisão autoriza retomada de repasses de carteiras de crédito sem disputa de titularidade; ministro mantém bloqueados valores de operações contestadas",
+   "link": "https://www.poder360.com.br/poder-justica/fachin-libera-r-316-milhoes-do-master-ao-brb/",
    "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/Captura-de-Tela-2026-11-27-as-17.36.36-1.png",
-   "data": "2026-11-27T18:04:06-03:00"
+   "imagem": "",
+   "data": "2026-11-28T00:10:42-03:00"
+  },
+  {
+   "id": "6aec621d6aac",
+   "titulo": "Fios clandestinos terão prazo para ser regularizados; entenda regras aprovadas pelo Congresso sobre compartilhamento de postes",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/28/fios-clandestinos-terao-prazo-para-ser-regularizados-entenda-regras-aprovadas-pelo-congresso-sobre-compartilhamento-de-postes.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/j7swUrRSpeUBeW_XYqRCucM5mwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/v/AtsO7kRxu1h5mAoB2xbQ/vlcsnap-2026-11-05-20h40m25s484.png",
+   "data": "2026-11-28T00:00:00-03:00"
+  },
+  {
+   "id": "f51fee8e291f",
+   "titulo": "Nas escolas, 1 em cada 8 meninos admite ter criado nudes com IA; alunas e professoras são as vítimas",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/28/safernet-estudo-deepfake-escola.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/n41dc1F_VnG_lFn-c6zObtOSZZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/S/UBxsaxStGBjlFB1V3SBQ/20875.jpg",
+   "data": "2026-11-28T00:00:00-03:00"
+  },
+  {
+   "id": "25c99b9e1957",
+   "titulo": "Ministério da Segurança Pública não é inédito no Brasil; veja como era e o que especialistas esperam do novo órgão",
+   "resumo": "",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/28/ministerio-da-seguranca-publica-nao-e-inedito-no-brasil-veja-como-era-e-o-que-especialistas-esperam-do-novo-orgao.ghtml",
+   "fonte": "G1 Política",
+   "imagem": "https://s2-g1.glbimg.com/2r8wPYATq8QM_vGpe7rdTGu9ZW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/2qCcNiTRy62sBYIdzXKQ/pf.jpg",
+   "data": "2026-11-28T00:00:00-03:00"
+  },
+  {
+   "id": "b05c7a830560",
+   "titulo": "Atleta brasileira presa na Rússia pede ajuda em carta enviada a Lula",
+   "resumo": "Letícia Villar Pais foi detida em julho de 2025 ao entrar no país com 6 gramas de haxixe para consumo próprio",
+   "link": "https://www.poder360.com.br/poder-internacional/atleta-brasileira-presa-na-russia-pede-ajuda-em-carta-enviada-a-lula/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T23:25:38-03:00"
+  },
+  {
+   "id": "e3479fa4adf6",
+   "titulo": "Moraes autoriza Braga Netto a deixar prisão para acompanhar nascimento da primeira neta",
+   "resumo": "Ex-ministro de Bolsonaro, general Braga Netto poderá deixar a prisão para acompanhar o nascimento da primeira neta.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-braga-netto-a-deixar-prisao-para-acompanhar-nascimento-da-primeira-neta/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27224218/general-braga-netto-960x540.jpg",
+   "data": "2026-11-27T22:44:09-03:00"
+  },
+  {
+   "id": "94ff6984460f",
+   "titulo": "MP apura uso de praia em show de Shakira em Balneário Camboriú",
+   "resumo": "Ministério Público de SC pediu documentos à prefeitura sobre a ocupação de 50.000 m² da faixa de areia durante o Réveillon",
+   "link": "https://www.poder360.com.br/poder-justica/mp-apura-uso-de-praia-em-show-de-shakira-em-balneario-camboriu/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T22:04:55-03:00"
+  },
+  {
+   "id": "0a091eace419",
+   "titulo": "Moraes autoriza Mauro Cid a mudar para o Rio de Janeiro",
+   "resumo": "Moraes acolheu parecer favorável da PGR e permitiu a transferência de Mauro Cid de Brasília para Niterói, no Rio de Janeiro.",
+   "link": "https://www.gazetadopovo.com.br/republica/moraes-autoriza-mauro-cid-a-mudar-para-o-rio-de-janeiro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27215941/mauro-cid-2-960x540.jpg",
+   "data": "2026-11-27T22:03:20-03:00"
+  },
+  {
+   "id": "41c1439e4ef8",
+   "titulo": "Prefeitura de SP transfere R$ 100 milhões de ônibus e ciclovias para pontes e vias",
+   "resumo": "O prefeito de São Paulo, Ricardo Nunes (MDB), assinou um decreto que desloca R$ 100 milhões do Orçamento municipal de projetos de transporte coletivo e ciclovias para obras de infraestrutura viária, como a recuperação de pontes e viadutos. …",
+   "link": "https://oantagonista.com.br/brasil/prefeitura-de-sp-transfere-r-100-milhoes-de-onibus-e-ciclovias-para-pontes-e-via/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/08/Ricardo-Nunes-scaled.jpg",
+   "data": "2026-11-27T22:01:04-03:00"
+  },
+  {
+   "id": "87ce3ff7eefb",
+   "titulo": "Dólar despenca após confirmação de Trabuco na Fazenda",
+   "resumo": "Recuo do dólar foi impulsionado pela confirmação de Luiz Carlos Trabuco no comando do Ministério da Fazenda a partir de 2027.",
+   "link": "https://www.gazetadopovo.com.br/economia/dolar-despenca-apos-confirmacao-de-trabuco-na-fazenda-ibovespa-tem-leve-alta/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/16162945/dolar-real-dinheiro-960x540.jpg",
+   "data": "2026-11-27T21:44:35-03:00"
+  },
+  {
+   "id": "1d6f53dc4cb3",
+   "titulo": "Técnico de enfermagem é preso após três mortes em UTI de Araraquara",
+   "resumo": "A Justiça de São Paulo decretou nesta sexta-feira, 27, a prisão preventiva do técnico de enfermagem Flávio Gilberto Antônio da Silva Simão, de 43 anos. Ele é investigado por envolvimento na morte de três pacientes da UTI da Santa Casa de Mi…",
+   "link": "https://oantagonista.com.br/brasil/tecnico-de-enfermagem-e-preso-apos-tres-mortes-em-uti-de-araraquar/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/Opera-Instantaneo_2026-11-27_213130_www.estadao.com_.br-1.png",
+   "data": "2026-11-27T21:32:53-03:00"
+  },
+  {
+   "id": "c60cb3f9ff20",
+   "titulo": "Fachin libera R$ 316 milhões do Master ao BRB, mas mantém bloqueio de outros valores",
+   "resumo": "Decisão atende parcialmente ao pleito do BRB; valores com disputa de titularidade seguem bloqueados. Leia na Gazeta do Povo.",
+   "link": "https://www.gazetadopovo.com.br/economia/fachin-libera-r-316-milhoes-do-master-ao-brb/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27212601/fachin-1-960x540.jpg",
+   "data": "2026-11-27T21:32:31-03:00"
+  },
+  {
+   "id": "0670a1bf71c3",
+   "titulo": "Saiba o que se sabe sobre a nova variante da covid-19 no Brasil",
+   "resumo": "Linhagem PJ.2.1 foi identificada em 5 Estados e no DF e pode estar relacionada à alta de casos no país",
+   "link": "https://www.poder360.com.br/poder-saude/saiba-o-que-se-sabe-sobre-a-nova-variante-da-covid-19-no-brasil/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T21:20:11-03:00"
+  },
+  {
+   "id": "66a689de99ab",
+   "titulo": "PGR é contra obrigar União a aprovar empréstimo ao BRB",
+   "resumo": "GDF acionou STF para desbloquear crédito ao BRB após bancos não formarem grupo fiador",
+   "link": "https://www.poder360.com.br/poder-justica/pgr-e-contra-obrigar-uniao-a-aprovar-emprestimo-ao-brb/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T21:02:56-03:00"
+  },
+  {
+   "id": "7da98905b014",
+   "titulo": "Fachin autoriza devolução de R$ 316,4 milhões do Master ao BRB",
+   "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, autorizou a devolução de R$ 316,4 milhões do Banco Master ao Banco de Brasília (BRB). Em decisão proferida nesta sexta-feira, 27, o magistrado também determinou a retoma…",
+   "link": "https://oantagonista.com.br/brasil/fachin-autoriza-devolucao-de-r-3164-milhoes-do-master-ao-brb/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/0d4a8940-scaled.jpg",
+   "data": "2026-11-27T20:56:31-03:00"
+  },
+  {
+   "id": "8ac63aae4857",
+   "titulo": "Ferramenta gratuita reúne mudanças para MEIs",
+   "resumo": "Plataforma apresenta 11 medidas sobre faturamento, impostos e dívidas; consulta orienta cada tipo de negócio",
+   "link": "https://www.poder360.com.br/poder-empreendedor/ferramenta-gratuita-reune-mudancas-para-meis/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T20:15:31-03:00"
+  },
+  {
+   "id": "fbe1bb4b01ca",
+   "titulo": "Indústria farmacêutica defende limitar importação direta de medicamentos",
+   "resumo": "Interfarma quer que compra de remédio no exterior por paciente seja válida só em casos excepcionais; Anvisa revisa regras em consulta pública",
+   "link": "https://www.poder360.com.br/poder-saude/industria-farmaceutica-defende-limitar-importacao-direta-de-medicamentos/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T20:14:32-03:00"
+  },
+  {
+   "id": "51c358765957",
+   "titulo": "Zucco anuncia Daniella Marques e Adolfo Sachsida em conselho econômico",
+   "resumo": "O governador eleito do Rio Grande do Sul, Luciano Zucco (PL), escolheu a ex-presidente da Caixa Econômica Federal Daniella Marques (foto) e o ex-ministro de Minas e Energia Adolfo Sachsida para integrar o Conselho de Desenvolvimento Econômi…",
+   "link": "https://oantagonista.com.br/brasil/zucco-anuncia-daniella-marques-e-adolfo-sachsida-em-conselho-economico/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Daniella-Marques.jpg",
+   "data": "2026-11-27T20:04:58-03:00"
+  },
+  {
+   "id": "1df0b31a93ec",
+   "titulo": "Centrais sindicais divergem sobre indicação de executivo para a Fazenda",
+   "resumo": "A escolha de Luiz Carlos Trabuco para a Fazenda dividiu sindicatos. CUT e CTB recusam apoio, enquanto outras centrais defendem diálogo e juros baixos.",
+   "link": "https://www.gazetadopovo.com.br/republica/centrais-sindicais-divergem-sobre-indicacao-de-executivo-para-a-fazenda/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27195256/5RE55AQHEJEO7LN5LC2U6NHEC4-1-1-2-960x540.jpg",
+   "data": "2026-11-27T19:52:49-03:00"
+  },
+  {
+   "id": "f875deb629db",
+   "titulo": "Conta de luz terá bandeira verde pelo 3º mês seguido em dezembro",
+   "resumo": "Aneel mantém tarifa sem cobrança adicional em novembro; decisão indica condições hidrológicas favoráveis à geração de energia",
+   "link": "https://www.poder360.com.br/poder-energia/conta-de-luz-tera-bandeira-verde-pelo-3o-mes-seguido-em-dezembro/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/2026/03/image14-23.png",
+   "data": "2026-11-27T19:48:15-03:00"
+  },
+  {
+   "id": "4d04ccd938ad",
+   "titulo": "Quase 400.000 menores viviam em união conjugal no Brasil em 2022",
+   "resumo": "Estudo do UNFPA com dados do Censo 2022 identifica 387.300 menores em união conjugal; 92,3% são informais",
+   "link": "https://www.poder360.com.br/poder-brasil/quase-400-000-menores-viviam-em-uniao-conjugal-no-brasil-em-2022/",
+   "fonte": "Poder360",
+   "imagem": "",
+   "data": "2026-11-27T19:45:22-03:00"
+  },
+  {
+   "id": "7c58acab5a84",
+   "titulo": "“Lamentável como Lula se referiu a FHC”, diz Aécio",
+   "resumo": "O presidente nacional do PSDB, Aécio Neves, repudiou nesta sexta-feira, 27, a declaração do presidente Lula (PT) de que o ex-presidente Fernando Henrique Cardoso, o FHC, “é um morto-vivo”. Em agenda no Rio de Janeiro, o petista disse ter vi…",
+   "link": "https://oantagonista.com.br/brasil/lamentavel-como-lula-se-referiu-a-fhc-diz-aecio/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/55308397384_30da567e08_k.jpg",
+   "data": "2026-11-27T19:41:12-03:00"
+  },
+  {
+   "id": "24d87066fa42",
+   "titulo": "PSDB e Fundação FHC criticam Lula por chamar ex-presidente de “morto-vivo”",
+   "resumo": "Presidente do partido classifica declaração como “lamentável” e diz que idosos em condições semelhantes merecem respeito",
+   "link": "https://www.poder360.com.br/poder-partidos-politicos/psdb-e-fundacao-fhc-criticam-lula-por-chamar-ex-presidente-de-morto-vivo/",
+   "fonte": "Poder360",
+   "imagem": "https://static.poder360.com.br/uploads/2026/11/postagem-psdb.jpg",
+   "data": "2026-11-27T19:39:39-03:00"
+  },
+  {
+   "id": "052fb46557ad",
+   "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro",
+   "resumo": "Dino bloqueou emendas de Flávio ao Orçamento de 2027 e destacou que o mandato parlamentar não comporta \"teletrabalho integral transnacional\".",
+   "link": "https://www.gazetadopovo.com.br/republica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/",
+   "fonte": "Gazeta do Povo",
+   "imagem": "https://media.gazetadopovo.com.br/2026/11/27163059/dino-stf-960x540.jpg",
+   "data": "2026-11-27T18:58:34-03:00"
+  },
+  {
+   "id": "2de6e35641b2",
+   "titulo": "Moraes autoriza Mauro Cid a cumprir restante da pena em Niterói",
+   "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorizou o tenente-coronel Mauro Cid, ex-ajudante de ordens do ex-presidente Jair Bolsonaro (PL), a cumprir o restante de sua pena em Niterói, no Rio de Janeiro. Cid poderá…",
+   "link": "https://oantagonista.com.br/brasil/moraes-autoriza-mauro-cid-a-cumprir-restante-da-pena-em-niteroi/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2025/06/e1b0b8ef-bcf6-475f-9f2e-7dae486950d9.jpg",
+   "data": "2026-11-27T18:47:57-03:00"
+  },
+  {
+   "id": "cc362655c606",
+   "titulo": "Tarcísio nega ‘traição à direita’ em reunião de Cleitinho com Lula",
+   "resumo": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), defendeu a reunião entre o governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), e o presidente Lula (PT). O encontro foi alvo de críticas por parte da direita. T…",
+   "link": "https://oantagonista.com.br/brasil/tarcisio-nega-traicao-a-direita-em-reuniao-de-cleitinho-com-lula/",
+   "fonte": "O Antagonista",
+   "imagem": "https://cdn.oantagonista.com/uploads/2026/08/55384082477_b8177c766a_k.jpg",
+   "data": "2026-11-27T18:16:36-03:00"
   },
   {
    "id": "ef75620ce86f",
@@ -31,33 +256,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/10/55561586788_604f3a58d7_6k-scaled-e1791036955110.jpg",
    "data": "2026-11-27T17:54:38-03:00"
-  },
-  {
-   "id": "6a3d96e0cb74",
-   "titulo": "Multiplan reabre Espaço Mulher no NewYorkCityCenter, na Tijuca",
-   "resumo": "Pioneiro em shopping centers, local conta com atendimento gratuito e retoma atendimento em 7 de dezembro",
-   "link": "https://www.poder360.com.br/poder-brasil/multiplan-reabre-espaco-mulher-no-newyorkcitycenter-na-tijuca/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-27T17:47:10-03:00"
-  },
-  {
-   "id": "87ce3ff7eefb",
-   "titulo": "Dólar despenca após confirmação de Trabuco na Fazenda",
-   "resumo": "Recuo do dólar foi impulsionado pela confirmação de Luiz Carlos Trabuco no comando do Ministério da Fazenda a partir de 2027.",
-   "link": "https://www.gazetadopovo.com.br/economia/dolar-despenca-apos-confirmacao-de-trabuco-na-fazenda-ibovespa-tem-leve-alta/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/16162945/dolar-real-dinheiro-960x540.jpg",
-   "data": "2026-11-27T17:42:29-03:00"
-  },
-  {
-   "id": "d77c233d3a78",
-   "titulo": "Trump declara apoio ao Iraque no combate ao contrabando de petróleo",
-   "resumo": "Premiê Ali al-Zaidi também foi elogiado por ampliar o controle estatal sobre armas e combater a corrupção",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-declara-apoio-ao-iraque-no-combate-ao-contrabando-de-petroleo/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/TruthSocial-DonaldTrump-27.nov_.png",
-   "data": "2026-11-27T17:42:19-03:00"
   },
   {
    "id": "b76c277ffd8b",
@@ -87,15 +285,6 @@
    "data": "2026-11-27T17:27:35-03:00"
   },
   {
-   "id": "6abe8d62308f",
-   "titulo": "Pretos, pardos e indígenas são maioria nas federais",
-   "resumo": "Grupo soma 658,9 mil estudantes e representa 50,1% das matrículas nas universidades federais",
-   "link": "https://www.poder360.com.br/poder-educacao/pretos-pardos-e-indigenas-sao-maioria-nas-federais/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/pretos-pardos-indigenas-maioria-27-nov-2026-1.png",
-   "data": "2026-11-27T17:27:15-03:00"
-  },
-  {
    "id": "0c5e65ed562b",
    "titulo": "Crusoé: Lula estuda superministério para concentrar poder digital",
    "resumo": "O governo do presidente Lula estuda criar um ministério para concentrar as políticas de tecnologia e governo digital atualmente distribuídas entre diferentes áreas do Executivo. A proposta prevê reunir atribuições de cinco ministérios e sec…",
@@ -103,33 +292,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55636749854_2555d6da4c_4k-scaled.jpg",
    "data": "2026-11-27T17:23:17-03:00"
-  },
-  {
-   "id": "54687a3d737e",
-   "titulo": "Lula chama FHC de “morto-vivo” durante evento em hospital no Rio",
-   "resumo": "Petista fez menção ao estado de saúde do ex-presidente, diagnosticado com Alzheimer em estágio avançado",
-   "link": "https://www.poder360.com.br/poder-governo/lula-chama-fhc-de-morto-vivo-durante-evento-em-hospital-no-rio/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/Zm3nr41RjSw/hqdefault.jpg",
-   "data": "2026-11-27T17:22:12-03:00"
-  },
-  {
-   "id": "0ccaba9281a3",
-   "titulo": "Nexus: maioria apoia fim das bets e da 6 x 1 e maior controle de gastos",
-   "resumo": "Pesquisa mostra que 74% defendem proibir as apostas online, 64% apoiam a redução da jornada e 71% aceitam cortes em programas sociais para equilibrar as contas públicas",
-   "link": "https://www.poder360.com.br/poder-governo/nexus-maioria-apoia-fim-das-bets-e-da-6-x-1-e-maior-controle-de-gastos/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-27T17:13:49-03:00"
-  },
-  {
-   "id": "052fb46557ad",
-   "titulo": "Dino suspende R$ 79,3 milhões em emendas de Flávio Bolsonaro",
-   "resumo": "Dino bloqueou emendas de Flávio ao Orçamento de 2027 e destacou que o mandato parlamentar não comporta \"teletrabalho integral transnacional\".",
-   "link": "https://www.gazetadopovo.com.br/republica/dino-suspende-r-793-milhoes-em-emendas-de-flavio-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27163059/dino-stf-960x540.jpg",
-   "data": "2026-11-27T17:12:50-03:00"
   },
   {
    "id": "73ee68726c87",
@@ -141,24 +303,6 @@
    "data": "2026-11-27T17:12:24-03:00"
   },
   {
-   "id": "a655223c5927",
-   "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-BRB",
-   "resumo": "Presidente do Supremo considerou que o ex-presidente do Banco de Brasília não atende aos requisitos para migrar para domiciliar",
-   "link": "https://www.poder360.com.br/poder-justica/fachin-mantem-prisao-de-paulo-henrique-costa-ex-brb/",
-   "fonte": "Poder360",
-   "imagem": "",
-   "data": "2026-11-27T17:12:13-03:00"
-  },
-  {
-   "id": "8de54bcb27f9",
-   "titulo": "Dólar fecha em queda de 4%, a R$ 5,515, após anúncio de Trabuco",
-   "resumo": "A expectativa dos investidores é que a política fiscal do governo se torne mais crível com o novo ministro da Fazenda",
-   "link": "https://www.poder360.com.br/poder-economia/dolar-fecha-em-queda-de-4-aos-r-5515-apos-anuncio-de-trabuco/",
-   "fonte": "Poder360",
-   "imagem": "https://static.poder360.com.br/uploads/2026/11/valor-dolar-trajetoria-diaria-27-nov-2026-scaled.png",
-   "data": "2026-11-27T17:12:05-03:00"
-  },
-  {
    "id": "6bf0e7883d02",
    "titulo": "“FHC é um morto-vivo”, diz Lula",
    "resumo": "O presidente Lula (PT) afirmou nesta sexta-feira, 27, que o ex-presidente Fernando Henrique Cardoso, o FHC, “é um morto-vivo”. Em agenda no Rio de Janeiro, o petista disse ter visitado recentemente o tucano, que enfrenta doença de Alzheimer…",
@@ -166,15 +310,6 @@
    "fonte": "O Antagonista",
    "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55662691900_6d251d2f06_6k-scaled.jpg",
    "data": "2026-11-27T17:11:19-03:00"
-  },
-  {
-   "id": "2cc444b0ed1f",
-   "titulo": "Trump diz que CEO da Nvidia fará “trabalho melhor” após retorno",
-   "resumo": "Presidente dos EUA elogiou Jensen Huang e afirmou que volta do executivo ao comando da empresa é positiva",
-   "link": "https://www.poder360.com.br/poder-internacional/trump-diz-que-ceo-da-nvidia-fara-trabalho-melhor-apos-retorno/",
-   "fonte": "Poder360",
-   "imagem": "https://i.ytimg.com/vi/1e2jythM5Cg/hqdefault.jpg",
-   "data": "2026-11-27T17:09:38-03:00"
   },
   {
    "id": "456bfd1edab4",
@@ -204,15 +339,6 @@
    "data": "2026-11-27T16:54:28-03:00"
   },
   {
-   "id": "3e3cd42ae4f4",
-   "titulo": "Bolsonaro tem melhora nos exames e volta a se alimentar",
-   "resumo": "O ex-presidente Jair Bolsonaro apresentou melhora clínica e laboratorial, segundo boletim médico divulgado nesta sexta-feira, 27. Internado na Unidade de Terapia Intensiva (UTI) do hospital DF Star, em Brasília, ele trata um quadro de suboc…",
-   "link": "https://oantagonista.com.br/brasil/bolsonaro-tem-melhora-nos-exames-e-volta-a-se-alimentar/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/03/51307704278_6246aaf6e8_k.jpg",
-   "data": "2026-11-27T16:51:17-03:00"
-  },
-  {
    "id": "fee9fdb37373",
    "titulo": "Lula quer espaço de lazer e atenção para idosos",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-espaco-de-lazer-e-atencao-para-idosos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/im…",
@@ -231,15 +357,6 @@
    "data": "2026-11-27T16:48:02-03:00"
   },
   {
-   "id": "fba9b6ab4fd1",
-   "titulo": "Crusoé: As ideias de Trabuco, segundo ele próprio",
-   "resumo": "Escolhido para comandar o Ministério da Fazenda por Lula, o banqueiro Luiz Carlos Trabuco publicava uma coluna no jornal Estadão. Segue um compilado de suas frases publicadas em seus artigos, que mostram o que deve vir nos próximos meses e …",
-   "link": "https://oantagonista.com.br/brasil/crusoe-as-ideias-de-trabuco-segundo-ele-proprio/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/40808195641_7879ef0f49_k.jpg",
-   "data": "2026-11-27T16:28:19-03:00"
-  },
-  {
    "id": "72a387619195",
    "titulo": "Dino suspende tramitação de emendas de Flávio Bolsonaro para 2027 e pede ao Senado explicações sobre atuação do senador",
    "resumo": "",
@@ -247,15 +364,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/nTaQkZ8O7uT6kouojAhx3qvMNu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/HTDAGVRT2yY42WYepLcw/55663116704-ad8050d746-k.jpg",
    "data": "2026-11-27T16:27:37-03:00"
-  },
-  {
-   "id": "737ead16e068",
-   "titulo": "Lula diz que governo não pode “gastar dinheiro à toa”",
-   "resumo": "O presidente Lula (PT) afirmou nesta sexta-feira, 27, durante visita a estudantes da Universidade Federal Fluminense (UFF), no Rio, que o governo federal não pode “gastar dinheiro à toa”. Durante o discurso, o petista prometeu não cortar be…",
-   "link": "https://oantagonista.com.br/brasil/lula-diz-que-governo-nao-pode-gastar-dinheiro-a-toa/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/55676822801_c0e07a2903_5k-scaled.jpg",
-   "data": "2026-11-27T16:22:02-03:00"
   },
   {
    "id": "e2cd05933455",
@@ -294,33 +402,6 @@
    "data": "2026-11-27T15:50:34-03:00"
   },
   {
-   "id": "1bfd5fcc0b19",
-   "titulo": "Tereza Cristina gera desconfiança no PL após reunião com Davi Alcolumbre",
-   "resumo": "Reunião de Tereza Cristina com Davi Alcolumbre gera alerta no PL sobre a unidade da oposição para a eleição da presidência do Senado em 2027.",
-   "link": "https://www.gazetadopovo.com.br/republica/tereza-cristina-gera-desconfianca-no-pl-apos-reuniao-com-davi-alcolumbre/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27151636/Rogerio-Marinho-e-Tereza-Cristina-2-960x540.jpg",
-   "data": "2026-11-27T15:16:31-03:00"
-  },
-  {
-   "id": "cdcc0c77ecbb",
-   "titulo": "Carlos Bolsonaro critica Lula após restrições à carne brasileira",
-   "resumo": "O vereador Carlos Bolsonaro (PL-SC), senador eleito, criticou o presidente Lula (PT) após a imposição de restrições comerciais à carne brasileira pela China e pela União Europeia. Em publicação no X, nesta sexta-feira, 27, Carlos associou a…",
-   "link": "https://oantagonista.com.br/brasil/carlos-bolsonaro-critica-lula-apos-restricoes-a-carne-brasileira/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/10/Carlos-Bolsonaro.png",
-   "data": "2026-11-27T15:12:13-03:00"
-  },
-  {
-   "id": "8e1fa7ee2130",
-   "titulo": "Ex-funcionário dos EUA que denunciou interferência em 2022 no Brasil estaria por trás dos Usaid Files",
-   "resumo": "Influencer conservador que foi funcionário do Departamento de Estado americano estaria por trás dos chamados Usaid Files, segundo reportagem",
-   "link": "https://www.gazetadopovo.com.br/mundo/ex-funcionario-eua-denunciou-interferencia-2022-brasil-estaria-tras-usaid-files/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27150853/usaid.benz_-960x540.jpg",
-   "data": "2026-11-27T15:09:59-03:00"
-  },
-  {
    "id": "d3fce370a9cc",
    "titulo": "Meirelles defende que Trabuco anuncie medidas de ajuste fiscal logo no início da gestão",
    "resumo": "",
@@ -328,33 +409,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/LclzLz5Sai2Q2dsOQeqxSXYmb4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/g4doPyQBGNcB0HFnvG9w/55658423199-5342f3f888-b.jpg",
    "data": "2026-11-27T14:55:56-03:00"
-  },
-  {
-   "id": "1b2325ba5b6a",
-   "titulo": "Lula admite necessidade de ajuste e defende cautela em gastos com saúde e educação",
-   "resumo": "Presidente diz que governo precisa controlar despesas para fazer a economia crescer, mas descarta cortes em benefícios sociais. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/lula-necessidade-ajuste-defende-cautela-gastos-saude-educacao/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27144509/lula-foto-reproducao-youtube-canal-gov-28-960x540.jpg",
-   "data": "2026-11-27T14:45:24-03:00"
-  },
-  {
-   "id": "718e25b5c126",
-   "titulo": "Lula escolhe Camilo Santana para Casa Civil",
-   "resumo": "O presidente Lula escolheu o senador Camilo Santana (PT) para ser o seu próximo ministro da Casa Civil. O Antagonista apurou que o parlamentar conversou com o presidente nesta sexta-feira, 27, sobre o assunto e a tendência é que o nome seja…",
-   "link": "https://oantagonista.com.br/brasil/lula-escolhe-camilo-santana-para-casa-civil/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/06/raf09402-471x353-1.jpg",
-   "data": "2026-11-27T14:45:01-03:00"
-  },
-  {
-   "id": "11eb0c9ecde5",
-   "titulo": "Fachin estende prazo de investigação sobre patrocínio de filme de Bolsonaro",
-   "resumo": "Ministro Edson Fachin prorroga investigação sobre o filme Dark Horse. PF apura irregularidades no patrocínio de R$ 134 milhões à cinebiografia de Bolsonaro.",
-   "link": "https://www.gazetadopovo.com.br/republica/fachin-estende-prazo-de-investigacao-sobre-patrocinio-de-filme-de-bolsonaro/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27144234/Design-sem-nome-63-1-960x540.jpg",
-   "data": "2026-11-27T14:42:29-03:00"
   },
   {
    "id": "0f6509e47ff4",
@@ -366,24 +420,6 @@
    "data": "2026-11-27T14:30:48-03:00"
   },
   {
-   "id": "923cb781a2ba",
-   "titulo": "Escolha de Trabuco acena à responsabilidade fiscal, diz presidente do Republicanos",
-   "resumo": "O presidente nacional do Republicanos, deputado federal Marcos Pereira (SP), afirmou nesta sexta-feira, 27, que a escolha do banqueiro Luiz Carlos Trabuco pelo presidente Lula (PT) para comandar o Ministério da Fazenda acena à responsabilid…",
-   "link": "https://oantagonista.com.br/brasil/escolha-de-trabuco-acena-a-responsabilidade-fiscal-diz-presidente-do-republicanos/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/05/img20250825161613418.jpg",
-   "data": "2026-11-27T14:30:05-03:00"
-  },
-  {
-   "id": "d355c5a2d62b",
-   "titulo": "“Lula errou ao escolher Trabuco para a Fazenda”, diz líder do Psol",
-   "resumo": "O líder da federação Psol-Rede Sustentabilidade na Câmara dos Deputados, Tarcísio Motta (Psol-RJ), criticou nesta sexta-feira, 27, a escolha do presidente Lula (PT) pelo banqueiro Luiz Carlos Trabuco para comandar o Ministério da Fazenda. N…",
-   "link": "https://oantagonista.com.br/brasil/lula-errou-ao-escolher-trabuco-para-a-fazenda-diz-lider-do-psol/",
-   "fonte": "O Antagonista",
-   "imagem": "https://cdn.oantagonista.com/uploads/2026/11/tarcisio-motta-3-1.jpg",
-   "data": "2026-11-27T14:28:15-03:00"
-  },
-  {
    "id": "dc3b6707d05b",
    "titulo": "Lula garante benefícios em novo governo, mas defende revisão",
    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-beneficios-em-novo-governo-mas-defende-revisao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/a…",
@@ -391,15 +427,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-27T14:01:00-03:00"
-  },
-  {
-   "id": "869de88f0dc5",
-   "titulo": "Vice-presidente do TCU visitará Bolsonaro no hospital",
-   "resumo": "Visita foi autorizada por Moraes enquanto ex-presidente se recupera de obstrução intestinal e pneumonia. Leia na Gazeta do Povo.",
-   "link": "https://www.gazetadopovo.com.br/republica/vice-presidente-do-tcu-visitara-bolsonaro-no-hospital/",
-   "fonte": "Gazeta do Povo",
-   "imagem": "https://media.gazetadopovo.com.br/2026/11/27135937/Ministro-lidera-lista-de-beneficiarios-de-viagens-autorizadas-pelo-ministro-da-Defesa.-1-960x540.jpg",
-   "data": "2026-11-27T14:00:40-03:00"
   },
   {
    "id": "2264e8124abd",
@@ -436,33 +463,6 @@
    "fonte": "G1 Política",
    "imagem": "https://s2-g1.glbimg.com/iwVCnYTNhumClWKWyuCg4C7_db4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/R/UBBHQoQmWilroNBKKKqw/55178641445-9ecac2b82a-k.jpg",
    "data": "2026-11-27T13:01:23-03:00"
-  },
-  {
-   "id": "8cf584ad27b0",
-   "titulo": "Jogadora brasileira presa na Rússia mandou carta a Lula: 'Muitas coisas cruéis juntas'; leia a íntegra",
-   "resumo": "",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/z00KsgR8VljEPKCMG8wqfw2ZlGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/42oGsXR7Kql7PX9gsPAQ/fotojet-2026-11-27t123642.877.jpg",
-   "data": "2026-11-27T12:38:03-03:00"
-  },
-  {
-   "id": "4763ea73d052",
-   "titulo": "Lula defende ajuste fiscal e diz que para 'país crescer, não se pode gastar dinheiro à toa'",
-   "resumo": "",
-   "link": "https://g1.globo.com/politica/noticia/2026/11/27/lula-defende-ajuste-fiscal-e-diz-que-para-pais-crescer-nao-se-pode-gastar-dinheiro-a-toa.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/AfhIw1hoOeBzEldzGssE9BEI7Ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/x/lwYgxJS9OcsAWUnX0ymQ/54075991548-7feeea8a25-k.jpg",
-   "data": "2026-11-27T12:30:47-03:00"
-  },
-  {
-   "id": "893d2349560d",
-   "titulo": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
-   "resumo": "",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
-   "fonte": "G1 Política",
-   "imagem": "https://s2-g1.glbimg.com/WNw3fsBIsAGPyw8Gz7p0mkWj1Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/XTJzMzTcO1tSyCwqigHw/montagem-horizontal-1280x720px-4-.jpg",
-   "data": "2026-11-27T11:48:59-03:00"
   },
   {
    "id": "fd8a9d3bcefb",
@@ -598,15 +598,6 @@
    "fonte": "Agência Brasil",
    "imagem": "",
    "data": "2026-11-25T10:39:00-03:00"
-  },
-  {
-   "id": "568f59cea86c",
-   "titulo": "Projeto de regulação das big techs será votado na próxima semana",
-   "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.…",
-   "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana",
-   "fonte": "Agência Brasil",
-   "imagem": "",
-   "data": "2026-11-24T20:23:00-03:00"
   }
  ]
 }
